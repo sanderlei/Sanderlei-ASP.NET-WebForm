@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteAR.master.cs" Inherits="Sanderlei.SiteAR" %>
+
+
+<!DOCTYPE html>
+<html lang="pt">
+<head runat="server">
+    <title><%: Page.Title %> - Sanderlei Silveira</title>   
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=devide-width, initial-scale=1">
+    <!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<!-- Latest compiled JavaScript -->
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+     <!-- Menu Principal --> 
+      <div class="container navbar navbar-inverse panel-heading">
+
+           <div class="container-fluid" style="float:right">
+                 <div class='col-xs-1'><a href='/PT/Index'><img src='/images/br.png' alt='Português' ></a></div>
+                 <div class='col-xs-1'><a href='/EN/Index'><img src='/images/en.png' alt='English' ></a></div>
+                 <div class='col-xs-1'><a href='/ES/Index'><img src='/images/es.png' alt='Español' ></a></div>
+                 <div class='col-xs-1'><a href='/IT/Index'><img src='/images/it.png' alt='Italiano' ></a></div>
+                 <div class='col-xs-1'><a href='/FR/Index'><img src='/images/fr.png' alt='Français' ></a></div>
+                 <div class='col-xs-1'><a href='/DE/Index'><img src='/images/de.png' alt='Deutsch' ></a></div>
+                 <div class='col-xs-1'><a href='/CN/Index'><img src='/images/cn.png' alt='中文' ></a></div>
+                 <div class='col-xs-1'><a href='/JP/Index'><img src='/images/jp.png' alt='日本語' ></a></div>
+                 <div class='col-xs-1'><a href='/AR/Index'><img src='/images/ar.png' alt='العربية' ></a></div>
+                 <div class='col-xs-1'><a href='/RU/Index'><img src='/images/ru.png' alt='Русский' ></a></div>                
+          </div>
+
+        <div class='container'>             
+        <div class='row' style="min-height:130px">        
+            <div class='hidden-xs col-sm-2' style="float:left; background:url(/images/logo.png) no-repeat; height:130px; min-width:130px;" ></div>
+            <div class='col-xs-12 col-sm-6' style="float:left"><h1 class="page-header" style="color:#FFFFFF">Sanderlei Silveira</h1></div>           
+        </div>
+        </div>
+        <div class='navbar navbar-inverse navbar-static-top' >
+        	<div class='container'>  
+	           <div class='navbar-header'>
+            		<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>                                    
+                          <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
+               </div>
+    	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>
+                    <li><a href='/AR/Index' >استهلال</a></li>
+                   <!--
+                     <li><a href='/PT/Historia/Index.aspx' >História</a></li>
+                   -->
+               </ul>                  
+        	</div>           
+        </div>           
+          <asp:ContentPlaceHolder ID="ContentPlaceHolderMenu" runat="server"></asp:ContentPlaceHolder>
+      </div>  
+        
+          <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+    
+</body>
+</html>
