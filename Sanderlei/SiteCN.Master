@@ -2,7 +2,7 @@
 
 
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="zh">
 <head runat="server">
     <title><%: Page.Title %> - Sanderlei Silveira</title>   
 	<meta charset="utf-8" />

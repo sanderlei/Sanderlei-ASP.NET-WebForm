@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/SiteEN.Master" AutoEventWireup="true" CodeBehind="SiteENHistory.master.cs" Inherits="Sanderlei.EN.SiteENHistory" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder11" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenu" runat="server">
+
+    <!-- Menu Principal - INICIO --> 
+        <div class='navbar navbar-inverse navbar-static-top' >
+        	<div class='container'>  
+	           <div class='navbar-header'>
+            		<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>                                    
+                          <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
+               </div>
+    	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                    
+               		<li><a href='EN-01' data-target='#' data-toggle='dropdown'>History <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-01'>01. Universe Chronology</a></li>
+   		        	    <li><a href='EN-02'>02. Earth Chronology</a></li>
+                		<li><a href='EN-03'>03. Prehistory</a></li></ul></li>	        	        
+                    <li><a href='EN-04' data-target='#' data-toggle='dropdown'>Ancient History<span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-04'>04. Ancient History</a></li>
+   		        	    <li><a href='EN-05'>05. Religion - Ancient History</a></li>
+   		        	    <li><a href='EN-06'>06. Mesopotamia</a></li>
+   		        	    <li><a href='EN-07'>07. Ancient Egypt</a></li>
+   		        	    <li><a href='EN-08'>08. Hebrews - Judaism</a></li>
+   		        	    <li><a href='EN-09'>09. Ancient Greece</a></li>
+   		        	    <li><a href='EN-10'>10. Greek Mythology</a></li>
+   		        	    <li><a href='EN-11'>11. Greek Philosophy</a></li>
+                        <li><a href='EN-12'>12. Roman Civilizatio</a></li></ul></li>    
+                  <li><a href='EN-13' data-target='#' data-toggle='dropdown'>Middle Age <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-13'>13. Middle Age</a></li>   		        	
+                        <li><a href='EN-14'>14. Byzantine Empire</a></li>   		        	
+                        <li><a href='EN-15'>15. Islamic Civilization</a></li>   		        	
+                        <li><a href='EN-16'>16. Kingdom of the Franks</a></li>   		        	
+                        <li><a href='EN-17'>17. Feudalism</a></li>   		        	
+                        <li><a href='EN-18'>18. Creation of European States</a></li>   		        	
+                        <li><a href='EN-19'>19. The Crusades</a></li>   		        	
+                        <li><a href='EN-20'>20. Black Death</a></li>   		        	
+                        <li><a href='EN-21'>21. Medieval Philosophy</a></li>   		        	
+						<li><a href='EN-22'>22. Age of Discovery</a></li></ul></li>           
+                 <li><a href='EN-23' data-target='#' data-toggle='dropdown'>Modern Age<span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-23'>23. Modern Age</a></li>   		        	
+                        <li><a href='EN-24'>24. Renaissance </a></li>   		        	
+                        <li><a href='EN-25'>25. Protestant Reformation</a></li>   		        	
+                        <li><a href='EN-26'>26. European Absolutism</a></li>   		        	
+                        <li><a href='EN-27'>27. Colonization of Brazil</a></li>   		        	
+                        <li><a href='EN-28'>28. Independence of the United States</a></li>   		        	
+                        <li><a href='EN-29'>29. French Revolution</a></li></ul></li>           
+                 <li><a href='EN-30' data-target='#' data-toggle='dropdown'>Contemporary Age <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-30'>30. Contemporary Age</a></li>   		        	
+                        <li><a href='EN-31'>31. Industrial Revolution</a></li>   		        	
+                        <li><a href='EN-32'>32. Napoleonic Wars</a></li>   		        	
+                        <li><a href='EN-33'>33. Luso-Brazilian Kingdom</a></li>   		        	
+                        <li><a href='EN-34'>34. Independence of Spanish America</a></li>   		        	
+                        <li><a href='EN-35'>35. American Civil War</a></li>   		        	
+                        <li><a href='EN-36'>36. Unification of Italy</a></li>   		        	
+                        <li><a href='EN-37'>37. Unification of Germany</a></li>   		        	
+                        <li><a href='EN-38'>38. Belle Époque</a></li>   		        	
+                        <li><a href='EN-39'>39. Chinese Revolution</a></li>   		        	
+                        <li><a href='EN-40'>40. Brazilian Republic</a></li>   		        	
+                        <li><a href='EN-41'>41. World War I</a></li>   		        	
+                        <li><a href='EN-42'>42. Russian Revolution </a></li>   		        	
+                        <li><a href='EN-43'>43. Great Depression of 1929</a></li>   		        	
+                        <li><a href='EN-44'>44. Modernism </a></li>   		        	
+                        <li><a href='EN-45'>45. Socialism X Capitalism </a></li>   		        	
+                        <li><a href='EN-46'>46. Fascism </a></li>   		        	
+                        <li><a href='EN-47'>47. Nazism </a></li>   		        	
+                        <li><a href='EN-48'>48. World War II</a></li>   		        	
+                        <li><a href='EN-49'>49. Brazil - Vargas Era</a></li>   		        	
+                        <li><a href='EN-50'>50. Descolonisation of Africa</a></li>   		        	
+                        <li><a href='EN-51'>51. Cold War</a></li>   		        	
+                        <li><a href='EN-52'>52. Second Brazilian Republic (1945-1964)</a></li>   		        	
+                        <li><a href='EN-53'>53. Space Race</a></li>   		        	
+                        <li><a href='EN-54'>54. Brazil - Military Regime (1964-1985) </a></li>   		        	
+						<li><a href='EN-55'>55. Brazil - New Republic</a></li></ul></li>
+               <li><a href='EN-56' data-target='#' data-toggle='dropdown'> Century XXI <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-56'>56. Attacks of September 11</a></li>   		        	
+                        <li><a href='EN-57'>57. War on Terror</a></li>   		        	
+                        <li><a href='EN-58'>58. Digital Revolution</a></li>   		        	
+                        <li><a href='EN-59'>59. Great Recession</a></li>   		        	
+                		<li><a href='EN-60'>60. Arab Spring</a></li></ul></li> 
+               </ul>                  
+        	</div>
+        </div>      
+      <!-- Menu Principal - FIM --> 
+
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+     <asp:ContentPlaceHolder ID="ContentPlaceHolder12" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>

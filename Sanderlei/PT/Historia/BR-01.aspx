@@ -1,8 +1,6 @@
-﻿<%@ Page Title="fdsfsdaf" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-01.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_01" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
-    <title>11111111111111111</title>
-    <meta name="description" content="111111111111111111" /> 
-    <meta name="keywords" content="sanderlei, sanderlei silveira, web page, pessoal, história, filosofia, audio livro, livro, video, Historia em 1 minuto, historia minuto" />    
+﻿<%@ Page Title="01. Cronologia do Universo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-01.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_01" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
+    <meta name="description" content="O universo surgiu ao redor de 13 bilhões de anos atrás, ..." /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 
@@ -41,10 +39,5 @@ O sistema Solar só se formou ao redor de 5 bilhões de anos atrás, pelo colaps
 			<br>
         </div>
       </div>
-      <div class='container panel-footer text-center'>
-      <br>
-      <br>
-      <p>By Sanderlei silveira</p>
-      
-      </div>
+     
 </asp:Content>

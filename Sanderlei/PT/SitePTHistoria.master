@@ -12,7 +12,7 @@
                           <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
                </div>
     	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                   
-               		<li><a href='BR-01' data-target='#' data-toggle='dropdown'>Início <span class='caret'></span></a><ul class='dropdown-menu'>
+               		<li><a href='BR-01' data-target='#' data-toggle='dropdown'>História <span class='caret'></span></a><ul class='dropdown-menu'>
                         <li><a href='BR-01'>01. Cronologia do Universo</a></li>
    		        	    <li><a href='BR-02'>02. Cronologia da Terra</a></li>
                 		<li><a href='BR-03'>03. Pré-História</a></li></ul></li>	        	        

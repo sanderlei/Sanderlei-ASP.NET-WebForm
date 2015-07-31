@@ -1,6 +1,5 @@
 ﻿<%@ Page Title="História em 1 Minuto" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.PT.Historia.Index" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
-    <meta name="keywords" content="sanderlei, sanderlei silveira, web page, pessoal, história, filosofia, audio livro, livro, video, Historia em 1 minuto, historia minuto" />
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">    
     <meta name="description" content="Os 60 principais eventos da História da Humanidade contada de uma forma fácil..." />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
@@ -18,7 +17,7 @@
             <div class="container-fluid">	           
             
                 <div class='col-xs-12 col-sm-4 text-center bg-info'> 
-                <a href='BR-03.html'>
+                <a href='BR-03'>
                <h3 style="color:black">Pré-História </h3>               
       <p class="text-justify" style="color:black"> A Pré-história é o período entre 2,5 milhões de anos atrás com o surgimentos dos primeiros indivíduos...</p>
       <img class="img-responsive" style="margin:0 auto;" src="/images/01 - 01 - Cronologia do Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
@@ -26,7 +25,7 @@
       <br></div>
       
                       <div class='col-xs-12 col-sm-4 text-center'> 
-                <a href='BR-05.html'>
+                <a href='BR-05'>
                <h3 style="color:black">Religião </h3>               
       <p class="text-justify" style="color:black"> As principais religiões da atualidade tiveram início durante a Idade Antiga. Mas é importante lembrar que...</p>
       <img class="img-responsive" style="margin:0 auto;" src="/images/05 - 01 - Religião - Idade Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
@@ -35,7 +34,7 @@
       
       
                       <div class='col-xs-12 col-sm-4 text-center bg-info'> 
-                <a href='BR-60.html'>
+                <a href='BR-60'>
                <h3 style="color:black">Primavera Árabe </h3>               
       <p class="text-justify" style="color:black"> A Primavera Árabe como é conhecida internacionalmente é uma onda revolucionária de manifestações...</p>
       <img class="img-responsive" style="margin:0 auto;" src="/images/60 - 01 - Primavera Árabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
@@ -82,29 +81,5 @@
             <br>
         </div>
       </div>
-      <div class='container panel-footer text-center'>
-      <br>
-      <br>
-      <p>By Sanderlei silveira</p>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- teste -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-9133768079150529"
-     data-ad-slot="7801252698"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-      </div>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- teste -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-9133768079150529"
-     data-ad-slot="7801252698"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+     
 </asp:Content>

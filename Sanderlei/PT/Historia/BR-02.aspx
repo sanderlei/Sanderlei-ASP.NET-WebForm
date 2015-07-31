@@ -1,5 +1,6 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-02.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_02" %>
+﻿<%@ Page Title="02. Cronologia da Terra" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-02.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_02" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
+    <meta name="description" content="A terra se formou por volta de 4,57 bilhões de anos atrás, ..." />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
      <!-- Conteudo  --> 
@@ -137,10 +138,5 @@ Resumo
 			<br>
         </div>
       </div>
-      <div class='container panel-footer text-center'>
-      <br>
-      <br>
-      <p>By Sanderlei silveira</p>
-      
-      </div>
+     
 </asp:Content>
