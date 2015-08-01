@@ -1,5 +1,6 @@
 ﻿<%@ Page Title="La storia in 1 minuto" Language="C#" MasterPageFile="~/IT/SiteITStoria.master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.IT.Storia.Index" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
+    <meta name="description" content="Le 60 principali eventi della storia umana raccontate in un modo semplice per voi a leggere ovunque..." /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
      <!-- Conteudo  --> 

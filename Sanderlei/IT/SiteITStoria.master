@@ -15,7 +15,7 @@
                         <li><a href='EN-01'>01. Universe Cronologia</a></li>
    		        	    <li><a href='EN-02'>02. Terra Cronologia</a></li>
                 		<li><a href='EN-03'>03. Preistoria</a></li></ul></li>	        	        
-                    <li><a href='EN-04' data-target='#' data-toggle='dropdown'>Ancient History<span class='caret'></span></a><ul class='dropdown-menu'>
+                    <li><a href='EN-04' data-target='#' data-toggle='dropdown'>Storia Antica<span class='caret'></span></a><ul class='dropdown-menu'>
                         <li><a href='EN-04'>04. Storia Antica</a></li>
    		        	    <li><a href='EN-05'>05. Religione - Storia Antica</a></li>
    		        	    <li><a href='EN-06'>06. Mesopotamia</a></li>
