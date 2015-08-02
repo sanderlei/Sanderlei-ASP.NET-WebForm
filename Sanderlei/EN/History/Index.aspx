@@ -56,7 +56,7 @@
                         <div>
 <!-- Posicione esta tag no cabeçalho ou imediatamente antes da tag de fechamento do corpo. -->
 <script src="https://apis.google.com/js/platform.js" async defer>
-  {lang: 'pt-BR'}
+  {lang: 'en'}
 </script>
 
 <!-- Posicione esta tag onde você deseja que o botão +1 apareça. -->

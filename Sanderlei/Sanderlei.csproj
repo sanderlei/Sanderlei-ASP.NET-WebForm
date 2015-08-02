@@ -72,7 +72,190 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AR\Index.aspx" />
+    <Content Include="AR\تاريخ\EN-01.aspx" />
+    <Content Include="AR\تاريخ\EN-02.aspx" />
+    <Content Include="AR\تاريخ\EN-03.aspx" />
+    <Content Include="AR\تاريخ\EN-04.aspx" />
+    <Content Include="AR\تاريخ\EN-05.aspx" />
+    <Content Include="AR\تاريخ\EN-06.aspx" />
+    <Content Include="AR\تاريخ\EN-07.aspx" />
+    <Content Include="AR\تاريخ\EN-08.aspx" />
+    <Content Include="AR\تاريخ\EN-09.aspx" />
+    <Content Include="AR\تاريخ\EN-10.aspx" />
+    <Content Include="AR\تاريخ\EN-11.aspx" />
+    <Content Include="AR\تاريخ\EN-12.aspx" />
+    <Content Include="AR\تاريخ\EN-13.aspx" />
+    <Content Include="AR\تاريخ\EN-14.aspx" />
+    <Content Include="AR\تاريخ\EN-15.aspx" />
+    <Content Include="AR\تاريخ\EN-16.aspx" />
+    <Content Include="AR\تاريخ\EN-17.aspx" />
+    <Content Include="AR\تاريخ\EN-18.aspx" />
+    <Content Include="AR\تاريخ\EN-19.aspx" />
+    <Content Include="AR\تاريخ\EN-20.aspx" />
+    <Content Include="AR\تاريخ\EN-21.aspx" />
+    <Content Include="AR\تاريخ\EN-22.aspx" />
+    <Content Include="AR\تاريخ\EN-23.aspx" />
+    <Content Include="AR\تاريخ\EN-24.aspx" />
+    <Content Include="AR\تاريخ\EN-25.aspx" />
+    <Content Include="AR\تاريخ\EN-26.aspx" />
+    <Content Include="AR\تاريخ\EN-27.aspx" />
+    <Content Include="AR\تاريخ\EN-28.aspx" />
+    <Content Include="AR\تاريخ\EN-29.aspx" />
+    <Content Include="AR\تاريخ\EN-30.aspx" />
+    <Content Include="AR\تاريخ\EN-31.aspx" />
+    <Content Include="AR\تاريخ\EN-32.aspx" />
+    <Content Include="AR\تاريخ\EN-33.aspx" />
+    <Content Include="AR\تاريخ\EN-34.aspx" />
+    <Content Include="AR\تاريخ\EN-35.aspx" />
+    <Content Include="AR\تاريخ\EN-36.aspx" />
+    <Content Include="AR\تاريخ\EN-37.aspx" />
+    <Content Include="AR\تاريخ\EN-38.aspx" />
+    <Content Include="AR\تاريخ\EN-39.aspx" />
+    <Content Include="AR\تاريخ\EN-40.aspx" />
+    <Content Include="AR\تاريخ\EN-41.aspx" />
+    <Content Include="AR\تاريخ\EN-42.aspx" />
+    <Content Include="AR\تاريخ\EN-43.aspx" />
+    <Content Include="AR\تاريخ\EN-44.aspx" />
+    <Content Include="AR\تاريخ\EN-45.aspx" />
+    <Content Include="AR\تاريخ\EN-46.aspx" />
+    <Content Include="AR\تاريخ\EN-47.aspx" />
+    <Content Include="AR\تاريخ\EN-48.aspx" />
+    <Content Include="AR\تاريخ\EN-49.aspx" />
+    <Content Include="AR\تاريخ\EN-50.aspx" />
+    <Content Include="AR\تاريخ\EN-51.aspx" />
+    <Content Include="AR\تاريخ\EN-52.aspx" />
+    <Content Include="AR\تاريخ\EN-53.aspx" />
+    <Content Include="AR\تاريخ\EN-54.aspx" />
+    <Content Include="AR\تاريخ\EN-55.aspx" />
+    <Content Include="AR\تاريخ\EN-56.aspx" />
+    <Content Include="AR\تاريخ\EN-57.aspx" />
+    <Content Include="AR\تاريخ\EN-58.aspx" />
+    <Content Include="AR\تاريخ\EN-59.aspx" />
+    <Content Include="AR\تاريخ\EN-60.aspx" />
+    <Content Include="AR\تاريخ\Index.aspx" />
     <Content Include="CN\Index.aspx" />
+    <Content Include="CN\历史\EN-01.aspx" />
+    <Content Include="CN\历史\EN-02.aspx" />
+    <Content Include="CN\历史\EN-03.aspx" />
+    <Content Include="CN\历史\EN-04.aspx" />
+    <Content Include="CN\历史\EN-05.aspx" />
+    <Content Include="CN\历史\EN-06.aspx" />
+    <Content Include="CN\历史\EN-07.aspx" />
+    <Content Include="CN\历史\EN-08.aspx" />
+    <Content Include="CN\历史\EN-09.aspx" />
+    <Content Include="CN\历史\EN-10.aspx" />
+    <Content Include="CN\历史\EN-11.aspx" />
+    <Content Include="CN\历史\EN-12.aspx" />
+    <Content Include="CN\历史\EN-13.aspx" />
+    <Content Include="CN\历史\EN-14.aspx" />
+    <Content Include="CN\历史\EN-15.aspx" />
+    <Content Include="CN\历史\EN-16.aspx" />
+    <Content Include="CN\历史\EN-17.aspx" />
+    <Content Include="CN\历史\EN-18.aspx" />
+    <Content Include="CN\历史\EN-19.aspx" />
+    <Content Include="CN\历史\EN-20.aspx" />
+    <Content Include="CN\历史\EN-21.aspx" />
+    <Content Include="CN\历史\EN-22.aspx" />
+    <Content Include="CN\历史\EN-23.aspx" />
+    <Content Include="CN\历史\EN-24.aspx" />
+    <Content Include="CN\历史\EN-25.aspx" />
+    <Content Include="CN\历史\EN-26.aspx" />
+    <Content Include="CN\历史\EN-27.aspx" />
+    <Content Include="CN\历史\EN-28.aspx" />
+    <Content Include="CN\历史\EN-29.aspx" />
+    <Content Include="CN\历史\EN-30.aspx" />
+    <Content Include="CN\历史\EN-31.aspx" />
+    <Content Include="CN\历史\EN-32.aspx" />
+    <Content Include="CN\历史\EN-33.aspx" />
+    <Content Include="CN\历史\EN-34.aspx" />
+    <Content Include="CN\历史\EN-35.aspx" />
+    <Content Include="CN\历史\EN-36.aspx" />
+    <Content Include="CN\历史\EN-37.aspx" />
+    <Content Include="CN\历史\EN-38.aspx" />
+    <Content Include="CN\历史\EN-39.aspx" />
+    <Content Include="CN\历史\EN-40.aspx" />
+    <Content Include="CN\历史\EN-41.aspx" />
+    <Content Include="CN\历史\EN-42.aspx" />
+    <Content Include="CN\历史\EN-43.aspx" />
+    <Content Include="CN\历史\EN-44.aspx" />
+    <Content Include="CN\历史\EN-45.aspx" />
+    <Content Include="CN\历史\EN-46.aspx" />
+    <Content Include="CN\历史\EN-47.aspx" />
+    <Content Include="CN\历史\EN-48.aspx" />
+    <Content Include="CN\历史\EN-49.aspx" />
+    <Content Include="CN\历史\EN-50.aspx" />
+    <Content Include="CN\历史\EN-51.aspx" />
+    <Content Include="CN\历史\EN-52.aspx" />
+    <Content Include="CN\历史\EN-53.aspx" />
+    <Content Include="CN\历史\EN-54.aspx" />
+    <Content Include="CN\历史\EN-55.aspx" />
+    <Content Include="CN\历史\EN-56.aspx" />
+    <Content Include="CN\历史\EN-57.aspx" />
+    <Content Include="CN\历史\EN-58.aspx" />
+    <Content Include="CN\历史\EN-59.aspx" />
+    <Content Include="CN\历史\EN-60.aspx" />
+    <Content Include="CN\历史\Index.aspx" />
+    <Content Include="DE\Geschichte\EN-01.aspx" />
+    <Content Include="DE\Geschichte\EN-02.aspx" />
+    <Content Include="DE\Geschichte\EN-03.aspx" />
+    <Content Include="DE\Geschichte\EN-04.aspx" />
+    <Content Include="DE\Geschichte\EN-05.aspx" />
+    <Content Include="DE\Geschichte\EN-06.aspx" />
+    <Content Include="DE\Geschichte\EN-07.aspx" />
+    <Content Include="DE\Geschichte\EN-08.aspx" />
+    <Content Include="DE\Geschichte\EN-09.aspx" />
+    <Content Include="DE\Geschichte\EN-10.aspx" />
+    <Content Include="DE\Geschichte\EN-11.aspx" />
+    <Content Include="DE\Geschichte\EN-12.aspx" />
+    <Content Include="DE\Geschichte\EN-13.aspx" />
+    <Content Include="DE\Geschichte\EN-14.aspx" />
+    <Content Include="DE\Geschichte\EN-15.aspx" />
+    <Content Include="DE\Geschichte\EN-16.aspx" />
+    <Content Include="DE\Geschichte\EN-17.aspx" />
+    <Content Include="DE\Geschichte\EN-18.aspx" />
+    <Content Include="DE\Geschichte\EN-19.aspx" />
+    <Content Include="DE\Geschichte\EN-20.aspx" />
+    <Content Include="DE\Geschichte\EN-21.aspx" />
+    <Content Include="DE\Geschichte\EN-22.aspx" />
+    <Content Include="DE\Geschichte\EN-23.aspx" />
+    <Content Include="DE\Geschichte\EN-24.aspx" />
+    <Content Include="DE\Geschichte\EN-25.aspx" />
+    <Content Include="DE\Geschichte\EN-26.aspx" />
+    <Content Include="DE\Geschichte\EN-27.aspx" />
+    <Content Include="DE\Geschichte\EN-28.aspx" />
+    <Content Include="DE\Geschichte\EN-29.aspx" />
+    <Content Include="DE\Geschichte\EN-30.aspx" />
+    <Content Include="DE\Geschichte\EN-31.aspx" />
+    <Content Include="DE\Geschichte\EN-32.aspx" />
+    <Content Include="DE\Geschichte\EN-33.aspx" />
+    <Content Include="DE\Geschichte\EN-34.aspx" />
+    <Content Include="DE\Geschichte\EN-35.aspx" />
+    <Content Include="DE\Geschichte\EN-36.aspx" />
+    <Content Include="DE\Geschichte\EN-37.aspx" />
+    <Content Include="DE\Geschichte\EN-38.aspx" />
+    <Content Include="DE\Geschichte\EN-39.aspx" />
+    <Content Include="DE\Geschichte\EN-40.aspx" />
+    <Content Include="DE\Geschichte\EN-41.aspx" />
+    <Content Include="DE\Geschichte\EN-42.aspx" />
+    <Content Include="DE\Geschichte\EN-43.aspx" />
+    <Content Include="DE\Geschichte\EN-44.aspx" />
+    <Content Include="DE\Geschichte\EN-45.aspx" />
+    <Content Include="DE\Geschichte\EN-46.aspx" />
+    <Content Include="DE\Geschichte\EN-47.aspx" />
+    <Content Include="DE\Geschichte\EN-48.aspx" />
+    <Content Include="DE\Geschichte\EN-49.aspx" />
+    <Content Include="DE\Geschichte\EN-50.aspx" />
+    <Content Include="DE\Geschichte\EN-51.aspx" />
+    <Content Include="DE\Geschichte\EN-52.aspx" />
+    <Content Include="DE\Geschichte\EN-53.aspx" />
+    <Content Include="DE\Geschichte\EN-54.aspx" />
+    <Content Include="DE\Geschichte\EN-55.aspx" />
+    <Content Include="DE\Geschichte\EN-56.aspx" />
+    <Content Include="DE\Geschichte\EN-57.aspx" />
+    <Content Include="DE\Geschichte\EN-58.aspx" />
+    <Content Include="DE\Geschichte\EN-59.aspx" />
+    <Content Include="DE\Geschichte\EN-60.aspx" />
+    <Content Include="DE\Geschichte\Index.aspx" />
     <Content Include="DE\Index.aspx" />
     <Content Include="EN\History\EN-01.aspx" />
     <Content Include="EN\History\EN-02.aspx" />
@@ -403,6 +586,67 @@
     <Content Include="IT\Storia\EN-60.aspx" />
     <Content Include="IT\Storia\Index.aspx" />
     <Content Include="JP\Index.aspx" />
+    <Content Include="JP\歴史\EN-01.aspx" />
+    <Content Include="JP\歴史\EN-02.aspx" />
+    <Content Include="JP\歴史\EN-03.aspx" />
+    <Content Include="JP\歴史\EN-04.aspx" />
+    <Content Include="JP\歴史\EN-05.aspx" />
+    <Content Include="JP\歴史\EN-06.aspx" />
+    <Content Include="JP\歴史\EN-07.aspx" />
+    <Content Include="JP\歴史\EN-08.aspx" />
+    <Content Include="JP\歴史\EN-09.aspx" />
+    <Content Include="JP\歴史\EN-10.aspx" />
+    <Content Include="JP\歴史\EN-11.aspx" />
+    <Content Include="JP\歴史\EN-12.aspx" />
+    <Content Include="JP\歴史\EN-13.aspx" />
+    <Content Include="JP\歴史\EN-14.aspx" />
+    <Content Include="JP\歴史\EN-15.aspx" />
+    <Content Include="JP\歴史\EN-16.aspx" />
+    <Content Include="JP\歴史\EN-17.aspx" />
+    <Content Include="JP\歴史\EN-18.aspx" />
+    <Content Include="JP\歴史\EN-19.aspx" />
+    <Content Include="JP\歴史\EN-20.aspx" />
+    <Content Include="JP\歴史\EN-21.aspx" />
+    <Content Include="JP\歴史\EN-22.aspx" />
+    <Content Include="JP\歴史\EN-23.aspx" />
+    <Content Include="JP\歴史\EN-24.aspx" />
+    <Content Include="JP\歴史\EN-25.aspx" />
+    <Content Include="JP\歴史\EN-26.aspx" />
+    <Content Include="JP\歴史\EN-27.aspx" />
+    <Content Include="JP\歴史\EN-28.aspx" />
+    <Content Include="JP\歴史\EN-29.aspx" />
+    <Content Include="JP\歴史\EN-30.aspx" />
+    <Content Include="JP\歴史\EN-31.aspx" />
+    <Content Include="JP\歴史\EN-32.aspx" />
+    <Content Include="JP\歴史\EN-33.aspx" />
+    <Content Include="JP\歴史\EN-34.aspx" />
+    <Content Include="JP\歴史\EN-35.aspx" />
+    <Content Include="JP\歴史\EN-36.aspx" />
+    <Content Include="JP\歴史\EN-37.aspx" />
+    <Content Include="JP\歴史\EN-38.aspx" />
+    <Content Include="JP\歴史\EN-39.aspx" />
+    <Content Include="JP\歴史\EN-40.aspx" />
+    <Content Include="JP\歴史\EN-41.aspx" />
+    <Content Include="JP\歴史\EN-42.aspx" />
+    <Content Include="JP\歴史\EN-43.aspx" />
+    <Content Include="JP\歴史\EN-44.aspx" />
+    <Content Include="JP\歴史\EN-45.aspx" />
+    <Content Include="JP\歴史\EN-46.aspx" />
+    <Content Include="JP\歴史\EN-47.aspx" />
+    <Content Include="JP\歴史\EN-48.aspx" />
+    <Content Include="JP\歴史\EN-49.aspx" />
+    <Content Include="JP\歴史\EN-50.aspx" />
+    <Content Include="JP\歴史\EN-51.aspx" />
+    <Content Include="JP\歴史\EN-52.aspx" />
+    <Content Include="JP\歴史\EN-53.aspx" />
+    <Content Include="JP\歴史\EN-54.aspx" />
+    <Content Include="JP\歴史\EN-55.aspx" />
+    <Content Include="JP\歴史\EN-56.aspx" />
+    <Content Include="JP\歴史\EN-57.aspx" />
+    <Content Include="JP\歴史\EN-58.aspx" />
+    <Content Include="JP\歴史\EN-59.aspx" />
+    <Content Include="JP\歴史\EN-60.aspx" />
+    <Content Include="JP\歴史\Index.aspx" />
     <Content Include="packages.config" />
     <Content Include="PT\Historia\BR-01.aspx" />
     <Content Include="PT\Historia\BR-02.aspx" />
@@ -464,7 +708,102 @@
     <Content Include="PT\Historia\BR-58.aspx" />
     <Content Include="PT\Historia\BR-59.aspx" />
     <Content Include="PT\Historia\BR-60.aspx" />
+    <Content Include="PT\Poesia\BR-01.aspx" />
+    <Content Include="PT\Poesia\BR-02.aspx" />
+    <Content Include="PT\Poesia\BR-03.aspx" />
+    <Content Include="PT\Poesia\BR-04.aspx" />
+    <Content Include="PT\Poesia\BR-05.aspx" />
+    <Content Include="PT\Poesia\BR-06.aspx" />
+    <Content Include="PT\Poesia\BR-07.aspx" />
+    <Content Include="PT\Poesia\BR-08.aspx" />
+    <Content Include="PT\Poesia\BR-09.aspx" />
+    <Content Include="PT\Poesia\BR-10.aspx" />
+    <Content Include="PT\Poesia\BR-11.aspx" />
+    <Content Include="PT\Poesia\BR-12.aspx" />
+    <Content Include="PT\Poesia\BR-13.aspx" />
+    <Content Include="PT\Poesia\BR-14.aspx" />
+    <Content Include="PT\Poesia\BR-15.aspx" />
+    <Content Include="PT\Poesia\BR-16.aspx" />
+    <Content Include="PT\Poesia\BR-17.aspx" />
+    <Content Include="PT\Poesia\BR-18.aspx" />
+    <Content Include="PT\Poesia\BR-19.aspx" />
+    <Content Include="PT\Poesia\BR-20.aspx" />
+    <Content Include="PT\Poesia\BR-21.aspx" />
+    <Content Include="PT\Poesia\BR-22.aspx" />
+    <Content Include="PT\Poesia\BR-23.aspx" />
+    <Content Include="PT\Poesia\BR-24.aspx" />
+    <Content Include="PT\Poesia\BR-25.aspx" />
+    <Content Include="PT\Poesia\BR-26.aspx" />
+    <Content Include="PT\Poesia\BR-27.aspx" />
+    <Content Include="PT\Poesia\BR-28.aspx" />
+    <Content Include="PT\Poesia\BR-29.aspx" />
+    <Content Include="PT\Poesia\BR-30.aspx" />
+    <Content Include="PT\Poesia\BR-31.aspx" />
+    <Content Include="PT\Poesia\BR-32.aspx" />
+    <Content Include="PT\Poesia\BR-33.aspx" />
+    <Content Include="PT\Poesia\Index.aspx" />
     <Content Include="RU\Index.aspx" />
+    <Content Include="RU\история\EN-01.aspx" />
+    <Content Include="RU\история\EN-02.aspx" />
+    <Content Include="RU\история\EN-03.aspx" />
+    <Content Include="RU\история\EN-04.aspx" />
+    <Content Include="RU\история\EN-05.aspx" />
+    <Content Include="RU\история\EN-06.aspx" />
+    <Content Include="RU\история\EN-07.aspx" />
+    <Content Include="RU\история\EN-08.aspx" />
+    <Content Include="RU\история\EN-09.aspx" />
+    <Content Include="RU\история\EN-10.aspx" />
+    <Content Include="RU\история\EN-11.aspx" />
+    <Content Include="RU\история\EN-12.aspx" />
+    <Content Include="RU\история\EN-13.aspx" />
+    <Content Include="RU\история\EN-14.aspx" />
+    <Content Include="RU\история\EN-15.aspx" />
+    <Content Include="RU\история\EN-16.aspx" />
+    <Content Include="RU\история\EN-17.aspx" />
+    <Content Include="RU\история\EN-18.aspx" />
+    <Content Include="RU\история\EN-19.aspx" />
+    <Content Include="RU\история\EN-20.aspx" />
+    <Content Include="RU\история\EN-21.aspx" />
+    <Content Include="RU\история\EN-22.aspx" />
+    <Content Include="RU\история\EN-23.aspx" />
+    <Content Include="RU\история\EN-24.aspx" />
+    <Content Include="RU\история\EN-25.aspx" />
+    <Content Include="RU\история\EN-26.aspx" />
+    <Content Include="RU\история\EN-27.aspx" />
+    <Content Include="RU\история\EN-28.aspx" />
+    <Content Include="RU\история\EN-29.aspx" />
+    <Content Include="RU\история\EN-30.aspx" />
+    <Content Include="RU\история\EN-31.aspx" />
+    <Content Include="RU\история\EN-32.aspx" />
+    <Content Include="RU\история\EN-33.aspx" />
+    <Content Include="RU\история\EN-34.aspx" />
+    <Content Include="RU\история\EN-35.aspx" />
+    <Content Include="RU\история\EN-36.aspx" />
+    <Content Include="RU\история\EN-37.aspx" />
+    <Content Include="RU\история\EN-38.aspx" />
+    <Content Include="RU\история\EN-39.aspx" />
+    <Content Include="RU\история\EN-40.aspx" />
+    <Content Include="RU\история\EN-41.aspx" />
+    <Content Include="RU\история\EN-42.aspx" />
+    <Content Include="RU\история\EN-43.aspx" />
+    <Content Include="RU\история\EN-44.aspx" />
+    <Content Include="RU\история\EN-45.aspx" />
+    <Content Include="RU\история\EN-46.aspx" />
+    <Content Include="RU\история\EN-47.aspx" />
+    <Content Include="RU\история\EN-48.aspx" />
+    <Content Include="RU\история\EN-49.aspx" />
+    <Content Include="RU\история\EN-50.aspx" />
+    <Content Include="RU\история\EN-51.aspx" />
+    <Content Include="RU\история\EN-52.aspx" />
+    <Content Include="RU\история\EN-53.aspx" />
+    <Content Include="RU\история\EN-54.aspx" />
+    <Content Include="RU\история\EN-55.aspx" />
+    <Content Include="RU\история\EN-56.aspx" />
+    <Content Include="RU\история\EN-57.aspx" />
+    <Content Include="RU\история\EN-58.aspx" />
+    <Content Include="RU\история\EN-59.aspx" />
+    <Content Include="RU\история\EN-60.aspx" />
+    <Content Include="RU\история\Index.aspx" />
     <Content Include="SitePT.Master" />
     <Content Include="PT\SitePTHistoria.master" />
     <Content Include="SiteEN.Master" />
@@ -480,11 +819,17 @@
     <Content Include="ES\SiteESHistoria.master" />
     <Content Include="IT\SiteITStoria.master" />
     <Content Include="FR\SiteFRHistoire.master" />
+    <Content Include="DE\SiteDEGeschichte.master" />
+    <Content Include="CN\SiteCN开始.master" />
+    <Content Include="JP\SiteJP歴史.master" />
+    <Content Include="AR\SiteARHistory.master" />
     <None Include="Properties\PublishProfiles\sanderlei.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Content Include="RU\SiteRUHistory.master" />
+    <Content Include="PT\SitePTPoesia.master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -517,11 +862,1306 @@
     <Compile Include="AR\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="AR\SiteARHistory.master.cs">
+      <DependentUpon>SiteARHistory.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\SiteARHistory.master.designer.cs">
+      <DependentUpon>SiteARHistory.master</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-01.aspx.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-01.aspx.designer.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-02.aspx.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-02.aspx.designer.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-03.aspx.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-03.aspx.designer.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-04.aspx.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-04.aspx.designer.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-05.aspx.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-05.aspx.designer.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-06.aspx.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-06.aspx.designer.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-07.aspx.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-07.aspx.designer.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-08.aspx.cs">
+      <DependentUpon>EN-08.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-08.aspx.designer.cs">
+      <DependentUpon>EN-08.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-09.aspx.cs">
+      <DependentUpon>EN-09.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-09.aspx.designer.cs">
+      <DependentUpon>EN-09.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-10.aspx.cs">
+      <DependentUpon>EN-10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-10.aspx.designer.cs">
+      <DependentUpon>EN-10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-11.aspx.cs">
+      <DependentUpon>EN-11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-11.aspx.designer.cs">
+      <DependentUpon>EN-11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-12.aspx.cs">
+      <DependentUpon>EN-12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-12.aspx.designer.cs">
+      <DependentUpon>EN-12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-13.aspx.cs">
+      <DependentUpon>EN-13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-13.aspx.designer.cs">
+      <DependentUpon>EN-13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-14.aspx.cs">
+      <DependentUpon>EN-14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-14.aspx.designer.cs">
+      <DependentUpon>EN-14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-15.aspx.cs">
+      <DependentUpon>EN-15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-15.aspx.designer.cs">
+      <DependentUpon>EN-15.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-16.aspx.cs">
+      <DependentUpon>EN-16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-16.aspx.designer.cs">
+      <DependentUpon>EN-16.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-17.aspx.cs">
+      <DependentUpon>EN-17.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-17.aspx.designer.cs">
+      <DependentUpon>EN-17.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-18.aspx.cs">
+      <DependentUpon>EN-18.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-18.aspx.designer.cs">
+      <DependentUpon>EN-18.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-19.aspx.cs">
+      <DependentUpon>EN-19.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-19.aspx.designer.cs">
+      <DependentUpon>EN-19.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-20.aspx.cs">
+      <DependentUpon>EN-20.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-20.aspx.designer.cs">
+      <DependentUpon>EN-20.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-21.aspx.cs">
+      <DependentUpon>EN-21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-21.aspx.designer.cs">
+      <DependentUpon>EN-21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-22.aspx.cs">
+      <DependentUpon>EN-22.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-22.aspx.designer.cs">
+      <DependentUpon>EN-22.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-23.aspx.cs">
+      <DependentUpon>EN-23.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-23.aspx.designer.cs">
+      <DependentUpon>EN-23.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-24.aspx.cs">
+      <DependentUpon>EN-24.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-24.aspx.designer.cs">
+      <DependentUpon>EN-24.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-25.aspx.cs">
+      <DependentUpon>EN-25.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-25.aspx.designer.cs">
+      <DependentUpon>EN-25.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-26.aspx.cs">
+      <DependentUpon>EN-26.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-26.aspx.designer.cs">
+      <DependentUpon>EN-26.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-27.aspx.cs">
+      <DependentUpon>EN-27.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-27.aspx.designer.cs">
+      <DependentUpon>EN-27.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-28.aspx.cs">
+      <DependentUpon>EN-28.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-28.aspx.designer.cs">
+      <DependentUpon>EN-28.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-29.aspx.cs">
+      <DependentUpon>EN-29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-29.aspx.designer.cs">
+      <DependentUpon>EN-29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-30.aspx.cs">
+      <DependentUpon>EN-30.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-30.aspx.designer.cs">
+      <DependentUpon>EN-30.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-31.aspx.cs">
+      <DependentUpon>EN-31.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-31.aspx.designer.cs">
+      <DependentUpon>EN-31.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-32.aspx.cs">
+      <DependentUpon>EN-32.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-32.aspx.designer.cs">
+      <DependentUpon>EN-32.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-33.aspx.cs">
+      <DependentUpon>EN-33.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-33.aspx.designer.cs">
+      <DependentUpon>EN-33.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-34.aspx.cs">
+      <DependentUpon>EN-34.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-34.aspx.designer.cs">
+      <DependentUpon>EN-34.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-35.aspx.cs">
+      <DependentUpon>EN-35.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-35.aspx.designer.cs">
+      <DependentUpon>EN-35.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-36.aspx.cs">
+      <DependentUpon>EN-36.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-36.aspx.designer.cs">
+      <DependentUpon>EN-36.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-37.aspx.cs">
+      <DependentUpon>EN-37.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-37.aspx.designer.cs">
+      <DependentUpon>EN-37.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-38.aspx.cs">
+      <DependentUpon>EN-38.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-38.aspx.designer.cs">
+      <DependentUpon>EN-38.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-39.aspx.cs">
+      <DependentUpon>EN-39.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-39.aspx.designer.cs">
+      <DependentUpon>EN-39.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-40.aspx.cs">
+      <DependentUpon>EN-40.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-40.aspx.designer.cs">
+      <DependentUpon>EN-40.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-41.aspx.cs">
+      <DependentUpon>EN-41.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-41.aspx.designer.cs">
+      <DependentUpon>EN-41.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-42.aspx.cs">
+      <DependentUpon>EN-42.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-42.aspx.designer.cs">
+      <DependentUpon>EN-42.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-43.aspx.cs">
+      <DependentUpon>EN-43.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-43.aspx.designer.cs">
+      <DependentUpon>EN-43.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-44.aspx.cs">
+      <DependentUpon>EN-44.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-44.aspx.designer.cs">
+      <DependentUpon>EN-44.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-45.aspx.cs">
+      <DependentUpon>EN-45.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-45.aspx.designer.cs">
+      <DependentUpon>EN-45.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-46.aspx.cs">
+      <DependentUpon>EN-46.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-46.aspx.designer.cs">
+      <DependentUpon>EN-46.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-47.aspx.cs">
+      <DependentUpon>EN-47.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-47.aspx.designer.cs">
+      <DependentUpon>EN-47.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-48.aspx.cs">
+      <DependentUpon>EN-48.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-48.aspx.designer.cs">
+      <DependentUpon>EN-48.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-49.aspx.cs">
+      <DependentUpon>EN-49.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-49.aspx.designer.cs">
+      <DependentUpon>EN-49.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-50.aspx.cs">
+      <DependentUpon>EN-50.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-50.aspx.designer.cs">
+      <DependentUpon>EN-50.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-51.aspx.cs">
+      <DependentUpon>EN-51.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-51.aspx.designer.cs">
+      <DependentUpon>EN-51.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-52.aspx.cs">
+      <DependentUpon>EN-52.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-52.aspx.designer.cs">
+      <DependentUpon>EN-52.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-53.aspx.cs">
+      <DependentUpon>EN-53.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-53.aspx.designer.cs">
+      <DependentUpon>EN-53.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-54.aspx.cs">
+      <DependentUpon>EN-54.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-54.aspx.designer.cs">
+      <DependentUpon>EN-54.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-55.aspx.cs">
+      <DependentUpon>EN-55.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-55.aspx.designer.cs">
+      <DependentUpon>EN-55.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-56.aspx.cs">
+      <DependentUpon>EN-56.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-56.aspx.designer.cs">
+      <DependentUpon>EN-56.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-57.aspx.cs">
+      <DependentUpon>EN-57.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-57.aspx.designer.cs">
+      <DependentUpon>EN-57.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-58.aspx.cs">
+      <DependentUpon>EN-58.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-58.aspx.designer.cs">
+      <DependentUpon>EN-58.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-59.aspx.cs">
+      <DependentUpon>EN-59.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-59.aspx.designer.cs">
+      <DependentUpon>EN-59.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-60.aspx.cs">
+      <DependentUpon>EN-60.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\EN-60.aspx.designer.cs">
+      <DependentUpon>EN-60.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AR\تاريخ\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AR\تاريخ\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
     <Compile Include="CN\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="CN\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\SiteCN开始.master.cs">
+      <DependentUpon>SiteCN开始.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\SiteCN开始.master.designer.cs">
+      <DependentUpon>SiteCN开始.master</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-01.aspx.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-01.aspx.designer.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-02.aspx.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-02.aspx.designer.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-03.aspx.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-03.aspx.designer.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-04.aspx.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-04.aspx.designer.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-05.aspx.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-05.aspx.designer.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-06.aspx.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-06.aspx.designer.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-07.aspx.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-07.aspx.designer.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-08.aspx.cs">
+      <DependentUpon>EN-08.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-08.aspx.designer.cs">
+      <DependentUpon>EN-08.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-09.aspx.cs">
+      <DependentUpon>EN-09.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-09.aspx.designer.cs">
+      <DependentUpon>EN-09.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-10.aspx.cs">
+      <DependentUpon>EN-10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-10.aspx.designer.cs">
+      <DependentUpon>EN-10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-11.aspx.cs">
+      <DependentUpon>EN-11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-11.aspx.designer.cs">
+      <DependentUpon>EN-11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-12.aspx.cs">
+      <DependentUpon>EN-12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-12.aspx.designer.cs">
+      <DependentUpon>EN-12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-13.aspx.cs">
+      <DependentUpon>EN-13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-13.aspx.designer.cs">
+      <DependentUpon>EN-13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-14.aspx.cs">
+      <DependentUpon>EN-14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-14.aspx.designer.cs">
+      <DependentUpon>EN-14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-15.aspx.cs">
+      <DependentUpon>EN-15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-15.aspx.designer.cs">
+      <DependentUpon>EN-15.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-16.aspx.cs">
+      <DependentUpon>EN-16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-16.aspx.designer.cs">
+      <DependentUpon>EN-16.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-17.aspx.cs">
+      <DependentUpon>EN-17.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-17.aspx.designer.cs">
+      <DependentUpon>EN-17.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-18.aspx.cs">
+      <DependentUpon>EN-18.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-18.aspx.designer.cs">
+      <DependentUpon>EN-18.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-19.aspx.cs">
+      <DependentUpon>EN-19.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-19.aspx.designer.cs">
+      <DependentUpon>EN-19.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-20.aspx.cs">
+      <DependentUpon>EN-20.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-20.aspx.designer.cs">
+      <DependentUpon>EN-20.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-21.aspx.cs">
+      <DependentUpon>EN-21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-21.aspx.designer.cs">
+      <DependentUpon>EN-21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-22.aspx.cs">
+      <DependentUpon>EN-22.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-22.aspx.designer.cs">
+      <DependentUpon>EN-22.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-23.aspx.cs">
+      <DependentUpon>EN-23.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-23.aspx.designer.cs">
+      <DependentUpon>EN-23.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-24.aspx.cs">
+      <DependentUpon>EN-24.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-24.aspx.designer.cs">
+      <DependentUpon>EN-24.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-25.aspx.cs">
+      <DependentUpon>EN-25.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-25.aspx.designer.cs">
+      <DependentUpon>EN-25.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-26.aspx.cs">
+      <DependentUpon>EN-26.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-26.aspx.designer.cs">
+      <DependentUpon>EN-26.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-27.aspx.cs">
+      <DependentUpon>EN-27.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-27.aspx.designer.cs">
+      <DependentUpon>EN-27.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-28.aspx.cs">
+      <DependentUpon>EN-28.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-28.aspx.designer.cs">
+      <DependentUpon>EN-28.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-29.aspx.cs">
+      <DependentUpon>EN-29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-29.aspx.designer.cs">
+      <DependentUpon>EN-29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-30.aspx.cs">
+      <DependentUpon>EN-30.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-30.aspx.designer.cs">
+      <DependentUpon>EN-30.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-31.aspx.cs">
+      <DependentUpon>EN-31.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-31.aspx.designer.cs">
+      <DependentUpon>EN-31.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-32.aspx.cs">
+      <DependentUpon>EN-32.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-32.aspx.designer.cs">
+      <DependentUpon>EN-32.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-33.aspx.cs">
+      <DependentUpon>EN-33.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-33.aspx.designer.cs">
+      <DependentUpon>EN-33.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-34.aspx.cs">
+      <DependentUpon>EN-34.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-34.aspx.designer.cs">
+      <DependentUpon>EN-34.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-35.aspx.cs">
+      <DependentUpon>EN-35.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-35.aspx.designer.cs">
+      <DependentUpon>EN-35.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-36.aspx.cs">
+      <DependentUpon>EN-36.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-36.aspx.designer.cs">
+      <DependentUpon>EN-36.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-37.aspx.cs">
+      <DependentUpon>EN-37.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-37.aspx.designer.cs">
+      <DependentUpon>EN-37.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-38.aspx.cs">
+      <DependentUpon>EN-38.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-38.aspx.designer.cs">
+      <DependentUpon>EN-38.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-39.aspx.cs">
+      <DependentUpon>EN-39.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-39.aspx.designer.cs">
+      <DependentUpon>EN-39.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-40.aspx.cs">
+      <DependentUpon>EN-40.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-40.aspx.designer.cs">
+      <DependentUpon>EN-40.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-41.aspx.cs">
+      <DependentUpon>EN-41.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-41.aspx.designer.cs">
+      <DependentUpon>EN-41.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-42.aspx.cs">
+      <DependentUpon>EN-42.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-42.aspx.designer.cs">
+      <DependentUpon>EN-42.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-43.aspx.cs">
+      <DependentUpon>EN-43.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-43.aspx.designer.cs">
+      <DependentUpon>EN-43.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-44.aspx.cs">
+      <DependentUpon>EN-44.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-44.aspx.designer.cs">
+      <DependentUpon>EN-44.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-45.aspx.cs">
+      <DependentUpon>EN-45.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-45.aspx.designer.cs">
+      <DependentUpon>EN-45.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-46.aspx.cs">
+      <DependentUpon>EN-46.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-46.aspx.designer.cs">
+      <DependentUpon>EN-46.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-47.aspx.cs">
+      <DependentUpon>EN-47.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-47.aspx.designer.cs">
+      <DependentUpon>EN-47.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-48.aspx.cs">
+      <DependentUpon>EN-48.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-48.aspx.designer.cs">
+      <DependentUpon>EN-48.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-49.aspx.cs">
+      <DependentUpon>EN-49.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-49.aspx.designer.cs">
+      <DependentUpon>EN-49.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-50.aspx.cs">
+      <DependentUpon>EN-50.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-50.aspx.designer.cs">
+      <DependentUpon>EN-50.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-51.aspx.cs">
+      <DependentUpon>EN-51.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-51.aspx.designer.cs">
+      <DependentUpon>EN-51.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-52.aspx.cs">
+      <DependentUpon>EN-52.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-52.aspx.designer.cs">
+      <DependentUpon>EN-52.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-53.aspx.cs">
+      <DependentUpon>EN-53.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-53.aspx.designer.cs">
+      <DependentUpon>EN-53.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-54.aspx.cs">
+      <DependentUpon>EN-54.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-54.aspx.designer.cs">
+      <DependentUpon>EN-54.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-55.aspx.cs">
+      <DependentUpon>EN-55.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-55.aspx.designer.cs">
+      <DependentUpon>EN-55.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-56.aspx.cs">
+      <DependentUpon>EN-56.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-56.aspx.designer.cs">
+      <DependentUpon>EN-56.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-57.aspx.cs">
+      <DependentUpon>EN-57.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-57.aspx.designer.cs">
+      <DependentUpon>EN-57.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-58.aspx.cs">
+      <DependentUpon>EN-58.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-58.aspx.designer.cs">
+      <DependentUpon>EN-58.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-59.aspx.cs">
+      <DependentUpon>EN-59.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-59.aspx.designer.cs">
+      <DependentUpon>EN-59.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\EN-60.aspx.cs">
+      <DependentUpon>EN-60.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\EN-60.aspx.designer.cs">
+      <DependentUpon>EN-60.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CN\历史\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CN\历史\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-01.aspx.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-01.aspx.designer.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-02.aspx.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-02.aspx.designer.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-03.aspx.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-03.aspx.designer.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-04.aspx.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-04.aspx.designer.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-05.aspx.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-05.aspx.designer.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-06.aspx.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-06.aspx.designer.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-07.aspx.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-07.aspx.designer.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-08.aspx.cs">
+      <DependentUpon>EN-08.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-08.aspx.designer.cs">
+      <DependentUpon>EN-08.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-09.aspx.cs">
+      <DependentUpon>EN-09.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-09.aspx.designer.cs">
+      <DependentUpon>EN-09.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-10.aspx.cs">
+      <DependentUpon>EN-10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-10.aspx.designer.cs">
+      <DependentUpon>EN-10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-11.aspx.cs">
+      <DependentUpon>EN-11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-11.aspx.designer.cs">
+      <DependentUpon>EN-11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-12.aspx.cs">
+      <DependentUpon>EN-12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-12.aspx.designer.cs">
+      <DependentUpon>EN-12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-13.aspx.cs">
+      <DependentUpon>EN-13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-13.aspx.designer.cs">
+      <DependentUpon>EN-13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-14.aspx.cs">
+      <DependentUpon>EN-14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-14.aspx.designer.cs">
+      <DependentUpon>EN-14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-15.aspx.cs">
+      <DependentUpon>EN-15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-15.aspx.designer.cs">
+      <DependentUpon>EN-15.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-16.aspx.cs">
+      <DependentUpon>EN-16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-16.aspx.designer.cs">
+      <DependentUpon>EN-16.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-17.aspx.cs">
+      <DependentUpon>EN-17.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-17.aspx.designer.cs">
+      <DependentUpon>EN-17.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-18.aspx.cs">
+      <DependentUpon>EN-18.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-18.aspx.designer.cs">
+      <DependentUpon>EN-18.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-19.aspx.cs">
+      <DependentUpon>EN-19.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-19.aspx.designer.cs">
+      <DependentUpon>EN-19.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-20.aspx.cs">
+      <DependentUpon>EN-20.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-20.aspx.designer.cs">
+      <DependentUpon>EN-20.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-21.aspx.cs">
+      <DependentUpon>EN-21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-21.aspx.designer.cs">
+      <DependentUpon>EN-21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-22.aspx.cs">
+      <DependentUpon>EN-22.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-22.aspx.designer.cs">
+      <DependentUpon>EN-22.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-23.aspx.cs">
+      <DependentUpon>EN-23.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-23.aspx.designer.cs">
+      <DependentUpon>EN-23.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-24.aspx.cs">
+      <DependentUpon>EN-24.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-24.aspx.designer.cs">
+      <DependentUpon>EN-24.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-25.aspx.cs">
+      <DependentUpon>EN-25.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-25.aspx.designer.cs">
+      <DependentUpon>EN-25.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-26.aspx.cs">
+      <DependentUpon>EN-26.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-26.aspx.designer.cs">
+      <DependentUpon>EN-26.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-27.aspx.cs">
+      <DependentUpon>EN-27.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-27.aspx.designer.cs">
+      <DependentUpon>EN-27.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-28.aspx.cs">
+      <DependentUpon>EN-28.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-28.aspx.designer.cs">
+      <DependentUpon>EN-28.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-29.aspx.cs">
+      <DependentUpon>EN-29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-29.aspx.designer.cs">
+      <DependentUpon>EN-29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-30.aspx.cs">
+      <DependentUpon>EN-30.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-30.aspx.designer.cs">
+      <DependentUpon>EN-30.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-31.aspx.cs">
+      <DependentUpon>EN-31.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-31.aspx.designer.cs">
+      <DependentUpon>EN-31.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-32.aspx.cs">
+      <DependentUpon>EN-32.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-32.aspx.designer.cs">
+      <DependentUpon>EN-32.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-33.aspx.cs">
+      <DependentUpon>EN-33.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-33.aspx.designer.cs">
+      <DependentUpon>EN-33.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-34.aspx.cs">
+      <DependentUpon>EN-34.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-34.aspx.designer.cs">
+      <DependentUpon>EN-34.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-35.aspx.cs">
+      <DependentUpon>EN-35.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-35.aspx.designer.cs">
+      <DependentUpon>EN-35.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-36.aspx.cs">
+      <DependentUpon>EN-36.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-36.aspx.designer.cs">
+      <DependentUpon>EN-36.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-37.aspx.cs">
+      <DependentUpon>EN-37.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-37.aspx.designer.cs">
+      <DependentUpon>EN-37.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-38.aspx.cs">
+      <DependentUpon>EN-38.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-38.aspx.designer.cs">
+      <DependentUpon>EN-38.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-39.aspx.cs">
+      <DependentUpon>EN-39.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-39.aspx.designer.cs">
+      <DependentUpon>EN-39.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-40.aspx.cs">
+      <DependentUpon>EN-40.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-40.aspx.designer.cs">
+      <DependentUpon>EN-40.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-41.aspx.cs">
+      <DependentUpon>EN-41.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-41.aspx.designer.cs">
+      <DependentUpon>EN-41.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-42.aspx.cs">
+      <DependentUpon>EN-42.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-42.aspx.designer.cs">
+      <DependentUpon>EN-42.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-43.aspx.cs">
+      <DependentUpon>EN-43.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-43.aspx.designer.cs">
+      <DependentUpon>EN-43.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-44.aspx.cs">
+      <DependentUpon>EN-44.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-44.aspx.designer.cs">
+      <DependentUpon>EN-44.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-45.aspx.cs">
+      <DependentUpon>EN-45.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-45.aspx.designer.cs">
+      <DependentUpon>EN-45.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-46.aspx.cs">
+      <DependentUpon>EN-46.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-46.aspx.designer.cs">
+      <DependentUpon>EN-46.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-47.aspx.cs">
+      <DependentUpon>EN-47.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-47.aspx.designer.cs">
+      <DependentUpon>EN-47.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-48.aspx.cs">
+      <DependentUpon>EN-48.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-48.aspx.designer.cs">
+      <DependentUpon>EN-48.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-49.aspx.cs">
+      <DependentUpon>EN-49.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-49.aspx.designer.cs">
+      <DependentUpon>EN-49.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-50.aspx.cs">
+      <DependentUpon>EN-50.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-50.aspx.designer.cs">
+      <DependentUpon>EN-50.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-51.aspx.cs">
+      <DependentUpon>EN-51.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-51.aspx.designer.cs">
+      <DependentUpon>EN-51.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-52.aspx.cs">
+      <DependentUpon>EN-52.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-52.aspx.designer.cs">
+      <DependentUpon>EN-52.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-53.aspx.cs">
+      <DependentUpon>EN-53.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-53.aspx.designer.cs">
+      <DependentUpon>EN-53.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-54.aspx.cs">
+      <DependentUpon>EN-54.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-54.aspx.designer.cs">
+      <DependentUpon>EN-54.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-55.aspx.cs">
+      <DependentUpon>EN-55.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-55.aspx.designer.cs">
+      <DependentUpon>EN-55.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-56.aspx.cs">
+      <DependentUpon>EN-56.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-56.aspx.designer.cs">
+      <DependentUpon>EN-56.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-57.aspx.cs">
+      <DependentUpon>EN-57.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-57.aspx.designer.cs">
+      <DependentUpon>EN-57.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-58.aspx.cs">
+      <DependentUpon>EN-58.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-58.aspx.designer.cs">
+      <DependentUpon>EN-58.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-59.aspx.cs">
+      <DependentUpon>EN-59.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-59.aspx.designer.cs">
+      <DependentUpon>EN-59.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-60.aspx.cs">
+      <DependentUpon>EN-60.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\EN-60.aspx.designer.cs">
+      <DependentUpon>EN-60.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\Geschichte\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\Geschichte\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="DE\Index.aspx.cs">
@@ -530,6 +2170,13 @@
     </Compile>
     <Compile Include="DE\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DE\SiteDEGeschichte.master.cs">
+      <DependentUpon>SiteDEGeschichte.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DE\SiteDEGeschichte.master.designer.cs">
+      <DependentUpon>SiteDEGeschichte.master</DependentUpon>
     </Compile>
     <Compile Include="EN\History\EN-01.aspx.cs">
       <DependentUpon>EN-01.aspx</DependentUpon>
@@ -2312,6 +3959,440 @@
     <Compile Include="JP\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="JP\SiteJP歴史.master.cs">
+      <DependentUpon>SiteJP歴史.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\SiteJP歴史.master.designer.cs">
+      <DependentUpon>SiteJP歴史.master</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-01.aspx.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-01.aspx.designer.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-02.aspx.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-02.aspx.designer.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-03.aspx.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-03.aspx.designer.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-04.aspx.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-04.aspx.designer.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-05.aspx.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-05.aspx.designer.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-06.aspx.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-06.aspx.designer.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-07.aspx.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-07.aspx.designer.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-08.aspx.cs">
+      <DependentUpon>EN-08.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-08.aspx.designer.cs">
+      <DependentUpon>EN-08.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-09.aspx.cs">
+      <DependentUpon>EN-09.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-09.aspx.designer.cs">
+      <DependentUpon>EN-09.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-10.aspx.cs">
+      <DependentUpon>EN-10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-10.aspx.designer.cs">
+      <DependentUpon>EN-10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-11.aspx.cs">
+      <DependentUpon>EN-11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-11.aspx.designer.cs">
+      <DependentUpon>EN-11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-12.aspx.cs">
+      <DependentUpon>EN-12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-12.aspx.designer.cs">
+      <DependentUpon>EN-12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-13.aspx.cs">
+      <DependentUpon>EN-13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-13.aspx.designer.cs">
+      <DependentUpon>EN-13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-14.aspx.cs">
+      <DependentUpon>EN-14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-14.aspx.designer.cs">
+      <DependentUpon>EN-14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-15.aspx.cs">
+      <DependentUpon>EN-15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-15.aspx.designer.cs">
+      <DependentUpon>EN-15.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-16.aspx.cs">
+      <DependentUpon>EN-16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-16.aspx.designer.cs">
+      <DependentUpon>EN-16.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-17.aspx.cs">
+      <DependentUpon>EN-17.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-17.aspx.designer.cs">
+      <DependentUpon>EN-17.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-18.aspx.cs">
+      <DependentUpon>EN-18.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-18.aspx.designer.cs">
+      <DependentUpon>EN-18.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-19.aspx.cs">
+      <DependentUpon>EN-19.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-19.aspx.designer.cs">
+      <DependentUpon>EN-19.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-20.aspx.cs">
+      <DependentUpon>EN-20.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-20.aspx.designer.cs">
+      <DependentUpon>EN-20.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-21.aspx.cs">
+      <DependentUpon>EN-21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-21.aspx.designer.cs">
+      <DependentUpon>EN-21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-22.aspx.cs">
+      <DependentUpon>EN-22.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-22.aspx.designer.cs">
+      <DependentUpon>EN-22.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-23.aspx.cs">
+      <DependentUpon>EN-23.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-23.aspx.designer.cs">
+      <DependentUpon>EN-23.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-24.aspx.cs">
+      <DependentUpon>EN-24.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-24.aspx.designer.cs">
+      <DependentUpon>EN-24.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-25.aspx.cs">
+      <DependentUpon>EN-25.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-25.aspx.designer.cs">
+      <DependentUpon>EN-25.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-26.aspx.cs">
+      <DependentUpon>EN-26.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-26.aspx.designer.cs">
+      <DependentUpon>EN-26.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-27.aspx.cs">
+      <DependentUpon>EN-27.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-27.aspx.designer.cs">
+      <DependentUpon>EN-27.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-28.aspx.cs">
+      <DependentUpon>EN-28.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-28.aspx.designer.cs">
+      <DependentUpon>EN-28.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-29.aspx.cs">
+      <DependentUpon>EN-29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-29.aspx.designer.cs">
+      <DependentUpon>EN-29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-30.aspx.cs">
+      <DependentUpon>EN-30.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-30.aspx.designer.cs">
+      <DependentUpon>EN-30.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-31.aspx.cs">
+      <DependentUpon>EN-31.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-31.aspx.designer.cs">
+      <DependentUpon>EN-31.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-32.aspx.cs">
+      <DependentUpon>EN-32.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-32.aspx.designer.cs">
+      <DependentUpon>EN-32.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-33.aspx.cs">
+      <DependentUpon>EN-33.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-33.aspx.designer.cs">
+      <DependentUpon>EN-33.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-34.aspx.cs">
+      <DependentUpon>EN-34.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-34.aspx.designer.cs">
+      <DependentUpon>EN-34.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-35.aspx.cs">
+      <DependentUpon>EN-35.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-35.aspx.designer.cs">
+      <DependentUpon>EN-35.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-36.aspx.cs">
+      <DependentUpon>EN-36.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-36.aspx.designer.cs">
+      <DependentUpon>EN-36.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-37.aspx.cs">
+      <DependentUpon>EN-37.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-37.aspx.designer.cs">
+      <DependentUpon>EN-37.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-38.aspx.cs">
+      <DependentUpon>EN-38.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-38.aspx.designer.cs">
+      <DependentUpon>EN-38.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-39.aspx.cs">
+      <DependentUpon>EN-39.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-39.aspx.designer.cs">
+      <DependentUpon>EN-39.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-40.aspx.cs">
+      <DependentUpon>EN-40.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-40.aspx.designer.cs">
+      <DependentUpon>EN-40.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-41.aspx.cs">
+      <DependentUpon>EN-41.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-41.aspx.designer.cs">
+      <DependentUpon>EN-41.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-42.aspx.cs">
+      <DependentUpon>EN-42.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-42.aspx.designer.cs">
+      <DependentUpon>EN-42.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-43.aspx.cs">
+      <DependentUpon>EN-43.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-43.aspx.designer.cs">
+      <DependentUpon>EN-43.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-44.aspx.cs">
+      <DependentUpon>EN-44.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-44.aspx.designer.cs">
+      <DependentUpon>EN-44.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-45.aspx.cs">
+      <DependentUpon>EN-45.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-45.aspx.designer.cs">
+      <DependentUpon>EN-45.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-46.aspx.cs">
+      <DependentUpon>EN-46.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-46.aspx.designer.cs">
+      <DependentUpon>EN-46.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-47.aspx.cs">
+      <DependentUpon>EN-47.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-47.aspx.designer.cs">
+      <DependentUpon>EN-47.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-48.aspx.cs">
+      <DependentUpon>EN-48.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-48.aspx.designer.cs">
+      <DependentUpon>EN-48.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-49.aspx.cs">
+      <DependentUpon>EN-49.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-49.aspx.designer.cs">
+      <DependentUpon>EN-49.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-50.aspx.cs">
+      <DependentUpon>EN-50.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-50.aspx.designer.cs">
+      <DependentUpon>EN-50.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-51.aspx.cs">
+      <DependentUpon>EN-51.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-51.aspx.designer.cs">
+      <DependentUpon>EN-51.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-52.aspx.cs">
+      <DependentUpon>EN-52.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-52.aspx.designer.cs">
+      <DependentUpon>EN-52.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-53.aspx.cs">
+      <DependentUpon>EN-53.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-53.aspx.designer.cs">
+      <DependentUpon>EN-53.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-54.aspx.cs">
+      <DependentUpon>EN-54.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-54.aspx.designer.cs">
+      <DependentUpon>EN-54.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-55.aspx.cs">
+      <DependentUpon>EN-55.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-55.aspx.designer.cs">
+      <DependentUpon>EN-55.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-56.aspx.cs">
+      <DependentUpon>EN-56.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-56.aspx.designer.cs">
+      <DependentUpon>EN-56.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-57.aspx.cs">
+      <DependentUpon>EN-57.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-57.aspx.designer.cs">
+      <DependentUpon>EN-57.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-58.aspx.cs">
+      <DependentUpon>EN-58.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-58.aspx.designer.cs">
+      <DependentUpon>EN-58.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-59.aspx.cs">
+      <DependentUpon>EN-59.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-59.aspx.designer.cs">
+      <DependentUpon>EN-59.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\EN-60.aspx.cs">
+      <DependentUpon>EN-60.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\EN-60.aspx.designer.cs">
+      <DependentUpon>EN-60.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JP\歴史\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JP\歴史\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -2757,6 +4838,244 @@
     <Compile Include="PT\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="PT\Poesia\BR-01.aspx.cs">
+      <DependentUpon>BR-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-01.aspx.designer.cs">
+      <DependentUpon>BR-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-02.aspx.cs">
+      <DependentUpon>BR-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-02.aspx.designer.cs">
+      <DependentUpon>BR-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-03.aspx.cs">
+      <DependentUpon>BR-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-03.aspx.designer.cs">
+      <DependentUpon>BR-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-04.aspx.cs">
+      <DependentUpon>BR-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-04.aspx.designer.cs">
+      <DependentUpon>BR-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-05.aspx.cs">
+      <DependentUpon>BR-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-05.aspx.designer.cs">
+      <DependentUpon>BR-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-06.aspx.cs">
+      <DependentUpon>BR-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-06.aspx.designer.cs">
+      <DependentUpon>BR-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-07.aspx.cs">
+      <DependentUpon>BR-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-07.aspx.designer.cs">
+      <DependentUpon>BR-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-08.aspx.cs">
+      <DependentUpon>BR-08.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-08.aspx.designer.cs">
+      <DependentUpon>BR-08.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-09.aspx.cs">
+      <DependentUpon>BR-09.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-09.aspx.designer.cs">
+      <DependentUpon>BR-09.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-10.aspx.cs">
+      <DependentUpon>BR-10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-10.aspx.designer.cs">
+      <DependentUpon>BR-10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-11.aspx.cs">
+      <DependentUpon>BR-11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-11.aspx.designer.cs">
+      <DependentUpon>BR-11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-12.aspx.cs">
+      <DependentUpon>BR-12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-12.aspx.designer.cs">
+      <DependentUpon>BR-12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-13.aspx.cs">
+      <DependentUpon>BR-13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-13.aspx.designer.cs">
+      <DependentUpon>BR-13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-14.aspx.cs">
+      <DependentUpon>BR-14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-14.aspx.designer.cs">
+      <DependentUpon>BR-14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-15.aspx.cs">
+      <DependentUpon>BR-15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-15.aspx.designer.cs">
+      <DependentUpon>BR-15.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-16.aspx.cs">
+      <DependentUpon>BR-16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-16.aspx.designer.cs">
+      <DependentUpon>BR-16.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-17.aspx.cs">
+      <DependentUpon>BR-17.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-17.aspx.designer.cs">
+      <DependentUpon>BR-17.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-18.aspx.cs">
+      <DependentUpon>BR-18.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-18.aspx.designer.cs">
+      <DependentUpon>BR-18.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-19.aspx.cs">
+      <DependentUpon>BR-19.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-19.aspx.designer.cs">
+      <DependentUpon>BR-19.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-20.aspx.cs">
+      <DependentUpon>BR-20.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-20.aspx.designer.cs">
+      <DependentUpon>BR-20.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-21.aspx.cs">
+      <DependentUpon>BR-21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-21.aspx.designer.cs">
+      <DependentUpon>BR-21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-22.aspx.cs">
+      <DependentUpon>BR-22.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-22.aspx.designer.cs">
+      <DependentUpon>BR-22.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-23.aspx.cs">
+      <DependentUpon>BR-23.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-23.aspx.designer.cs">
+      <DependentUpon>BR-23.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-24.aspx.cs">
+      <DependentUpon>BR-24.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-24.aspx.designer.cs">
+      <DependentUpon>BR-24.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-25.aspx.cs">
+      <DependentUpon>BR-25.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-25.aspx.designer.cs">
+      <DependentUpon>BR-25.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-26.aspx.cs">
+      <DependentUpon>BR-26.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-26.aspx.designer.cs">
+      <DependentUpon>BR-26.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-27.aspx.cs">
+      <DependentUpon>BR-27.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-27.aspx.designer.cs">
+      <DependentUpon>BR-27.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-28.aspx.cs">
+      <DependentUpon>BR-28.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-28.aspx.designer.cs">
+      <DependentUpon>BR-28.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-29.aspx.cs">
+      <DependentUpon>BR-29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-29.aspx.designer.cs">
+      <DependentUpon>BR-29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-30.aspx.cs">
+      <DependentUpon>BR-30.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-30.aspx.designer.cs">
+      <DependentUpon>BR-30.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-31.aspx.cs">
+      <DependentUpon>BR-31.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-31.aspx.designer.cs">
+      <DependentUpon>BR-31.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-32.aspx.cs">
+      <DependentUpon>BR-32.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-32.aspx.designer.cs">
+      <DependentUpon>BR-32.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-33.aspx.cs">
+      <DependentUpon>BR-33.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\BR-33.aspx.designer.cs">
+      <DependentUpon>BR-33.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
     <Compile Include="PT\SitePTHistoria.master.cs">
       <DependentUpon>SitePTHistoria.master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -2764,11 +5083,452 @@
     <Compile Include="PT\SitePTHistoria.master.designer.cs">
       <DependentUpon>SitePTHistoria.master</DependentUpon>
     </Compile>
+    <Compile Include="PT\SitePTPoesia.master.cs">
+      <DependentUpon>SitePTPoesia.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\SitePTPoesia.master.designer.cs">
+      <DependentUpon>SitePTPoesia.master</DependentUpon>
+    </Compile>
     <Compile Include="RU\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="RU\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\SiteRUHistory.master.cs">
+      <DependentUpon>SiteRUHistory.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\SiteRUHistory.master.designer.cs">
+      <DependentUpon>SiteRUHistory.master</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-01.aspx.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-01.aspx.designer.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-02.aspx.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-02.aspx.designer.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-03.aspx.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-03.aspx.designer.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-04.aspx.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-04.aspx.designer.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-05.aspx.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-05.aspx.designer.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-06.aspx.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-06.aspx.designer.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-07.aspx.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-07.aspx.designer.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-08.aspx.cs">
+      <DependentUpon>EN-08.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-08.aspx.designer.cs">
+      <DependentUpon>EN-08.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-09.aspx.cs">
+      <DependentUpon>EN-09.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-09.aspx.designer.cs">
+      <DependentUpon>EN-09.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-10.aspx.cs">
+      <DependentUpon>EN-10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-10.aspx.designer.cs">
+      <DependentUpon>EN-10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-11.aspx.cs">
+      <DependentUpon>EN-11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-11.aspx.designer.cs">
+      <DependentUpon>EN-11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-12.aspx.cs">
+      <DependentUpon>EN-12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-12.aspx.designer.cs">
+      <DependentUpon>EN-12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-13.aspx.cs">
+      <DependentUpon>EN-13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-13.aspx.designer.cs">
+      <DependentUpon>EN-13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-14.aspx.cs">
+      <DependentUpon>EN-14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-14.aspx.designer.cs">
+      <DependentUpon>EN-14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-15.aspx.cs">
+      <DependentUpon>EN-15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-15.aspx.designer.cs">
+      <DependentUpon>EN-15.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-16.aspx.cs">
+      <DependentUpon>EN-16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-16.aspx.designer.cs">
+      <DependentUpon>EN-16.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-17.aspx.cs">
+      <DependentUpon>EN-17.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-17.aspx.designer.cs">
+      <DependentUpon>EN-17.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-18.aspx.cs">
+      <DependentUpon>EN-18.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-18.aspx.designer.cs">
+      <DependentUpon>EN-18.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-19.aspx.cs">
+      <DependentUpon>EN-19.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-19.aspx.designer.cs">
+      <DependentUpon>EN-19.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-20.aspx.cs">
+      <DependentUpon>EN-20.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-20.aspx.designer.cs">
+      <DependentUpon>EN-20.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-21.aspx.cs">
+      <DependentUpon>EN-21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-21.aspx.designer.cs">
+      <DependentUpon>EN-21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-22.aspx.cs">
+      <DependentUpon>EN-22.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-22.aspx.designer.cs">
+      <DependentUpon>EN-22.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-23.aspx.cs">
+      <DependentUpon>EN-23.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-23.aspx.designer.cs">
+      <DependentUpon>EN-23.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-24.aspx.cs">
+      <DependentUpon>EN-24.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-24.aspx.designer.cs">
+      <DependentUpon>EN-24.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-25.aspx.cs">
+      <DependentUpon>EN-25.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-25.aspx.designer.cs">
+      <DependentUpon>EN-25.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-26.aspx.cs">
+      <DependentUpon>EN-26.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-26.aspx.designer.cs">
+      <DependentUpon>EN-26.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-27.aspx.cs">
+      <DependentUpon>EN-27.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-27.aspx.designer.cs">
+      <DependentUpon>EN-27.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-28.aspx.cs">
+      <DependentUpon>EN-28.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-28.aspx.designer.cs">
+      <DependentUpon>EN-28.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-29.aspx.cs">
+      <DependentUpon>EN-29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-29.aspx.designer.cs">
+      <DependentUpon>EN-29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-30.aspx.cs">
+      <DependentUpon>EN-30.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-30.aspx.designer.cs">
+      <DependentUpon>EN-30.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-31.aspx.cs">
+      <DependentUpon>EN-31.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-31.aspx.designer.cs">
+      <DependentUpon>EN-31.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-32.aspx.cs">
+      <DependentUpon>EN-32.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-32.aspx.designer.cs">
+      <DependentUpon>EN-32.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-33.aspx.cs">
+      <DependentUpon>EN-33.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-33.aspx.designer.cs">
+      <DependentUpon>EN-33.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-34.aspx.cs">
+      <DependentUpon>EN-34.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-34.aspx.designer.cs">
+      <DependentUpon>EN-34.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-35.aspx.cs">
+      <DependentUpon>EN-35.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-35.aspx.designer.cs">
+      <DependentUpon>EN-35.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-36.aspx.cs">
+      <DependentUpon>EN-36.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-36.aspx.designer.cs">
+      <DependentUpon>EN-36.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-37.aspx.cs">
+      <DependentUpon>EN-37.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-37.aspx.designer.cs">
+      <DependentUpon>EN-37.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-38.aspx.cs">
+      <DependentUpon>EN-38.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-38.aspx.designer.cs">
+      <DependentUpon>EN-38.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-39.aspx.cs">
+      <DependentUpon>EN-39.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-39.aspx.designer.cs">
+      <DependentUpon>EN-39.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-40.aspx.cs">
+      <DependentUpon>EN-40.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-40.aspx.designer.cs">
+      <DependentUpon>EN-40.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-41.aspx.cs">
+      <DependentUpon>EN-41.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-41.aspx.designer.cs">
+      <DependentUpon>EN-41.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-42.aspx.cs">
+      <DependentUpon>EN-42.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-42.aspx.designer.cs">
+      <DependentUpon>EN-42.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-43.aspx.cs">
+      <DependentUpon>EN-43.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-43.aspx.designer.cs">
+      <DependentUpon>EN-43.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-44.aspx.cs">
+      <DependentUpon>EN-44.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-44.aspx.designer.cs">
+      <DependentUpon>EN-44.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-45.aspx.cs">
+      <DependentUpon>EN-45.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-45.aspx.designer.cs">
+      <DependentUpon>EN-45.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-46.aspx.cs">
+      <DependentUpon>EN-46.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-46.aspx.designer.cs">
+      <DependentUpon>EN-46.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-47.aspx.cs">
+      <DependentUpon>EN-47.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-47.aspx.designer.cs">
+      <DependentUpon>EN-47.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-48.aspx.cs">
+      <DependentUpon>EN-48.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-48.aspx.designer.cs">
+      <DependentUpon>EN-48.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-49.aspx.cs">
+      <DependentUpon>EN-49.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-49.aspx.designer.cs">
+      <DependentUpon>EN-49.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-50.aspx.cs">
+      <DependentUpon>EN-50.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-50.aspx.designer.cs">
+      <DependentUpon>EN-50.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-51.aspx.cs">
+      <DependentUpon>EN-51.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-51.aspx.designer.cs">
+      <DependentUpon>EN-51.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-52.aspx.cs">
+      <DependentUpon>EN-52.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-52.aspx.designer.cs">
+      <DependentUpon>EN-52.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-53.aspx.cs">
+      <DependentUpon>EN-53.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-53.aspx.designer.cs">
+      <DependentUpon>EN-53.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-54.aspx.cs">
+      <DependentUpon>EN-54.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-54.aspx.designer.cs">
+      <DependentUpon>EN-54.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-55.aspx.cs">
+      <DependentUpon>EN-55.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-55.aspx.designer.cs">
+      <DependentUpon>EN-55.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-56.aspx.cs">
+      <DependentUpon>EN-56.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-56.aspx.designer.cs">
+      <DependentUpon>EN-56.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-57.aspx.cs">
+      <DependentUpon>EN-57.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-57.aspx.designer.cs">
+      <DependentUpon>EN-57.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-58.aspx.cs">
+      <DependentUpon>EN-58.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-58.aspx.designer.cs">
+      <DependentUpon>EN-58.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-59.aspx.cs">
+      <DependentUpon>EN-59.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-59.aspx.designer.cs">
+      <DependentUpon>EN-59.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\EN-60.aspx.cs">
+      <DependentUpon>EN-60.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\EN-60.aspx.designer.cs">
+      <DependentUpon>EN-60.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RU\история\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RU\история\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="SiteAR.Master.cs">

@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/SiteAR.Master" AutoEventWireup="true" CodeBehind="SiteARHistory.master.cs" Inherits="Sanderlei.AR.SiteARHistory" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder11" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenu" runat="server">
+
+    <!-- Menu Principal - INICIO --> 
+        <div class='navbar navbar-inverse navbar-static-top' >
+        	<div class='container'>  
+	           <div class='navbar-header'>
+            		<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>                                    
+                          <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
+               </div>
+    	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                    
+               		<li><a href='EN-01' data-target='#' data-toggle='dropdown'>تاريخ <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-01'>01. الكون التسلسل الزمني</a></li>
+   		        	    <li><a href='EN-02'>02. الأرض التسلسل الزمني</a></li>
+                		<li><a href='EN-03'>03. قبل التاريخ</a></li></ul></li>	        	        
+                    <li><a href='EN-04' data-target='#' data-toggle='dropdown'>التاريخ القديم<span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-04'>04. التاريخ القديم</a></li>
+   		        	    <li><a href='EN-05'>05. الدين - التاريخ القديم</a></li>
+   		        	    <li><a href='EN-06'>06. بلاد ما بين النهرين</a></li>
+   		        	    <li><a href='EN-07'>07. مصر القديمة</a></li>
+   		        	    <li><a href='EN-08'>08. الرسالة إلى العبرانيين - اليهودية</a></li>
+   		        	    <li><a href='EN-09'>09. اليونان القديمة</a></li>
+   		        	    <li><a href='EN-10'>10. الأساطير اليونانية</a></li>
+   		        	    <li><a href='EN-11'>11. الفلسفة اليونانية</a></li>
+                        <li><a href='EN-12'>12. الحضارة الرومانية</a></li></ul></li>    
+                  <li><a href='EN-13' data-target='#' data-toggle='dropdown'>منتصف العمر <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-13'>13. منتصف العمر</a></li>   		        	
+                        <li><a href='EN-14'>14. الإمبراطورية البيزنطية</a></li>   		        	
+                        <li><a href='EN-15'>15. الحضارة الاسلاميةn</a></li>   		        	
+                        <li><a href='EN-16'>16. مملكة الفرنجة</a></li>   		        	
+                        <li><a href='EN-17'>17. إقطاعية</a></li>   		        	
+                        <li><a href='EN-18'>18. إنشاء دول أوروبا</a></li>   		        	
+                        <li><a href='EN-19'>19. الحروب الصليبية</a></li>   		        	
+                        <li><a href='EN-20'>20. الموت الاسود</a></li>   		        	
+                        <li><a href='EN-21'>21. فلسفة القرون الوسطى</a></li>   		        	
+						<li><a href='EN-22'>22. عصر الاستكشاف</a></li></ul></li>           
+                 <li><a href='EN-23' data-target='#' data-toggle='dropdown'>العصر الحديث<span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-23'>23. العصر الحديث</a></li>   		        	
+                        <li><a href='EN-24'>24. نهضة </a></li>   		        	
+                        <li><a href='EN-25'>25. الإصلاح البروتستانتي</a></li>   		        	
+                        <li><a href='EN-26'>26. الاستبداد الأوروبي</a></li>   		        	
+                        <li><a href='EN-27'>27. استعمار البرازيل</a></li>   		        	
+                        <li><a href='EN-28'>28. استقلال الولايات المتحدة</a></li>   		        	
+                        <li><a href='EN-29'>29. الثورة الفرنسية</a></li></ul></li>           
+                 <li><a href='EN-30' data-target='#' data-toggle='dropdown'>المعاصر العمر <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-30'>30. المعاصر العمر</a></li>   		        	
+                        <li><a href='EN-31'>31. ثورة صناعيةn</a></li>   		        	
+                        <li><a href='EN-32'>32. الحروب النابليونية</a></li>   		        	
+                        <li><a href='EN-33'>33. البرتغالي البرازيلي المملكة</a></li>   		        	
+                        <li><a href='EN-34'>34. استقلال أمريكا الإسبانية</a></li>   		        	
+                        <li><a href='EN-35'>35. الحرب الأهلية الأمريكية</a></li>   		        	
+                        <li><a href='EN-36'>36. توحيد إيطاليا</a></li>   		        	
+                        <li><a href='EN-37'>37. توحيد ألمانيا</a></li>   		        	
+                        <li><a href='EN-38'>38. أتممت حسناء</a></li>   		        	
+                        <li><a href='EN-39'>39. الثورة الصينية</a></li>   		        	
+                        <li><a href='EN-40'>40. الجمهورية البرازيلية</a></li>   		        	
+                        <li><a href='EN-41'>41. الحرب العالمية الأولى</a></li>   		        	
+                        <li><a href='EN-42'>42. الثورة الروسية </a></li>   		        	
+                        <li><a href='EN-43'>43. الكساد الكبير في عام 1929</a></li>   		        	
+                        <li><a href='EN-44'>44. عصرية </a></li>   		        	
+                        <li><a href='EN-45'>45. الاشتراكية X الرأسمالية </a></li>   		        	
+                        <li><a href='EN-46'>46. فاشية </a></li>   		        	
+                        <li><a href='EN-47'>47. النازية </a></li>   		        	
+                        <li><a href='EN-48'>48. الحرب العالمية الثانية</a></li>   		        	
+                        <li><a href='EN-49'>49. البرازيل - فارغاس عصر</a></li>   		        	
+                        <li><a href='EN-50'>50. تصفية الاستعمار من أفريقيا</a></li>   		        	
+                        <li><a href='EN-51'>51. الحرب الباردة</a></li>   		        	
+                        <li><a href='EN-52'>52. (جمهورية البرازيلي الثانية (1945-1964</a></li>   		        	
+                        <li><a href='EN-53'>53. سباق الفضاء</a></li>   		        	
+                        <li><a href='EN-54'>54. (البرازيل - النظام العسكري (1964-1985 </a></li>   		        	
+						<li><a href='EN-55'>55. البرازيل - نيو ريبابليك</a></li></ul></li>
+               <li><a href='EN-56' data-target='#' data-toggle='dropdown'> القرن الحادي والعشرين <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-56'>56. هجمات 11 سبتمبر</a></li>   		        	
+                        <li><a href='EN-57'>57. الحرب على الإرهاب</a></li>   		        	
+                        <li><a href='EN-58'>58. الثورة الرقمية</a></li>   		        	
+                        <li><a href='EN-59'>59. الكساد العظيم</a></li>   		        	
+                		<li><a href='EN-60'>60. الربيع العربي</a></li></ul></li> 
+               </ul>                  
+        	</div>
+        </div>      
+      <!-- Menu Principal - FIM --> 
+
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+     <asp:ContentPlaceHolder ID="ContentPlaceHolder12" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>

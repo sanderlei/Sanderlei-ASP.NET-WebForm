@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/SiteRU.Master" AutoEventWireup="true" CodeBehind="SiteRUHistory.master.cs" Inherits="Sanderlei.RU.SiteRUHistory" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder11" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenu" runat="server">
+
+    <!-- Menu Principal - INICIO --> 
+        <div class='navbar navbar-inverse navbar-static-top' >
+        	<div class='container'>  
+	           <div class='navbar-header'>
+            		<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>                                    
+                          <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
+               </div>
+    	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                    
+               		<li><a href='EN-01' data-target='#' data-toggle='dropdown'>история <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-01'>01. Вселенная Хронология</a></li>
+   		        	    <li><a href='EN-02'>02. Земля Хронология</a></li>
+                		<li><a href='EN-03'>03. предыстория</a></li></ul></li>	        	        
+                    <li><a href='EN-04' data-target='#' data-toggle='dropdown'>Древняя История<span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-04'>04. Древняя История</a></li>
+   		        	    <li><a href='EN-05'>05. Религия - Древняя история</a></li>
+   		        	    <li><a href='EN-06'>06. Месопотамия</a></li>
+   		        	    <li><a href='EN-07'>07. Древний Египет</a></li>
+   		        	    <li><a href='EN-08'>08. Евреям - иудаизм</a></li>
+   		        	    <li><a href='EN-09'>09. Древняя Греция</a></li>
+   		        	    <li><a href='EN-10'>10. Греческая Мифология</a></li>
+   		        	    <li><a href='EN-11'>11. Греческая философия</a></li>
+                        <li><a href='EN-12'>12. римской цивилизации</a></li></ul></li>    
+                  <li><a href='EN-13' data-target='#' data-toggle='dropdown'>Средние Века <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-13'>13. Средние Века</a></li>   		        	
+                        <li><a href='EN-14'>14. Византийская Империя</a></li>   		        	
+                        <li><a href='EN-15'>15. Исламская цивилизация</a></li>   		        	
+                        <li><a href='EN-16'>16. Королевство франков</a></li>   		        	
+                        <li><a href='EN-17'>17. феодализм</a></li>   		        	
+                        <li><a href='EN-18'>18. Создание европейских государств</a></li>   		        	
+                        <li><a href='EN-19'>19. Крестовые походы</a></li>   		        	
+                        <li><a href='EN-20'>20. Черная Смерть</a></li>   		        	
+                        <li><a href='EN-21'>21. средневековая философия</a></li>   		        	
+						<li><a href='EN-22'>22. Возраст Discovery</a></li></ul></li>           
+                 <li><a href='EN-23' data-target='#' data-toggle='dropdown'>современная эпоха<span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-23'>23. современная эпоха</a></li>   		        	
+                        <li><a href='EN-24'>24. Ренессанс </a></li>   		        	
+                        <li><a href='EN-25'>25. протестантская Реформация</a></li>   		        	
+                        <li><a href='EN-26'>26. Европейский абсолютизм</a></li>   		        	
+                        <li><a href='EN-27'>27. Колонизация Бразилии</a></li>   		        	
+                        <li><a href='EN-28'>28. Независимость США</a></li>   		        	
+                        <li><a href='EN-29'>29. Французская Революция</a></li></ul></li>           
+                 <li><a href='EN-30' data-target='#' data-toggle='dropdown'>Современный Возраст <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-30'>30. Современный Возраст</a></li>   		        	
+                        <li><a href='EN-31'>31. Индустриальная Революция</a></li>   		        	
+                        <li><a href='EN-32'>32. Наполеоновские войны</a></li>   		        	
+                        <li><a href='EN-33'>33. Лусо-бразильского Королевство</a></li>   		        	
+                        <li><a href='EN-34'>34. Независимость Испанской Америки</a></li>   		        	
+                        <li><a href='EN-35'>35. Гражданская война в США</a></li>   		        	
+                        <li><a href='EN-36'>36. Объединение Италии</a></li>   		        	
+                        <li><a href='EN-37'>37. Объединение Германии</a></li>   		        	
+                        <li><a href='EN-38'>38. Прекрасной эпохи</a></li>   		        	
+                        <li><a href='EN-39'>39. Китайская революция</a></li>   		        	
+                        <li><a href='EN-40'>40. Бразильский Республика</a></li>   		        	
+                        <li><a href='EN-41'>41. Первая Мировая Война</a></li>   		        	
+                        <li><a href='EN-42'>42. Русская революция </a></li>   		        	
+                        <li><a href='EN-43'>43. Великая депрессия 1929 года</a></li>   		        	
+                        <li><a href='EN-44'>44. модернизм </a></li>   		        	
+                        <li><a href='EN-45'>45. социализм X Capitalism </a></li>   		        	
+                        <li><a href='EN-46'>46. фашизм </a></li>   		        	
+                        <li><a href='EN-47'>47. нацизм </a></li>   		        	
+                        <li><a href='EN-48'>48. Вторая мировая война</a></li>   		        	
+                        <li><a href='EN-49'>49. Бразилия - Варгас Эра</a></li>   		        	
+                        <li><a href='EN-50'>50. Деколонизация Африки</a></li>   		        	
+                        <li><a href='EN-51'>51. Холодная Война</a></li>   		        	
+                        <li><a href='EN-52'>52. Во-вторых Бразильский Республика (1945-1964)</a></li>   		        	
+                        <li><a href='EN-53'>53. Космическая гонка</a></li>   		        	
+                        <li><a href='EN-54'>54. Бразилия - военный режим (1964-1985) </a></li>   		        	
+						<li><a href='EN-55'>55. Бразилия - Новая Республика</a></li></ul></li>
+               <li><a href='EN-56' data-target='#' data-toggle='dropdown'> век XXI <span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='EN-56'>56. Нападения 11 сентября</a></li>   		        	
+                        <li><a href='EN-57'>57. Война с террором</a></li>   		        	
+                        <li><a href='EN-58'>58. Цифровая революция</a></li>   		        	
+                        <li><a href='EN-59'>59. Великая рецессия</a></li>   		        	
+                		<li><a href='EN-60'>60. Арабская Весна</a></li></ul></li> 
+               </ul>                  
+        	</div>
+        </div>      
+      <!-- Menu Principal - FIM --> 
+
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+     <asp:ContentPlaceHolder ID="ContentPlaceHolder12" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>

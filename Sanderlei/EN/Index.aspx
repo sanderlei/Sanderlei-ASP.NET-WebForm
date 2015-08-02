@@ -1,5 +1,6 @@
 ﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/SiteEN.Master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.EN.Index" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+      <meta name="description" content="Profile of Sanderlei Silveira. Literature, History, Information Technology and other ..." />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenu" runat="server">
 </asp:Content>
