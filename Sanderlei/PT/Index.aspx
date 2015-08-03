@@ -5,29 +5,28 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class='container panel-body'>
         <div class='col-xs-12 col-md-12 text-center'>
-            <br> 
-             <br>           
+            <br />         
 	        <h1>Seja bem-vindo!</h1>
-            <br>
-            <br>
-            <br>          
-            <br>
-         
-             <br>
-             <br>
-             <br>
-             <br>
-             <br>
-             <br>
+            <br />         
             <hr />
-
-
+            <br />         
+                 </div>             
+                   <div class='col-xs-12 col-md-12 text-center'>
+                        <a href='/PT/Poesia/INDEX'>
+               <h3 style="color:black">Poesia </h3>                     
+      <img class="img-responsive" style="margin:0 auto;" src="/images/Poesia.png" height="212" alt="Poesia"/> 
+      </a>
+                       <br />            
+            <hr />
+                     <br />            
+                       </div>      
+             
+            <div class='col-xs-12 col-md-12 text-center'>
+                <br />
             <h2>História em 1 Minuto</h2>
-            <br>
-            <br>
+            <br />            
             <p>Os 60 principais eventos da História da Humanidade contada de uma forma fácil para você ler em qualquer lugar.</p>                    
-            <br>
-            <br>
+            <br />
             <div class="container-fluid">	           
             
                 <div class='col-xs-12 col-sm-4 text-center bg-info'> 

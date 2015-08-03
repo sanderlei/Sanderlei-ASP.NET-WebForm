@@ -1,5 +1,6 @@
 ﻿<%@ Page Title="Machado de Assis - A Carolina" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-06.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_06" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
+    <meta name="description" content="Poesia - Machado de Assis - A Carolina " /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
       <!-- Conteudo  --> 

@@ -1,5 +1,6 @@
 ﻿<%@ Page Title="Gonçalves Dias - Canção do exílio" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-03.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_03" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
+    <meta name="description" content="Poesia -  Gonçalves Dias - Canção do exílio" /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
       <!-- Conteudo  --> 

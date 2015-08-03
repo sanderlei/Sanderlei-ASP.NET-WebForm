@@ -5,19 +5,20 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 
       <div class='container panel-body'>
-        <div class='col-xs-12 col-md-12 text-center'>
-            <br> 
+        <div class='col-xs-12 col-md-12 text-center'>            
             <h1>
 	       Gregório de Matos - À Cidade da Bahia
 			</h1>
-            <br> 
-            <br> 
+            <br />
               <div class="embed-responsive embed-responsive-16by9">
                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qIbexy0CRIA" frameborder="0" allowfullscreen></iframe>
-              </div>          
-            <br> 
+              </div>                      
             <div class='text-center' style='line-height:1.7'>                 
                 <Br />
+                  <h3>
+	       Gregório de Matos - À Cidade da Bahia
+			</h3>
+                <br />
 <p> A cada canto um grande conselheiro </p>  
 <p>	Que nos quer governar cabana e vinha; </p>  
 <p>	Não sabem governar sua cozinha </p>  
@@ -35,16 +36,15 @@
                 <Br />
 <p>	Todos os que não furtam muito pobres </p>  
 <p>	E eis aqui a cidade da Bahia </p>  
+
+                <br />    
+            <br />         
+     <p>    <strong>Gregório de Matos Guerra (1636-1696)</strong></p>  
+<p><strong>Considerado o maior poeta barroco do Brasil.</strong></p>  
+            <br />
                         
    </div>
-            <br>
-            <br>
-            <br>            
-            <br>
-         
-            <br>
-            <br>
-			<br>
+            
         </div>
       </div>
      

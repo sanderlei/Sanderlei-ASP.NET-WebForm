@@ -1,5 +1,6 @@
 ﻿<%@ Page Title="Castro Alves - O Navio Negreiro" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-05.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_05" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
+    <meta name="description" content="Poesia - Castro Alves - O Navio Negreiro " /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
       <!-- Conteudo  --> 

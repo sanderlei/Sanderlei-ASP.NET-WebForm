@@ -54,6 +54,7 @@
     	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>
                     <li><a href='/ES/Index' >Inicio</a></li>
                     <li><a href='/ES/Historia/Index' >Historia</a></li>
+                   <li><a href='/PT/Poesia/Index'>Poesía (PT)</a></li>
                    <!--
                      <li><a href='/PT/Historia/Index.aspx' >História</a></li>
                    -->
@@ -82,6 +83,8 @@
         <a style="color:white" href='http://www.ss-solucoes.com/'>SS Solucoes</a>
         <a style="color:white" href='http://www.sz-solution.com/'>SZ Solucoes SZ Solucoes SZ Solucoes SZ Solucoes</a>
         <a style="color:white" href='http://historia.azurewebsites.net/'>História em 1 Minuto (Azure)</a>
+        <a style="color:white" href='http://poesia-sanderlei.blogspot.com/'>Poesia - Blogger</a>
+        <a style="color:white" href='http://poesia-sanderlei.azurewebsites.net/'>Poesia (Azure)</a>
   </div>
      
      <!--  Google Analytics - Inicio  -->

@@ -523,6 +523,7 @@
     <Content Include="Images\fr.png" />
     <Content Include="Images\it.png" />
     <Content Include="Images\mafavicon.png" />
+    <Content Include="Images\Poesia.png" />
     <Content Include="IT\Index.aspx" />
     <Content Include="IT\Storia\EN-01.aspx" />
     <Content Include="IT\Storia\EN-02.aspx" />
@@ -741,7 +742,51 @@
     <Content Include="PT\Poesia\BR-31.aspx" />
     <Content Include="PT\Poesia\BR-32.aspx" />
     <Content Include="PT\Poesia\BR-33.aspx" />
+    <Content Include="PT\Poesia\EN-01.aspx" />
+    <Content Include="PT\Poesia\EN-02.aspx" />
+    <Content Include="PT\Poesia\EN-03.aspx" />
+    <Content Include="PT\Poesia\EN-04.aspx" />
+    <Content Include="PT\Poesia\EN-05.aspx" />
+    <Content Include="PT\Poesia\EN-06.aspx" />
+    <Content Include="PT\Poesia\EN-07.aspx" />
+    <Content Include="PT\Poesia\EN-BR-01.aspx" />
+    <Content Include="PT\Poesia\EN-BR-02.aspx" />
+    <Content Include="PT\Poesia\EN-BR-03.aspx" />
+    <Content Include="PT\Poesia\EN-BR-04.aspx" />
+    <Content Include="PT\Poesia\EN-BR-05.aspx" />
+    <Content Include="PT\Poesia\EN-BR-06.aspx" />
+    <Content Include="PT\Poesia\EN-BR-07.aspx" />
+    <Content Include="PT\Poesia\EN-BR-08.aspx" />
+    <Content Include="PT\Poesia\EN-BR-09.aspx" />
+    <Content Include="PT\Poesia\ES-01.aspx" />
+    <Content Include="PT\Poesia\ES-02.aspx" />
+    <Content Include="PT\Poesia\ES-03.aspx" />
+    <Content Include="PT\Poesia\ES-04.aspx" />
+    <Content Include="PT\Poesia\ES-05.aspx" />
+    <Content Include="PT\Poesia\FR-01.aspx" />
+    <Content Include="PT\Poesia\FR-02.aspx" />
+    <Content Include="PT\Poesia\FR-03.aspx" />
+    <Content Include="PT\Poesia\FR-04.aspx" />
+    <Content Include="PT\Poesia\FR-05.aspx" />
     <Content Include="PT\Poesia\Index.aspx" />
+    <Content Include="PT\Poesia\PT-01.aspx" />
+    <Content Include="PT\Poesia\PT-02.aspx" />
+    <Content Include="PT\Poesia\PT-03.aspx" />
+    <Content Include="PT\Poesia\PT-04.aspx" />
+    <Content Include="PT\Poesia\PT-05.aspx" />
+    <Content Include="PT\Poesia\PT-06.aspx" />
+    <Content Include="PT\Poesia\PT-07.aspx" />
+    <Content Include="PT\Poesia\PT-08.aspx" />
+    <Content Include="PT\Poesia\PT-09.aspx" />
+    <Content Include="PT\Poesia\PT-10.aspx" />
+    <Content Include="PT\Poesia\PT-11.aspx" />
+    <Content Include="PT\Poesia\PT-12.aspx" />
+    <Content Include="PT\Poesia\PT-13.aspx" />
+    <Content Include="PT\Poesia\PT-14.aspx" />
+    <Content Include="PT\Poesia\PT-15.aspx" />
+    <Content Include="PT\Poesia\PT-16.aspx" />
+    <Content Include="PT\Poesia\PT-17.aspx" />
+    <Content Include="PT\Poesia\PT-18.aspx" />
     <Content Include="RU\Index.aspx" />
     <Content Include="RU\история\EN-01.aspx" />
     <Content Include="RU\история\EN-02.aspx" />
@@ -5069,12 +5114,320 @@
     <Compile Include="PT\Poesia\BR-33.aspx.designer.cs">
       <DependentUpon>BR-33.aspx</DependentUpon>
     </Compile>
+    <Compile Include="PT\Poesia\EN-01.aspx.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-01.aspx.designer.cs">
+      <DependentUpon>EN-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-02.aspx.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-02.aspx.designer.cs">
+      <DependentUpon>EN-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-03.aspx.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-03.aspx.designer.cs">
+      <DependentUpon>EN-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-04.aspx.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-04.aspx.designer.cs">
+      <DependentUpon>EN-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-05.aspx.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-05.aspx.designer.cs">
+      <DependentUpon>EN-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-06.aspx.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-06.aspx.designer.cs">
+      <DependentUpon>EN-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-07.aspx.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-07.aspx.designer.cs">
+      <DependentUpon>EN-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-01.aspx.cs">
+      <DependentUpon>EN-BR-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-01.aspx.designer.cs">
+      <DependentUpon>EN-BR-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-02.aspx.cs">
+      <DependentUpon>EN-BR-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-02.aspx.designer.cs">
+      <DependentUpon>EN-BR-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-03.aspx.cs">
+      <DependentUpon>EN-BR-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-03.aspx.designer.cs">
+      <DependentUpon>EN-BR-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-04.aspx.cs">
+      <DependentUpon>EN-BR-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-04.aspx.designer.cs">
+      <DependentUpon>EN-BR-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-05.aspx.cs">
+      <DependentUpon>EN-BR-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-05.aspx.designer.cs">
+      <DependentUpon>EN-BR-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-06.aspx.cs">
+      <DependentUpon>EN-BR-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-06.aspx.designer.cs">
+      <DependentUpon>EN-BR-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-07.aspx.cs">
+      <DependentUpon>EN-BR-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-07.aspx.designer.cs">
+      <DependentUpon>EN-BR-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-08.aspx.cs">
+      <DependentUpon>EN-BR-08.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-08.aspx.designer.cs">
+      <DependentUpon>EN-BR-08.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-09.aspx.cs">
+      <DependentUpon>EN-BR-09.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\EN-BR-09.aspx.designer.cs">
+      <DependentUpon>EN-BR-09.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\ES-01.aspx.cs">
+      <DependentUpon>ES-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\ES-01.aspx.designer.cs">
+      <DependentUpon>ES-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\ES-02.aspx.cs">
+      <DependentUpon>ES-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\ES-02.aspx.designer.cs">
+      <DependentUpon>ES-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\ES-03.aspx.cs">
+      <DependentUpon>ES-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\ES-03.aspx.designer.cs">
+      <DependentUpon>ES-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\ES-04.aspx.cs">
+      <DependentUpon>ES-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\ES-04.aspx.designer.cs">
+      <DependentUpon>ES-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\ES-05.aspx.cs">
+      <DependentUpon>ES-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\ES-05.aspx.designer.cs">
+      <DependentUpon>ES-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\FR-01.aspx.cs">
+      <DependentUpon>FR-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\FR-01.aspx.designer.cs">
+      <DependentUpon>FR-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\FR-02.aspx.cs">
+      <DependentUpon>FR-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\FR-02.aspx.designer.cs">
+      <DependentUpon>FR-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\FR-03.aspx.cs">
+      <DependentUpon>FR-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\FR-03.aspx.designer.cs">
+      <DependentUpon>FR-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\FR-04.aspx.cs">
+      <DependentUpon>FR-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\FR-04.aspx.designer.cs">
+      <DependentUpon>FR-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\FR-05.aspx.cs">
+      <DependentUpon>FR-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\FR-05.aspx.designer.cs">
+      <DependentUpon>FR-05.aspx</DependentUpon>
+    </Compile>
     <Compile Include="PT\Poesia\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="PT\Poesia\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-01.aspx.cs">
+      <DependentUpon>PT-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-01.aspx.designer.cs">
+      <DependentUpon>PT-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-02.aspx.cs">
+      <DependentUpon>PT-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-02.aspx.designer.cs">
+      <DependentUpon>PT-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-03.aspx.cs">
+      <DependentUpon>PT-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-03.aspx.designer.cs">
+      <DependentUpon>PT-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-04.aspx.cs">
+      <DependentUpon>PT-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-04.aspx.designer.cs">
+      <DependentUpon>PT-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-05.aspx.cs">
+      <DependentUpon>PT-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-05.aspx.designer.cs">
+      <DependentUpon>PT-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-06.aspx.cs">
+      <DependentUpon>PT-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-06.aspx.designer.cs">
+      <DependentUpon>PT-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-07.aspx.cs">
+      <DependentUpon>PT-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-07.aspx.designer.cs">
+      <DependentUpon>PT-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-08.aspx.cs">
+      <DependentUpon>PT-08.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-08.aspx.designer.cs">
+      <DependentUpon>PT-08.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-09.aspx.cs">
+      <DependentUpon>PT-09.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-09.aspx.designer.cs">
+      <DependentUpon>PT-09.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-10.aspx.cs">
+      <DependentUpon>PT-10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-10.aspx.designer.cs">
+      <DependentUpon>PT-10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-11.aspx.cs">
+      <DependentUpon>PT-11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-11.aspx.designer.cs">
+      <DependentUpon>PT-11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-12.aspx.cs">
+      <DependentUpon>PT-12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-12.aspx.designer.cs">
+      <DependentUpon>PT-12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-13.aspx.cs">
+      <DependentUpon>PT-13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-13.aspx.designer.cs">
+      <DependentUpon>PT-13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-14.aspx.cs">
+      <DependentUpon>PT-14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-14.aspx.designer.cs">
+      <DependentUpon>PT-14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-15.aspx.cs">
+      <DependentUpon>PT-15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-15.aspx.designer.cs">
+      <DependentUpon>PT-15.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-16.aspx.cs">
+      <DependentUpon>PT-16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-16.aspx.designer.cs">
+      <DependentUpon>PT-16.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-17.aspx.cs">
+      <DependentUpon>PT-17.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-17.aspx.designer.cs">
+      <DependentUpon>PT-17.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-18.aspx.cs">
+      <DependentUpon>PT-18.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Poesia\PT-18.aspx.designer.cs">
+      <DependentUpon>PT-18.aspx</DependentUpon>
     </Compile>
     <Compile Include="PT\SitePTHistoria.master.cs">
       <DependentUpon>SitePTHistoria.master</DependentUpon>
