@@ -10,10 +10,17 @@
             <br>            
 	        <h1>¡Bienvenido!</h1>
             <br>
-            <br>
-            <br>  
+            
             <hr />    
-            <br>
+            <div class='col-xs-12 col-md-12 text-center'>
+                        <a href='/PT/Poesia/INDEX'>
+               <h3 style="color:black">Poesía</h3>                     
+      <img class="img-responsive" style="margin:0 auto;" src="/images/Poesia.png" height="212" alt="Poesia"/> 
+      </a>
+                       <br />            
+            <hr />
+                     <br />            
+                       </div> 
              <!-- Conteudo  --> 
       <div class='container panel-body'>
         <div class='col-xs-12 col-md-12 text-center'>

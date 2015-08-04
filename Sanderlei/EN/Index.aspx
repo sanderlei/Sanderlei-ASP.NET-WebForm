@@ -12,17 +12,21 @@
             <br>
             <br>
             <br>          
-            <br>
-              <br>
-            <br>          
-            <br>
-              <hr />
+             </div>             
+                   <div class='col-xs-12 col-md-12 text-center'>
+                        <a href='/PT/Poesia/INDEX'>
+               <h3 style="color:black">Poetry </h3>                     
+      <img class="img-responsive" style="margin:0 auto;" src="/images/Poesia.png" height="212" alt="Poesia"/> 
+      </a>
+                       <br />            
+            <hr />
+                     <br />            
+                       </div> 
               <!-- Conteudo  --> 
       <div class='container panel-body'>
         <div class='col-xs-12 col-md-12 text-center'>
             <br>            
-	                  <br>
-            <br>
+	                
             <h2>History in 1 Minute</h2>
             <br>
             <br>
