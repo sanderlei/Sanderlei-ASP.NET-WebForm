@@ -20,7 +20,7 @@
                 <div class='col-xs-12 col-sm-4 text-center' style="background-color:black">                 
                    <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Duf5n3_fb1c" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>
                 <div class='col-xs-12 col-sm-4 text-center' style="background-color:black">                 
-                   <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oiVaHuftA4" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>
+                   <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ts1u6TKadIk" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>
                 <div class='col-xs-12 col-sm-4 text-center' style="background-color:black">                 
                    <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3RUQA2cM9kM" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>                
                </div>                                   
@@ -29,15 +29,15 @@
             <br />
              <div class="container-fluid" style="background-color:black">	     
                 <br />      
-                <h4 style="color:white">Euclides da Cunha - Os Sertões (Áudio Livro) </h4>     
+                <h4 style="color:white">Lima Barreto - Triste Fim de Policarpo Quaresma (Áudio Livro) </h4>     
                 <br />              
                 <div>
                 <div class='col-xs-12 col-sm-4 text-center' style="background-color:black">                 
-                   <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3yIxfVJ90hk" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>
+                   <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5GXtv4KPQxw" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>
                 <div class='col-xs-12 col-sm-4 text-center' style="background-color:black">                 
-                   <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nzypNTIq7ck" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>
+                   <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ztb-VdVAHtI" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>
                 <div class='col-xs-12 col-sm-4 text-center' style="background-color:black">                 
-                   <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LQoa5pp62d8" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>                
+                   <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9JiEB4VGffw" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>                
                </div> 
                    </div> 
             <br />
