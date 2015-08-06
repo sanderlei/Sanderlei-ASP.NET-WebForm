@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/SiteEN.Master" AutoEventWireup="true" CodeBehind="SiteENGitHub.master.cs" Inherits="Sanderlei.EN.SiteENGitHub" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder11" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenu" runat="server">
+
+     <!-- Menu Principal -->     
+        <div class='navbar navbar-inverse navbar-static-top' >
+        	<div class='container'>  
+	           <div class='navbar-header'>
+            		<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>                                    
+                          <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
+               </div>
+    	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                   
+               		<li><a href='EN-01-01' data-target='#' data-toggle='dropdown'>GitHub - Beginner<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='EN-01-01'>GitHub - Beginner - 01 - Introduction	</a></li>                            
+                           <li><a href='EN-01-02'>GitHub - Beginner - 02 - Staging, Remotes</a></li>
+                           <li><a href='EN-01-03'>GitHub - Beginner - 03 - Cloning & Branching</a></li>
+                           <li><a href='EN-01-04'>GitHub - Beginner - 04 - Collaboration Basics</a></li>
+                           <li><a href='EN-01-05'>GitHub - Beginner - 05 - Branching</a></li>
+                           <li><a href='EN-01-06'>GitHub - Beginner - 06 - Rebase belong to us</a></li>
+                           <li><a href='EN-01-07'>GitHub - Beginner - 07 - History and Configuration</a></li>
+                              </ul>	       	         	                           
+                 
+                    
+                    <li><a href='EN-02-01' data-target='#' data-toggle='dropdown'>GitHub - Intermediate<span class='caret'></span></a><ul class='dropdown-menu'>
+                         <li><a href='EN-02-01'> GitHub - Intermediate  - 01 - Interactive Rebase  </a></li>
+                         <li><a href='EN-02-02'> GitHub - Intermediate  - 02 - Stashing   </a></li>
+                         <li><a href='EN-02-03'> GitHub - Intermediate  - 03 - Purging History  </a></li>
+                         <li><a href='EN-02-04'> GitHub - Intermediate  - 04 - Working together  </a></li>
+                         <li><a href='EN-02-05'> GitHub - Intermediate  - 05 - Submodules  </a></li>
+                         <li><a href='EN-02-06'> GitHub - Intermediate  - 06 - Reflog  </a></li>
+                         
+                        
+                                                                                                                                </ul>	        	         	                           
+                 <li><a href='EN-03-01' data-target='#' data-toggle='dropdown'>GitHub - Advanced <span class='caret'></span></a><ul class='dropdown-menu'>                    
+                     <li><a href='EN-03-01'> GitHub - Advanced - 01 - Fork Based Workflows  </a></li>
+                     <li><a href='EN-03-02'> GitHub - Advanced - 02 - Fork Based Workflows  </a></li>
+                     <li><a href='EN-03-03'> GitHub - Advanced - 03 - Fork Based Workflows  </a></li>
+                     <li><a href='EN-03-04'> GitHub - Advanced - 04 - Fork Based Workflow  </a></li>
+                     <li><a href='EN-03-05'> GitHub - Advanced - 05 - Single Repository Workflows  </a></li>
+                     <li><a href='EN-03-06'> GitHub - Advanced - 06 - Single Repository Workflows  </a></li>
+                     <li><a href='EN-03-07'> GitHub - Advanced - 07 - Single Repository Workflows  </a></li>
+                     <li><a href='EN-03-08'> GitHub - Advanced - 08 - Tags, Branches and Releases  </a></li>
+                     <li><a href='EN-03-09'> GitHub - Advanced - 09 - Tags, Branches and Releases  </a></li>
+                     <li><a href='EN-03-10'> GitHub - Advanced - 10 - Tags, Branches and Releases  </a></li>
+                     <li><a href='EN-03-11'> GitHub - Advanced - 11 - Issues, Wiki's and GitHub Pages  </a></li>
+                     <li><a href='EN-03-12'> GitHub - Advanced - 12 - Issues, Wiki's and GitHub Pages  </a></li>
+                     <li><a href='EN-03-13'> GitHub - Advanced - 13 - Issues, Wiki's and GitHub Pages  </a></li>
+                     <li><a href='EN-03-14'> GitHub - Advanced - 14 - Managing and Securing GitHub  </a></li>
+                     <li><a href='EN-03-15'> GitHub - Advanced - 15 - Managing and Securing GitHub  </a></li>
+                     <li><a href='EN-03-16'> GitHub - Advanced - 16 - Automating GitHub  </a></li>
+                     <li><a href='EN-03-17'> GitHub - Advanced - 17 - Automating GitHub  </a></li>
+                     <li><a href='EN-03-18'> GitHub - Advanced - 18 - Command Line GitHub  </a></li>
+                    
+                        
+                                                                                                                                </ul>
+                         	         	                           
+              </ul>                  
+        	</div>
+        </div>
+
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder12" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>

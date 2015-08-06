@@ -1,6 +1,6 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/PT/SitePTBook.master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.PT.AudioBook.Index" %>
+﻿<%@ Page Title="Audio Book" Language="C#" MasterPageFile="~/PT/SitePTBook.master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.PT.AudioBook.Index" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">    
-    <meta name="description" content="Poesia em Português, espanhol, Inglês e Francês..." />
+    <meta name="description" content="Audio Book em Português, espanhol, Inglês e Francês..." />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
 <!-- Conteudo  --> 

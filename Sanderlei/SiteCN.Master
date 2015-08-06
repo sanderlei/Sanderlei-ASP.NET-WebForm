@@ -56,7 +56,8 @@
                     <li><a href='/CN/历史/Index' >历史 (EN)</a></li>    
                    <li><a href='/PT/Poesia/Index'>诗 (PT)</a></li>   
                    <li><a href='/PT/Idioma/Index' >语言课程</a></li>  
-                   <li><a href='/PT/AudioBook/Index' > 有声读物 (EN)</a></li>          
+                   <li><a href='/PT/AudioBook/Index' > 有声读物 (EN)</a></li>  
+                   <li><a href='/EN/GitHub/Index' > GitHub (EN)</a></li>          
                </ul>                  
         	</div>           
         </div>           
@@ -93,6 +94,8 @@
         <a style="color:white" href='http://audio-book-sanderlei.blogspot.com/'> Audio Book Online - Gratis e Completo (B)| </a>
         <a style="color:white" href='http://audio-livro-sanderlei.azurewebsites.net/'> Audio Livro Online - Gratis e Completo (A)|</a>
         <a style="color:white" href='http://audio-livro-sanderlei.blogspot.com/'> Audio Livro Online - Gratis e Completo (B)| </a>
+        <a style="color:white" href='http://github-tutorial-sanderlei.azurewebsites.net/'> GitHub Tutorial - Curso online Gratuito e Completo (A)|</a>
+        <a style="color:white" href='http://github-tutorial-curso-online-gratuito.blogspot.com/'> GitHub Tutorial - Curso online Gratuito e Completo (B)| </a>
   </div>
     
      <!--  Google Analytics - Inicio  -->

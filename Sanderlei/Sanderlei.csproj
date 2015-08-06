@@ -257,6 +257,38 @@
     <Content Include="DE\Geschichte\EN-60.aspx" />
     <Content Include="DE\Geschichte\Index.aspx" />
     <Content Include="DE\Index.aspx" />
+    <Content Include="EN\GitHub\EN-01-01.aspx" />
+    <Content Include="EN\GitHub\EN-01-02.aspx" />
+    <Content Include="EN\GitHub\EN-01-03.aspx" />
+    <Content Include="EN\GitHub\EN-01-04.aspx" />
+    <Content Include="EN\GitHub\EN-01-05.aspx" />
+    <Content Include="EN\GitHub\EN-01-06.aspx" />
+    <Content Include="EN\GitHub\EN-01-07.aspx" />
+    <Content Include="EN\GitHub\EN-02-01.aspx" />
+    <Content Include="EN\GitHub\EN-02-02.aspx" />
+    <Content Include="EN\GitHub\EN-02-03.aspx" />
+    <Content Include="EN\GitHub\EN-02-04.aspx" />
+    <Content Include="EN\GitHub\EN-02-05.aspx" />
+    <Content Include="EN\GitHub\EN-02-06.aspx" />
+    <Content Include="EN\GitHub\EN-03-01.aspx" />
+    <Content Include="EN\GitHub\EN-03-02.aspx" />
+    <Content Include="EN\GitHub\EN-03-03.aspx" />
+    <Content Include="EN\GitHub\EN-03-04.aspx" />
+    <Content Include="EN\GitHub\EN-03-05.aspx" />
+    <Content Include="EN\GitHub\EN-03-06.aspx" />
+    <Content Include="EN\GitHub\EN-03-07.aspx" />
+    <Content Include="EN\GitHub\EN-03-08.aspx" />
+    <Content Include="EN\GitHub\EN-03-09.aspx" />
+    <Content Include="EN\GitHub\EN-03-10.aspx" />
+    <Content Include="EN\GitHub\EN-03-11.aspx" />
+    <Content Include="EN\GitHub\EN-03-12.aspx" />
+    <Content Include="EN\GitHub\EN-03-13.aspx" />
+    <Content Include="EN\GitHub\EN-03-14.aspx" />
+    <Content Include="EN\GitHub\EN-03-15.aspx" />
+    <Content Include="EN\GitHub\EN-03-16.aspx" />
+    <Content Include="EN\GitHub\EN-03-17.aspx" />
+    <Content Include="EN\GitHub\EN-03-18.aspx" />
+    <Content Include="EN\GitHub\Index.aspx" />
     <Content Include="EN\History\EN-01.aspx" />
     <Content Include="EN\History\EN-02.aspx" />
     <Content Include="EN\History\EN-03.aspx" />
@@ -1194,6 +1226,7 @@
     <Content Include="CN\SiteCN开始.master" />
     <Content Include="JP\SiteJP歴史.master" />
     <Content Include="AR\SiteARHistory.master" />
+    <Content Include="EN\SiteENGitHub.master" />
     <None Include="Properties\PublishProfiles\sanderlei.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -2552,6 +2585,230 @@
     <Compile Include="DE\SiteDEGeschichte.master.designer.cs">
       <DependentUpon>SiteDEGeschichte.master</DependentUpon>
     </Compile>
+    <Compile Include="EN\GitHub\EN-01-01.aspx.cs">
+      <DependentUpon>EN-01-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-01.aspx.designer.cs">
+      <DependentUpon>EN-01-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-02.aspx.cs">
+      <DependentUpon>EN-01-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-02.aspx.designer.cs">
+      <DependentUpon>EN-01-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-03.aspx.cs">
+      <DependentUpon>EN-01-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-03.aspx.designer.cs">
+      <DependentUpon>EN-01-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-04.aspx.cs">
+      <DependentUpon>EN-01-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-04.aspx.designer.cs">
+      <DependentUpon>EN-01-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-05.aspx.cs">
+      <DependentUpon>EN-01-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-05.aspx.designer.cs">
+      <DependentUpon>EN-01-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-06.aspx.cs">
+      <DependentUpon>EN-01-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-06.aspx.designer.cs">
+      <DependentUpon>EN-01-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-07.aspx.cs">
+      <DependentUpon>EN-01-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-01-07.aspx.designer.cs">
+      <DependentUpon>EN-01-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-01.aspx.cs">
+      <DependentUpon>EN-02-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-01.aspx.designer.cs">
+      <DependentUpon>EN-02-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-02.aspx.cs">
+      <DependentUpon>EN-02-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-02.aspx.designer.cs">
+      <DependentUpon>EN-02-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-03.aspx.cs">
+      <DependentUpon>EN-02-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-03.aspx.designer.cs">
+      <DependentUpon>EN-02-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-04.aspx.cs">
+      <DependentUpon>EN-02-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-04.aspx.designer.cs">
+      <DependentUpon>EN-02-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-05.aspx.cs">
+      <DependentUpon>EN-02-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-05.aspx.designer.cs">
+      <DependentUpon>EN-02-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-06.aspx.cs">
+      <DependentUpon>EN-02-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-02-06.aspx.designer.cs">
+      <DependentUpon>EN-02-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-01.aspx.cs">
+      <DependentUpon>EN-03-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-01.aspx.designer.cs">
+      <DependentUpon>EN-03-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-02.aspx.cs">
+      <DependentUpon>EN-03-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-02.aspx.designer.cs">
+      <DependentUpon>EN-03-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-03.aspx.cs">
+      <DependentUpon>EN-03-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-03.aspx.designer.cs">
+      <DependentUpon>EN-03-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-04.aspx.cs">
+      <DependentUpon>EN-03-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-04.aspx.designer.cs">
+      <DependentUpon>EN-03-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-05.aspx.cs">
+      <DependentUpon>EN-03-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-05.aspx.designer.cs">
+      <DependentUpon>EN-03-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-06.aspx.cs">
+      <DependentUpon>EN-03-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-06.aspx.designer.cs">
+      <DependentUpon>EN-03-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-07.aspx.cs">
+      <DependentUpon>EN-03-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-07.aspx.designer.cs">
+      <DependentUpon>EN-03-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-08.aspx.cs">
+      <DependentUpon>EN-03-08.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-08.aspx.designer.cs">
+      <DependentUpon>EN-03-08.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-09.aspx.cs">
+      <DependentUpon>EN-03-09.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-09.aspx.designer.cs">
+      <DependentUpon>EN-03-09.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-10.aspx.cs">
+      <DependentUpon>EN-03-10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-10.aspx.designer.cs">
+      <DependentUpon>EN-03-10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-11.aspx.cs">
+      <DependentUpon>EN-03-11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-11.aspx.designer.cs">
+      <DependentUpon>EN-03-11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-12.aspx.cs">
+      <DependentUpon>EN-03-12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-12.aspx.designer.cs">
+      <DependentUpon>EN-03-12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-13.aspx.cs">
+      <DependentUpon>EN-03-13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-13.aspx.designer.cs">
+      <DependentUpon>EN-03-13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-14.aspx.cs">
+      <DependentUpon>EN-03-14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-14.aspx.designer.cs">
+      <DependentUpon>EN-03-14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-15.aspx.cs">
+      <DependentUpon>EN-03-15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-15.aspx.designer.cs">
+      <DependentUpon>EN-03-15.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-16.aspx.cs">
+      <DependentUpon>EN-03-16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-16.aspx.designer.cs">
+      <DependentUpon>EN-03-16.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-17.aspx.cs">
+      <DependentUpon>EN-03-17.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-17.aspx.designer.cs">
+      <DependentUpon>EN-03-17.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-18.aspx.cs">
+      <DependentUpon>EN-03-18.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\EN-03-18.aspx.designer.cs">
+      <DependentUpon>EN-03-18.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\GitHub\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\GitHub\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
     <Compile Include="EN\History\EN-01.aspx.cs">
       <DependentUpon>EN-01.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -2985,6 +3242,13 @@
     </Compile>
     <Compile Include="EN\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SiteENGitHub.master.cs">
+      <DependentUpon>SiteENGitHub.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SiteENGitHub.master.designer.cs">
+      <DependentUpon>SiteENGitHub.master</DependentUpon>
     </Compile>
     <Compile Include="EN\SiteENHistory.master.cs">
       <DependentUpon>SiteENHistory.master</DependentUpon>
