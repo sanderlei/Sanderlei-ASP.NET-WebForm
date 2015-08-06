@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="Augusto dos Anjos  - Versos íntimos" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-02.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_02" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
-    <meta name="description" content="Poesia - Augusto dos Anjos - Versos íntimos" /> 
+    <meta name="description" content="Vês! Ninguém assistiu ao formidável, Enterro de tua última quimera. Somente a Ingratidão -- esta pantera -- Foi tua companheira inseparável! " /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
        <!-- Conteudo  --> 

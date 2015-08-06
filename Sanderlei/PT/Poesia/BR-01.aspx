@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="Gregório de Matos - À Cidade da Bahia" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-01.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_01" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
-    <meta name="description" content="A cada canto um grande conselheiro..." /> 
+ <meta name="description" content="À CIDADE DA BAHIA - Gregório de Matos, A cada canto um grande conselheiro, Que nos quer governar cabana e vinha; Não sabem governar sua cozinha, E podem governar o mundo..." /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 

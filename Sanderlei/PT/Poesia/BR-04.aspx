@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="Olavo Bilac - A Alvorada do Amor" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-04.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_04" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
-    <meta name="description" content="Poesia - Olavo Bilac - A Alvorada do Amor " /> 
+    <meta name="description" content="Um horror grande e mudo, um silêncio profundo, No dia do Pecado amortalhava o mundo. E Adão, vendo fechar-se a porta do Éden, vendo, Que Eva olhava o deserto e hesitava tremendo, Disse:  " /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
       <!-- Conteudo  --> 
