@@ -1228,9 +1228,7 @@
     <Content Include="JP\SiteJP歴史.master" />
     <Content Include="AR\SiteARHistory.master" />
     <Content Include="EN\SiteENGitHub.master" />
-    <None Include="Properties\PublishProfiles\sanderlei %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\sanderlei %283%29.pubxml" />
-    <None Include="Properties\PublishProfiles\sanderlei.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
