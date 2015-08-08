@@ -1,6 +1,6 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/PT/SitePTIdioma.master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.PT.Idioma.Index" %>
+﻿<%@ Page Title="Curso de Inglês e Espanhol" Language="C#" MasterPageFile="~/PT/SitePTIdioma.master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.PT.Idioma.Index" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">    
-    <meta name="description" content="Poesia em Português, espanhol, Inglês e Francês..." />
+    <meta name="description" content="Curso de Inglês e Espanhol em 2 Horas - Nível Básico, Intermediário e Avançado..." />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
 <!-- Conteudo  --> 
