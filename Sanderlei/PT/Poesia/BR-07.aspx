@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="Alvarez de Azevedo - Lembrança de Morrer" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-07.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_07" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
-    <meta name="description" content="Poesia - Alvarez de Azevedo - Lembrança de Morrer " /> 
+    <meta name="description" content="Quando em meu peito rebentar-se a fibra, Que o espírito enlaça à dor vivente, Não derramem por mim nenhuma lágrima em..." /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
       <!-- Conteudo  --> 
