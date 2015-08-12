@@ -352,6 +352,45 @@
     <Content Include="EN\History\EN-60.aspx" />
     <Content Include="EN\History\Index.aspx" />
     <Content Include="EN\Index.aspx" />
+    <Content Include="EN\SAP\EN-01-01.aspx" />
+    <Content Include="EN\SAP\EN-01-02.aspx" />
+    <Content Include="EN\SAP\EN-01-03.aspx" />
+    <Content Include="EN\SAP\EN-01-04.aspx" />
+    <Content Include="EN\SAP\EN-01-05.aspx" />
+    <Content Include="EN\SAP\EN-01-06.aspx" />
+    <Content Include="EN\SAP\EN-01-07.aspx" />
+    <Content Include="EN\SAP\EN-01-08.aspx" />
+    <Content Include="EN\SAP\EN-01-09.aspx" />
+    <Content Include="EN\SAP\EN-01-10.aspx" />
+    <Content Include="EN\SAP\EN-01-11.aspx" />
+    <Content Include="EN\SAP\EN-01-12.aspx" />
+    <Content Include="EN\SAP\EN-01-13.aspx" />
+    <Content Include="EN\SAP\EN-01-14.aspx" />
+    <Content Include="EN\SAP\EN-01-15.aspx" />
+    <Content Include="EN\SAP\EN-01-16.aspx" />
+    <Content Include="EN\SAP\EN-01-17.aspx" />
+    <Content Include="EN\SAP\EN-01-18.aspx" />
+    <Content Include="EN\SAP\EN-01-19.aspx" />
+    <Content Include="EN\SAP\EN-01-20.aspx" />
+    <Content Include="EN\SAP\EN-01-21.aspx" />
+    <Content Include="EN\SAP\EN-01-22.aspx" />
+    <Content Include="EN\SAP\EN-01-23.aspx" />
+    <Content Include="EN\SAP\EN-01-24.aspx" />
+    <Content Include="EN\SAP\EN-01-25.aspx" />
+    <Content Include="EN\SAP\EN-01-26.aspx" />
+    <Content Include="EN\SAP\EN-01-27.aspx" />
+    <Content Include="EN\SAP\EN-01-28.aspx" />
+    <Content Include="EN\SAP\EN-01-29.aspx" />
+    <Content Include="EN\SAP\EN-01-30.aspx" />
+    <Content Include="EN\SAP\EN-01-31.aspx" />
+    <Content Include="EN\SAP\EN-01-32.aspx" />
+    <Content Include="EN\SAP\EN-01-33.aspx" />
+    <Content Include="EN\SAP\EN-01-34.aspx" />
+    <Content Include="EN\SAP\EN-01-35.aspx" />
+    <Content Include="EN\SAP\EN-01-36.aspx" />
+    <Content Include="EN\SAP\EN-01-37.aspx" />
+    <Content Include="EN\SAP\EN-01-38.aspx" />
+    <Content Include="EN\SAP\Index.aspx" />
     <Content Include="ES\Historia\ES-01.aspx" />
     <Content Include="ES\Historia\ES-02.aspx" />
     <Content Include="ES\Historia\ES-03.aspx" />
@@ -682,6 +721,7 @@
     <Content Include="JP\歴史\EN-60.aspx" />
     <Content Include="JP\歴史\Index.aspx" />
     <Content Include="packages.config" />
+    <Content Include="PT\00.aspx" />
     <Content Include="PT\AudioBook\EN-01-01.aspx" />
     <Content Include="PT\AudioBook\EN-01-02.aspx" />
     <Content Include="PT\AudioBook\EN-01-03.aspx" />
@@ -1087,6 +1127,18 @@
     <Content Include="PT\Idioma\ES-01-19.aspx" />
     <Content Include="PT\Idioma\ES-01-20.aspx" />
     <Content Include="PT\Idioma\Index.aspx" />
+    <Content Include="PT\Machado-de-Assis\00.aspx" />
+    <Content Include="PT\Machado-de-Assis\Dom-Casmurro-010.aspx" />
+    <Content Include="PT\Machado-de-Assis\Dom-Casmurro-009.aspx" />
+    <Content Include="PT\Machado-de-Assis\Dom-Casmurro-008.aspx" />
+    <Content Include="PT\Machado-de-Assis\Dom-Casmurro-007.aspx" />
+    <Content Include="PT\Machado-de-Assis\Dom-Casmurro-006.aspx" />
+    <Content Include="PT\Machado-de-Assis\Dom-Casmurro-005.aspx" />
+    <Content Include="PT\Machado-de-Assis\Dom-Casmurro-004.aspx" />
+    <Content Include="PT\Machado-de-Assis\Dom-Casmurro-003.aspx" />
+    <Content Include="PT\Machado-de-Assis\Dom-Casmurro-002.aspx" />
+    <Content Include="PT\Machado-de-Assis\Dom-Casmurro-001.aspx" />
+    <Content Include="PT\Machado-de-Assis\Index.aspx" />
     <Content Include="PT\Poesia\BR-01.aspx" />
     <Content Include="PT\Poesia\BR-02.aspx" />
     <Content Include="PT\Poesia\BR-03.aspx" />
@@ -1165,6 +1217,25 @@
     <Content Include="PT\Poesia\PT-16.aspx" />
     <Content Include="PT\Poesia\PT-17.aspx" />
     <Content Include="PT\Poesia\PT-18.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-01.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-02.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-03.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-04.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-05.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-06.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-07.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-08.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-09.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-10.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-11.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-01-12.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-02-01.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-02-02.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-02-03.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-02-04.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-02-05.aspx" />
+    <Content Include="PT\TOTVS-Datasul\BR-02-06.aspx" />
+    <Content Include="PT\TOTVS-Datasul\Index.aspx" />
     <Content Include="RU\Index.aspx" />
     <Content Include="RU\история\EN-01.aspx" />
     <Content Include="RU\история\EN-02.aspx" />
@@ -1247,6 +1318,7 @@
     <Content Include="JP\SiteJP歴史.master" />
     <Content Include="AR\SiteARHistory.master" />
     <Content Include="EN\SiteENGitHub.master" />
+    <Content Include="EN\SiteENSAP.master" />
     <None Include="Properties\PublishProfiles\sanderlei %283%29.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -1258,6 +1330,8 @@
     <Content Include="PT\SitePTBook.master" />
     <Content Include="PT\SitePTLivro.master" />
     <Content Include="PT\SitePTBrasil.master" />
+    <Content Include="PT\SitePTTotvs.master" />
+    <Content Include="PT\SitePTMachado.master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -3264,6 +3338,279 @@
     <Compile Include="EN\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="EN\SAP\EN-01-01.aspx.cs">
+      <DependentUpon>EN-01-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-01.aspx.designer.cs">
+      <DependentUpon>EN-01-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-02.aspx.cs">
+      <DependentUpon>EN-01-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-02.aspx.designer.cs">
+      <DependentUpon>EN-01-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-03.aspx.cs">
+      <DependentUpon>EN-01-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-03.aspx.designer.cs">
+      <DependentUpon>EN-01-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-04.aspx.cs">
+      <DependentUpon>EN-01-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-04.aspx.designer.cs">
+      <DependentUpon>EN-01-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-05.aspx.cs">
+      <DependentUpon>EN-01-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-05.aspx.designer.cs">
+      <DependentUpon>EN-01-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-06.aspx.cs">
+      <DependentUpon>EN-01-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-06.aspx.designer.cs">
+      <DependentUpon>EN-01-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-07.aspx.cs">
+      <DependentUpon>EN-01-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-07.aspx.designer.cs">
+      <DependentUpon>EN-01-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-08.aspx.cs">
+      <DependentUpon>EN-01-08.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-08.aspx.designer.cs">
+      <DependentUpon>EN-01-08.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-09.aspx.cs">
+      <DependentUpon>EN-01-09.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-09.aspx.designer.cs">
+      <DependentUpon>EN-01-09.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-10.aspx.cs">
+      <DependentUpon>EN-01-10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-10.aspx.designer.cs">
+      <DependentUpon>EN-01-10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-11.aspx.cs">
+      <DependentUpon>EN-01-11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-11.aspx.designer.cs">
+      <DependentUpon>EN-01-11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-12.aspx.cs">
+      <DependentUpon>EN-01-12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-12.aspx.designer.cs">
+      <DependentUpon>EN-01-12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-13.aspx.cs">
+      <DependentUpon>EN-01-13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-13.aspx.designer.cs">
+      <DependentUpon>EN-01-13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-14.aspx.cs">
+      <DependentUpon>EN-01-14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-14.aspx.designer.cs">
+      <DependentUpon>EN-01-14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-15.aspx.cs">
+      <DependentUpon>EN-01-15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-15.aspx.designer.cs">
+      <DependentUpon>EN-01-15.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-16.aspx.cs">
+      <DependentUpon>EN-01-16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-16.aspx.designer.cs">
+      <DependentUpon>EN-01-16.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-17.aspx.cs">
+      <DependentUpon>EN-01-17.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-17.aspx.designer.cs">
+      <DependentUpon>EN-01-17.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-18.aspx.cs">
+      <DependentUpon>EN-01-18.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-18.aspx.designer.cs">
+      <DependentUpon>EN-01-18.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-19.aspx.cs">
+      <DependentUpon>EN-01-19.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-19.aspx.designer.cs">
+      <DependentUpon>EN-01-19.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-20.aspx.cs">
+      <DependentUpon>EN-01-20.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-20.aspx.designer.cs">
+      <DependentUpon>EN-01-20.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-21.aspx.cs">
+      <DependentUpon>EN-01-21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-21.aspx.designer.cs">
+      <DependentUpon>EN-01-21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-22.aspx.cs">
+      <DependentUpon>EN-01-22.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-22.aspx.designer.cs">
+      <DependentUpon>EN-01-22.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-23.aspx.cs">
+      <DependentUpon>EN-01-23.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-23.aspx.designer.cs">
+      <DependentUpon>EN-01-23.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-24.aspx.cs">
+      <DependentUpon>EN-01-24.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-24.aspx.designer.cs">
+      <DependentUpon>EN-01-24.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-25.aspx.cs">
+      <DependentUpon>EN-01-25.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-25.aspx.designer.cs">
+      <DependentUpon>EN-01-25.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-26.aspx.cs">
+      <DependentUpon>EN-01-26.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-26.aspx.designer.cs">
+      <DependentUpon>EN-01-26.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-27.aspx.cs">
+      <DependentUpon>EN-01-27.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-27.aspx.designer.cs">
+      <DependentUpon>EN-01-27.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-28.aspx.cs">
+      <DependentUpon>EN-01-28.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-28.aspx.designer.cs">
+      <DependentUpon>EN-01-28.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-29.aspx.cs">
+      <DependentUpon>EN-01-29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-29.aspx.designer.cs">
+      <DependentUpon>EN-01-29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-30.aspx.cs">
+      <DependentUpon>EN-01-30.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-30.aspx.designer.cs">
+      <DependentUpon>EN-01-30.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-31.aspx.cs">
+      <DependentUpon>EN-01-31.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-31.aspx.designer.cs">
+      <DependentUpon>EN-01-31.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-32.aspx.cs">
+      <DependentUpon>EN-01-32.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-32.aspx.designer.cs">
+      <DependentUpon>EN-01-32.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-33.aspx.cs">
+      <DependentUpon>EN-01-33.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-33.aspx.designer.cs">
+      <DependentUpon>EN-01-33.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-34.aspx.cs">
+      <DependentUpon>EN-01-34.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-34.aspx.designer.cs">
+      <DependentUpon>EN-01-34.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-35.aspx.cs">
+      <DependentUpon>EN-01-35.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-35.aspx.designer.cs">
+      <DependentUpon>EN-01-35.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-36.aspx.cs">
+      <DependentUpon>EN-01-36.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-36.aspx.designer.cs">
+      <DependentUpon>EN-01-36.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-37.aspx.cs">
+      <DependentUpon>EN-01-37.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-37.aspx.designer.cs">
+      <DependentUpon>EN-01-37.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-38.aspx.cs">
+      <DependentUpon>EN-01-38.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\EN-01-38.aspx.designer.cs">
+      <DependentUpon>EN-01-38.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SAP\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SAP\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
     <Compile Include="EN\SiteENGitHub.master.cs">
       <DependentUpon>SiteENGitHub.master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -3277,6 +3624,13 @@
     </Compile>
     <Compile Include="EN\SiteENHistory.master.designer.cs">
       <DependentUpon>SiteENHistory.master</DependentUpon>
+    </Compile>
+    <Compile Include="EN\SiteENSAP.master.cs">
+      <DependentUpon>SiteENSAP.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\SiteENSAP.master.designer.cs">
+      <DependentUpon>SiteENSAP.master</DependentUpon>
     </Compile>
     <Compile Include="ES\Historia\ES-01.aspx.cs">
       <DependentUpon>ES-01.aspx</DependentUpon>
@@ -5062,6 +5416,13 @@
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="PT\00.aspx.cs">
+      <DependentUpon>00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\00.aspx.designer.cs">
+      <DependentUpon>00.aspx</DependentUpon>
     </Compile>
     <Compile Include="PT\AudioBook\EN-01-01.aspx.cs">
       <DependentUpon>EN-01-01.aspx</DependentUpon>
@@ -7863,6 +8224,13 @@
     <Compile Include="PT\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="PT\Machado-de-Assis\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Machado-de-Assis\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
     <Compile Include="PT\Poesia\BR-01.aspx.cs">
       <DependentUpon>BR-01.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -8444,12 +8812,159 @@
     <Compile Include="PT\SitePTLivro.master.designer.cs">
       <DependentUpon>SitePTLivro.master</DependentUpon>
     </Compile>
+    <Compile Include="PT\SitePTMachado.master.cs">
+      <DependentUpon>SitePTMachado.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\SitePTMachado.master.designer.cs">
+      <DependentUpon>SitePTMachado.master</DependentUpon>
+    </Compile>
     <Compile Include="PT\SitePTPoesia.master.cs">
       <DependentUpon>SitePTPoesia.master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="PT\SitePTPoesia.master.designer.cs">
       <DependentUpon>SitePTPoesia.master</DependentUpon>
+    </Compile>
+    <Compile Include="PT\SitePTTotvs.master.cs">
+      <DependentUpon>SitePTTotvs.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\SitePTTotvs.master.designer.cs">
+      <DependentUpon>SitePTTotvs.master</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-01.aspx.cs">
+      <DependentUpon>BR-01-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-01.aspx.designer.cs">
+      <DependentUpon>BR-01-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-02.aspx.cs">
+      <DependentUpon>BR-01-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-02.aspx.designer.cs">
+      <DependentUpon>BR-01-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-03.aspx.cs">
+      <DependentUpon>BR-01-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-03.aspx.designer.cs">
+      <DependentUpon>BR-01-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-04.aspx.cs">
+      <DependentUpon>BR-01-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-04.aspx.designer.cs">
+      <DependentUpon>BR-01-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-05.aspx.cs">
+      <DependentUpon>BR-01-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-05.aspx.designer.cs">
+      <DependentUpon>BR-01-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-06.aspx.cs">
+      <DependentUpon>BR-01-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-06.aspx.designer.cs">
+      <DependentUpon>BR-01-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-07.aspx.cs">
+      <DependentUpon>BR-01-07.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-07.aspx.designer.cs">
+      <DependentUpon>BR-01-07.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-08.aspx.cs">
+      <DependentUpon>BR-01-08.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-08.aspx.designer.cs">
+      <DependentUpon>BR-01-08.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-09.aspx.cs">
+      <DependentUpon>BR-01-09.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-09.aspx.designer.cs">
+      <DependentUpon>BR-01-09.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-10.aspx.cs">
+      <DependentUpon>BR-01-10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-10.aspx.designer.cs">
+      <DependentUpon>BR-01-10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-11.aspx.cs">
+      <DependentUpon>BR-01-11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-11.aspx.designer.cs">
+      <DependentUpon>BR-01-11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-12.aspx.cs">
+      <DependentUpon>BR-01-12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-01-12.aspx.designer.cs">
+      <DependentUpon>BR-01-12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-01.aspx.cs">
+      <DependentUpon>BR-02-01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-01.aspx.designer.cs">
+      <DependentUpon>BR-02-01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-02.aspx.cs">
+      <DependentUpon>BR-02-02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-02.aspx.designer.cs">
+      <DependentUpon>BR-02-02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-03.aspx.cs">
+      <DependentUpon>BR-02-03.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-03.aspx.designer.cs">
+      <DependentUpon>BR-02-03.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-04.aspx.cs">
+      <DependentUpon>BR-02-04.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-04.aspx.designer.cs">
+      <DependentUpon>BR-02-04.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-05.aspx.cs">
+      <DependentUpon>BR-02-05.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-05.aspx.designer.cs">
+      <DependentUpon>BR-02-05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-06.aspx.cs">
+      <DependentUpon>BR-02-06.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\BR-02-06.aspx.designer.cs">
+      <DependentUpon>BR-02-06.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\TOTVS-Datasul\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="RU\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>

@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/SitePT.Master" AutoEventWireup="true" CodeBehind="SitePTMachado.master.cs" Inherits="Sanderlei.PT.SitePTMachado" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+ <asp:ContentPlaceHolder ID="ContentPlaceHolder11" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenu" runat="server">
+
+     <!-- Menu Principal -->     
+        <div class='navbar navbar-inverse navbar-static-top' >
+        	<div class='container'>  
+	           <div class='navbar-header'>
+            		<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>                                    
+                          <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
+               </div>
+    	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                   
+               		<li><a href='Dom-Casmurro-001' data-target='#' data-toggle='dropdown'> Machado de Assis - Dom Casmurro <span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='Dom-Casmurro-001'> Dom Casmurro - Capítulo 001 </a></li>                            
+                           <li><a href='Dom-Casmurro-002'> Dom Casmurro - Capítulo 002 </a></li>                            
+                           <li><a href='Dom-Casmurro-003'> Dom Casmurro - Capítulo 003 </a></li>                            
+                           <li><a href='Dom-Casmurro-004'> Dom Casmurro - Capítulo 004 </a></li>                            
+                           <li><a href='Dom-Casmurro-005'> Dom Casmurro - Capítulo 005 </a></li>                            
+                           <li><a href='Dom-Casmurro-006'> Dom Casmurro - Capítulo 006 </a></li>                            
+                           <li><a href='Dom-Casmurro-007'> Dom Casmurro - Capítulo 007 </a></li>                            
+                           <li><a href='Dom-Casmurro-008'> Dom Casmurro - Capítulo 008 </a></li>                            
+                           <li><a href='Dom-Casmurro-009'> Dom Casmurro - Capítulo 009 </a></li>                            
+                           <li><a href='Dom-Casmurro-010'> Dom Casmurro - Capítulo 010 </a></li>                                                                                             
+                           
+                          
+                              </ul>	      	         	                           
+                 
+
+                         	         	                           
+              </ul>                  
+        	</div>
+        </div>
+
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder12" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+

@@ -54,10 +54,13 @@
                     <li><a href='/PT/Historia/Index' >História</a></li>
                     <li><a href='/PT/Poesia/Index' >Poesia</a></li>
                     <li><a href='/PT/Idioma/Index' >Curso de Idiomas</a></li>  
-                   <li><a href='/PT/AudioLivro/Index' >Áudio Livro</a></li>                  
-                    <li><a href='/PT/AudioBook/Index' >Audio Book (EN)</a></li>
-                   <li><a href='/EN/GitHub/Index' > GitHub (EN)</a></li>  
+                   <li><a href='/PT/AudioLivro/Index' >Áudio Livro</a></li>                                      
                    <li><a href='/PT/Ensino-Fundamental/Index' > Ensino Fundamental (Educação)</a></li>  
+                   <li><a href='/PT/Machado-de-Assis/Index' > Machado de Assis </a></li>
+                   <li><a href='/PT/TOTVS-Datasul/Index' > TOTVS - Datasul </a></li>
+                   <li><a href='/PT/AudioBook/Index' >Audio Book (EN)</a></li>
+                   <li><a href='/EN/GitHub/Index' > GitHub (EN)</a></li>  
+                   <li><a href='/EN/SAP/Index' > SAP (EN)</a></li>   
                    
                <!--    -->
                </ul>                  
