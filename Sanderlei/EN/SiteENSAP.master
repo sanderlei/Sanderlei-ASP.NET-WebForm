@@ -13,51 +13,117 @@
                </div>
     	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                   
                		<li><a href='EN-01-01' data-target='#' data-toggle='dropdown'>SAP Business All-in-One | 01 | Solution Consultant Training | Level 1<span class='caret'></span></a><ul class='dropdown-menu'>
-                           <li><a href='EN-01-01'> 01-38 - SAP Business All-In-One and the Midmarket Approach	</a></li>                            
-                           <li><a href='EN-01-02'> 02-38 - SAP Business All-In-One Values and Benefits	</a></li>                            
-                           <li><a href='EN-01-03'> 03-38 - Introduction to SAP Rapid Deployment Solutions	</a></li>                            
-                           <li><a href='EN-01-04'> 04-38 - SAP Business All-In-One Rapid-Deployment Solution Overview	</a></li>                            
-                           <li><a href='EN-01-05'> 05-38 - Introduction to SAP Best Practices	</a></li>                            
-                           <li><a href='EN-01-06'> 06-38 - ASAP Focus Methodology Overview	</a></li>                            
-                           <li><a href='EN-01-07'> 07-38 - SAP ERP Basic Concepts	</a></li>                            
-                           <li><a href='EN-01-08'> 08-38 - Introduction SAP Business All-In-One Financial and Logistics	</a></li>                            
-                           <li><a href='EN-01-09'> 09-38 - Introduction to BI Best Practices	</a></li>                            
-                           <li><a href='EN-01-10'> 10-38 - Your Attidute Against SAP Business All-In-One Projects	</a></li>                            
-                           <li><a href='EN-01-11'> 11-38 - Consulting Paradigms	</a></li>                            
-                           <li><a href='EN-01-12'> 12-38 - Sales and Customer Paradigms </a></li>                            
-                           <li><a href='EN-01-13'> 13-38 - ASAP Focus Evaluation Roadmap	</a></li>                            
-                           <li><a href='EN-01-14'> 14-38 - ASAP Focus Implementation Roadmap	</a></li>                            
-                           <li><a href='EN-01-15'> 15-38 - Positioning the Solution		</a></li>                            
-                           <li><a href='EN-01-16'> 16-38 - Getting the System Ready	</a></li>                            
-                           <li><a href='EN-01-17'> 17-38 - Getting the Data Ready	</a></li>                            
-                           <li><a href='EN-01-18'> 18-38 - Getting the People Ready	</a></li>                            
-                           <li><a href='EN-01-19'> 19-38 - Introduction to SAP NetWeaver	</a></li>                            
-                           <li><a href='EN-01-20'> 20-38 - SAP NetWeaver Business Client	</a></li>                            
-                           <li><a href='EN-01-21'> 21-38 - FRICE - What has to be Done Implementing Best Practices	</a></li>                            
-                           <li><a href='EN-01-22'> 22-38 - User Access	</a></li>                            
-                           <li><a href='EN-01-23'> 23-38 - System Landscape and Client Strategy	</a></li>                            
-                           <li><a href='EN-01-24'> 24-38 - Transport Requests and how to Manage	</a></li>                            
-                           <li><a href='EN-01-25'> 25-38 - Why Organizational Change Management Matters	</a></li>                            
-                           <li><a href='EN-01-26'> 26-38 - OCM Activities and Accelerators in the Roadmap	</a></li>                            
-                           <li><a href='EN-01-27'> 27-38 - Planning and Staffing for OCM	</a></li>                            
-                           <li><a href='EN-01-28'> 28-38 - Supporting Employees Through Change	</a></li>                            
-                           <li><a href='EN-01-29'> 29-38 - SAP Best Practices Overview	</a></li>                            
-                           <li><a href='EN-01-30'> 30-38 - SAP Best Practices Development Concepts	</a></li>                            
-                           <li><a href='EN-01-31'> 31-38 - SAP Best Practices Baseline - Overview	</a></li>                            
-                           <li><a href='EN-01-32'> 32-38 - Demo Options - Online Reference Systems and System Exports	</a></li>                            
-                           <li><a href='EN-01-33'> 33-38 - SAP Best Practices Installation Tools - Overview	</a></li>                            
-                           <li><a href='EN-01-34'> 34-38 - How to Work with BC Sets in SAP Best Practices	</a></li>                            
-                           <li><a href='EN-01-35'> 35-38 - Extended Computer Aided Test Tool (eCATT)	</a></li>                            
-                           <li><a href='EN-01-36'> 36-38 - SAP Best Practices System Preparation - Activation Steps	</a></li>                            
-                           <li><a href='EN-01-37'> 37-38 - SAP Demo Assistant	</a></li>                            
-                           <li><a href='EN-01-38'> 38-38 - NetWeaver Business Client and SAP Best Practices	</a></li>                            
+                           <li><a href='EN-01-01'> SAP Business All-in-One - 01-38 - SAP Business All-In-One and the Midmarket Approach	</a></li>                            
+                           <li><a href='EN-01-02'> SAP Business All-in-One - 02-38 - SAP Business All-In-One Values and Benefits	</a></li>                            
+                           <li><a href='EN-01-03'> SAP Business All-in-One - 03-38 - Introduction to SAP Rapid Deployment Solutions	</a></li>                            
+                           <li><a href='EN-01-04'> SAP Business All-in-One - 04-38 - SAP Business All-In-One Rapid-Deployment Solution Overview	</a></li>                            
+                           <li><a href='EN-01-05'> SAP Business All-in-One - 05-38 - Introduction to SAP Best Practices	</a></li>                            
+                           <li><a href='EN-01-06'> SAP Business All-in-One - 06-38 - ASAP Focus Methodology Overview	</a></li>                            
+                           <li><a href='EN-01-07'> SAP Business All-in-One - 07-38 - SAP ERP Basic Concepts	</a></li>                            
+                           <li><a href='EN-01-08'> SAP Business All-in-One - 08-38 - Introduction SAP Business All-In-One Financial and Logistics	</a></li>                            
+                           <li><a href='EN-01-09'> SAP Business All-in-One - 09-38 - Introduction to BI Best Practices	</a></li>                            
+                           <li><a href='EN-01-10'> SAP Business All-in-One - 10-38 - Your Attidute Against SAP Business All-In-One Projects	</a></li>                            
+                           <li><a href='EN-01-11'> SAP Business All-in-One - 11-38 - Consulting Paradigms	</a></li>                            
+                           <li><a href='EN-01-12'> SAP Business All-in-One - 12-38 - Sales and Customer Paradigms </a></li>                            
+                           <li><a href='EN-01-13'> SAP Business All-in-One - 13-38 - ASAP Focus Evaluation Roadmap	</a></li>                            
+                           <li><a href='EN-01-14'> SAP Business All-in-One - 14-38 - ASAP Focus Implementation Roadmap	</a></li>                            
+                           <li><a href='EN-01-15'> SAP Business All-in-One - 15-38 - Positioning the Solution		</a></li>                            
+                           <li><a href='EN-01-16'> SAP Business All-in-One - 16-38 - Getting the System Ready	</a></li>                            
+                           <li><a href='EN-01-17'> SAP Business All-in-One - 17-38 - Getting the Data Ready	</a></li>                            
+                           <li><a href='EN-01-18'> SAP Business All-in-One - 18-38 - Getting the People Ready	</a></li>                            
+                           <li><a href='EN-01-19'> SAP Business All-in-One - 19-38 - Introduction to SAP NetWeaver	</a></li>                            
+                           <li><a href='EN-01-20'> SAP Business All-in-One - 20-38 - SAP NetWeaver Business Client	</a></li>                            
+                           <li><a href='EN-01-21'> SAP Business All-in-One - 21-38 - FRICE - What has to be Done Implementing Best Practices	</a></li>                            
+                           <li><a href='EN-01-22'> SAP Business All-in-One - 22-38 - User Access	</a></li>                            
+                           <li><a href='EN-01-23'> SAP Business All-in-One - 23-38 - System Landscape and Client Strategy	</a></li>                            
+                           <li><a href='EN-01-24'> SAP Business All-in-One - 24-38 - Transport Requests and how to Manage	</a></li>                            
+                           <li><a href='EN-01-25'> SAP Business All-in-One - 25-38 - Why Organizational Change Management Matters	</a></li>                            
+                           <li><a href='EN-01-26'> SAP Business All-in-One - 26-38 - OCM Activities and Accelerators in the Roadmap	</a></li>                            
+                           <li><a href='EN-01-27'> SAP Business All-in-One - 27-38 - Planning and Staffing for OCM	</a></li>                            
+                           <li><a href='EN-01-28'> SAP Business All-in-One - 28-38 - Supporting Employees Through Change	</a></li>                            
+                           <li><a href='EN-01-29'> SAP Business All-in-One - 29-38 - SAP Best Practices Overview	</a></li>                            
+                           <li><a href='EN-01-30'> SAP Business All-in-One - 30-38 - SAP Best Practices Development Concepts	</a></li>                            
+                           <li><a href='EN-01-31'> SAP Business All-in-One - 31-38 - SAP Best Practices Baseline - Overview	</a></li>                            
+                           <li><a href='EN-01-32'> SAP Business All-in-One - 32-38 - Demo Options - Online Reference Systems and System Exports	</a></li>                            
+                           <li><a href='EN-01-33'> SAP Business All-in-One - 33-38 - SAP Best Practices Installation Tools - Overview	</a></li>                            
+                           <li><a href='EN-01-34'> SAP Business All-in-One - 34-38 - How to Work with BC Sets in SAP Best Practices	</a></li>                            
+                           <li><a href='EN-01-35'> SAP Business All-in-One - 35-38 - Extended Computer Aided Test Tool (eCATT)	</a></li>                            
+                           <li><a href='EN-01-36'> SAP Business All-in-One - 36-38 - SAP Best Practices System Preparation - Activation Steps	</a></li>                            
+                           <li><a href='EN-01-37'> SAP Business All-in-One - 37-38 - SAP Demo Assistant	</a></li>                            
+                           <li><a href='EN-01-38'> SAP Business All-in-One - 38-38 - NetWeaver Business Client and SAP Best Practices	</a></li>                            
 
 
                           
-                              </ul>	       	         	                           
-                 
-                    
-                  	         	                           
+                              </ul>	     	         	                           
+                                                   
+               		<li><a href='EN-02-01' data-target='#' data-toggle='dropdown'>SAP Business All-in-One | 02 | Presales Consultant Qualification | Level 1<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='EN-02-01'> SAP Business All-in-One  - 01 - Introduction to Presales	</a></li>    
+                           <li><a href='EN-02-02'> SAP Business All-in-One  - 02 - Introducing a New Way of Thinking	</a></li>    
+                           <li><a href='EN-02-03'> SAP Business All-in-One  - 03 - Introduction to the Synchronized CEL Sales Process 	</a></li>    
+                           <li><a href='EN-02-04'> SAP Business All-in-One  - 04 - Syncpoint D - Evaluate	</a></li>    
+                           <li><a href='EN-02-05'> SAP Business All-in-One  - 05 - SAP Applications Overview	</a></li>    
+                           <li><a href='EN-02-06'> SAP Business All-in-One  - 06 - SAP Rapid-Deployment Solutions Overview	</a></li>    
+                           <li><a href='EN-02-07'> SAP Business All-in-One  - 07 - Positioning SAP Business All-in-One	</a></li>    
+                           <li><a href='EN-02-08'> SAP Business All-in-One  - 08 - SAP Business All-in-One Solutions	</a></li>    
+                           <li><a href='EN-02-09'> SAP Business All-in-One  - 09 - SAP Business Suite Executive Overview	</a></li>    
+                           <li><a href='EN-02-10'> SAP Business All-in-One  - 10 - SAP Technology & Database Overview	</a></li>    
+                           <li><a href='EN-02-11'> SAP Business All-in-One  - 11 - Selling Enterprise Support	</a></li>    
+                           <li><a href='EN-02-12'> SAP Business All-in-One  - 12 - Demo Discovery Overview	</a></li>    
+                           <li><a href='EN-02-13'> SAP Business All-in-One  - 13 - Two Guiding Principles for Doing a Demo Discovery	</a></li>    
+                           <li><a href='EN-02-14'> SAP Business All-in-One  - 14 - Best to Worst Demo Discoveries	</a></li>    
+                           <li><a href='EN-02-15'> SAP Business All-in-One  - 15 - Five Steps to a Winning Demo Discovery	</a></li>    
+                           <li><a href='EN-02-16'> SAP Business All-in-One  - 16 - Building and Using Effective Interview Questions	</a></li>    
+                           <li><a href='EN-02-17'> SAP Business All-in-One  - 17 - Three Pearls of a Demo Discovery	</a></li>    
+                           <li><a href='EN-02-18'> SAP Business All-in-One  - 18 - Discovery-to-Demo Transition - Part I	</a></li>    
+                           <li><a href='EN-02-19'> SAP Business All-in-One  - 19 - Discovery-to-Demo Transition - Part II	</a></li>    
+                           <li><a href='EN-02-20'> SAP Business All-in-One  - 20 - Discovery-to-Demo Transition - Part III	</a></li>    
+                           <li><a href='EN-02-21'> SAP Business All-in-One  - 21 - Discovery Crimes - Part I	</a></li>    
+                           <li><a href='EN-02-22'> SAP Business All-in-One  - 22 - Discovery Crimes - Part II	</a></li>    
+                           <li><a href='EN-02-23'> SAP Business All-in-One  - 23 - The FishOn! Framework and Responses	</a></li>    
+                           <li><a href='EN-02-24'> SAP Business All-in-One  - 24 - Best Practice Tips - Part I	</a></li>    
+                           <li><a href='EN-02-25'> SAP Business All-in-One  - 25 - Best Practice Tips - Part II	</a></li>    
+                           <li><a href='EN-02-26'> SAP Business All-in-One  - 26 - Demo Crimes Concepts	</a></li>    
+                           <li><a href='EN-02-27'> SAP Business All-in-One  - 27 - The Three Guiding Principles for Demonstrating SAP Solutions	</a></li>    
+                           <li><a href='EN-02-28'> SAP Business All-in-One  - 28 - The Tell-Show-Tell Technique Overview	</a></li>    
+                           <li><a href='EN-02-29'> SAP Business All-in-One  - 29 - Opening and Closing Tells for a Sub-Scene Item	</a></li>    
+                           <li><a href='EN-02-30'> SAP Business All-in-One  - 30 - Visually Supporting a Tell-Show-Tell	</a></li>    
+                           <li><a href='EN-02-31'> SAP Business All-in-One  - 31 - Opening and Closing a Demo Scene	</a></li>    
+                           <li><a href='EN-02-32'> SAP Business All-in-One  - 32 - The Top 10 Demo Crimes - Part 1	</a></li>    
+                           <li><a href='EN-02-33'> SAP Business All-in-One  - 33 - The Top 10 Demo Crimes - Part 2	</a></li>    
+                           <li><a href='EN-02-34'> SAP Business All-in-One  - 34 - Best Practice Tips - More Limbic Techniques	</a></li>    
+                           <li><a href='EN-02-35'> SAP Business All-in-One  - 35 - Benchmarking Fundamentals	</a></li>    
+                           <li><a href='EN-02-36'> SAP Business All-in-One  - 36 - Business Case Fundamentals	</a></li>    
+                          
+                              </ul>	  
+
+                                  
+               		<li><a href='EN-03-01' data-target='#' data-toggle='dropdown'>SAP Business All-in-One | 03 | Sales Executive Qualification | Level 1<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='EN-03-01'> SAP Business All-in-One - 01 - Introduction to Design Thinking with SAP   </a></li>    
+                           <li><a href='EN-03-02'> SAP Business All-in-One - 02 - Specifics of Selling SAP   </a></li>    
+                           <li><a href='EN-03-03'> SAP Business All-in-One - 03 - Basic Approach   </a></li>    
+                           <li><a href='EN-03-04'> SAP Business All-in-One - 04 - The Psychological Buying Model and Process   </a></li>    
+                           <li><a href='EN-03-05'> SAP Business All-in-One - 05 - Proof Point Concept   </a></li>    
+                           <li><a href='EN-03-06'> SAP Business All-in-One - 06 - Compelling Event  </a></li>    
+                           <li><a href='EN-03-07'> SAP Business All-in-One - 07 - Deal Qualification   </a></li>    
+                           <li><a href='EN-03-08'> SAP Business All-in-One - 08 - Confirmation Communication   </a></li>    
+                           <li><a href='EN-03-09'> SAP Business All-in-One - 09 - Mutual Action Plan   </a></li>    
+                           <li><a href='EN-03-10'> SAP Business All-in-One - 10 - Value Justification Analysis   </a></li>    
+                           <li><a href='EN-03-11'> SAP Business All-in-One - 11 - Competitive Strategies   </a></li>    
+                           <li><a href='EN-03-12'> SAP Business All-in-One - 12 - Stakeholder Strategy Champion   </a></li>    
+                           <li><a href='EN-03-13'> SAP Business All-in-One - 13 - SAP Applications Overview  </a></li>    
+                           <li><a href='EN-03-14'> SAP Business All-in-One - 14 - SAP Rapid-Deployment Solutions Overview   </a></li>    
+                           <li><a href='EN-03-15'> SAP Business All-in-One - 15 - Positioning SAP Business All-in-One   </a></li>    
+                           <li><a href='EN-03-16'> SAP Business All-in-One - 16 - SAP Business All-in-One Solutions   </a></li>    
+                           <li><a href='EN-03-17'> SAP Business All-in-One - 17 - SAP Business Suite Executive Overview   </a></li>    
+                           <li><a href='EN-03-18'> SAP Business All-in-One - 18 - SAP Technology & Database Overview	  </a></li>    
+                           <li><a href='EN-03-19'> SAP Business All-in-One - 19 - Effectively Selling SAP ERP  </a></li>    
+                           <li><a href='EN-03-20'> SAP Business All-in-One - 20 - Effectively Selling SAP CRM   </a></li>    
+                           <li><a href='EN-03-21'> SAP Business All-in-One - 21 - Benchmarking Fundamentals   </a></li>    
+                           <li><a href='EN-03-22'> SAP Business All-in-One - 22 - Business Case Fundamentals   </a></li>    
+                           <li><a href='EN-03-23'> SAP Business All-in-One - 23 - Introduction to SAP HANA   </a></li>    
+                          
+                              </ul>	  
+                            	                           
            
                          	         	                           
               </ul>                  
