@@ -11,7 +11,18 @@
             		<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>                                    
                           <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
                </div>
-    	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                   
+    	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>   
+                   <li><a href='Dom-Casmurro-001' data-target='#' data-toggle='dropdown'> Machado de Assis - Wikipedia <span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='Wikipedia-01'> Joaquim Maria Machado de Assis</a></li>                            
+    
+                           
+                          
+                              </ul>	      	         	                           
+                 
+                       
+                       
+                       
+                                       
                		<li><a href='Dom-Casmurro-001' data-target='#' data-toggle='dropdown'> Machado de Assis - Dom Casmurro <span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='Dom-Casmurro-001'> Dom Casmurro - Capítulo 001 </a></li>                            
                            <li><a href='Dom-Casmurro-002'> Dom Casmurro - Capítulo 002 </a></li>                            
@@ -165,7 +176,172 @@
                           
                               </ul>	      	         	                           
                  
-
+                                  
+               		<li><a href='Memorias-Postumas-de-Bras-Cubas-001' data-target='#' data-toggle='dropdown'> Machado de Assis - Memórias Póstumas de Brás Cubas <span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-000'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Ao verme que primeiro... </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-001'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 001 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-002'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 002 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-003'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 003 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-004'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 004 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-005'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 005 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-006'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 006 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-007'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 007 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-008'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 008 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-009'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 009 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-010'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 010 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-011'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 011 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-012'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 012 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-013'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 013 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-014'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 014 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-015'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 015 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-016'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 016 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-017'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 017 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-018'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 018 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-019'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 019 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-020'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 020 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-021'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 021 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-022'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 022 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-023'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 023 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-024'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 024 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-025'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 025 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-026'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 026 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-027'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 027 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-028'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 028 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-029'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 029 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-030'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 030 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-031'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 031 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-032'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 032 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-033'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 033 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-034'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 034 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-035'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 035 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-036'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 036 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-037'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 037 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-038'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 038 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-039'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 039 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-040'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 040 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-041'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 041 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-042'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 042 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-043'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 043 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-044'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 044 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-045'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 045 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-046'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 046 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-047'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 047 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-048'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 048 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-049'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 049 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-050'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 050 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-051'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 051 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-052'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 052 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-053'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 053 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-054'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 054 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-055'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 055 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-056'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 056 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-057'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 057 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-058'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 058 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-059'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 059 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-060'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 060 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-061'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 061 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-062'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 062 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-063'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 063 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-064'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 064 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-065'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 065 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-066'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 066 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-067'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 067 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-068'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 068 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-069'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 069 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-070'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 070 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-071'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 071 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-072'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 072 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-073'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 073 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-074'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 074 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-075'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 075 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-076'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 076 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-077'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 077 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-078'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 078 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-079'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 079 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-080'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 080 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-081'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 081 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-082'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 082 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-083'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 083 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-084'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 084 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-085'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 085 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-086'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 086 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-087'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 087 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-088'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 088 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-089'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 089 </a></li>                           
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-090'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 090 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-091'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 091 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-092'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 092 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-093'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 093 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-094'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 094 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-095'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 095 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-096'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 096 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-097'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 097 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-098'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 098 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-099'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 099 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-100'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 100 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-101'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 101 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-102'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 102 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-103'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 103 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-104'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 104 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-105'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 105 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-106'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 106 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-107'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 107 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-108'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 108 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-109'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 109 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-110'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 110 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-111'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 111 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-112'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 112 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-113'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 113 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-114'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 114 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-115'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 115 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-116'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 116 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-117'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 117 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-118'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 118 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-119'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 119 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-120'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 120 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-121'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 121 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-122'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 122 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-123'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 123 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-124'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 124 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-125'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 125 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-126'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 126 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-127'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 127 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-128'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 128 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-129'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 129 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-130'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 130 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-131'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 131 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-132'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 132 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-133'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 133 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-134'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 134 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-135'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 135 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-136'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 136 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-137'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 137 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-138'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 138 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-139'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 139 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-140'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 140 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-141'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 141 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-142'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 142 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-143'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 143 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-144'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 144 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-145'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 145 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-146'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 146 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-147'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 147 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-148'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 148 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-149'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 149 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-150'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 150 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-151'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 151 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-152'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 152 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-153'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 153 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-154'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 154 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-155'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 155 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-156'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 156 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-157'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 157 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-158'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 158 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-159'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 159 </a></li>
+                           <li><a href='Memorias-Postumas-de-Bras-Cubas-160'> Machado de Assis - Memórias Póstumas de Brás Cubas  - Capítulo 160 </a></li>                         
+                           
+                          
+                              </ul>	      
                          	         	                           
               </ul>                  
         	</div>

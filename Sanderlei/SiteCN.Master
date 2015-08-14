@@ -73,7 +73,7 @@
       <p>By Sanderlei silveira</p>
       
       </div>
-   <div class='container'> 
+     <div class='container'> 
         <a style="color:white" href='http://www.sanderlei.com.br/'>Sanderlei Silveira (S-01)|</a>        
         <a style="color:white" href='http://www.historia1minuto.com.br/'>História em 1 Minuto (S-02)|</a>
         <a style="color:white" href='http://www.ssconsult.com.br/'>SS Consul (S-03)|</a>
@@ -88,6 +88,9 @@
         <a style="color:white" href='http://audio-book-sanderlei.azurewebsites.net/'> Audio Book Online - Gratis e Completo (A-07)|</a>        
         <a style="color:white" href='http://audio-livro-sanderlei.azurewebsites.net/'> Audio Livro Online - Gratis e Completo (A-08)|</a>        
         <a style="color:white" href='http://github-tutorial-sanderlei.azurewebsites.net/'> GitHub Tutorial - Curso online Gratuito e Completo (A-09)|</a>
+        <a style="color:white" href='http://machado-de-assis-sanderlei.azurewebsites.net/'> Machado de Assis - Sanderlei (A-10)|</a>
+        <a style="color:white" href='http://machado-de-assis-dom-casmurro.azurewebsites.net/'> Machado de Assis - Dom Casmurro (A-11)|</a>
+        <a style="color:white" href='http://machado-de-assis-memorias-postumas-de-bras-cubas.azurewebsites.net/'> Machado de Assis - Memórias Póstumas de Brás Cubas (A-12)|</a>
         <a style="color:white" href='http://historiaem1minutobr.blogspot.com/'>História em 1 Minuto (B-01)|</a>
         <a style="color:white" href='http://historiaen1minutoes.blogspot.com/'>History in 1 Minute (B-02)|</a>
         <a style="color:white" href='http://historyin1minuteen.blogspot.com/'>Historia en 1 Minuto (B-03)|</a>
@@ -104,6 +107,8 @@
         <a style="color:white" href='http://parana-historia-geografia.blogspot.com/'> História e Geografia do Paraná - Ensino Fundamental (B-14)| </a>
         <a style="color:white" href='http://mato-grosso-do-sul-historia-geografia.blogspot.com/'> História e Geografia de Matto Grosso do Sul - Ensino Fundamental (B-15)| </a>
         <a style="color:white" href='http://lingua-portuguesa-ensino-fundamental.blogspot.com/'> Língua Portuguesa - Ensino Fundamental (B-16)| </a>
+        <a style="color:white" href='http://machado-de-assis-dom-casmurro.blogspot.com/'> Machado de Assis - Dom Casmurro	 (B-17)| </a>
+        <a style="color:white" href='http://memorias-postumas-de-bras-cubas.blogspot.com/'> Machado de Assis - Memórias Póstumas de Brás Cubas (B-18)| </a>
   </div>
     
      <!--  Google Analytics - Inicio  -->

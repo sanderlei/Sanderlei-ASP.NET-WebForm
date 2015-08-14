@@ -123,6 +123,58 @@
                            <li><a href='EN-03-23'> SAP Business All-in-One - 23 - Introduction to SAP HANA   </a></li>    
                           
                               </ul>	  
+
+                  <li><a href='EN-04-01' data-target='#' data-toggle='dropdown'> SAP Business One | 01 | Presales Consultant Qualification | Level 1 <span class='caret'></span></a><ul class='dropdown-menu'>
+                      <li><a href='EN-04-01'> SAP Business One - 01 - Welcome and Introduction   </a></li>    
+                      <li><a href='EN-04-02'> SAP Business One - 02 - Business Models and Partnerships - EN   </a></li>    
+                      <li><a href='EN-04-03'> SAP Business One - 02 - Geschäftsmodelle und Partnerschaften - DE   </a></li>    
+                      <li><a href='EN-04-04'> SAP Business One - 02 - Modèles d'affaires et des partenariats - FR   </a></li>    
+                      <li><a href='EN-04-05'> SAP Business One - 02 - Modelli di Business e partnership - IT  </a></li>    
+                      <li><a href='EN-04-06'> SAP Business One - 02 - Modelos de Negocio y Alianzas - ES   </a></li>    
+                      <li><a href='EN-04-07'> SAP Business One - 02 - Modelos de Negócios e Parcerias - BR   </a></li>    
+                      <li><a href='EN-04-08'> SAP Business One - 03 - Introdução a um jeito novo de pensar - BR   </a></li>    
+                      <li><a href='EN-04-09'> SAP Business One - 03 - Introducing a New Way of Thinking - EN   </a></li>    
+                      <li><a href='EN-04-10'> SAP Business One - 03 - Introduzione a un nuovo modo di pensare - IT   </a></li>    
+                      <li><a href='EN-04-11'> SAP Business One - 03 - Presentación de una nueva filosofía - ES   </a></li>    
+                      <li><a href='EN-04-12'> SAP Business One - 03 - Une nouvelle façon de penser - FR   </a></li>    
+                      <li><a href='EN-04-13'> SAP Business One - 03 - Vorstellung eines neuen Ansatzes - DE   </a></li>    
+                      <li><a href='EN-04-14'> SAP Business One - 03 - 介绍一种新的思维方式 - CN   </a></li>    
+                      <li><a href='EN-04-15'> SAP Business One - 04 - Introdução ao Processo de Vendas Sincronizado CEL - BR   </a></li>    
+                      <li><a href='EN-04-16'> SAP Business One - 04 - Introducción al Proceso de Ventas Sincronizado CEL - ES   </a></li>    
+                      <li><a href='EN-04-17'> SAP Business One - 04 - Introduction au processus de vente synchronisée CEL - FR   </a></li>    
+                      <li><a href='EN-04-18'> SAP Business One - 04 - Introduction to the Synchronized CEL Sales Process - EN   </a></li>    
+                      <li><a href='EN-04-19'> SAP Business One - 04 - Introduzione al processo di vendita sincronizzato CEL - IT   </a></li>    
+                      <li><a href='EN-04-20'> SAP Business One - 05 - Trabalhando no Processo de Vendas CEL Sincronizado - BR   </a></li>    
+                      <li><a href='EN-04-21'> SAP Business One - 06 - O Processo de Vendas - SyncPoint C - Prova - BR   </a></li>    
+                      <li><a href='EN-04-22'> SAP Business One - 07 - Casos de Negócios Financeiros - Introdução ao ROI - BR   </a></li>    
+                      <li><a href='EN-04-23'> SAP Business One - 08 - Como fazer a Demostração - A Visão de Vendas - BR   </a></li>    
+                      <li><a href='EN-04-24'> SAP Business One - 09 - Estratégia de Produto SAP - BR  </a></li>    
+                      <li><a href='EN-04-25'> SAP Business One - 10 - Visão geral do SAP Business One - BR   </a></li>    
+                      <li><a href='EN-04-26'> SAP Business One - 11 - SDK, Add-Ons e Customização - BR   </a></li>    
+                      <li><a href='EN-04-27'> SAP Business One - 12 - SAP Business One Overview - EN  </a></li>    
+                      <li><a href='EN-04-28'> SAP Business One - 13 - Login to SAP Business One - EN   </a></li>    
+                      <li><a href='EN-04-29'> SAP Business One - 14 - Getting Started - Add and Navigate Documents - EN   </a></li>    
+                      <li><a href='EN-04-30'> SAP Business One - 15 - Getting Started - Transform and Save Documents - EN  </a></li>    
+                      <li><a href='EN-04-31'> SAP Business One - 16 - Navigation - EN   </a></li>    
+                      <li><a href='EN-04-32'> SAP Business One - 17 - User Menu and Display - EN   </a></li>    
+                      <li><a href='EN-04-33'> SAP Business One - 18 - XL Reporter Overview - EN   </a></li>    
+                      <li><a href='EN-04-34'> SAP Business One - 19 - Business Partner Types and Records - EN   </a></li>    
+                      <li><a href='EN-04-35'> SAP Business One - 20 - Groups and Property - EN   </a></li>    
+                      <li><a href='EN-04-36'> SAP Business One - 21 - Ship to and Bill to - EN   </a></li>    
+                      <li><a href='EN-04-37'> SAP Business One - 22 - Commissions - EN   </a></li>    
+                      <li><a href='EN-04-38'> SAP Business One - 23 - Item Master Data - EN   </a></li>    
+                      <li><a href='EN-04-39'> SAP Business One - 24 - Purchase Order - EN   </a></li>    
+                      <li><a href='EN-04-40'> SAP Business One - 25 - Goods Receipt PO - EN  </a></li>    
+                      <li><a href='EN-04-41'> SAP Business One - 26 - A.P. Invoice - EN   </a></li>    
+                      <li><a href='EN-04-42'> SAP Business One - 27 - Document Trail - EN   </a></li>    
+                      <li><a href='EN-04-43'> SAP Business One - 28 - Stock Changes and Accounting - EN   </a></li>    
+                      <li><a href='EN-04-44'> SAP Business One - 29 - Reserve Invoice - EN  </a></li>                          
+
+
+
+                          
+                          
+                              </ul>	  
                             	                           
            
                          	         	                           
