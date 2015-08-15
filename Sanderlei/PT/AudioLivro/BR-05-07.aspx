@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 07 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-07.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_07" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 07 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"%>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Não era a primeira vez que Mrs. Oswald aludia a alguma coisa que desagradava à Guiomar, nem a primeira que esta lhe respondia com a sequidão que o leitor viu no fim do capítulo anterior. A boa inglesa ficou séria e calada alguns dois ou três minutos, a olhar para Guiomar, aparentemente buscando interrogar-lhe o pensamento, mas na realidade sem saber como sair da situação. A moça rompeu " /> 
 </asp:Content>

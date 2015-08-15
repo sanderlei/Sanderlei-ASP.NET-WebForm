@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 17 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-17.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_17" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 17 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Não era preciso reler o papel para entendê-lo; mas olhos amantes deliciam-se com letras namoradas. O papel continha uma palavra única: — Peça-me, — escrita no centro da folha, com uma letra fina, elegante, feminina. Luís Alves olhou algum tempo para o bilhete, primeiramente como namorado, depois como simples observador. A letra não era trêmula, mas parecia ter sido lançada ao papel em hora de comoção.  " /> 
 </asp:Content>

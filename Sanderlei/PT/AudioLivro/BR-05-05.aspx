@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 05 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-05.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_05" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 05 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Guiomar tivera humilde nascimento; era filha de um empregado subalterno não sei de que repartição do Estado, homem probo, que morreu quando ela contava apenas sete anos, legando à viúva o cuidado de a educar e manter. A viúva era mulher enérgica e resoluta, enxugou as lágrimas com a manga do modesto vestido, olhou de frente para a situação e determinou-se à luta e à vitória. " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 15 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-15.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_15" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 15 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Durante três dias deixou Luís Alves de ir à casa da baronesa, estando aliás a morrer por isso. Entrava porém no plano esta ausência; era das instruções que ele mesmo dera ao seu coração; não havia remédio senão observá-las. " /> 
 </asp:Content>

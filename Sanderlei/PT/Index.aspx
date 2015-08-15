@@ -57,7 +57,7 @@
             </div>
             <br>
             <br>
-            <div class='well col-sm-8 col-sm-offset-2'>
+            <div class='well hidden-xs col-sm-8 col-sm-offset-2'>
              <iframe id="I1" allowtransparency="true" frameborder="0" name="I1" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FHistoriaEm1Minuto&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80" style="border:none; overflow:hidden; height:80px;"></iframe>
              
                <br>

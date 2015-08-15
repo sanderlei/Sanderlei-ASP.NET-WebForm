@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 02 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-02.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_02" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 02 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Um mês depois de chegar Estevão a São Paulo, achava-se a sua paixão definitivamente morta e enterrada, cantando ele mesmo um responso, a vozes alternadas, com duas ou três moças da capital, — todas elas, por passatempo. Claro é que dois anos depois, quando tomou o grau de bacharel, nenhuma idéia lhe restava do namoro da Rua dos Inválidos. Demais, a bela Guiomar desde muito tempo deixara o colégio e fora morar com a madrinha. Já ele a não vira da primeira vez que veio à Corte. Agora voltava graduado em ciências jurídicas e sociais, como ficou dito, mais desejoso de devassar o futuro que de reler o passado." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 04 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-04.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_04" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 04 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" O passeio da baronesa durou pouco mais de meia hora. O sol começava a aquecer, e apesar de ser bastante sombreada a chácara, o calor aconselhava à boa senhora que se recolhesse. Guiomar deu-lhe o braço, e ambas, seguindo pelo mesmo caminho, guiaram para casa. " /> 
 </asp:Content>

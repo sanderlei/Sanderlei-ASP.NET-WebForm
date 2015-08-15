@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 11 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-11.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_11" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 11 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Durante uma inteira e comprida semana, deixou Estevão de aparecer no escritório onde trabalhava com Luís Alves; não apareceu também em Botafogo. Ninguém o viu em todo esse tempo nos lugares onde ele era mais ou menos assíduo. Foram seis dias, não digo de reclusão absoluta, mas de completa solidão, porque ainda nas poucas vezes que saiu, fê-lo sempre a horas ou em direções que a ninguém via, e de ninguém era visto. " /> 
 </asp:Content>

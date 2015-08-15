@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 06 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-06.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_06" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 06 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Aquele conselho de Luís Alves, na fatal noite de dois anos antes, não há dúvida que era judicioso e devera ter ficado no espírito de Estevão. Não convinha reler a carta, sob pena de lhe achar um post scriptum. Estevão era curioso de epístolas; não pôde ter-se que não abrisse aquela. O post scriptum lá estava no fim.  " /> 
 </asp:Content>

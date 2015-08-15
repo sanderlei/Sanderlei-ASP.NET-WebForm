@@ -18,6 +18,12 @@
     <meta name="author" content="Sanderlei Silveira">
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+            color: #FFCC00;
+        }
+    </style>
 </head>
 
 <body>
@@ -76,6 +82,16 @@
       <p>By Sanderlei silveira</p>
       
       </div>
+    <br />
+    <div class='container hidden-xs text-center' style="border: thin dotted #000000"> 
+        <br />
+        <h6 class='auto-style1'> Anúncio patrocinado </h6>
+        <br />
+        <div class="hidden-xs col-sm-8 col-sm-offset-2">
+        <SCRIPT LANGUAGE="JavaScript1.1" SRC="http://bdv.bidvertiser.com/BidVertiser.dbm?pid=682995&bid=1708548" type="text/javascript"></SCRIPT>       
+            </div>
+        <br />
+   </div>
       <div class='container'> 
         <a style="color:white" href='http://www.sanderlei.com.br/'>Sanderlei Silveira (S-01)|</a>        
         <a style="color:white" href='http://www.historia1minuto.com.br/'>História em 1 Minuto (S-02)|</a>
@@ -124,6 +140,8 @@
   ga('send', 'pageview');
 </script>
     <!--  Google Analytics - FIM  -->
+
+
 
 </body>
 </html>

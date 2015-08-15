@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 16 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-16.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_16" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 16 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Na mesma noite em que Jorge, cedendo às sugestões de Mrs. Oswald, tentava o último recurso que no entender da inglesa havia, achava-se Luís Alves em casa, comodamente sentado numa poltrona de couro, defronte da janela com os olhos no mar e o pensamento nas suas duas candidaturas vencidas. Meia-noite estava a pingar; uma pessoa descia de um tílburi e batia-lhe à porta. " /> 
 </asp:Content>

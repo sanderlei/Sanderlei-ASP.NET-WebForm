@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 13 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-13.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_13" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 13 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Luís Alves compreendera toda a expressão dos olhos de Guiomar; era, porém, homem frio, resoluto. Inclinou o busto com toda a graça correta e de bom-tom, e disse-lhe na voz mais branda que lhe permitia o seu órgão forte e severo: " /> 
 </asp:Content>

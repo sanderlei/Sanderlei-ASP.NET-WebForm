@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 12 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-12.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_12" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 12 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Mal recomeçara Luís Alves a leitura dos autos, entrou no gabinete o criado apresentando-lhe um bilhete de visita. " /> 
 </asp:Content>

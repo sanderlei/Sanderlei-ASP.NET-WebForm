@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 08 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-08.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_08" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 08 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Os corações frouxos têm destas energias súbitas, e é próprio da pusilanimidade iludir-se a si mesma. Ele confessava que nada havia feito, e que a situação exigia alguma coisa mais. " /> 
 </asp:Content>

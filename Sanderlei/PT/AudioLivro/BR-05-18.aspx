@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 18 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-05-18.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_05_18" %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 18 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Mrs. Oswald tinha falado demais. A baronesa não a incumbira de dizer à afilhada a razão por que a mandava chamar. Aconteceu, porém, que aquela indiscrição não foi a única. Mrs. Oswald, em vez de esquivar-se e deixar que entre Guiomar e a baronesa fosse tratado o assunto que as ia reunir, cedeu à curiosidade, e acompanhou a moça. " /> 
 </asp:Content>
