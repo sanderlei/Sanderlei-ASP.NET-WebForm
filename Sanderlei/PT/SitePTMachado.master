@@ -928,7 +928,18 @@
                    <li><a href='Varias-Historias-17'> Machado de Assis - Várias Histórias - 17 - O CÔNEGO OU METAFÍSICA DO ESTILO  </a></li>                   
                       </ul>	     
 
-                                 	         	                           
+                    
+          <li><a href='Poesia-01' data-target='#' data-toggle='dropdown'> Poesias  <span class='caret'></span></a><ul class='dropdown-menu'>
+                   <li><a href='Poesia-01'> Machado de Assis - Poesias - 01 - Crisálidas (1864)</a></li>
+                   <li><a href='Poesia-02'> Machado de Assis - Poesias - 02 - Falenas (1870) </a></li>
+                   <li><a href='Poesia-03'> Machado de Assis - Poesias - 03 - Americanas (1875)</a></li>
+                   <li><a href='Poesia-04'> Machado de Assis - Poesias - 04 - Gazeta de Holanda (1886-88)</a></li>
+                   <li><a href='Poesia-05'> Machado de Assis - Poesias - 05 - Ocidentais (1901) </a></li>
+                   <li><a href='Poesia-06'> Machado de Assis - Poesias - 06 - O Almada (1908)</a></li>
+                   <li><a href='Poesia-07'> Machado de Assis - Poesias - 07 - Dispersas (1854-1939) </a></li>
+             </ul>	     
+                      
+                                   	         	                           
               </ul>                  
         	</div>
         </div>
