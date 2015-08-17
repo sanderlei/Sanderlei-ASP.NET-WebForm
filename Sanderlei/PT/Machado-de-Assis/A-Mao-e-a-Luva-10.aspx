@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 10 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 10 / 19" Language="C#" MasterPageFile="~/PT/SitePTMachado.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Meia hora depois, indo a abrir o livro para continuar a leitura, viu Guiomar a cartinha de Jorge. Não tinha sobrecarta; era um simples papelinho dobrado, rescendendo a amores. O espírito de Guiomar estava tão longe daquilo que não suspeitou nada e distraidamente o abriu. A primeira palavra escrita era o seu nome; a última era o de Jorge. " /> 
 </asp:Content>

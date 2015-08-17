@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Página Pessoal" Language="C#" MasterPageFile="~/SitePT.Master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.PT.Index" %>
+﻿<%@ Page Title="Página Pessoal" Language="C#" MasterPageFile="~/SitePT.Master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">      
     <meta name="description" content="Página pessoal de Sanderlei Silveira. Literatura, História, Informática e outros..." />
 </asp:Content>
@@ -58,7 +58,7 @@
             <br>
             <br>
             <div class='well hidden-xs col-sm-8 col-sm-offset-2'>
-             <iframe id="I1" allowtransparency="true" frameborder="0" name="I1" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FHistoriaEm1Minuto&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80" style="border:none; overflow:hidden; height:80px;"></iframe>
+             <iframe class='hidden-xs' id="I1" allowtransparency="true" frameborder="0" name="I1" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FHistoriaEm1Minuto&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80" style="border:none; overflow:hidden; height:80px;"></iframe>
              
                <br>
             <br>
@@ -84,7 +84,7 @@
             <br>
 
           <a href="https://twitter.com/share" class="twitter-share-button" 
-                            data-url="http://www.historia1minuto.com.br" data-size="large" data-via="ssanderlei" data-lang="pt">Tweet</a>
+                            data-url="http://sanderlei.com.br" data-size="large" data-via="ssanderlei" data-lang="pt">Tweet</a>
                         <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
 
             <br>

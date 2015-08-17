@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SitePT.master.cs" Inherits="Sanderlei.SitePT" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true"  %>
 
 <!DOCTYPE html>
 <html lang="pt">
@@ -64,9 +64,13 @@
                    <li><a href='/PT/Ensino-Fundamental/Index' > Ensino Fundamental (Educação)</a></li>  
                    <li><a href='/PT/Machado-de-Assis/Index' > Machado de Assis </a></li>
                    <li><a href='/PT/TOTVS-Datasul/Index' > TOTVS - Datasul </a></li>
+                   <li><a href='/PT/ASP-NET/Index' > ASP.NET </a></li>                   
                    <li><a href='/PT/AudioBook/Index' >Audio Book (EN)</a></li>
                    <li><a href='/EN/GitHub/Index' > GitHub (EN)</a></li>  
-                   <li><a href='/EN/SAP/Index' > SAP (EN)</a></li>   
+                   <li><a href='/EN/SAP/Index' > SAP (EN)</a></li>                     
+                   <li><a href='/EN/JavaScript/Index' > JavaScript (EN)</a></li>
+                   <li><a href='/EN/Adobe/Index' > Adobe Academy (EN)</a></li>         
+                   <li><a href='/PT/Design-Grafico/Index' > Design Gráfico </a></li>                   
                    
                <!--    -->
                </ul>                  
@@ -128,6 +132,13 @@
         <a style="color:white" href='http://lingua-portuguesa-ensino-fundamental.blogspot.com/'> Língua Portuguesa - Ensino Fundamental (B-16)| </a>
         <a style="color:white" href='http://machado-de-assis-dom-casmurro.blogspot.com/'> Machado de Assis - Dom Casmurro	 (B-17)| </a>
         <a style="color:white" href='http://memorias-postumas-de-bras-cubas.blogspot.com/'> Machado de Assis - Memórias Póstumas de Brás Cubas (B-18)| </a>
+        <a style="color:white" href='http://machado-de-assis-quincas-borba.blogspot.com/'> Machado de Assis - Quincas Borba (B-19)| </a>
+        <a style="color:white" href='http://javascript-curso-online-gratis.blogspot.com/'> Curso de JavaScript - Online Gratuito (B-20)| </a>
+        <a style="color:white" href='http://adobe-academy-flash-free-course.blogspot.com/'> Adobe Academy - Flash (Free Course)- Online Gratuito (B-21)| </a>
+        <a style="color:white" href='http://adobe-academy-indesign-free-course.blogspot.com/'> Adobe Academy - InDesign (Free Course) - Online Gratuito (B-22)| </a>
+        <a style="color:white" href='http://machado-de-assis-sanderlei.blogspot.com/'> Machado de Assis (B-23)| </a>
+        <a style="color:white" href='http://machado-de-assis-esau-e-jaco.blogspot.com/'> Machado de Assis - Esaú e Jacó	(B-24)| </a>
+        <a style="color:white" href='http://machado-de-assis-a-mao-e-a-luva.blogspot.com/'> Machado de Assis - A Mão e a Luva (B-25)| </a>
   </div>
      
      <!--  Google Analytics - Inicio  -->

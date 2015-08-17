@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/SitePT.Master" AutoEventWireup="true"  %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder11" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenu" runat="server">
+
+     <!-- Menu Principal -->     
+        <div class='navbar navbar-inverse navbar-static-top' >
+        	<div class='container'>  
+	           <div class='navbar-header'>
+            		<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>                                    
+                          <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
+               </div>
+    	       	         	                           
+                 
+                           	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                   
+               		<li><a href='MVC-01-01' data-target='#' data-toggle='dropdown'>Curso de ASP.NET MVC<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='MVC-01-01'> Curso de ASP.NET MVC - 01 - MVC - Introdução    </a></li>                            
+                           <li><a href='MVC-01-02'> Curso de ASP.NET MVC - 02.1 - Características MVC e ASP.NET MVC   </a></li>                            
+                           <li><a href='MVC-01-03'> Curso de ASP.NET MVC - 02.2 - Mudanças nas URLs   </a></li>                            
+                           <li><a href='MVC-01-04'> Curso de ASP.NET MVC - 03.1 - WebForms x HTML   </a></li>                            
+                           <li><a href='MVC-01-05'> Curso de ASP.NET MVC - 03.2 - Métodos Get e Post   </a></li>                            
+                           <li><a href='MVC-01-06'> Curso de ASP.NET MVC - 04.1 - Projeto ASP.NET Web Application   </a></li>                            
+                           <li><a href='MVC-01-07'> Curso de ASP.NET MVC - 04.2 - Visão geral das Estruturas   </a></li>  
+                           <li><a href='MVC-01-08'> Curso de ASP.NET MVC - 05.1 - Controller e View  </a></li>                           
+                           <li><a href='MVC-01-09'> Curso de ASP.NET MVC - 05.2 - Controller Home - Exemplos  </a></li>                           
+                           <li><a href='MVC-01-10'> Curso de ASP.NET MVC - 06.1 - Trabalhando com download de arquivos  </a></li>                           
+                           <li><a href='MVC-01-11'> Curso de ASP.NET MVC - 06.2 - FileStreamResult com parâmetros  </a></li>                           
+                           <li><a href='MVC-01-12'> Curso de ASP.NET MVC - 07.1 - ViewData - Int e String  </a></li>                           
+                           <li><a href='MVC-01-13'> Curso de ASP.NET MVC - 07.2 - ViewData Dinâmica  </a></li>                           
+                           <li><a href='MVC-01-14'> Curso de ASP.NET MVC - 07.3 - Array no ViewData  </a></li>                           
+                           <li><a href='MVC-01-15'> Curso de ASP.NET MVC - 07.4 - ViewData - Pesquisa Array  </a></li>                           
+                           <li><a href='MVC-01-16'> Curso de ASP.NET MVC - 07.5 - ViewData - Trabalhando com Coleções  </a></li>                           
+                           <li><a href='MVC-01-17'> Curso de ASP.NET MVC - 07.6 - ViewData - Dados Tipados  </a></li>                           
+                           <li><a href='MVC-01-18'> Curso de ASP.NET MVC - 08.1 - HtmlHelper - Encode e Label  </a></li>                           
+                           <li><a href='MVC-01-19'> Curso de ASP.NET MVC - 08.2 - HtmlHelper - Label e TextBox  </a></li>                           
+                           <li><a href='MVC-01-20'> Curso de ASP.NET MVC - 08.3 - HtmlHelper - RadioButton  </a></li>                           
+                           <li><a href='MVC-01-21'> Curso de ASP.NET MVC - 08.4 - HtmlHelper - DropDownList  </a></li>                           
+                           <li><a href='MVC-01-22'> Curso de ASP.NET MVC - 08.5 - HtmlHelper - ActionLink  </a></li>                           
+                           <li><a href='MVC-01-23'> Curso de ASP.NET MVC - 08.6 - HtmlHelper - ActionLink e ID  </a></li>                           
+                           <li><a href='MVC-01-24'> Curso de ASP.NET MVC - 08.7 - HtmlHelper - Criando HtmlHelpers  </a></li>                           
+                           <li><a href='MVC-01-25'> Curso de ASP.NET MVC - 08.8 - HtmlHelper - Criando HtmlHelper Formulário  </a></li>                           
+                           <li><a href='MVC-01-26'> Curso de ASP.NET MVC - 08.9 - HtmlHelper - Extension Method  </a></li>                           
+                                                     
+                           
+                          
+                              </ul>	
+                         	         	                           
+              </ul>                  
+        	</div>
+        </div>
+
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder12" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+

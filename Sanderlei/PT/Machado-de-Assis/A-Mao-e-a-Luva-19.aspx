@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 19 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 19 / 19" Language="C#" MasterPageFile="~/PT/SitePTMachado.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Marcado o casamento para dois meses depois, todo o tempo de intervalo foi despendido pelos noivos naquele deleitoso viver, que já não é o colóquio furtivo do simples namoro, nem é ainda a intimidade conjugal, mas um estado intermédio e consentido, em que os corações podem entornar-se livremente um no outro. Aqueles não tinham nada do amor extático e romanesco de Estevão, mas amavam sinceramente, ela ainda mais do que ele, e tão feliz um como outro. " /> 
 </asp:Content>

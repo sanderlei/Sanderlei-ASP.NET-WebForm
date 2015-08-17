@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 09 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 09 / 19" Language="C#" MasterPageFile="~/PT/SitePTMachado.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" A baronesa, quando se lhe aproximaram os dois interlocutores da cerca, mais receosa ficou e mais perplexa. Guiomar vinha risonha e até gracejadora; mas o abatimento de Estevão era tão mal disfarçado, que de duas uma, — ou ela acabava de lhe dar o último desengano, — ou aquilo era apenas um arrufo sério, que o moço não podia ou não queria esconder de olhos estranhos. Isto é o que a baronesa pensou. O que ela concluiu foi que, em todo caso, urgia tentar alguma coisa em favor do maior, — do único sonho da sua velhice. " /> 
 </asp:Content>

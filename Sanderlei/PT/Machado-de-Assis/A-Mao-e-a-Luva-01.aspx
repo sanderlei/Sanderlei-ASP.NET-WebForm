@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 01 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 01 / 19" Language="C#" MasterPageFile="~/PT/SitePTMachado.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Morre-se. Quem não padece estas dores não as pode avaliar. O golpe foi profundo, e o meu coração é pusilânime; por mais aborrecível que pareça a idéia da morte, pior, muito pior do que ela, é a de viver. Ah! tu não sabes o que isto é?  " /> 
 </asp:Content>

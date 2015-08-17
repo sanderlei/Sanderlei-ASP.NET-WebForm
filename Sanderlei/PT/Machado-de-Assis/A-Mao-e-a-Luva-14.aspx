@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 14 / 19" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
+﻿<%@ Page Title="Machado de Assis - A Mão e a Luva - 14 / 19" Language="C#" MasterPageFile="~/PT/SitePTMachado.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Já o leitor ficou entendendo que a viagem a Cantagalo era obra quase exclusiva de Guiomar. A baronesa relutara a princípio, como das outras vezes fizera, e o comendador pouca esperança tinha já de a ver na fazenda. Mas o voto de Guiomar foi decisivo. Ela fortaleceu, com as suas, as razões do comendador, alegando não só a obrigação em que a madrinha estava de desempenhar a palavra dada, mas ainda a vantagem que lhe podiam trazer aqueles três meses de vida roceira, longe das agitações da Corte; enfim, invocou o seu próprio desejo de ver uma fazenda e conhecer os hábitos do interior.  " /> 
 </asp:Content>

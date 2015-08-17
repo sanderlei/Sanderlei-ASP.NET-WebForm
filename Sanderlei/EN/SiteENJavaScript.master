@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/SiteEN.Master" AutoEventWireup="true"  %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder11" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenu" runat="server">
+
+     <!-- Menu Principal -->     
+        <div class='navbar navbar-inverse navbar-static-top' >
+        	<div class='container'>  
+	           <div class='navbar-header'>
+            		<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>                                    
+                          <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
+               </div>
+    	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                   
+               		<li><a href='JavaScript-01-01' data-target='#' data-toggle='dropdown'>JavaScript - Course 01<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='JavaScript-01-01'> JavaScript - Course 01 - Part 01	</a></li>                            
+                           <li><a href='JavaScript-01-02'> JavaScript - Course 01 - Part 02	</a></li>                            
+                           <li><a href='JavaScript-01-03'> JavaScript - Course 01 - Part 03	</a></li>                            
+                           <li><a href='JavaScript-01-04'> JavaScript - Course 01 - Part 04	</a></li>                            
+                           <li><a href='JavaScript-01-05'> JavaScript - Course 01 - Part 05	</a></li>                            
+                           <li><a href='JavaScript-01-06'> JavaScript - Course 01 - Part 06	</a></li>                            
+                           <li><a href='JavaScript-01-07'> JavaScript - Course 01 - Part 07	</a></li>                            
+                           <li><a href='JavaScript-01-08'> JavaScript - Course 01 - Part 08	</a></li>                            
+                           <li><a href='JavaScript-01-09'> JavaScript - Course 01 - Part 09	</a></li>                            
+                           <li><a href='JavaScript-01-10'> JavaScript - Course 01 - Part 10	</a></li>                            
+                           <li><a href='JavaScript-01-11'> JavaScript - Course 01 - Part 11	</a></li>                            
+                           <li><a href='JavaScript-01-12'> JavaScript - Course 01 - Part 12	</a></li>                            
+                           <li><a href='JavaScript-01-13'> JavaScript - Course 01 - Part 13	</a></li>                            
+                           <li><a href='JavaScript-01-14'> JavaScript - Course 01 - Part 14	</a></li>                            
+                           <li><a href='JavaScript-01-15'> JavaScript - Course 01 - Part 15	</a></li>                            
+                           <li><a href='JavaScript-01-16'> JavaScript - Course 01 - Part 16	</a></li>                            
+                           
+
+                 
+
+                          
+                              </ul>	     	         	                           
+                                                   
+               
+
+                                  
+               		 
+
+                                     
+           
+                         	         	                           
+              </ul>                  
+        	</div>
+        </div>
+
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder12" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>

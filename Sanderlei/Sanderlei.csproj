@@ -259,6 +259,24 @@
     <Content Include="DE\Geschichte\EN-60.aspx" />
     <Content Include="DE\Geschichte\Index.aspx" />
     <Content Include="DE\Index.aspx" />
+    <Content Include="EN\Adobe\Premiere-Pro-01-01.aspx" />
+    <Content Include="EN\Adobe\Premiere-Pro-02-01.aspx" />
+    <Content Include="EN\Adobe\InDesign-01-04.aspx" />
+    <Content Include="EN\Adobe\InDesign-01-03.aspx" />
+    <Content Include="EN\Adobe\InDesign-01-02.aspx" />
+    <Content Include="EN\Adobe\InDesign-01-01.aspx" />
+    <Content Include="EN\Adobe\Flash-01-10.aspx" />
+    <Content Include="EN\Adobe\Flash-01-09.aspx" />
+    <Content Include="EN\Adobe\Flash-01-08.aspx" />
+    <Content Include="EN\Adobe\Flash-01-07.aspx" />
+    <Content Include="EN\Adobe\Flash-01-06.aspx" />
+    <Content Include="EN\Adobe\Flash-01-05.aspx" />
+    <Content Include="EN\Adobe\Flash-01-04.aspx" />
+    <Content Include="EN\Adobe\Flash-01-03.aspx" />
+    <Content Include="EN\Adobe\Flash-01-02.aspx" />
+    <Content Include="EN\Adobe\Flash-01-01.aspx" />
+    <Content Include="EN\Adobe\00.aspx" />
+    <Content Include="EN\Adobe\Index.aspx" />
     <Content Include="EN\GitHub\EN-01-01.aspx" />
     <Content Include="EN\GitHub\EN-01-02.aspx" />
     <Content Include="EN\GitHub\EN-01-03.aspx" />
@@ -353,6 +371,24 @@
     <Content Include="EN\History\EN-60.aspx" />
     <Content Include="EN\History\Index.aspx" />
     <Content Include="EN\Index.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-07.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-08.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-09.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-10.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-11.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-12.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-13.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-14.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-15.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-16.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-06.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-05.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-04.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-03.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-02.aspx" />
+    <Content Include="EN\JavaScript\JavaScript-01-01.aspx" />
+    <Content Include="EN\JavaScript\00.aspx" />
+    <Content Include="EN\JavaScript\Index.aspx" />
     <Content Include="EN\SAP\EN-04-44.aspx" />
     <Content Include="EN\SAP\EN-04-43.aspx" />
     <Content Include="EN\SAP\EN-04-42.aspx" />
@@ -620,7 +656,6 @@
     <Content Include="FR\Histoire\EN-60.aspx" />
     <Content Include="FR\Histoire\Index.aspx" />
     <Content Include="FR\Index.aspx" />
-    <Content Include="icone-s.ico" />
     <Content Include="Images\01 - 01 - Cronologia do Universo.jpg" />
     <Content Include="Images\02 - 01 - Cronologia da Terra.jpg" />
     <Content Include="Images\03 - 01 - Pre-historia.jpg" />
@@ -826,7 +861,34 @@
     <Content Include="JP\歴史\EN-60.aspx" />
     <Content Include="JP\歴史\Index.aspx" />
     <Content Include="packages.config" />
-    <Content Include="PT\00.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-11.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-12.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-13.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-14.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-15.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-16.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-17.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-18.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-19.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-20.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-21.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-22.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-23.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-24.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-25.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-26.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-10.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-09.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-08.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-07.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-01.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-02.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-03.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-04.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-05.aspx" />
+    <Content Include="PT\ASP-NET\MVC-01-06.aspx" />
+    <Content Include="PT\ASP-NET\00.aspx" />
+    <Content Include="PT\ASP-NET\Index.aspx" />
     <Content Include="PT\AudioBook\EN-01-01.aspx" />
     <Content Include="PT\AudioBook\EN-01-02.aspx" />
     <Content Include="PT\AudioBook\EN-01-03.aspx" />
@@ -1092,6 +1154,39 @@
     <Content Include="PT\AudioLivro\BR-11-09.aspx" />
     <Content Include="PT\AudioLivro\BR-11-10.aspx" />
     <Content Include="PT\AudioLivro\Index.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-02.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-03.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-04.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-05.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-06.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-07.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-08.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-09.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-10.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-11.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-12.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-13.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-14.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-15.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-16.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-17.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-18.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-19.aspx" />
+    <Content Include="PT\Design-Grafico\Sistemas-Multimedia-01-01.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-06.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-07.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-08.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-09.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-10.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-11.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-00.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-01.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-02.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-03.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-04.aspx" />
+    <Content Include="PT\Design-Grafico\Design-Grafico-01-05.aspx" />
+    <Content Include="PT\Design-Grafico\00.aspx" />
+    <Content Include="PT\Design-Grafico\Index.aspx" />
     <Content Include="PT\Ensino-Fundamental\00.aspx" />
     <Content Include="PT\Ensino-Fundamental\img\lingua-portuguesa-01-01.png" />
     <Content Include="PT\Ensino-Fundamental\img\Mato-Grosso-do-Sul-Historia-Geografia-01-01.jpg" />
@@ -1232,6 +1327,222 @@
     <Content Include="PT\Idioma\ES-01-19.aspx" />
     <Content Include="PT\Idioma\ES-01-20.aspx" />
     <Content Include="PT\Idioma\Index.aspx" />
+    <Content Include="PT\Machado-de-Assis\Varias-Historias-01.aspx" />
+    <Content Include="PT\Machado-de-Assis\Reliquias-de-Casa-Velha-02.aspx" />
+    <Content Include="PT\Machado-de-Assis\Reliquias-de-Casa-Velha-03.aspx" />
+    <Content Include="PT\Machado-de-Assis\Reliquias-de-Casa-Velha-04.aspx" />
+    <Content Include="PT\Machado-de-Assis\Reliquias-de-Casa-Velha-05.aspx" />
+    <Content Include="PT\Machado-de-Assis\Reliquias-de-Casa-Velha-06.aspx" />
+    <Content Include="PT\Machado-de-Assis\Reliquias-de-Casa-Velha-07.aspx" />
+    <Content Include="PT\Machado-de-Assis\Reliquias-de-Casa-Velha-08.aspx" />
+    <Content Include="PT\Machado-de-Assis\Reliquias-de-Casa-Velha-09.aspx" />
+    <Content Include="PT\Machado-de-Assis\Reliquias-de-Casa-Velha-10.aspx" />
+    <Content Include="PT\Machado-de-Assis\Reliquias-de-Casa-Velha-01.aspx" />
+    <Content Include="PT\Machado-de-Assis\Paginas-Recolhidas-02.aspx" />
+    <Content Include="PT\Machado-de-Assis\Paginas-Recolhidas-03.aspx" />
+    <Content Include="PT\Machado-de-Assis\Paginas-Recolhidas-04.aspx" />
+    <Content Include="PT\Machado-de-Assis\Paginas-Recolhidas-05.aspx" />
+    <Content Include="PT\Machado-de-Assis\Paginas-Recolhidas-06.aspx" />
+    <Content Include="PT\Machado-de-Assis\Paginas-Recolhidas-07.aspx" />
+    <Content Include="PT\Machado-de-Assis\Paginas-Recolhidas-08.aspx" />
+    <Content Include="PT\Machado-de-Assis\Paginas-Recolhidas-09.aspx" />
+    <Content Include="PT\Machado-de-Assis\Paginas-Recolhidas-01.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-01.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-02.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-03.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-04.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-05.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-06.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-07.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-08.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-09.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-10.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-11.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-12.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-13.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-14.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-15.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-16.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-17.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-18.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-Sem-Data-19.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-da-Meia-Noite-02.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-da-Meia-Noite-03.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-da-Meia-Noite-04.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-da-Meia-Noite-05.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-da-Meia-Noite-06.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-da-Meia-Noite-07.aspx" />
+    <Content Include="PT\Machado-de-Assis\Historias-da-Meia-Noite-01.aspx" />
+    <Content Include="PT\Machado-de-Assis\Contos-Fluminenses-01.aspx" />
+    <Content Include="PT\Machado-de-Assis\Contos-Fluminenses-02.aspx" />
+    <Content Include="PT\Machado-de-Assis\Contos-Fluminenses-03.aspx" />
+    <Content Include="PT\Machado-de-Assis\Contos-Fluminenses-04.aspx" />
+    <Content Include="PT\Machado-de-Assis\Contos-Fluminenses-05.aspx" />
+    <Content Include="PT\Machado-de-Assis\Contos-Fluminenses-06.aspx" />
+    <Content Include="PT\Machado-de-Assis\Contos-Fluminenses-07.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-03.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-04.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-05.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-06.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-07.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-08.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-09.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-10.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-11.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-12.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-13.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-14.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-02.aspx" />
+    <Content Include="PT\Machado-de-Assis\Papeis-Avulsos-01.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-121.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-120.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-119.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-118.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-117.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-116.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-115.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-114.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-113.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-112.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-111.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-110.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-109.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-108.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-107.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-106.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-105.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-104.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-103.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-102.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-101.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-100.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-099.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-098.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-097.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-096.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-095.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-094.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-093.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-092.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-091.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-090.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-089.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-088.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-087.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-086.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-085.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-084.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-083.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-082.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-081.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-080.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-079.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-078.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-077.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-076.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-075.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-074.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-073.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-072.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-071.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-070.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-069.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-068.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-067.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-066.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-065.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-064.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-063.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-062.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-061.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-060.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-059.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-058.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-057.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-056.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-055.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-054.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-053.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-052.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-051.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-050.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-049.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-048.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-047.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-046.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-045.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-044.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-043.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-042.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-041.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-040.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-039.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-038.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-037.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-036.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-035.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-034.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-033.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-032.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-031.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-030.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-029.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-028.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-027.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-026.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-025.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-024.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-023.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-022.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-021.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-020.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-019.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-018.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-017.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-016.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-015.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-014.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-013.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-012.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-011.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-010.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-009.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-008.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-007.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-006.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-005.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-004.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-003.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-002.aspx" />
+    <Content Include="PT\Machado-de-Assis\Esau-e-Jaco-001.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-28.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-27.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-26.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-25.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-24.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-23.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-22.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-21.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-20.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-19.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-18.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-17.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-16.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-15.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-14.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-13.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-12.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-11.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-10.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-09.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-08.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-07.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-06.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-05.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-04.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-03.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-02.aspx" />
+    <Content Include="PT\Machado-de-Assis\Helena-01.aspx" />
     <Content Include="PT\Machado-de-Assis\Iaia-Garcia-17.aspx" />
     <Content Include="PT\Machado-de-Assis\Iaia-Garcia-16.aspx" />
     <Content Include="PT\Machado-de-Assis\Iaia-Garcia-15.aspx" />
@@ -1906,7 +2217,6 @@
     <Content Include="PT\Poesia\PT-16.aspx" />
     <Content Include="PT\Poesia\PT-17.aspx" />
     <Content Include="PT\Poesia\PT-18.aspx" />
-    <Content Include="PT\temp.aspx" />
     <Content Include="PT\TOTVS-Datasul\BR-01-01.aspx" />
     <Content Include="PT\TOTVS-Datasul\BR-01-02.aspx" />
     <Content Include="PT\TOTVS-Datasul\BR-01-03.aspx" />
@@ -2009,6 +2319,8 @@
     <Content Include="AR\SiteARHistory.master" />
     <Content Include="EN\SiteENGitHub.master" />
     <Content Include="EN\SiteENSAP.master" />
+    <Content Include="EN\SiteENJavaScript.master" />
+    <Content Include="EN\SiteENAdobe.master" />
     <None Include="Properties\PublishProfiles\sanderlei %283%29.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -2022,6 +2334,8 @@
     <Content Include="PT\SitePTBrasil.master" />
     <Content Include="PT\SitePTTotvs.master" />
     <Content Include="PT\SitePTMachado.master" />
+    <Content Include="PT\SitePTAspNet.master" />
+    <Content Include="PT\SitePTDesign.master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -4021,13 +4335,6 @@
     <Compile Include="EN\History\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
-    <Compile Include="EN\Index.aspx.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="EN\Index.aspx.designer.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
-    </Compile>
     <Compile Include="EN\SAP\EN-01-01.aspx.cs">
       <DependentUpon>EN-01-01.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -4293,34 +4600,6 @@
     </Compile>
     <Compile Include="EN\SAP\EN-01-38.aspx.designer.cs">
       <DependentUpon>EN-01-38.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="EN\SAP\Index.aspx.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="EN\SAP\Index.aspx.designer.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="EN\SiteENGitHub.master.cs">
-      <DependentUpon>SiteENGitHub.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="EN\SiteENGitHub.master.designer.cs">
-      <DependentUpon>SiteENGitHub.master</DependentUpon>
-    </Compile>
-    <Compile Include="EN\SiteENHistory.master.cs">
-      <DependentUpon>SiteENHistory.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="EN\SiteENHistory.master.designer.cs">
-      <DependentUpon>SiteENHistory.master</DependentUpon>
-    </Compile>
-    <Compile Include="EN\SiteENSAP.master.cs">
-      <DependentUpon>SiteENSAP.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="EN\SiteENSAP.master.designer.cs">
-      <DependentUpon>SiteENSAP.master</DependentUpon>
     </Compile>
     <Compile Include="ES\Historia\ES-01.aspx.cs">
       <DependentUpon>ES-01.aspx</DependentUpon>
@@ -6106,13 +6385,6 @@
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
-    </Compile>
-    <Compile Include="PT\00.aspx.cs">
-      <DependentUpon>00.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\00.aspx.designer.cs">
-      <DependentUpon>00.aspx</DependentUpon>
     </Compile>
     <Compile Include="PT\AudioBook\EN-01-01.aspx.cs">
       <DependentUpon>EN-01-01.aspx</DependentUpon>
@@ -8774,13 +9046,6 @@
     <Compile Include="PT\Idioma\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
-    <Compile Include="PT\Index.aspx.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Index.aspx.designer.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
-    </Compile>
     <Compile Include="PT\Machado-de-Assis\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -9333,69 +9598,6 @@
     </Compile>
     <Compile Include="PT\Poesia\PT-18.aspx.designer.cs">
       <DependentUpon>PT-18.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\SitePTBook.master.cs">
-      <DependentUpon>SitePTBook.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\SitePTBook.master.designer.cs">
-      <DependentUpon>SitePTBook.master</DependentUpon>
-    </Compile>
-    <Compile Include="PT\SitePTBrasil.master.cs">
-      <DependentUpon>SitePTBrasil.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\SitePTBrasil.master.designer.cs">
-      <DependentUpon>SitePTBrasil.master</DependentUpon>
-    </Compile>
-    <Compile Include="PT\SitePTHistoria.master.cs">
-      <DependentUpon>SitePTHistoria.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\SitePTHistoria.master.designer.cs">
-      <DependentUpon>SitePTHistoria.master</DependentUpon>
-    </Compile>
-    <Compile Include="PT\SitePTIdioma.master.cs">
-      <DependentUpon>SitePTIdioma.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\SitePTIdioma.master.designer.cs">
-      <DependentUpon>SitePTIdioma.master</DependentUpon>
-    </Compile>
-    <Compile Include="PT\SitePTLivro.master.cs">
-      <DependentUpon>SitePTLivro.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\SitePTLivro.master.designer.cs">
-      <DependentUpon>SitePTLivro.master</DependentUpon>
-    </Compile>
-    <Compile Include="PT\SitePTMachado.master.cs">
-      <DependentUpon>SitePTMachado.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\SitePTMachado.master.designer.cs">
-      <DependentUpon>SitePTMachado.master</DependentUpon>
-    </Compile>
-    <Compile Include="PT\SitePTPoesia.master.cs">
-      <DependentUpon>SitePTPoesia.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\SitePTPoesia.master.designer.cs">
-      <DependentUpon>SitePTPoesia.master</DependentUpon>
-    </Compile>
-    <Compile Include="PT\SitePTTotvs.master.cs">
-      <DependentUpon>SitePTTotvs.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\SitePTTotvs.master.designer.cs">
-      <DependentUpon>SitePTTotvs.master</DependentUpon>
-    </Compile>
-    <Compile Include="PT\temp.aspx.cs">
-      <DependentUpon>temp.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\temp.aspx.designer.cs">
-      <DependentUpon>temp.aspx</DependentUpon>
     </Compile>
     <Compile Include="PT\TOTVS-Datasul\BR-01-01.aspx.cs">
       <DependentUpon>BR-01-01.aspx</DependentUpon>
@@ -9971,76 +10173,6 @@
     <Compile Include="RU\история\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
-    <Compile Include="SiteAR.Master.cs">
-      <DependentUpon>SiteAR.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SiteAR.Master.designer.cs">
-      <DependentUpon>SiteAR.Master</DependentUpon>
-    </Compile>
-    <Compile Include="SiteCN.Master.cs">
-      <DependentUpon>SiteCN.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SiteCN.Master.designer.cs">
-      <DependentUpon>SiteCN.Master</DependentUpon>
-    </Compile>
-    <Compile Include="SiteDE.Master.cs">
-      <DependentUpon>SiteDE.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SiteDE.Master.designer.cs">
-      <DependentUpon>SiteDE.Master</DependentUpon>
-    </Compile>
-    <Compile Include="SiteEN.Master.cs">
-      <DependentUpon>SiteEN.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SiteEN.Master.designer.cs">
-      <DependentUpon>SiteEN.Master</DependentUpon>
-    </Compile>
-    <Compile Include="SiteES.Master.cs">
-      <DependentUpon>SiteES.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SiteES.Master.designer.cs">
-      <DependentUpon>SiteES.Master</DependentUpon>
-    </Compile>
-    <Compile Include="SiteFR.Master.cs">
-      <DependentUpon>SiteFR.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SiteFR.Master.designer.cs">
-      <DependentUpon>SiteFR.Master</DependentUpon>
-    </Compile>
-    <Compile Include="SiteIT.Master.cs">
-      <DependentUpon>SiteIT.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SiteIT.Master.designer.cs">
-      <DependentUpon>SiteIT.Master</DependentUpon>
-    </Compile>
-    <Compile Include="SiteJP.Master.cs">
-      <DependentUpon>SiteJP.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SiteJP.Master.designer.cs">
-      <DependentUpon>SiteJP.Master</DependentUpon>
-    </Compile>
-    <Compile Include="SitePT.Master.cs">
-      <DependentUpon>SitePT.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SitePT.Master.designer.cs">
-      <DependentUpon>SitePT.Master</DependentUpon>
-    </Compile>
-    <Compile Include="SiteRU.Master.cs">
-      <DependentUpon>SiteRU.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SiteRU.Master.designer.cs">
-      <DependentUpon>SiteRU.Master</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -10056,7 +10188,8 @@
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>icone-s.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />

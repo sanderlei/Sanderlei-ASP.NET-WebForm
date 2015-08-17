@@ -1,4 +1,4 @@
-﻿<%@ Page Title="SAP Business All-in-One | 01 | Solution Consultant Training | Level 1" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.EN.SAP.Index" %>
+﻿<%@ Page Title="SAP Business All-in-One | 01 | Solution Consultant Training | Level 1" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">    
     <meta name="description" content="SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - Tutorial" />
 </asp:Content>
