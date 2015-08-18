@@ -19,7 +19,7 @@
               FIM - VIDEO do YOUTUBE  -->
         </div>       
         <div class='col-xs-12 col-md-12 text-justify' style='line-height:1.7'>
-             <br /> <h2 class='text-center'>     </h2>        <br /> 
+             <br /> <h2 class='text-center'>  ÍNDICE   </h2>        <br /> 
                         
             
             
@@ -27,31 +27,20 @@
 
 <br />
 
-<H5>ÍNDICE </H5>
+<H5> </H5>
 <br />
-<p>MUSA CONSOLATRIX </p>
-
-<p>VISIO </p>
-
+<a href="#p1"><p>MUSA CONSOLATRIX </p></a>
+<a href="#p2"><p>VISIO </p></a>
 <p>QUINZE ANOS STELLA </p>
-
 <p>EPITÁFIO DO MÉXICO </p>
-
 <p>POLÔNIA </p>
-
 <p>ERRO ELEGIA </p>
-
 <p>SINHÁ </p>
-
 <p>HORAS VIVAS </p>
-
 <p>VERSOS A CORINA </p>
-
 <p>ÚLTIMA FOLHA </p>
-
-
 <br />
-<H5>POEMAS PRESENTES NA PRIMEIRA EDIÇÃO </H5>
+<h5><strong> POEMAS PRESENTES NA PRIMEIRA EDIÇÃO </strong></h5>
 <br />
 <p>LÚCIA </p>
 <p>O DILÚVIO </p>
@@ -64,39 +53,52 @@
 <br />
 <p>OS ARLEQUINS AS ONDINAS MARIA DUPLESSIS AS ROSAS OS DOUS HORIZONTES MONTE ALVERNE AS VENTOINHAS ALPUJARRA EMBIRRAÇÃO POSFÁCIO </p>
 
+<br />            <hr /> <br />
+            
+            
+            <H3 id="p1" class='text-center'>MUSA CONSOLATRIX </H3>
+
+            <br />
+<p>Que a mão do tempo e o hálito dos homens </p>
+   <p> Murchem a flor das ilusões da vida, </p>
+
+<p>Musa consoladora, É no teu seio amigo e sossegado</p>
+     <p>Que o poeta respira o suave sono. </p>
+
+<p>Não há, não há contigo, </p>
+    <p>Nem dor aguda, nem sombrios ermos; </p>
+    <p>Da tua voz os namorados cantos </p>
+
+<p>Enchem, povoam tudo </p>
+    <p>De íntima paz, de vida e de conforto. </p>
+
+<p>Ante esta voz que as dores adormece, </p>
+<p>E muda o agudo espinho em flor cheirosa, </p>
+<p>Que vales tu, desilusão dos homens? </p>
+
+<p>Tu que podes, ó tempo? </p>
+    <p>A alma triste do poeta sobrenada</p>
+
+<p>À enchente das angústias, </p>
+    <p>E, afrontando o rugido da tormenta, </p>
+    <p>Passa cantando, alcíone divina. </p>
+
+<p>Musa consoladora, </p>
+    <p>Quando da minha fronte de mancebo </p>
+    <p>A última ilusão cair, bem como </p>
+
+<p>Folha amarela e seca </p>
+    <p>Que ao chão atira a viração do outono, </p>
+    <p>Ah! no teu seio amigo </p>
+
+<p>Acolhe-me, — e haverá minha alma aflita, </p>
+<p>Em vez de algumas ilusões que teve, </p>
+<p>A paz, o último bem, último e puro! </p>
+
 <br />
+            <hr /><br />
 
-<H5>MUSA CONSOLATRIX </H5>
-
-<p>Que a mão do tempo e o hálito dos homens Murchem a flor das ilusões da vida, </p>
-
-<p>Musa consoladora, É no teu seio amigo e sossegado Que o poeta respira o suave sono. </p>
-
-<p>Não há, não há contigo, Nem dor aguda, nem sombrios ermos; Da tua voz os namorados cantos </p>
-
-<p>Enchem, povoam tudo De íntima paz, de vida e de conforto. </p>
-
-<p>Ante esta voz que as dores adormece, 
-E muda o agudo espinho em flor cheirosa, 
-Que vales tu, desilusão dos homens? 
-</p>
-
-<p>Tu que podes, ó tempo? A alma triste do poeta sobrenada</p>
-
-<p>À enchente das angústias, E, afrontando o rugido da tormenta, Passa cantando, alcíone divina. </p>
-
-<p>Musa consoladora, Quando da minha fronte de mancebo A última ilusão cair, bem como </p>
-
-<p>Folha amarela e seca Que ao chão atira a viração do outono, Ah! no teu seio amigo </p>
-
-<p>Acolhe-me, — e haverá minha alma aflita, 
-Em vez de algumas ilusões que teve, 
-A paz, o último bem, último e puro! 
-</p>
-
-<br />
-
-<H5>VISIO </H5>
+<H3 id="p2" class='text-center'>VISIO </H3>
 <br />
 <p>Eras pálida. E os cabelos, 
 Aéreos, soltos novelos 

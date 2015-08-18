@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="SAP -  " Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"   %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
-    <meta name="description" content=" SAP Business One | 01 | Presales Consultant Qualification | Level 1 - " /> 
+    <meta name="description" content=" Curriculum for Development Consultants	 - " /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 

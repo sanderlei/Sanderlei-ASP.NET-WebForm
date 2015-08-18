@@ -60,6 +60,7 @@
                    <li><a href='/EN/GitHub/Index' > GitHub (EN)</a></li>  
                    <li><a href='/EN/SAP/Index' > SAP (EN)</a></li>   
                    <li><a href='/PT/ASP-NET/Index' > ASP.NET </a></li>
+                   <li><a href='/PT/Banco-de-Dados/Index' > DataBase </a></li>
                    <li><a href='/EN/JavaScript/Index' > JavaScript (EN)</a></li>   
                    <li><a href='/EN/Adobe/Index' > Adobe Academy (EN)</a></li>     
                    <!--
@@ -80,15 +81,7 @@
       
       </div>
    <br />
-    <div class='container hidden-xs text-center' style="border: thin dotted #000000"> 
-        <br />
-        <h6 class='auto-style1'> Anúncio patrocinado </h6>
-        <br />
-        <div class="hidden-xs col-sm-8 col-sm-offset-2">
-        <SCRIPT LANGUAGE="JavaScript1.1" SRC="http://bdv.bidvertiser.com/BidVertiser.dbm?pid=682995&bid=1708548" type="text/javascript"></SCRIPT>       
-            </div>
-        <br />
-   </div>
+     <!--  anuncio patrocinado  -->
       <div class='container'> 
         <a style="color:white" href='http://www.sanderlei.com.br/'>Sanderlei Silveira (S-01)|</a>        
         <a style="color:white" href='http://www.historia1minuto.com.br/'>História em 1 Minuto (S-02)|</a>
@@ -132,6 +125,12 @@
         <a style="color:white" href='http://machado-de-assis-sanderlei.blogspot.com/'> Machado de Assis (B-23)| </a>
         <a style="color:white" href='http://machado-de-assis-esau-e-jaco.blogspot.com/'> Machado de Assis - Esaú e Jacó	(B-24)| </a>
         <a style="color:white" href='http://machado-de-assis-a-mao-e-a-luva.blogspot.com/'> Machado de Assis - A Mão e a Luva (B-25)| </a>
+          <a style="color:white" href='http://java-curso-online-gratis.blogspot.com/'> Curso de Java - Online Gratuito	 (B-26)| </a>
+        <a style="color:white" href='http://asp-net-online-gratis.blogspot.com/'> Curso de ASP.NET - Online Gratuito (B-27)| </a>
+        <a style="color:white" href='http://design-grafico-curso-gratis.blogspot.com/'> Comunicação Visual e Design Gráfico (B-28)| </a>
+        <a style="color:white" href='http://sistemas-multimedia-curso-gratis.blogspot.com/'> Sistemas Multimédia - Curso Gratuito (B-29)| </a>
+        <a style="color:white" href='http://curso-pl-sql-oracle-online-gratis.blogspot.com/'> Curso de PL/SQL Oracle - Curso Gratuito	(B-30)| </a>
+
   </div>
      
      <!--  Google Analytics - Inicio  -->

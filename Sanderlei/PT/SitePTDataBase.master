@@ -98,6 +98,24 @@
                            <li><a href='PL-SQL-Oracle-03-20'> Oracle PL/SQL Fundamentals - 20 - Roles & Privileges With Subprograms - Part 04 </a></li>                                                      
                           
                               </ul>	
+
+
+                       <li><a href='SQL-01-01' data-target='#' data-toggle='dropdown'>Introduction to SQL (EN)<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='SQL-01-01'> Introduction to SQL - 01 - SQL Basics - Part 01   </a></li>                            
+                           <li><a href='SQL-01-02'> Introduction to SQL - 02 - SQL Basics - Part 02 </a></li>                            
+                           <li><a href='SQL-01-03'> Introduction to SQL - 03 - SQL Basics - Part 03 </a></li>                            
+                           <li><a href='SQL-01-04'> Introduction to SQL - 04 - The SELECT Statement - Part 01 </a></li>                            
+                           <li><a href='SQL-01-05'> Introduction to SQL - 05 - The SELECT Statement - Part 02 </a></li>                            
+                           <li><a href='SQL-01-06'> Introduction to SQL - 06 - The SELECT Statement - Part 03   </a></li>                            
+                           <li><a href='SQL-01-07'> Introduction to SQL - 07 - JOINS - Part 01  </a></li>  
+                           <li><a href='SQL-01-08'> Introduction to SQL - 08 - JOINS - Part 02  </a></li>                           
+                           <li><a href='SQL-01-09'> Introduction to SQL - 09 - JOINS - Part 03 </a></li>                           
+                           <li><a href='SQL-01-10'> Introduction to SQL - 10 - Adding, Changing, and Removing Data - Part 01 </a></li>                           
+                           <li><a href='SQL-01-11'> Introduction to SQL - 11 - Adding, Changing, and Removing Data - Part 02  </a></li>                           
+                           <li><a href='SQL-01-12'> Introduction to SQL - 12 - Creating Tables - Part 01</a></li>                           
+                           <li><a href='SQL-01-13'> Introduction to SQL - 13 - Creating Tables - Part 02</a></li>                           
+                                                     
+                              </ul>	
                          	         	                           
               </ul>                  
         	</div>
