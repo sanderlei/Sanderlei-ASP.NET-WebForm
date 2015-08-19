@@ -1,4 +1,4 @@
-﻿<%@ Page Title="07-38 - SAP ERP Basic Concepts" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-07.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_07" %>
+﻿<%@ Page Title="07-38 - SAP ERP Basic Concepts" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 07-38 - SAP ERP Basic Concepts " /> 
 </asp:Content>

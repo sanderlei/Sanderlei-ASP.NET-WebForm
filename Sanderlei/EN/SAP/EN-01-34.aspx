@@ -1,4 +1,4 @@
-﻿<%@ Page Title="34-38 - How to Work with BC Sets in SAP Best Practices" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-34.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_34" %>
+﻿<%@ Page Title="34-38 - How to Work with BC Sets in SAP Best Practices" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 34-38 - How to Work with BC Sets in SAP Best Practices" /> 
 </asp:Content>

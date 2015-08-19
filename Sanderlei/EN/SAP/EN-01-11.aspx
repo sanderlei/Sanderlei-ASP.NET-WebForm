@@ -1,4 +1,4 @@
-﻿<%@ Page Title="11-38 - Consulting Paradigms" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-11.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_11" %>
+﻿<%@ Page Title="11-38 - Consulting Paradigms" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 11-38 - Consulting Paradigms " /> 
 </asp:Content>

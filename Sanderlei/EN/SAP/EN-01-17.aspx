@@ -1,4 +1,4 @@
-﻿<%@ Page Title="17-38 - Getting the Data Ready" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-17.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_17" %>
+﻿<%@ Page Title="17-38 - Getting the Data Ready" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 17-38 - Getting the Data Ready " /> 
 </asp:Content>

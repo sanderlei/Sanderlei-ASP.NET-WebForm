@@ -1,4 +1,4 @@
-﻿<%@ Page Title="23-38 - System Landscape and Client Strategy" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-23.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_23" %>
+﻿<%@ Page Title="23-38 - System Landscape and Client Strategy" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 23-38 - System Landscape and Client Strategy " /> 
 </asp:Content>

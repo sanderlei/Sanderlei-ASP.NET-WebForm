@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="SAP -  " Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"   %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
-    <meta name="description" content=" Essential Product Training for Development Consultants -    " /> 
+    <meta name="description" content=" SAP Business One - Delta Training -    " /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 

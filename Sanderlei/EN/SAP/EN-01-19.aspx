@@ -1,4 +1,4 @@
-﻿<%@ Page Title="19-38 - Introduction to SAP NetWeaver" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-19.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_19" %>
+﻿<%@ Page Title="19-38 - Introduction to SAP NetWeaver" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 19-38 - Introduction to SAP NetWeaver " /> 
 </asp:Content>

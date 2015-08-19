@@ -1,4 +1,4 @@
-﻿<%@ Page Title="06-38 - ASAP Focus Methodology Overview" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-06.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_06" %>
+﻿<%@ Page Title="06-38 - ASAP Focus Methodology Overview" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 06-38 - ASAP Focus Methodology Overview " /> 
 </asp:Content>

@@ -7,7 +7,7 @@
       <div class='container panel-body'>
         <div class='col-xs-12 col-md-12 text-center'>            
             <br />
-            <h1>  Machado de Assis - Teatro</h1>
+            <h1>  Machado de Assis - Tradução</h1>
             <br /> 
               <!-- INICIO - VIDEO do YOUTUBE 
                <div class="container-fluid">	            
@@ -28,19 +28,12 @@
                                 
         </div>           
         <br />    <p class='text-center'> * * * </p>  <br /> <hr />  <br />            
-          <div class="bg-info container-fluid col-xs-12">    <h5 class='text-center'>  Machado de Assis - Teatro - Links </h5>   </div> 
+          <div class="bg-info container-fluid col-xs-12">    <h5 class='text-center'>  Machado de Assis - Tradução - Links </h5>   </div> 
           <div class="text-center"><ul class="pagination pagination-lg">
           <!--  class="active"  -->
-            <li   ><a href="Teatro-01">01</a></li>            
-            <li   ><a href="Teatro-02">02</a></li>
-            <li   ><a href="Teatro-03">03</a></li>
-            <li   ><a href="Teatro-04">04</a></li>
-            <li   ><a href="Teatro-05">05</a></li>
-            <li   ><a href="Teatro-06">06</a></li>
-            <li   ><a href="Teatro-07">07</a></li>
-            <li   ><a href="Teatro-08">08</a></li>
-            <li   ><a href="Teatro-09">09</a></li>
-            <li   ><a href="Teatro-10">10</a></li>                                                          
+            <li   ><a href="Traducao-01">01</a></li>            
+            <li   ><a href="Traducao-02">02</a></li>
+            <li   ><a href="Traducao-03">03</a></li>                                                        
           </ul>
         </div>
       </div>                   

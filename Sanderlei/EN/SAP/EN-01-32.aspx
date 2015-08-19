@@ -1,4 +1,4 @@
-﻿<%@ Page Title="32-38 - Demo Options - Online Reference Systems and System Exports" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-32.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_32" %>
+﻿<%@ Page Title="32-38 - Demo Options - Online Reference Systems and System Exports" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 32-38 - Demo Options - Online Reference Systems and System Exports " /> 
 </asp:Content>

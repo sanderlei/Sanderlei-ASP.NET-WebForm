@@ -1,4 +1,4 @@
-﻿<%@ Page Title="20-38 - SAP NetWeaver Business Client" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-20.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_20" %>
+﻿<%@ Page Title="20-38 - SAP NetWeaver Business Client" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 20-38 - SAP NetWeaver Business Client " /> 
 </asp:Content>

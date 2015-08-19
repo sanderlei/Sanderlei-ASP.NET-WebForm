@@ -58,7 +58,7 @@
                    <li><a href='/PT/Idioma/Index' >语言课程</a></li>  
                    <li><a href='/PT/AudioBook/Index' > 有声读物 (EN)</a></li>  
                    <li><a href='/EN/GitHub/Index' > GitHub (EN)</a></li>         
-                   <li><a href='/EN/SAP/Index' > SAP (EN)</a></li>   
+                   <li><a href='/CN/SAP/Index' > SAP (EN)</a></li>   
                    <li><a href='/PT/ASP-NET/Index' > ASP.NET </a></li>
                    <li><a href='/PT/Banco-de-Dados/Index' > DataBase </a></li>
                    <li><a href='/EN/JavaScript/Index' > JavaScript (EN)</a></li>    
@@ -97,6 +97,11 @@
         <a style="color:white" href='http://machado-de-assis-sanderlei.azurewebsites.net/'> Machado de Assis - Sanderlei (A-10)|</a>
         <a style="color:white" href='http://machado-de-assis-dom-casmurro.azurewebsites.net/'> Machado de Assis - Dom Casmurro (A-11)|</a>
         <a style="color:white" href='http://machado-de-assis-memorias-postumas-de-bras-cubas.azurewebsites.net/'> Machado de Assis - Memórias Póstumas de Brás Cubas (A-12)|</a>
+          <a style="color:white" href='http://sap-curso-online-gratuito.azurewebsites.net/'> Sap Curso Online Gratuito (A-13)|</a>
+        <a style="color:white" href='http://sap-learning-hub-free.azurewebsites.net/'> Sap Learning Hub Free (A-14)|</a>
+        <a style="color:white" href='http://sap-treinamento-online-gratis.azurewebsites.net/'> Sap Treinamento Online Gratis (A-15)|</a>
+        <a style="color:white" href='http://sap-academy-free.azurewebsites.net/'> Sap Academy Free (A-16)|</a>
+        <a style="color:white" href='http://sap-sanderlei.azurewebsites.net/'> Sap Sanderlei (A-17)|</a>
         <a style="color:white" href='http://historiaem1minutobr.blogspot.com/'>História em 1 Minuto (B-01)|</a>
         <a style="color:white" href='http://historiaen1minutoes.blogspot.com/'>History in 1 Minute (B-02)|</a>
         <a style="color:white" href='http://historyin1minuteen.blogspot.com/'>Historia en 1 Minuto (B-03)|</a>
@@ -127,7 +132,16 @@
         <a style="color:white" href='http://design-grafico-curso-gratis.blogspot.com/'> Comunicação Visual e Design Gráfico (B-28)| </a>
         <a style="color:white" href='http://sistemas-multimedia-curso-gratis.blogspot.com/'> Sistemas Multimédia - Curso Gratuito (B-29)| </a>
         <a style="color:white" href='http://curso-pl-sql-oracle-online-gratis.blogspot.com/'> Curso de PL/SQL Oracle - Curso Gratuito	(B-30)| </a>
-
+           <a style="color:white" href='http://sap-partner-edge-brasil.blogspot.com/'> SAP PartnerEdge - Brasil	(B-31)| </a>
+          <a style="color:white" href='http://sap-a1-presales-consultant.blogspot.com/'> SAP Business All-in-One - Presales Consultant Qualification	(B-32)| </a>
+          <a style="color:white" href='http://sap-a1-sales-executive.blogspot.com/'> SAP Business All-in-One - Sales Executive Qualification	(B-33)| </a>
+          <a style="color:white" href='http://sap-b1-presales-consultant.blogspot.com/'> SAP Business One - Presales Consultant Qualification	(B-34)| </a>
+          <a style="color:white" href='http://sap-development-consultants.blogspot.com/'> SAP - Curriculum for Development Consultants	(B-35)| </a>
+          <a style="color:white" href='http://machado-de-assis-poesia.blogspot.com/'> Machado de Assis - Poesia	(B-36)| </a>
+          <a style="color:white" href='http://machado-de-assis-cronica.blogspot.com/'> Machado de Assis - Crônica	(B-37)| </a>
+          <a style="color:white" href='http://machado-de-assis-teatro.blogspot.com/'> Machado de Assis - Teatro	(B-38)| </a>
+          <a style="color:white" href='http://machado-de-assis-papeis-avulsos.blogspot.com/'> Machado de Assis - Papéis Avulsos	(B-39)| </a>
+          <a style="color:white" href='http://machado-de-assis-helena.blogspot.com/'> Machado de Assis - Helena 	(B-40)| </a>          
   </div>
     
      <!--  Google Analytics - Inicio  -->

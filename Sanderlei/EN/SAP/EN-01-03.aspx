@@ -1,4 +1,4 @@
-﻿<%@ Page Title="03-38 - Introduction to SAP Rapid Deployment Solutions" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-03.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_03" %>
+﻿<%@ Page Title="03-38 - Introduction to SAP Rapid Deployment Solutions" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 03-38 - Introduction to SAP Rapid Deployment Solutions " /> 
 </asp:Content>

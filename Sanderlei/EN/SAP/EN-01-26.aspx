@@ -1,4 +1,4 @@
-﻿<%@ Page Title="26-38 - OCM Activities and Accelerators in the Roadmap" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-26.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_26" %>
+﻿<%@ Page Title="26-38 - OCM Activities and Accelerators in the Roadmap" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 26-38 - OCM Activities and Accelerators in the Roadmap " /> 
 </asp:Content>

@@ -12,7 +12,7 @@
                           <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
                </div>
     	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                   
-               		<li><a href='EN-01-01' data-target='#' data-toggle='dropdown'>SAP A1 | Solution Consultant Training <span class='caret'></span></a><ul class='dropdown-menu'>
+               		<li><a href='EN-01-01' data-target='#' data-toggle='dropdown'>SAP A1 | Solution Consultant <span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='EN-01-01'> SAP Business All-in-One - 01-38 - SAP Business All-In-One and the Midmarket Approach	</a></li>                            
                            <li><a href='EN-01-02'> SAP Business All-in-One - 02-38 - SAP Business All-In-One Values and Benefits	</a></li>                            
                            <li><a href='EN-01-03'> SAP Business All-in-One - 03-38 - Introduction to SAP Rapid Deployment Solutions	</a></li>                            
@@ -56,7 +56,7 @@
                           
                               </ul>	     	         	                           
                                                    
-               		<li><a href='EN-02-01' data-target='#' data-toggle='dropdown'>SAP A1 | Presales Consultant Qualification<span class='caret'></span></a><ul class='dropdown-menu'>
+               		<li><a href='EN-02-01' data-target='#' data-toggle='dropdown'>SAP A1 | Presales Consultant<span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='EN-02-01'> SAP Business All-in-One  - 01 - Introduction to Presales	</a></li>    
                            <li><a href='EN-02-02'> SAP Business All-in-One  - 02 - Introducing a New Way of Thinking	</a></li>    
                            <li><a href='EN-02-03'> SAP Business All-in-One  - 03 - Introduction to the Synchronized CEL Sales Process 	</a></li>    
@@ -97,7 +97,7 @@
                               </ul>	  
 
                                   
-               		<li><a href='EN-03-01' data-target='#' data-toggle='dropdown'>SAP A1 | Sales Executive Qualification<span class='caret'></span></a><ul class='dropdown-menu'>
+               		<li><a href='EN-03-01' data-target='#' data-toggle='dropdown'>SAP A1 | Sales Executive<span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='EN-03-01'> SAP Business All-in-One - 01 - Introduction to Design Thinking with SAP   </a></li>    
                            <li><a href='EN-03-02'> SAP Business All-in-One - 02 - Specifics of Selling SAP   </a></li>    
                            <li><a href='EN-03-03'> SAP Business All-in-One - 03 - Basic Approach   </a></li>    
@@ -124,7 +124,7 @@
                           
                               </ul>	  
 
-                  <li><a href='EN-04-01' data-target='#' data-toggle='dropdown'> SAP B1 | Presales Consultant Qualification <span class='caret'></span></a><ul class='dropdown-menu'>
+                  <li><a href='EN-04-01' data-target='#' data-toggle='dropdown'> SAP B1 | Presales Consultant <span class='caret'></span></a><ul class='dropdown-menu'>
                       <li><a href='EN-04-01'> SAP Business One - 01 - Welcome and Introduction   </a></li>    
                       <li><a href='EN-04-02'> SAP Business One - 02 - Business Models and Partnerships - EN   </a></li>    
                       <li><a href='EN-04-03'> SAP Business One - 02 - Geschäftsmodelle und Partnerschaften - DE   </a></li>    
@@ -175,7 +175,7 @@
            
 
 
-        		<li><a href='EN-05-01' data-target='#' data-toggle='dropdown'>Support Consultant Training <span class='caret'></span></a><ul class='dropdown-menu'>
+        		<li><a href='EN-05-01' data-target='#' data-toggle='dropdown'>Support Consultant <span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='EN-05-01'> Support Consultant Training - 01 - Value Added Reseller (VAR) Support Enablement Program  </a></li>    
                            <li><a href='EN-05-02'> Support Consultant Training - 02 - Incident Management VAR Support Scenario for Channel Partner   </a></li>    
                            <li><a href='EN-05-03'> Support Consultant Training - 03 - Remote Access to Customer System Landscapes   </a></li>    
@@ -202,7 +202,7 @@
 
 
                                                    
-               		<li><a href='SAP-BR-01-01' data-target='#' data-toggle='dropdown'> SAP PartnerEdge - Brasil (PT) <span class='caret'></span></a><ul class='dropdown-menu'>
+               		<li><a href='SAP-BR-01-01' data-target='#' data-toggle='dropdown'> SAP PartnerEdge - Brasil <span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='SAP-BR-01-01'> SAP PartnerEdge Brasil - 01 - Agência Virtual - Campanhas de marketing</a></li>    
                            <li><a href='SAP-BR-01-02'> SAP PartnerEdge Brasil - 02 - Comercial de BW 7.4 e BPC 10.1 em HANA	</a></li>    
                            <li><a href='SAP-BR-01-03'> SAP PartnerEdge Brasil - 03 - Data to Decision - BI Platform 4.1	</a></li>    
@@ -245,7 +245,7 @@
                               </ul>	  
 
 
-                     <li><a href='SAP-ES-01-01' data-target='#' data-toggle='dropdown'> SAP PartnerEdge en Español (ES)<span class='caret'></span></a><ul class='dropdown-menu'>
+                     <li><a href='SAP-ES-01-01' data-target='#' data-toggle='dropdown'> SAP PartnerEdge en Español<span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='SAP-ES-01-01'> SAP PartnerEdge en Español - 01 - Cloud Solution Partner Program</a></li>    
                            <li><a href='SAP-ES-01-02'> SAP PartnerEdge en Español - 02 - Como certificar su producto con SAP	</a></li>    
                            <li><a href='SAP-ES-01-03'> SAP PartnerEdge en Español - 03 - Introducción Comercial de BW 7.4 y BPC 10.1</a></li>    
@@ -258,7 +258,7 @@
                               </ul>	  
 
 
-            	<li><a href='EN-06-01' data-target='#' data-toggle='dropdown'> Curriculum for Development Consultants <span class='caret'></span></a><ul class='dropdown-menu'>
+            	<li><a href='EN-06-01' data-target='#' data-toggle='dropdown'> Development Consultants <span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='EN-06-01'> Development Consultants - 01 - Basic SDK</a></li>    
                            <li><a href='EN-06-02'> Development Consultants - 02 - Basic DI API	</a></li>    
                            <li><a href='EN-06-03'> Development Consultants - 03 - Working with Business Objects	</a></li>    
@@ -296,7 +296,7 @@
                           
                               </ul>	  
 
-             <li><a href='EN-07-01' data-target='#' data-toggle='dropdown'> Product Training for SAP Business One <span class='caret'></span></a><ul class='dropdown-menu'>
+             <li><a href='EN-07-01' data-target='#' data-toggle='dropdown'> Product Training<span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='EN-07-01'> SAP Business One - 01 - SAP Business One Introduction - EN</a></li>    
                            <li><a href='EN-07-02'> SAP Business One - 02 - Login to SAP Business One - EN	</a></li>    
                            <li><a href='EN-07-03'> SAP Business One - 03 - Getting Started - Add and Navigate Documents - EN</a></li>    
@@ -311,7 +311,7 @@
                  
                  
                  
-            	<li><a href='EN-08-01' data-target='#' data-toggle='dropdown'> Essential Product Training for Development Consultants <span class='caret'></span></a><ul class='dropdown-menu'>
+            	<li><a href='EN-08-01' data-target='#' data-toggle='dropdown'> Training for Development <span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='EN-08-01'> Development Consultants - 01 - SAP Business One Introduction</a></li>    
                            <li><a href='EN-08-02'> Development Consultants - 02 - Accounting Overview	</a></li>    
                            <li><a href='EN-08-03'> Development Consultants - 03 - Chart of Accounts Structure	</a></li>    
@@ -348,6 +348,70 @@
                           
                               </ul>	  
                  	 
+
+
+                                                        
+               		<li><a href='EN-09-01' data-target='#' data-toggle='dropdown'> SAP B1 | Delta Training <span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='EN-09-01'> SAP Business One - 01 - SAP Business One 8.8 Overview - BR</a></li>    
+                           <li><a href='EN-09-02'> SAP Business One - 02 - SAP Business One 8.8 Overview - EN	</a></li>    
+                           <li><a href='EN-09-03'> SAP Business One - 03 - Business Logic 1 - EN	</a></li>    
+                           <li><a href='EN-09-04'> SAP Business One - 04 - Business Logic 2 - EN	</a></li>    
+                           <li><a href='EN-09-05'> SAP Business One - 05 - Business Logic 3 - EN	</a></li>    
+                           <li><a href='EN-09-06'> SAP Business One - 06 - Administration - BR	</a></li>    
+                           <li><a href='EN-09-07'> SAP Business One - 07 - Administration - EN	</a></li>    
+                           <li><a href='EN-09-08'> SAP Business One - 08 - Using Crystal Reports - BR	</a></li>    
+                           <li><a href='EN-09-09'> SAP Business One - 09 - Using Crystal Reports - EN	</a></li>    
+                           <li><a href='EN-09-10'> SAP Business One - 10 - Data Archiving Functionality - BR	</a></li>    
+                           <li><a href='EN-09-11'> SAP Business One - 11 - Data Archiving Functionality - EN	</a></li>    
+                           <li><a href='EN-09-12'> SAP Business One - 12 - Time Zones	</a></li>    
+                           <li><a href='EN-09-13'> SAP Business One - 13 - Licensing - User Types - EN	</a></li>    
+                           <li><a href='EN-09-14'> SAP Business One - 14 - Version Control - EN</a></li>    
+                           <li><a href='EN-09-15'> SAP Business One - 15 - Localization Control - EN	</a></li>    
+                           <li><a href='EN-09-16'> SAP Business One - 16 - SDK Development Impact - EN	</a></li>    
+                           <li><a href='EN-09-17'> SAP Business One - 17 - Licensing Topics - BR	</a></li>    
+                           <li><a href='EN-09-18'> SAP Business One - 18 - SDK Delta - EN	</a></li>    
+                           <li><a href='EN-09-19'> SAP Business One - 19 - Release 8.81 - Overview - EN	</a></li>    
+                           <li><a href='EN-09-20'> SAP Business One - 20 - BIC-SWIFT Code - IBAN and SEPA - EN	</a></li>    
+                           <li><a href='EN-09-21'> SAP Business One - 21 - IFRS - EN	</a></li>    
+                           <li><a href='EN-09-22'> SAP Business One - 22 - Business Logic 1 - EN	</a></li>    
+                           <li><a href='EN-09-23'> SAP Business One - 23 - Business Logic 2 - EN	</a></li>    
+                           <li><a href='EN-09-24'> SAP Business One - 24 - Business Logic 3 - EN	</a></li>    
+                           <li><a href='EN-09-25'> SAP Business One - 25 - Addition Business Logic 3 - Cost Accounting	</a></li>    
+                           <li><a href='EN-09-26'> SAP Business One - 26 - Business Logic 4 - EN	</a></li>    
+                           <li><a href='EN-09-27'> SAP Business One - 27 - Request for Quotation - Details on the Installation for RFQ	</a></li>    
+                           <li><a href='EN-09-28'> SAP Business One - 28 - Request for Quotation - Details on How to Create an Online Quotation</a></li>    
+                           <li><a href='EN-09-29'> SAP Business One - 29 - Cash Flow	</a></li>    
+                           <li><a href='EN-09-30'> SAP Business One - 30 - Budget Control by Cost Center</a></li>    
+                           <li><a href='EN-09-31'> SAP Business One - 31 - Solution Packager Tool in SAP Business One 8.81	</a></li>    
+                           <li><a href='EN-09-32'> SAP Business One - 32 - Relationship Map - EN	</a></li>    
+                           <li><a href='EN-09-33'> SAP Business One - 33 - SAP Business One 8.82 Overview - EN	</a></li>    
+                           <li><a href='EN-09-34'> SAP Business One - 34 - Business Logic 1 - EN	</a></li>    
+                           <li><a href='EN-09-35'> SAP Business One - 35 - Business Logic 2 - EN	</a></li>    
+                           <li><a href='EN-09-36'> SAP Business One - 36 - Business Logic 3 - Campaign Management - EN	</a></li>    
+                           <li><a href='EN-09-37'> SAP Business One - 37 - Business Logic 3 - Activities & Calendar Management - EN	</a></li>    
+                           <li><a href='EN-09-38'> SAP Business One - 38 - Business Logic 4 - Pick & Pack and Serial Allocation Enhancements - EN	</a></li>    
+                           <li><a href='EN-09-39'> SAP Business One - 39 - Business Logic 4 - Make to Order - EN	</a></li>    
+                           <li><a href='EN-09-40'> SAP Business One - 40 - Business Logic 4 - Blanket Agreements - EN	</a></li>    
+                           <li><a href='EN-09-41'> SAP Business One - 41 - Business Logic 5 - EN	</a></li>    
+                           <li><a href='EN-09-42'> SAP Business One - 42 - Cross Topic 1 - EN	</a></li>    
+                           <li><a href='EN-09-43'> SAP Business One - 43 - Cross Topic 2 - EN	</a></li>    
+                           <li><a href='EN-09-44'> SAP Business One - 44 - Cross Topic 3 - EN	</a></li>    
+                           <li><a href='EN-09-45'> SAP Business One - 45 - Cross Topic 4 - EN	</a></li>    
+                           <li><a href='EN-09-46'> SAP Business One - 46 - SDK Enhancements - EN	</a></li>    
+                           <li><a href='EN-09-47'> SAP Business One - 47 - Activating the Cockpit (Excluding Dashboard) - EN	</a></li>    
+                           <li><a href='EN-09-48'> SAP Business One - 48 - Drag and drop with the Common Functions Widget - EN	</a></li>    
+                           <li><a href='EN-09-49'> SAP Business One - 49 - BI OnDemand Integration - EN	</a></li>    
+                          
+                              </ul>	  
+
+
+
+
+
+
+
+
+
                          	         	                           
               </ul>                  
         	</div>

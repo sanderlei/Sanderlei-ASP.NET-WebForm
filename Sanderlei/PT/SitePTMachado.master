@@ -985,6 +985,14 @@
                    <li><a href='Teatro-09'> Machado de Assis - Teatro - 09 - Não consultes médico (1899)  </a></li>                   
                    <li><a href='Teatro-10'> Machado de Assis - Teatro - 10 - Lição de botânica (1906)  </a></li>                   
                       </ul>	     
+
+    <li><a href='Traducao-01' data-target='#' data-toggle='dropdown'> Tradução  <span class='caret'></span></a><ul class='dropdown-menu'>
+                   <li><a href='Traducao-01'> Machado de Assis - Tradução - 01 - Suplício de uma mulher (1865)</a></li>
+                   <li><a href='Traducao-02'> Machado de Assis - Tradução - 02 - Os trabalhadores do mar (1866) - Parte 01 </a></li>
+                   <li><a href='Traducao-03'> Machado de Assis - Tradução - 03 - Os trabalhadores do mar (1866) - Parte 02  </a></li>
+                   <li><a href='Traducao-04'> Machado de Assis - Tradução - 04 - Oliver Twist (1870) </a></li>                   
+                      </ul>	     
+
                       
                                    	         	                           
               </ul>                  

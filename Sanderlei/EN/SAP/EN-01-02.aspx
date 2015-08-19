@@ -1,4 +1,4 @@
-﻿<%@ Page Title="02-38 - SAP Business All-In-One Values and Benefits" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-02.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_02" %>
+﻿<%@ Page Title="02-38 - SAP Business All-In-One Values and Benefits" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 02-38 - SAP Business All-In-One Values and Benefits " /> 
 </asp:Content>

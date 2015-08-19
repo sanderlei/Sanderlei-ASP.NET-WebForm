@@ -1,4 +1,4 @@
-﻿<%@ Page Title="14-38 - ASAP Focus Implementation Roadmap" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-14.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_14" %>
+﻿<%@ Page Title="14-38 - ASAP Focus Implementation Roadmap" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 14-38 - ASAP Focus Implementation Roadmap " /> 
 </asp:Content>

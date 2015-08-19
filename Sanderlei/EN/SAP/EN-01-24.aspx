@@ -1,4 +1,4 @@
-﻿<%@ Page Title="24-38 - Transport Requests and how to Manage" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-24.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_24" %>
+﻿<%@ Page Title="24-38 - Transport Requests and how to Manage" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 24-38 - Transport Requests and how to Manage " /> 
 </asp:Content>

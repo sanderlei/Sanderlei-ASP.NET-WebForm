@@ -1,4 +1,4 @@
-﻿<%@ Page Title="22-38 - User Access" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-22.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_22" %>
+﻿<%@ Page Title="22-38 - User Access" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 22-38 - User Access " /> 
 </asp:Content>

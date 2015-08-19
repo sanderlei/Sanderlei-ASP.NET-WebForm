@@ -1,4 +1,4 @@
-﻿<%@ Page Title="05-38 - Introduction to SAP Best Practices" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true" CodeBehind="EN-01-05.aspx.cs" Inherits="Sanderlei.EN.SAP.EN_01_05" %>
+﻿<%@ Page Title="05-38 - Introduction to SAP Best Practices" Language="C#" MasterPageFile="~/EN/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 05-38 - Introduction to SAP Best Practices " /> 
 </asp:Content>

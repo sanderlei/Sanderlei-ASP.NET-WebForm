@@ -4,66 +4,89 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
 <!-- Conteudo  --> 
-      <div class='container panel-body'>
-        <div class='col-xs-12 col-md-12 text-center'>
+      <div class='container'>
+
                       	        
-           <br />
-            <h1>SAP Business All-in-One | 01 | Solution Consultant Training | Level 1	</h1>
-            <br />
-            <br />
-
-            <div class="container-fluid" style="background-color:black">	     
-                <br />      
-                <h4 style="color:white">SAP (Tutorial) </h4>     
-                <br />              
-                <div>
-                <div class='col-xs-12 col-sm-4 text-center' style="background-color:black">                 
-                   <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0aTxt9Os5s4" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>
-                <div class='col-xs-12 col-sm-4 text-center' style="background-color:black">                 
-                   <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wLzxTMwvhNk" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>
-                <div class='col-xs-12 col-sm-4 text-center' style="background-color:black">                 
-                   <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VbtVI3bnh7s" frameborder="0" allowfullscreen></iframe>  </div>  <br />   </div>                
-               </div>                                   
-            </div>
-           <br />
-            <br />
+           
             
-
-           <br />
-            <div class='well col-sm-8 col-sm-offset-2'>            
+        <div class="container-fluid">	                       
+            <div class='col-xs-12 col-sm-8'> 
+                <a href='EN-04-08'>
+                  <img class="img-responsive" style="margin:0 auto;" src="/images/sap/01.png"  alt="SAP"/></a>
+            </div>
+            <div class='col-xs-12 col-sm-4'> 
+                <div class='col-xs-12'> 
+                <a href='EN-04-14'>
+                  <img class="img-responsive" style="margin:0 auto;" src="/images/sap/02.png" alt="SAP"/></a>
+                    <br />
+                </div>                
+                <div class='col-xs-12'> 
+                <a href='EN-04-13'>
+                  <img class="img-responsive" style="margin:0 auto;" src="/images/sap/03.png" alt="SAP"/></a>
+                 </div>
+            </div>
+            <div class='col-xs-12 text-center'>
+                   <hr /> 
+                <br />
+                        <h1>SAP - The Best-Run Businesses Run SAP</h1>
+                <br />
+                   <hr /> 
+             </div>
+            <div class='col-xs-12'>
              
-                           <br>
-            
-                        <div>
-<!-- Posicione esta tag no cabeçalho ou imediatamente antes da tag de fechamento do corpo. -->
-<script src="https://apis.google.com/js/platform.js" async defer>
-  {lang: 'pt-BR'}
-</script>
+                <div class='col-xs-12 col-sm-3'> 
+                    <a href='EN-04-09'>
+                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/04.png" alt="SAP"/></a>
+                 </div>
+                <div class='col-xs-12 col-sm-3'> 
+                    <a href='EN-04-05'>
+                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/05.png" alt="SAP"/></a>
+                 </div>
+                <div class='col-xs-12 col-sm-3'> 
+                    <a href='EN-04-11'>
+                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/06.png" alt="SAP"/></a>
+                 </div>
+                <div class='col-xs-12 col-sm-3'> 
+                    <a href='EN-04-12'>
+                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/07.png" alt="SAP"/></a>
+                 </div>
 
-<!-- Posicione esta tag onde você deseja que o botão +1 apareça. -->
-<div class="g-plusone" data-size="tall" data-annotation="inline" data-width="300"></div>
+            </div>            
+
+            <div class='col-xs-12'>
+                <br />
+                <hr /> 
+                <br />
+                <div class='col-xs-12 col-sm-6'> 
+                    <a href='EN-01-01'>
+                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/08.png" alt="SAP"/></a>
+                 </div>
+                <div class='col-xs-12 col-sm-6'> 
+                    <a href='SAP-BR-01-32'>
+                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/09.png" alt="SAP"/></a>
+                 </div>                
+                <div class='col-xs-12'>
+                      <hr />                      
+                </div>  
+                <div class='col-xs-12 col-sm-6'> 
+                    <a href='EN-02-01'>
+                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/10.png" alt="SAP"/></a>
+                 </div>
+                <div class='col-xs-12 col-sm-6'> 
+                    <a href='EN-06-01'>
+                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/11.png" alt="SAP"/></a>
+                 </div>      
+
             </div>
-            
-</div>
-                      <br>
-            <div class='well col-sm-6 col-sm-offset-3'>
-           <a href="https://twitter.com/ssanderlei" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @ssanderlei</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-      
+             <div class='col-xs-12'>
+                      <hr /> 
+                     <br />  <br /><br />
+             </div>      
 
-            <br>
-            <br>
+          </div>
+ 
 
-          <a href="https://twitter.com/share" class="twitter-share-button" 
-                            data-url="http://www.historia1minuto.com.br" data-size="large" data-via="ssanderlei" data-lang="pt">Tweet</a>
-                        <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
 
-            <br>
-            <br>
-            </div>
-            <br>
-            <br>
-        </div>
       </div>
      
 </asp:Content>
