@@ -252,7 +252,7 @@
                            <li><a href='SAP-ES-01-04'> SAP PartnerEdge en Español - 04 - Migration from BW 7.4 and BCP 10.1 to Hana	</a></li>    
                            <li><a href='SAP-ES-01-05'> SAP PartnerEdge en Español - 05 - Proceso de ventas de soluciones Cloud	</a></li>    
                            <li><a href='SAP-ES-01-06'> SAP PartnerEdge en Español - 06 - Quote to Cash</a></li>    
-                           <li><a href='SAP-ES-01-07'> SAP PartnerEdge en Español - SAP Partner Webinar - Big Data</a></li>    
+                           <li><a href='SAP-ES-01-07'> SAP PartnerEdge en Español - 07 - SAP Partner Webinar - Big Data</a></li>    
                            <li><a href='SAP-ES-01-08'> SAP PartnerEdge en Español - 08 - SAP Partner Webinar - Real Time Finance	</a></li>    
                          
                               </ul>	  
@@ -296,7 +296,58 @@
                           
                               </ul>	  
 
-
+             <li><a href='EN-07-01' data-target='#' data-toggle='dropdown'> Product Training for SAP Business One <span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='EN-07-01'> SAP Business One - 01 - SAP Business One Introduction - EN</a></li>    
+                           <li><a href='EN-07-02'> SAP Business One - 02 - Login to SAP Business One - EN	</a></li>    
+                           <li><a href='EN-07-03'> SAP Business One - 03 - Getting Started - Add and Navigate Documents - EN</a></li>    
+                           <li><a href='EN-07-04'> SAP Business One - 04 - Getting Started - Transform and Save Documents - EN	</a></li>    
+                           <li><a href='EN-07-05'> SAP Business One - 05 - Navigation - EN	</a></li>    
+                           <li><a href='EN-07-06'> SAP Business One - 06 - Drag & Relate - EN</a></li>    
+                           <li><a href='EN-07-07'> SAP Business One - 07 - User Menu and Display - EN</a></li>    
+                                                  
+                              </ul>
+                 
+                 
+                 
+                 
+                 
+            	<li><a href='EN-08-01' data-target='#' data-toggle='dropdown'> Essential Product Training for Development Consultants <span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='EN-08-01'> Development Consultants - 01 - SAP Business One Introduction</a></li>    
+                           <li><a href='EN-08-02'> Development Consultants - 02 - Accounting Overview	</a></li>    
+                           <li><a href='EN-08-03'> Development Consultants - 03 - Chart of Accounts Structure	</a></li>    
+                           <li><a href='EN-08-04'> Development Consultants - 04 - Post a Journal Entry	</a></li>    
+                           <li><a href='EN-08-05'> Development Consultants - 05 - Sales Overview	</a></li>    
+                           <li><a href='EN-08-06'> Development Consultants - 06 - Create Master Data for Customers	</a></li>    
+                           <li><a href='EN-08-07'> Development Consultants - 07 - Create a Sales Order	</a></li>    
+                           <li><a href='EN-08-08'> Development Consultants - 08 - Create a Delivery </a></li>    
+                           <li><a href='EN-08-09'> Development Consultants - 09 - Create an Invoice	</a></li>    
+                           <li><a href='EN-08-10'> Development Consultants - 10 - Purchasing Overview	</a></li>    
+                           <li><a href='EN-08-11'> Development Consultants - 11 - Create a Purchase Order	</a></li>    
+                           <li><a href='EN-08-12'> Development Consultants - 12 - Create Goods Receipt PO	</a></li>    
+                           <li><a href='EN-08-13'> Development Consultants - 13 - Create an A-P Invoice for Items	</a></li>    
+                           <li><a href='EN-08-14'> Development Consultants - 14 - Create an A-P Invoice for Services	</a></li>    
+                           <li><a href='EN-08-15'> Development Consultants - 15 - Document Trail	</a></li>    
+                           <li><a href='EN-08-16'> Development Consultants - 16 - Production Overview	</a></li>    
+                           <li><a href='EN-08-17'> Development Consultants - 17 - Bill of Materials	</a></li>    
+                           <li><a href='EN-08-18'> Development Consultants - 18 - Production Order	</a></li>    
+                           <li><a href='EN-08-19'> Development Consultants - 19 - Banking	</a></li>    
+                           <li><a href='EN-08-20'> Development Consultants - 20 - Item Master Data	</a></li>    
+                           <li><a href='EN-08-21'> Development Consultants - 21 - Create an Item Managed by Serial Numbers	</a></li>    
+                           <li><a href='EN-08-22'> Development Consultants - 22 - Sell Items Managed by Serial Numbers	</a></li>    
+                           <li><a href='EN-08-23'> Development Consultants - 23 - Create a Batch-managed Item	</a></li>    
+                           <li><a href='EN-08-24'> Development Consultants - 24 - Sell Items Managed by Batches</a></li>    
+                           <li><a href='EN-08-25'> Development Consultants - 25 - Factors	</a></li>    
+                           <li><a href='EN-08-26'> Development Consultants - 26 - Special Prices	</a></li>    
+                           <li><a href='EN-08-27'> Development Consultants - 27 - Price List by Business Partner	</a></li>    
+                           <li><a href='EN-08-28'> Development Consultants - 28 - Maintaining Price Lists	</a></li>    
+                           <li><a href='EN-08-29'> Development Consultants - 29 - Updating the Price Lists</a></li>    
+                           <li><a href='EN-08-30'> Development Consultants - 30 - Define General Authorizations</a></li>    
+                           <li><a href='EN-08-31'> Development Consultants - 31 - Define Data Ownership Authorizations	</a></li>    
+   
+  
+                          
+                              </ul>	  
+                 	 
                          	         	                           
               </ul>                  
         	</div>
