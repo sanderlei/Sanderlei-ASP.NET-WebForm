@@ -817,183 +817,285 @@
                               </ul>	      	         	                           
 
                <li><a href='Papeis-Avulsos-01' data-target='#' data-toggle='dropdown'> Papéis Avulsos  <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Papeis-Avulsos-01'> Machado de Assis - Papéis Avulsos - 01 - ADVERTÊNCIA </a></li>
-                   <li><a href='Papeis-Avulsos-02'> Machado de Assis - Papéis Avulsos - 02 - O ALIENISTA </a></li>
-                   <li><a href='Papeis-Avulsos-03'> Machado de Assis - Papéis Avulsos - 03 - TEORIA DO MEDALHÃO </a></li>
-                   <li><a href='Papeis-Avulsos-04'> Machado de Assis - Papéis Avulsos - 04 - A CHINELA TURCA </a></li>
-                   <li><a href='Papeis-Avulsos-05'> Machado de Assis - Papéis Avulsos - 05 - NA ARCA </a></li>
-                   <li><a href='Papeis-Avulsos-06'> Machado de Assis - Papéis Avulsos - 06 - D. BENEDITA</a></li>
-                   <li><a href='Papeis-Avulsos-07'> Machado de Assis - Papéis Avulsos - 07 - SEGREDO DO BONZO </a></li>
-                   <li><a href='Papeis-Avulsos-08'> Machado de Assis - Papéis Avulsos - 08 - O ANEL DE POLÍCRATES</a></li>
-                   <li><a href='Papeis-Avulsos-09'> Machado de Assis - Papéis Avulsos - 09 - O EMPRÉSTIMO </a></li>
-                   <li><a href='Papeis-Avulsos-10'> Machado de Assis - Papéis Avulsos - 10 - A SERENÍSSIMA REPÚBLICA </a></li>                                                                                                                                                
-                   <li><a href='Papeis-Avulsos-11'> Machado de Assis - Papéis Avulsos - 11 - O ESPELHO </a></li>                                                                                                                                                
-                   <li><a href='Papeis-Avulsos-12'> Machado de Assis - Papéis Avulsos - 12 - UMA VISITA DE ALCIBÍADES </a></li>                                                                                                                                                
-                   <li><a href='Papeis-Avulsos-13'> Machado de Assis - Papéis Avulsos - 13 - VERBA TESTAMENTÁRIA </a></li>                                                                                                                                                
-                   <li><a href='Papeis-Avulsos-14'> Machado de Assis - Papéis Avulsos - 14 - NOTAS DO AUTOR </a></li>                                                                                                                                                
+                   <li><a href='Papeis-Avulsos-01'> Papéis Avulsos - 01 - ADVERTÊNCIA </a></li>
+                   <li><a href='Papeis-Avulsos-02'> Papéis Avulsos - 02 - O ALIENISTA </a></li>
+                   <li><a href='Papeis-Avulsos-03'> Papéis Avulsos - 03 - TEORIA DO MEDALHÃO </a></li>
+                   <li><a href='Papeis-Avulsos-04'> Papéis Avulsos - 04 - A CHINELA TURCA </a></li>
+                   <li><a href='Papeis-Avulsos-05'> Papéis Avulsos - 05 - NA ARCA </a></li>
+                   <li><a href='Papeis-Avulsos-06'> Papéis Avulsos - 06 - D. BENEDITA</a></li>
+                   <li><a href='Papeis-Avulsos-07'> Papéis Avulsos - 07 - SEGREDO DO BONZO </a></li>
+                   <li><a href='Papeis-Avulsos-08'> Papéis Avulsos - 08 - O ANEL DE POLÍCRATES</a></li>
+                   <li><a href='Papeis-Avulsos-09'> Papéis Avulsos - 09 - O EMPRÉSTIMO </a></li>
+                   <li><a href='Papeis-Avulsos-10'> Papéis Avulsos - 10 - A SERENÍSSIMA REPÚBLICA </a></li>                                                                                                                                                
+                   <li><a href='Papeis-Avulsos-11'> Papéis Avulsos - 11 - O ESPELHO </a></li>                                                                                                                                                
+                   <li><a href='Papeis-Avulsos-12'> Papéis Avulsos - 12 - UMA VISITA DE ALCIBÍADES </a></li>                                                                                                                                                
+                   <li><a href='Papeis-Avulsos-13'> Papéis Avulsos - 13 - VERBA TESTAMENTÁRIA </a></li>                                                                                                                                                
+                   <li><a href='Papeis-Avulsos-14'> Papéis Avulsos - 14 - NOTAS DO AUTOR </a></li>                                                                                                                                                
                       </ul>	          
 
                      <li><a href='Contos-Fluminenses-01' data-target='#' data-toggle='dropdown'> Contos Fluminenses   <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Contos-Fluminenses-01'> Machado de Assis - Contos Fluminenses - 01 - MISS DOLLAR  </a></li>
-                   <li><a href='Contos-Fluminenses-02'> Machado de Assis - Contos Fluminenses - 02 - LUÍS SOARES  </a></li>
-                   <li><a href='Contos-Fluminenses-03'> Machado de Assis - Contos Fluminenses - 03 - A MULHER DE PRETO  </a></li>
-                   <li><a href='Contos-Fluminenses-04'> Machado de Assis - Contos Fluminenses - 04 - O SEGREDO DE AUGUSTA </a></li>
-                   <li><a href='Contos-Fluminenses-05'> Machado de Assis - Contos Fluminenses - 05 - CONFISSÕES DE UMA VIÚVA MOÇA </a></li>
-                   <li><a href='Contos-Fluminenses-06'> Machado de Assis - Contos Fluminenses - 06 - LINHA RETA E LINHA CURVA </a></li>
-                   <li><a href='Contos-Fluminenses-07'> Machado de Assis - Contos Fluminenses - 07 - FREI SIMÃO</a></li>
+                   <li><a href='Contos-Fluminenses-01'> Contos Fluminenses - 01 - MISS DOLLAR  </a></li>
+                   <li><a href='Contos-Fluminenses-02'> Contos Fluminenses - 02 - LUÍS SOARES  </a></li>
+                   <li><a href='Contos-Fluminenses-03'> Contos Fluminenses - 03 - A MULHER DE PRETO  </a></li>
+                   <li><a href='Contos-Fluminenses-04'> Contos Fluminenses - 04 - O SEGREDO DE AUGUSTA </a></li>
+                   <li><a href='Contos-Fluminenses-05'> Contos Fluminenses - 05 - CONFISSÕES DE UMA VIÚVA MOÇA </a></li>
+                   <li><a href='Contos-Fluminenses-06'> Contos Fluminenses - 06 - LINHA RETA E LINHA CURVA </a></li>
+                   <li><a href='Contos-Fluminenses-07'> Contos Fluminenses - 07 - FREI SIMÃO</a></li>
                                                                                                                                        
                       </ul>	     
 
 
                            <li><a href='Historias-da-Meia-Noite-01' data-target='#' data-toggle='dropdown'> Histórias da Meia-Noite   <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Historias-da-Meia-Noite-01'> Machado de Assis - Histórias da Meia-Noite - 01 - ADVERTÊNCIA  </a></li>
-                   <li><a href='Historias-da-Meia-Noite-02'> Machado de Assis - Histórias da Meia-Noite - 02 - A PARASITA AZUL  </a></li>
-                   <li><a href='Historias-da-Meia-Noite-03'> Machado de Assis - Histórias da Meia-Noite - 03 - AS BODAS DE LUÍS DUARTE  </a></li>
-                   <li><a href='Historias-da-Meia-Noite-04'> Machado de Assis - Histórias da Meia-Noite - 04 - ERNESTO DE TAL</a></li>
-                   <li><a href='Historias-da-Meia-Noite-05'> Machado de Assis - Histórias da Meia-Noite - 05 - AURORA SEM DIA </a></li>
-                   <li><a href='Historias-da-Meia-Noite-06'> Machado de Assis - Histórias da Meia-Noite - 06 - O RELÓGIO DE OURO </a></li>
-                   <li><a href='Historias-da-Meia-Noite-07'> Machado de Assis - Histórias da Meia-Noite - 07 - PONTO DE VISTA</a></li>
+                   <li><a href='Historias-da-Meia-Noite-01'> Histórias da Meia-Noite - 01 - ADVERTÊNCIA  </a></li>
+                   <li><a href='Historias-da-Meia-Noite-02'> Histórias da Meia-Noite - 02 - A PARASITA AZUL  </a></li>
+                   <li><a href='Historias-da-Meia-Noite-03'> Histórias da Meia-Noite - 03 - AS BODAS DE LUÍS DUARTE  </a></li>
+                   <li><a href='Historias-da-Meia-Noite-04'> Histórias da Meia-Noite - 04 - ERNESTO DE TAL</a></li>
+                   <li><a href='Historias-da-Meia-Noite-05'> Histórias da Meia-Noite - 05 - AURORA SEM DIA </a></li>
+                   <li><a href='Historias-da-Meia-Noite-06'> Histórias da Meia-Noite - 06 - O RELÓGIO DE OURO </a></li>
+                   <li><a href='Historias-da-Meia-Noite-07'> Histórias da Meia-Noite - 07 - PONTO DE VISTA</a></li>
                                                                                                                                        
                       </ul>	
 
                                     <li><a href='Historias-Sem-Data-01' data-target='#' data-toggle='dropdown'> Histórias Sem Data <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Historias-Sem-Data-01'> Machado de Assis - Histórias Sem Data - ADVERTÊNCIA DA 1ª EDIÇÃO </a></li>
-                   <li><a href='Historias-Sem-Data-02'> Machado de Assis - Histórias Sem Data - A IGREJA DO DIABO </a></li>
-                   <li><a href='Historias-Sem-Data-03'> Machado de Assis - Histórias Sem Data - O LAPSO </a></li>
-                   <li><a href='Historias-Sem-Data-04'> Machado de Assis - Histórias Sem Data - ÚLTIMO CAPÍTULO</a></li>
-                   <li><a href='Historias-Sem-Data-05'> Machado de Assis - Histórias Sem Data - CANTIGA DE ESPONSAIS</a></li>
-                   <li><a href='Historias-Sem-Data-06'> Machado de Assis - Histórias Sem Data - SINGULAR OCORRÊNCIA</a></li>
-                   <li><a href='Historias-Sem-Data-07'> Machado de Assis - Histórias Sem Data - GALERIA PÓSTUMA </a></li>
-                   <li><a href='Historias-Sem-Data-08'> Machado de Assis - Histórias Sem Data - CAPÍTULO DOS CHAPÉUS</a></li>
-                   <li><a href='Historias-Sem-Data-09'> Machado de Assis - Histórias Sem Data - CONTO ALEXANDRINO</a></li>
-                   <li><a href='Historias-Sem-Data-10'> Machado de Assis - Histórias Sem Data - PRIMAS DE SAPUCAIA! </a></li>
-                   <li><a href='Historias-Sem-Data-11'> Machado de Assis - Histórias Sem Data - UMA SENHORA</a></li>
-                   <li><a href='Historias-Sem-Data-12'> Machado de Assis - Histórias Sem Data - ANEDOTA PECUNIÁRIA </a></li>
-                   <li><a href='Historias-Sem-Data-13'> Machado de Assis - Histórias Sem Data - FULANO</a></li>
-                   <li><a href='Historias-Sem-Data-14'> Machado de Assis - Histórias Sem Data - A SEGUNDA VIDA </a></li>
-                   <li><a href='Historias-Sem-Data-15'> Machado de Assis - Histórias Sem Data - NOITE DE ALMIRANTE </a></li>
-                   <li><a href='Historias-Sem-Data-16'> Machado de Assis - Histórias Sem Data - MANUSCRITO DE UM SACRISTÃO </a></li>
-                   <li><a href='Historias-Sem-Data-17'> Machado de Assis - Histórias Sem Data - EX CATHEDRA </a></li>
-                   <li><a href='Historias-Sem-Data-18'> Machado de Assis - Histórias Sem Data - A SENHORA DO GALVÃO</a></li>
-                   <li><a href='Historias-Sem-Data-19'> Machado de Assis - Histórias Sem Data - AS ACADEMIAS DE SIÃO </a></li>
+                   <li><a href='Historias-Sem-Data-01'> Histórias Sem Data - ADVERTÊNCIA DA 1ª EDIÇÃO </a></li>
+                   <li><a href='Historias-Sem-Data-02'> Histórias Sem Data - A IGREJA DO DIABO </a></li>
+                   <li><a href='Historias-Sem-Data-03'> Histórias Sem Data - O LAPSO </a></li>
+                   <li><a href='Historias-Sem-Data-04'> Histórias Sem Data - ÚLTIMO CAPÍTULO</a></li>
+                   <li><a href='Historias-Sem-Data-05'> Histórias Sem Data - CANTIGA DE ESPONSAIS</a></li>
+                   <li><a href='Historias-Sem-Data-06'> Histórias Sem Data - SINGULAR OCORRÊNCIA</a></li>
+                   <li><a href='Historias-Sem-Data-07'> Histórias Sem Data - GALERIA PÓSTUMA </a></li>
+                   <li><a href='Historias-Sem-Data-08'> Histórias Sem Data - CAPÍTULO DOS CHAPÉUS</a></li>
+                   <li><a href='Historias-Sem-Data-09'> Histórias Sem Data - CONTO ALEXANDRINO</a></li>
+                   <li><a href='Historias-Sem-Data-10'> Histórias Sem Data - PRIMAS DE SAPUCAIA! </a></li>
+                   <li><a href='Historias-Sem-Data-11'> Histórias Sem Data - UMA SENHORA</a></li>
+                   <li><a href='Historias-Sem-Data-12'> Histórias Sem Data - ANEDOTA PECUNIÁRIA </a></li>
+                   <li><a href='Historias-Sem-Data-13'> Histórias Sem Data - FULANO</a></li>
+                   <li><a href='Historias-Sem-Data-14'> Histórias Sem Data - A SEGUNDA VIDA </a></li>
+                   <li><a href='Historias-Sem-Data-15'> Histórias Sem Data - NOITE DE ALMIRANTE </a></li>
+                   <li><a href='Historias-Sem-Data-16'> Histórias Sem Data - MANUSCRITO DE UM SACRISTÃO </a></li>
+                   <li><a href='Historias-Sem-Data-17'> Histórias Sem Data - EX CATHEDRA </a></li>
+                   <li><a href='Historias-Sem-Data-18'> Histórias Sem Data - A SENHORA DO GALVÃO</a></li>
+                   <li><a href='Historias-Sem-Data-19'> Histórias Sem Data - AS ACADEMIAS DE SIÃO </a></li>
                   
                         
 
                                                                                                                          </ul>	
 
        <li><a href='Paginas-Recolhidas-01' data-target='#' data-toggle='dropdown'> Páginas Recolhidas  <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Paginas-Recolhidas-01'> Machado de Assis - Páginas Recolhidas - 01 - PREFÁCIO </a></li>
-                   <li><a href='Paginas-Recolhidas-02'> Machado de Assis - Páginas Recolhidas - 02 - O CASO DA VARA </a></li>
-                   <li><a href='Paginas-Recolhidas-03'> Machado de Assis - Páginas Recolhidas - 03 - O DICIONÁRIO</a></li>
-                   <li><a href='Paginas-Recolhidas-04'> Machado de Assis - Páginas Recolhidas - 04 - UM ERRADIO</a></li>
-                   <li><a href='Paginas-Recolhidas-05'> Machado de Assis - Páginas Recolhidas - 05 - ETERNO! </a></li>
-                   <li><a href='Paginas-Recolhidas-06'> Machado de Assis - Páginas Recolhidas - 06 - MISSA DO GALO</a></li>
-                   <li><a href='Paginas-Recolhidas-07'> Machado de Assis - Páginas Recolhidas - 07 - IDÉIAS DO CANÁRIO </a></li>
-                   <li><a href='Paginas-Recolhidas-08'> Machado de Assis - Páginas Recolhidas - 08 - LÁGRIMAS DE XERXES</a></li>
-                   <li><a href='Paginas-Recolhidas-09'> Machado de Assis - Páginas Recolhidas - 09 - PAPÉIS VELHOS </a></li>                   
+                   <li><a href='Paginas-Recolhidas-01'> Páginas Recolhidas - 01 - PREFÁCIO </a></li>
+                   <li><a href='Paginas-Recolhidas-02'> Páginas Recolhidas - 02 - O CASO DA VARA </a></li>
+                   <li><a href='Paginas-Recolhidas-03'> Páginas Recolhidas - 03 - O DICIONÁRIO</a></li>
+                   <li><a href='Paginas-Recolhidas-04'> Páginas Recolhidas - 04 - UM ERRADIO</a></li>
+                   <li><a href='Paginas-Recolhidas-05'> Páginas Recolhidas - 05 - ETERNO! </a></li>
+                   <li><a href='Paginas-Recolhidas-06'> Páginas Recolhidas - 06 - MISSA DO GALO</a></li>
+                   <li><a href='Paginas-Recolhidas-07'> Páginas Recolhidas - 07 - IDÉIAS DO CANÁRIO </a></li>
+                   <li><a href='Paginas-Recolhidas-08'> Páginas Recolhidas - 08 - LÁGRIMAS DE XERXES</a></li>
+                   <li><a href='Paginas-Recolhidas-09'> Páginas Recolhidas - 09 - PAPÉIS VELHOS </a></li>                   
                       </ul>	     
            
 
 
              <li><a href='Reliquias-de-Casa-Velha-01' data-target='#' data-toggle='dropdown'> Relíquias de Casa Velha  <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Reliquias-de-Casa-Velha-01'> Machado de Assis - Relíquias de Casa Velha - 01  - ADVERTÊNCIA</a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-02'> Machado de Assis - Relíquias de Casa Velha - 02 - PAI CONTRA MÃE  </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-03'> Machado de Assis - Relíquias de Casa Velha - 03 - MARIA CORA </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-04'> Machado de Assis - Relíquias de Casa Velha - 04 - MARCHA FÚNEBRE </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-05'> Machado de Assis - Relíquias de Casa Velha - 05 - UM CAPITÃO DE VOLUNTÁRIOS  </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-06'> Machado de Assis - Relíquias de Casa Velha - 06 - SUJE-SE GORDO! </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-07'> Machado de Assis - Relíquias de Casa Velha - 07 - UMAS FÉRIAS  </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-08'> Machado de Assis - Relíquias de Casa Velha - 08 - EVOLUÇÃO </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-09'> Machado de Assis - Relíquias de Casa Velha - 09 - PÍLADES E ORESTES  </a></li>                   
-                   <li><a href='Reliquias-de-Casa-Velha-10'> Machado de Assis - Relíquias de Casa Velha - 10 - ANEDOTA DO CABRIOLET  </a></li>                   
+                   <li><a href='Reliquias-de-Casa-Velha-01'> Relíquias de Casa Velha - 01  - ADVERTÊNCIA</a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-02'> Relíquias de Casa Velha - 02 - PAI CONTRA MÃE  </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-03'> Relíquias de Casa Velha - 03 - MARIA CORA </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-04'> Relíquias de Casa Velha - 04 - MARCHA FÚNEBRE </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-05'> Relíquias de Casa Velha - 05 - UM CAPITÃO DE VOLUNTÁRIOS  </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-06'> Relíquias de Casa Velha - 06 - SUJE-SE GORDO! </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-07'> Relíquias de Casa Velha - 07 - UMAS FÉRIAS  </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-08'> Relíquias de Casa Velha - 08 - EVOLUÇÃO </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-09'> Relíquias de Casa Velha - 09 - PÍLADES E ORESTES  </a></li>                   
+                   <li><a href='Reliquias-de-Casa-Velha-10'> Relíquias de Casa Velha - 10 - ANEDOTA DO CABRIOLET  </a></li>                   
                       </ul>	     
 
                   <li><a href='Varias-Historias-01' data-target='#' data-toggle='dropdown'> Várias Histórias  <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Varias-Historias-01'> Machado de Assis - Várias Histórias - 01  - ADVERTÊNCIA</a></li>
-                   <li><a href='Varias-Historias-02'> Machado de Assis - Várias Histórias - 02 - A CARTOMANTE  </a></li>
-                   <li><a href='Varias-Historias-03'> Machado de Assis - Várias Histórias - 03 - ENTRE SANTOS </a></li>
-                   <li><a href='Varias-Historias-04'> Machado de Assis - Várias Histórias - 04 - UNS BRAÇOS </a></li>
-                   <li><a href='Varias-Historias-05'> Machado de Assis - Várias Histórias - 05 - UM HOMEM CÉLEBRE  </a></li>
-                   <li><a href='Varias-Historias-06'> Machado de Assis - Várias Histórias - 06 - A DESEJADA DAS GENTES </a></li>
-                   <li><a href='Varias-Historias-07'> Machado de Assis - Várias Histórias - 07 - A CAUSA SECRETA  </a></li>
-                   <li><a href='Varias-Historias-08'> Machado de Assis - Várias Histórias - 08 - TRIO EM LÁ MENOR </a></li>
-                   <li><a href='Varias-Historias-09'> Machado de Assis - Várias Histórias - 09 - ADÃO E EVA  </a></li>                   
-                   <li><a href='Varias-Historias-10'> Machado de Assis - Várias Histórias - 10 - O ENFERMEIRO  </a></li>                   
-                   <li><a href='Varias-Historias-11'> Machado de Assis - Várias Histórias - 11 - O DIPLOMÁTICO  </a></li>                   
-                   <li><a href='Varias-Historias-12'> Machado de Assis - Várias Histórias - 12 - MARIANA  </a></li>                   
-                   <li><a href='Varias-Historias-13'> Machado de Assis - Várias Histórias - 13 - CONTO DE ESCOLA  </a></li>                   
-                   <li><a href='Varias-Historias-14'> Machado de Assis - Várias Histórias - 14 - UM APÓLOGO  </a></li>                   
-                   <li><a href='Varias-Historias-15'> Machado de Assis - Várias Histórias - 15 - D. PAULA </a></li>                   
-                   <li><a href='Varias-Historias-16'> Machado de Assis - Várias Histórias - 16 - VIVER!  </a></li>                   
-                   <li><a href='Varias-Historias-17'> Machado de Assis - Várias Histórias - 17 - O CÔNEGO OU METAFÍSICA DO ESTILO  </a></li>                   
+                   <li><a href='Varias-Historias-01'> Várias Histórias - 01  - ADVERTÊNCIA</a></li>
+                   <li><a href='Varias-Historias-02'> Várias Histórias - 02 - A CARTOMANTE  </a></li>
+                   <li><a href='Varias-Historias-03'> Várias Histórias - 03 - ENTRE SANTOS </a></li>
+                   <li><a href='Varias-Historias-04'> Várias Histórias - 04 - UNS BRAÇOS </a></li>
+                   <li><a href='Varias-Historias-05'> Várias Histórias - 05 - UM HOMEM CÉLEBRE  </a></li>
+                   <li><a href='Varias-Historias-06'> Várias Histórias - 06 - A DESEJADA DAS GENTES </a></li>
+                   <li><a href='Varias-Historias-07'> Várias Histórias - 07 - A CAUSA SECRETA  </a></li>
+                   <li><a href='Varias-Historias-08'> Várias Histórias - 08 - TRIO EM LÁ MENOR </a></li>
+                   <li><a href='Varias-Historias-09'> Várias Histórias - 09 - ADÃO E EVA  </a></li>                   
+                   <li><a href='Varias-Historias-10'> Várias Histórias - 10 - O ENFERMEIRO  </a></li>                   
+                   <li><a href='Varias-Historias-11'> Várias Histórias - 11 - O DIPLOMÁTICO  </a></li>                   
+                   <li><a href='Varias-Historias-12'> Várias Histórias - 12 - MARIANA  </a></li>                   
+                   <li><a href='Varias-Historias-13'> Várias Histórias - 13 - CONTO DE ESCOLA  </a></li>                   
+                   <li><a href='Varias-Historias-14'> Várias Histórias - 14 - UM APÓLOGO  </a></li>                   
+                   <li><a href='Varias-Historias-15'> Várias Histórias - 15 - D. PAULA </a></li>                   
+                   <li><a href='Varias-Historias-16'> Várias Histórias - 16 - VIVER!  </a></li>                   
+                   <li><a href='Varias-Historias-17'> Várias Histórias - 17 - O CÔNEGO OU METAFÍSICA DO ESTILO  </a></li>                   
                       </ul>	     
 
                     
           <li><a href='Poesia-01' data-target='#' data-toggle='dropdown'> Poesias  <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Poesia-01'> Machado de Assis - Poesias - 01 - Crisálidas (1864)</a></li>
-                   <li><a href='Poesia-02'> Machado de Assis - Poesias - 02 - Falenas (1870) </a></li>
-                   <li><a href='Poesia-03'> Machado de Assis - Poesias - 03 - Americanas (1875)</a></li>
-                   <li><a href='Poesia-04'> Machado de Assis - Poesias - 04 - Gazeta de Holanda (1886-88)</a></li>
-                   <li><a href='Poesia-05'> Machado de Assis - Poesias - 05 - Ocidentais (1901) </a></li>
-                   <li><a href='Poesia-06'> Machado de Assis - Poesias - 06 - O Almada (1908)</a></li>
-                   <li><a href='Poesia-07'> Machado de Assis - Poesias - 07 - Dispersas (1854-1939) </a></li>
+                   <li><a href='Poesia-01'> Livro - 01 - Crisálidas (1864)</a></li>
+                   <li><a href='Poesia-02'> Livro - 02 - Falenas (1870) </a></li>
+                   <li><a href='Poesia-03'> Livro - 03 - Americanas (1875)</a></li>
+                   <li><a href='Poesia-04'> Livro - 04 - Gazeta de Holanda (1886-88)</a></li>
+                   <li><a href='Poesia-05'> Livro - 05 - Ocidentais (1901) </a></li>
+                   <li><a href='Poesia-06'> Livro - 06 - O Almada (1908)</a></li>
+                   <li><a href='Poesia-07'> Livro - 07 - Dispersas (1854-1939) </a></li>
              </ul>	     
 
            <li><a href='Cronica-01' data-target='#' data-toggle='dropdown'> Crônicas  <span class='caret'></span></a><ul class='dropdown-menu'>
-                  <li><a href='Cronica-01'> Machado de Assis - Crônica - Comentários da semana (1861-1863)    </a></li>
-                  <li><a href='Cronica-02'> Machado de Assis - Crônica - Crônicas do Dr. Semana (1861-1864)    </a></li>
-                  <li><a href='Cronica-03'> Machado de Assis - Crônica - Crônicas O futuro (1862-1863)    </a></li>
-                  <li><a href='Cronica-04'> Machado de Assis - Crônica - Ao acaso (1864-1865)    </a></li>
-                  <li><a href='Cronica-05'> Machado de Assis - Crônica - Cartas fluminenses (1867)    </a></li>
-                  <li><a href='Cronica-06'> Machado de Assis - Crônica - Badaladas (1871-1873)    </a></li>
-                  <li><a href='Cronica-07'> Machado de Assis - Crônica - História de quinze dias (1876-1877)    </a></li>
-                  <li><a href='Cronica-08'> Machado de Assis - Crônica - História dos trinta dias (1878)    </a></li>
-                  <li><a href='Cronica-09'> Machado de Assis - Crônica - Notas semanais (1878)   </a></li>
-                  <li><a href='Cronica-10'> Machado de Assis - Crônica - Balas de estalo (1883-1886)    </a></li>
-                  <li><a href='Cronica-11'> Machado de Assis - Crônica - Bons dias! (1888-1889)    </a></li>
-                  <li><a href='Cronica-12'> Machado de Assis - Crônica - A semana (1892-1900) - 1892   </a></li>
-                  <li><a href='Cronica-13'> Machado de Assis - Crônica - A semana (1892-1900) - 1893    </a></li>
-                  <li><a href='Cronica-14'> Machado de Assis - Crônica - A semana (1892-1900) - 1894    </a></li>
-                  <li><a href='Cronica-15'> Machado de Assis - Crônica - A semana (1892-1900) - 1895    </a></li>
-                  <li><a href='Cronica-16'> Machado de Assis - Crônica - A semana (1892-1900) - 1896    </a></li>
-                  <li><a href='Cronica-17'> Machado de Assis - Crônica - A semana (1892-1900) - 1897    </a></li>
-                  <li><a href='Cronica-18'> Machado de Assis - Crônica - A semana (1892-1900) - 1900    </a></li>
-                  <li><a href='Cronica-19'> Machado de Assis - Crônica - O jornal e o livro (1859)    </a></li>
-                  <li><a href='Cronica-20'> Machado de Assis - Crônica - A reforma pelo jornal (1859)    </a></li>
-                  <li><a href='Cronica-21'> Machado de Assis - Crônica - Aquarelas (1859)    </a></li>
-                  <li><a href='Cronica-22'> Machado de Assis - Crônica - O Visconde de Castilho (1875)    </a></li>
-                  <li><a href='Cronica-23'> Machado de Assis - Crônica - Cherchez la femme (1881)    </a></li>
-                  <li><a href='Cronica-24'> Machado de Assis - Crônica - José de Alencar (1883)    </a></li>
-                  <li><a href='Cronica-25'> Machado de Assis - Crônica - Joaquim Serra (1888)   </a></li>
-                  <li><a href='Cronica-26'> Machado de Assis - Crônica - O futuro dos argentinos (1888)    </a></li>
-                  <li><a href='Cronica-27'> Machado de Assis - Crônica - Entre 1892 e 1894 (1892-1894)    </a></li>
-                  <li><a href='Cronica-28'> Machado de Assis - Crônica - Henrique Chaves (1893)    </a></li>
-                  <li><a href='Cronica-29'> Machado de Assis - Crônica - Henrique Lombaerts (1897)    </a></li>
-                  <li><a href='Cronica-30'> Machado de Assis - Crônica - O velho Senado (1898)    </a></li>
+                  <li><a href='Cronica-01'> Comentários da semana (1861-1863)    </a></li>
+                  <li><a href='Cronica-02'> Crônicas do Dr. Semana (1861-1864)    </a></li>
+                  <li><a href='Cronica-03'> Crônicas O futuro (1862-1863)    </a></li>
+                  <li><a href='Cronica-04'> Ao acaso (1864-1865)    </a></li>
+                  <li><a href='Cronica-05'> Cartas fluminenses (1867)    </a></li>
+                  <li><a href='Cronica-06'> Badaladas (1871-1873)    </a></li>
+                  <li><a href='Cronica-07'> História de quinze dias (1876-1877)    </a></li>
+                  <li><a href='Cronica-08'> História dos trinta dias (1878)    </a></li>
+                  <li><a href='Cronica-09'> Notas semanais (1878)   </a></li>
+                  <li><a href='Cronica-10'> Balas de estalo (1883-1886)    </a></li>
+                  <li><a href='Cronica-11'> Bons dias! (1888-1889)    </a></li>
+                  <li><a href='Cronica-12'> A semana (1892-1900) - 1892   </a></li>
+                  <li><a href='Cronica-13'> A semana (1892-1900) - 1893    </a></li>
+                  <li><a href='Cronica-14'> A semana (1892-1900) - 1894    </a></li>
+                  <li><a href='Cronica-15'> A semana (1892-1900) - 1895    </a></li>
+                  <li><a href='Cronica-16'> A semana (1892-1900) - 1896    </a></li>
+                  <li><a href='Cronica-17'> A semana (1892-1900) - 1897    </a></li>
+                  <li><a href='Cronica-18'> A semana (1892-1900) - 1900    </a></li>
+                  <li><a href='Cronica-19'> O jornal e o livro (1859)    </a></li>
+                  <li><a href='Cronica-20'> A reforma pelo jornal (1859)    </a></li>
+                  <li><a href='Cronica-21'> Aquarelas (1859)    </a></li>
+                  <li><a href='Cronica-22'> O Visconde de Castilho (1875)    </a></li>
+                  <li><a href='Cronica-23'> Cherchez la femme (1881)    </a></li>
+                  <li><a href='Cronica-24'> José de Alencar (1883)    </a></li>
+                  <li><a href='Cronica-25'> Joaquim Serra (1888)   </a></li>
+                  <li><a href='Cronica-26'> O futuro dos argentinos (1888)    </a></li>
+                  <li><a href='Cronica-27'> Entre 1892 e 1894 (1892-1894)    </a></li>
+                  <li><a href='Cronica-28'> Henrique Chaves (1893)    </a></li>
+                  <li><a href='Cronica-29'> Henrique Lombaerts (1897)    </a></li>
+                  <li><a href='Cronica-30'> O velho Senado (1898)    </a></li>
                    
              </ul>	 
 
            <li><a href='Teatro-01' data-target='#' data-toggle='dropdown'> Teatro  <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Teatro-01'> Machado de Assis - Teatro - 01 - As forcas caudinas (1956)</a></li>
-                   <li><a href='Teatro-02'> Machado de Assis - Teatro - 02 - Hoje avental, amanhã luva (1860)  </a></li>
-                   <li><a href='Teatro-03'> Machado de Assis - Teatro - 03 - Desencantos (1861) </a></li>
-                   <li><a href='Teatro-04'> Machado de Assis - Teatro - 04 - O caminho da porta/O protocolo (1863) </a></li>
-                   <li><a href='Teatro-05'> Machado de Assis - Teatro - 05 - Quase ministro (1864)  </a></li>
-                   <li><a href='Teatro-06'> Machado de Assis - Teatro - 06 - Os deuses de casaca (1866) </a></li>
-                   <li><a href='Teatro-07'> Machado de Assis - Teatro - 07 - O bote de rapé (1878)  </a></li>
-                   <li><a href='Teatro-08'> Machado de Assis - Teatro - 08 - Tu, só tu, puro amor (1880) </a></li>
-                   <li><a href='Teatro-09'> Machado de Assis - Teatro - 09 - Não consultes médico (1899)  </a></li>                   
-                   <li><a href='Teatro-10'> Machado de Assis - Teatro - 10 - Lição de botânica (1906)  </a></li>                   
+                   <li><a href='Teatro-01'>  01 - As forcas caudinas (1956)</a></li>
+                   <li><a href='Teatro-02'>  02 - Hoje avental, amanhã luva (1860)  </a></li>
+                   <li><a href='Teatro-03'>  03 - Desencantos (1861) </a></li>
+                   <li><a href='Teatro-04'>  04 - O caminho da porta/O protocolo (1863) </a></li>
+                   <li><a href='Teatro-05'>  05 - Quase ministro (1864)  </a></li>
+                   <li><a href='Teatro-06'>  06 - Os deuses de casaca (1866) </a></li>
+                   <li><a href='Teatro-07'>  07 - O bote de rapé (1878)  </a></li>
+                   <li><a href='Teatro-08'>  08 - Tu, só tu, puro amor (1880) </a></li>
+                   <li><a href='Teatro-09'>  09 - Não consultes médico (1899)  </a></li>                   
+                   <li><a href='Teatro-10'>  10 - Lição de botânica (1906)  </a></li>                   
                       </ul>	     
+               
+               <li><a href='Critica-01' data-target='#' data-toggle='dropdown'> Crítica  <span class='caret'></span></a><ul class='dropdown-menu'>
+                   <li><a href='Critica-01'>  A crítica teatral. José de Alencar : Mãe    </a></li>
+                   <li><a href='Critica-02'>  A nova geração   </a></li>
+                   <li><a href='Critica-03'>  Alberto de Oliveira: Meridionais     </a></li>
+                   <li><a href='Critica-04'>  Álvares de Azevedo: Lira dos vinte anos    </a></li>
+                   <li><a href='Critica-05'>  Carlos Jansen: Contos seletos das mil e uma noites    </a></li>
+                   <li><a href='Critica-06'>  Castro Alves   </a></li>
+                   <li><a href='Critica-07'>  Cenas da vida amazônica. por José Veríssimo.    </a></li>
+                   <li><a href='Critica-08'>  Crítica teatral   </a></li>
+                   <li><a href='Critica-09'>  Crítica Literária   </a></li>
+                   <li><a href='Critica-10'>  Discursos na Academia Brasileira de Letras    </a></li>
+                   <li><a href='Critica-11'>  Dois folhetins. Suplício de uma mulher     </a></li>
+                   <li><a href='Critica-12'>  Eça de Queirós   </a></li>
+                   <li><a href='Critica-13'>  Eça de Queirós: O Primo Basílio    </a></li>
+                   <li><a href='Critica-14'>  Eduardo Prado   </a></li>
+                   <li><a href='Critica-15'>  Enéias Galvão: Miragens   </a></li>
+                   <li><a href='Critica-16'>  Fagundes Varela: Cantos e fantasias   </a></li>
+                   <li><a href='Critica-17'>  Fagundes Varela   </a></li>
+                   <li><a href='Critica-18'>  Flores e frutos. Poesias por Bruno Seabra   </a></li>
+                   <li><a href='Critica-19'>  Francisco de Castro: Harmonias errantes   </a></li>
+                   <li><a href='Critica-20'>  Garrett   </a></li>
+                   <li><a href='Critica-21'>  Henriqueta Renan   </a></li>
+                   <li><a href='Critica-22'>  Homem de Mello - A Constituinte perante a história   </a></li>
+                   <li><a href='Critica-23'>  Idéias sobre o Teatro   </a></li>
+                   <li><a href='Critica-24'>  J.M. de Macedo: O culto do dever    </a></li>
+                   <li><a href='Critica-25'>  Joaquim Nabuco: Pensées détachées et souvenirs   </a></li>
+                   <li><a href='Critica-26'>  José de Alencar: Iracema   </a></li>
+                   <li><a href='Critica-27'>  José de Alencar: O Guarani   </a></li>
+                   <li><a href='Critica-28'>  Junqueira Freire: Inspirações do claustro   </a></li>
+                   <li><a href='Critica-29'>  L. L. Fernandes Pinheiro Júnior: Tipos e quadros    </a></li>
+                   <li><a href='Critica-30'>  Lúcio de Mendonça: Névoas matutinas   </a></li>
+                   <li><a href='Critica-31'>  Magalhães de Azeredo: Horas sagradas; Mário de Alencar: Versos   </a></li>
+                   <li><a href='Critica-32'>  Magalhães de Azeredo: Procelárias   </a></li>
+                   <li><a href='Critica-33'>  Notícia da atual literatura brasileira. Instinto de nacionalidade   </a></li>
+                   <li><a href='Critica-34'>  O ideal do crítico    </a></li>
+                   <li><a href='Critica-35'>  O passado, o presente e o futuro da literatura    </a></li>
+                   <li><a href='Critica-36'>  Oliveira Lima: Secretário D’El-Rei   </a></li>
+                   <li><a href='Critica-37'>  Pareceres de Machado de Assis a diversas peças teatrais   </a></li>
+                   <li><a href='Critica-38'>  Crítica - Peregrinação pela província de S. Paulo. por A. E. Zaluar   </a></li>
+                   <li><a href='Critica-39'>  Porto Alegre: Colombo   </a></li>
+                   <li><a href='Critica-40'>  Propósito   </a></li>
+                   <li><a href='Critica-41'>  Raimundo Correia: Sinfonias    </a></li>
+                   <li><a href='Critica-42'>  Revelações. Poesias de A. E. Zaluar   </a></li>
+                   <li><a href='Critica-43'>  Revista dos Teatros   </a></li>
+                   <li><a href='Critica-44'>  Revista Dramática    </a></li>
+                   <li><a href='Critica-45'>  Un cuento endemoniado e La mujer misteriosa. por Guilherme Malta   </a></li>
+                   
+                  
+                   
+             </ul>	
 
     <li><a href='Traducao-01' data-target='#' data-toggle='dropdown'> Tradução  <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Traducao-01'> Machado de Assis - Tradução - 01 - Suplício de uma mulher (1865)</a></li>
-                   <li><a href='Traducao-02'> Machado de Assis - Tradução - 02 - Os trabalhadores do mar (1866) - Parte 01 </a></li>
-                   <li><a href='Traducao-03'> Machado de Assis - Tradução - 03 - Os trabalhadores do mar (1866) - Parte 02  </a></li>
-                   <li><a href='Traducao-04'> Machado de Assis - Tradução - 04 - Oliver Twist (1870) </a></li>                   
+                   <li><a href='Traducao-01'> 01 - Suplício de uma mulher (1865)</a></li>
+                   <li><a href='Traducao-02'> 02 - Os trabalhadores do mar (1866) - Parte 01 </a></li>
+                   <li><a href='Traducao-03'> 03 - Os trabalhadores do mar (1866) - Parte 02  </a></li>
+                   <li><a href='Traducao-04'> 04 - Oliver Twist (1870) </a></li>                   
                       </ul>	     
+      
 
-                      
+          <li><a href='Miscelanea-01' data-target='#' data-toggle='dropdown'> Miscelânea  <span class='caret'></span></a><ul class='dropdown-menu'>
+                   <li><a href='Miscelanea-01'> 01 - A Estátua de José de Alencar </a></li>
+                   <li><a href='Miscelanea-02'> 02 - A morte de Francisco Otaviano  </a></li>
+                   <li><a href='Miscelanea-03'> 03 - A Paixão de Jesus </a></li>
+                   <li><a href='Miscelanea-04'> 04 - Carta à Redação da Imprensa Acadêmica </a></li>
+                   <li><a href='Miscelanea-05'> 05 - Carta ao Sr. Bispo do Rio de Janeiro </a></li>
+                   <li><a href='Miscelanea-06'> 06 - Gonçalves Dias  </a></li>
+                   <li><a href='Miscelanea-07'> 07 - Os imortais (lendas)   </a></li>
+                   <li><a href='Miscelanea-08'> 08 - Pedro Luís  </a></li>
+                   <li><a href='Miscelanea-09'> 09 - Queda que as mulheres têm para os tolos  </a></li>                   
+                   <li><a href='Miscelanea-10'> 10 - Secretaria da Agricultura  </a></li>                   
+                      </ul>	 
+
+              
+
+                 <li><a href='Machado-por-seus-contemporaneos-01' data-target='#' data-toggle='dropdown'> Machado por seus contemporâneos  <span class='caret'></span></a><ul class='dropdown-menu'>
+                   <li><a href='Machado-por-seus-contemporaneos-01'> O autor e a obra - 01 - ARARIPE JÚNIOR (1848-1911) </a></li>
+                   <li><a href='Machado-por-seus-contemporaneos-02'> O autor e a obra - 02 - EUCLIDES DA CUNHA (1866-1909)  </a></li>
+                   <li><a href='Machado-por-seus-contemporaneos-03'> O autor e a obra - 03 - JOÃO DO RIO (1881-1921) </a></li>
+                   <li><a href='Machado-por-seus-contemporaneos-04'> O autor e a obra - 04 - JOSÉ VERÍSSIMO (1857-1916)  </a></li>
+                   <li><a href='Machado-por-seus-contemporaneos-05'> O autor e a obra - 05 - RUI BARBOSA (1849 - 1923)  </a></li>
+                   <li><a href='Machado-por-seus-contemporaneos-06'> O autor e a obra - 06 - SÍLVIO ROMERO (1851-1914)  </a></li>
+                 
+                      </ul>	 
+
+      <li><a href='Tese-dissertacao-01' data-target='#' data-toggle='dropdown'> Teses e dissertações  <span class='caret'></span></a><ul class='dropdown-menu'>
+                  <li><a href='Tese-dissertacao-01'> A consagração literária: o exemplo de Machado de Assis - Olga de Jesus Santos      </a></li>
+                  <li><a href='Tese-dissertacao-02'> A escrita caleidoscópica - Luciana Barreiro Bastos Arnaud       </a></li>
+                  <li><a href='Tese-dissertacao-03'> A letra e os vermes - Maurício Lemos Izolan       </a></li>
+                  <li><a href='Tese-dissertacao-04'> A literatura como ponto de partida para uma reflexão feminista - Sueli do Rocio de Lara    </a></li>
+                  <li><a href='Tese-dissertacao-05'> A Máscara da ópera em Dom Casmurro - Margareth R. T. Miyamato      </a></li>
+                  <li><a href='Tese-dissertacao-06'> Ocultamentos e Revelações - Eni P. Celidonio    </a></li>
+                  <li><a href='Tese-dissertacao-07'>       </a></li>
+                  <li><a href='Tese-dissertacao-08'>         </a></li>
+                  <li><a href='Tese-dissertacao-09'>        </a></li>
+                  <li><a href='Tese-dissertacao-10'>        </a></li>
+                  <li><a href='Tese-dissertacao-11'>     </a></li>
+                  <li><a href='Tese-dissertacao-12'>        </a></li>
+                  <li><a href='Tese-dissertacao-13'>         </a></li>
+                  <li><a href='Tese-dissertacao-14'>        </a></li>
+                  <li><a href='Tese-dissertacao-15'>         </a></li>
+                  <li><a href='Tese-dissertacao-16'>         </a></li>
+                  <li><a href='Tese-dissertacao-17'>        </a></li>
+                  <li><a href='Tese-dissertacao-18'>        </a></li>
+                  <li><a href='Tese-dissertacao-19'>       </a></li>
+                  <li><a href='Tese-dissertacao-20'>        </a></li>
+                  <li><a href='Tese-dissertacao-21'>        </a></li>
+                  <li><a href='Tese-dissertacao-22'>        </a></li>
+                  <li><a href='Tese-dissertacao-23'>         </a></li>
+                  <li><a href='Tese-dissertacao-24'>        </a></li>                             
+             </ul>	 
                                    	         	                           
               </ul>                  
         	</div>

@@ -1,0 +1,223 @@
+﻿<%@ Page Title="Machado de Assis -  Queda que as mulheres têm para os tolos   " Language="C#" MasterPageFile="~/PT/SitePTMachado.master" AutoEventWireup="true"  %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
+    <meta name="description" content=" Miscelânea -  Queda que as mulheres têm para os tolos " /> 
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
+    <!-- Conteudo  --> 
+      <div class='container panel-body'>
+        <div class='col-xs-12 col-md-12 text-center'>            
+            <br />
+            <h1>  Machado de Assis - Miscelânea</h1>
+            <br /> 
+              <!-- INICIO - VIDEO do YOUTUBE 
+               <div class="container-fluid">	            
+                <div class='col-xs-12 col-sm-6 col-sm-offset-3 text-center'> 
+                    <div class="embed-responsive embed-responsive-16by9" >
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen ></iframe>
+                    </div>  
+               </div></div>
+              FIM - VIDEO do YOUTUBE  -->
+        </div>       
+        <div class='col-xs-12 col-md-12 text-justify' style='line-height:1.7'>
+             <br /> <h2 class='text-center'>   Queda que as mulheres têm para os tolos   </h2>        <br /> 
+                        
+            
+
+           <br />
+
+<P> </P>
+
+<P>Texto-fonte: </P>
+<P>Obra Completa, Machado de Assis, </P>
+<P>Rio de Janeiro: Nova Aguilar, V.III, 1994. </P>
+  <br />
+<P>Publicado originalmente em A Marmota, Rio de Janeiro, 19, 23, 26 e 30/04 e 03/05/1861. </P>
+
+  <br />
+<H5>ADVERTÊNCIA </H5>
+  <br />
+<P>Este livro é curto, talvez devera sê-lo mais. </P>
+
+<P>Desejo que ele agrade, como me sai das mãos; mas é com pesar que me vanglorio por esta obra. </P>
+
+<P>Falar do amor das mulheres pelos tolos, não é arriscar ter por inimigas a maioria de um e outro sexo? </P>
+
+<P>Diz-se que a matéria é rica e fecunda; eu acrescento que ela tem sido tratada por muitos. Se tenho, pois, a pretensão de ser breve, não tenho a de ser original. </P>
+
+<P>Contento-me em repetir o que se disse antes de mim; minhas páginas conscienciosas são um resumo de muitos e valiosos escritos. Propriamente falando, é uma comparação científica, e eu obteria a mais doce recompensa de meus esforços, como dizem os eruditos, se inspirasse aos leitores a idéia de aprofundar um tão importante exemplo. </P>
+
+<P>Quanto à imparcialidade que presidiu à redação deste trabalho, creio que ninguém a porá em dúvida. </P>
+
+<P>Exalto os tolos sem rancor, e se critico os homens de espírito, é com um desinteresse, cuja extensão facilmente se compreenderá. </P>
+
+<P>I </P>
+
+<P>Il est des noeuds secrets, il est des sympathies. </P>
+
+<P>Passa em julgado que as mulheres lêem de cadeira em matéria de fazendas, pérolas e rendas, e que, desde que adotam uma fita, deve-se crer que a essa escolha presidiram motivos plausíveis. </P>
+
+<P>Partindo deste princípio, entraram os filósofos a indagar se elas mantinham o mesmo cuidado na escolha de um amante, ou de um marido. </P>
+
+<P>Muitos duvidaram. </P>
+
+<P>Alguns emitiram como axioma, que o que determinava as mulheres, neste ponto, não era, nem a razão, nem o amor, nem mesmo o capricho; que se um homem lhes agradava, era por se ter apresentado primeiro que os outros, e que sendo este substituído por outro, não tinha esse outro senão o mérito de ter chegado antes do terceiro. </P>
+
+<P>Permaneceu por muito tempo este sistema irreverente. 
+Hoje, graças a Deus, a verdade se descobriu: veio a saber-se que as mulheres 
+escolhem com pleno conhecimento do que fazem. Comparam, examinam, pesam, 
+e só se decidem por um, depois de verificar nele a preciosa qualidade que 
+procuram. 
+</P>
+
+<P>Essa qualidade é... a toleima! </P>
+
+<P>II </P>
+
+<P>Desde a mais remota antiguidade, sempre as mulheres tiveram a sua queda para os tolos. </P>
+
+<P>Alcibíades, Sócrates e Platão foram sacrificados por elas aos presumidos do tempo. Turenne, La Rochefoucauld, Racine e Molière, foram traídos por suas amantes, que se entregaram a basbaques notórios. No século passado todas as boas fortunas foram reservadas aos pequenos abades. Estribadas nesses exemplos, as nossas contemporâneas continuaram a idolatrar os descendentes dos ídolos das suas avós. </P>
+
+<P>Não é nosso fim censurar uma tendência, que parece invencível; o que queremos é motivá-la. </P>
+
+<P>Por menos observador e menos experiente que seja, qualquer pessoa reconhece que a toleima é quase sempre um penhor de triunfo. Desgraçadamente ninguém pode por sua própria vontade gozar das vantagens da toleima. A toleima é mais do que uma superioridade ordinária: é um dom, é uma graça, é um selo divino. </P>
+
+<P>&quot;O tolo não se faz, nasce feito.&quot; </P>
+
+<P>Todavia, como o espírito e como o gênio, a toleima natural fortifica-se e estende-se pelo uso que se faz dela. É estacionária no pobre-diabo, que raramente pode aplicá-la; mas toma proporções desmarcadas nos homens a quem a fortuna, ou a posição social cedo leva à prática do mundo. Este concurso da toleima inata e da toleima adquirida é que produz a mais temível espécie de tolos, os tolos que o acadêmico Trublet chamou &quot;tolos completos, tolos integrais, tolos no apogeu da toleima.&quot; </P>
+
+<P>O tolo é abençoado do céu pelo fato de ser tolo, e é pelo fato de ser tolo, que lhe vem a certeza, de que, qualquer carreira que tome, há de chegar felizmente ao termo. Nunca solicita empregos, aceita-os em virtude do direito que lhe é próprio: Nominor leo. Ignora o que é ser corrido ou desdenhado; onde quer que chegue, é festejado como um conviva que se espera. </P>
+
+<P>O que opor-lhe como obstáculo? É tão enérgico no choque, tão igual nosesforços e tão seguro no resultado! É rocha despegada, que rola, corre, salta e avança caminho por si, precipitada pela sua própria massa. </P>
+
+<P>Sorri-lhe a fortuna particularmente ao pé das mulheres. Mulher alguma resistiu nunca a um tolo. Nenhum homem de espírito teve ainda impunemente um parvo como rival. Por quê?... Há necessidade de perguntar por quê? Em questão de amor, o paralelo a estabelecer entre o tolo e o homem de siso, não é para confusão do último? </P>
+
+<P>III </P>
+
+<P>Em matéria de amor, deixa-se o homem de espírito embalar por estranhas ilusões. As mulheres são para ele entes de mais elevada natureza que a sua, ou pelo menos ele empresta-lhes as próprias idéias, supõe-lhes um coração como o seu, imagina-as capazes, como ele, de generosidade, nobreza e grandeza. Imagina que para agradar-lhes é preciso ter qualidades acima do vulgar. Naturalmente tímido, exagera mais ao pé delas a sua insuficiência; o sentimento de que lhe falta muito, torna-o desconfiado, indeciso, atormentado. Respeitoso até à timidez, não ousa exprimir o seu amor em palavras; exala-o por meio de uma não interrompida série de meigos cuidados, ternos respeitos e atenções delicadas. Como nada quer à custa de uma indignidade, não se conserva continuamente ao pé daquela que ama, não a persegue, não a fatiga com a sua presença. Para interessá-la em suas mágoas, não toma ares sombrios e tristes; pelo contrário, esforça-se por ser sempre bom, afetuoso e alegre junto dela. Quando se retira da sua presença, é que mostra o que sofre, e derrama as suas lágrimas em segredo. </P>
+
+<P>O tolo, porém, não tem desses escrúpulos. A intrépida opinião que ele tem de si próprio, o reveste de sangue frio e segurança. </P>
+
+<P>Satisfeito de si, nada lhe paralisa a audácia. Mostra a todos que a ama, e solicita com instância provas de amor. Para fazer-se notar daquela que ama, importuna-a, acompanha-a nas ruas, vigia-a nas igrejas e espia-a nos espetáculos. Arma-lhe laços grosseiros. À mesa, oferece-lhe uma fruta para comerem ambos, ou passa-lhe misteriosamente, com muito jeito, um bilhete de amores. Aperta-lhe a mão a dançar e saca-lhe o ramalhete de flores no fim do baile. Numa noite de partida, diz-lhe dez vezes ao ouvido: &quot;Como é bela!&quot;, porquanto revela-lhe o instinto, que pela adulação é que se alcançam as mulheres, bem como se as perde, tal como acontece com os reis. De resto, como nos tolos tudo é superficial e exterior, não é o amor um acontecimento que lhes mude a vida: continuam como antes a dissipá-la nos jogos, nos salões e nos passeios. </P>
+
+<P>IV </P>
+
+<P>O amor, disse alguém, é uma jornada, cujo ponto de partida é o sentimento, e cujo termo inevitável a sensação. Se é isto verdade, o que há a fazer, é embelecer a estrada e chegar o mais tarde possível ao fim. Ora, quem melhor do que o homem de espírito sabe parolar à beira do caminho, parar c colher flores, sentar-se às sombras frescas, recitar aventuras e procurar desvios e delongas? Um caracol de cabelos mal arranjado, um cumprimento menos apressado que de costume, um som de voz discordante, uma palavra mal escolhida, tudo lhe é pretexto para demorar os passos e prolongar os prazeres da viagem. Mas quantas mulheres apreciam esses castos manejos, e compreendem o encanto dessas paradas à borda de uma veia límpida que reflete o céu? Elas querem amor, qualquer que seja a sua natureza, e o que o tolo lhes oferece é-lhes bastante, por mais insípido que seja. </P>
+
+<P>V </P>
+
+<P>O homem de espírito, quando chega a fazer-se amar, não goza de uma felicidade completa. Atemorizado com a sua ventura, trata antes de saber por que é </P>
+
+<P>feliz! Pergunta por que e como é amado; se, para uma amante, é ele uma necessidade, ou um passatempo; se ela cedeu a um amor invencível; enfim, se é ele amado por si mesmo. Cria ele próprio e com engenho as suas mágoas e cuidados; é como o Sibarita que, deitado em um leito de flores, sentia-se incomodado pela dobra de uma folha de rosa. Num olhar, numa palavra, num gesto, acha ele mil nuanças imperceptíveis, desde que se trata de interpretá-las contra si. Esquece os encômios que levemente o tocam, para lembrar-se somente de uma observação feita ao menor dos seus defeitos e que bastante o tortura. Mas, em compensação desses tormentos, há no seu amor tanto encanto e delícias! Como estuda, como extrai, como saboreia as volúpias mais fugitivas até a última essência! Como a sua sensibilidade especial sabe descobrir o encanto das criancices frívolas, dos invisíveis atrativos, dos nadas adoráveis! </P>
+
+<P>O tolo é um amante sempre contente e tranqüilo. Tem tão robusta confiança nos seus predicados, que antes de ter provas, já mostra a certeza de ser amado. E assim deve ser. Em sua opinião faz uma grande honra à mulher a quem dedica os seus eflúvios. Não lhe deve felicidade; ele é que lha dá; e como tudo o leva a exagerar o benefício, não lhe vem à idéia de que se possa ter para com ele ingratidões. Assim, no meio das alegrias do amor, saboreia ainda a embriaguez da fatuidade. Mas como, em definitivo, é ele próprio o objeto de seu culto, depressa o tolo se aborrece, e como o amor para ele não é mais que um entretenimento que passa, os últimos favores, longe de o engrandecerem mais, desligam-no pela sociedade. </P>
+
+<P>VI </P>
+
+<P>O homem de espírito vê no amor um grande e sério negócio, ocupa-se dele como do mais grave interesse de sua vida, sem distração, nem reserva. Pode perder nele algumas das suas qualidades viris, mas é para crescer em abnegação, em dedicação, em bondade. Suporta tudo daquela que ama sem nada exigir dela. Quando ela atende a alguns dos seus votos, quando previne alguns dos seus desejos, longe de ensoberbecer-se, agradece com uma efusão mesclada de surpresa. Perdoa-lhe generosamente todos os males que lhe causa porque, muito orgulhoso para enraivecer-se ou lastimar-se, não sabe provocar, nem a piedade que enternece, nem o medo que faz calar. Oh! que inferno, se a má ventura lhe depara uma mulher bela e má, uma namoradeira fria de sentidos, ou uma moça de rabugice precoce! </P>
+
+<P>Sofre então vivamente com a perfídia da mulher amada, mas desculpa-a pela fragilidade do sexo. A sua indulgência pode então conduzi-lo à degradação. Ele segue a olhos fechados o declive que o arrasta ao abismo, sem que a queixa, a ambição, a fortuna possam retê-lo. </P>
+
+<P>O néscio escapa a estes perigos. Como não é ele quem ama, é ele quem domina. Para vencer uma mulher finge por alguns momentos o excesso de desespero e de paixão; mas isso não passa de um meio de guerra, tática de cerco para enganar e seduzir o inimigo. Logo depois recobra ele a tirania, e não a abdica mais. Para entreter-se nisso, tem o tolo o seu método, as suas regras, a sua linha de conduta. É indiscreto por princípio, porquanto divulgando os favores que recebe, compromete a que lhe concede e ao mesmo tempo afasta as rivalidades nascentes. É suscetível pela razão, cioso por cálculo, a fim de promover estes proveitosos amuos, que lhe servem, a seu grado, para conduzir a uma ruptura definitiva, ou para exigir um novo sacrifício. Mostra uma cruel indiferença, indicando pouca confiança nas provas de simpatia que lhe dão. Num baile, proibindo à sua amante de dançar, não faz caso dela, de propósito. Aflige-a com aparências de infidelidade, falta à hora marcada para se encontrarem, ou, depois de se ter feito esperar, vem, dando desculpas equívocas de sua demora. Hábil em semear a inquietação e o susto, faz-se obedecer à força de ser tirano, e acaba por inspirar uma afeição sincera à força de promovê-la. </P>
+
+<P>VII </P>
+
+<P>O homem de espírito, assustado com o vácuo imenso, que deixa no coração uma afeição que se perde, só rompe o laço que o prende à causa de dilacerações interiores. </P>
+
+<P>Como bem se disse, sendo preciso um dia para conseguir, é preciso mil para se reconquistar. </P>
+
+<P>Mesmo no momento em que volta a ser livre: quantas vezes um sorriso, um meneio de cabeça, uma maneira de puxar o vestido, ou de inclinar o chapelinho de sol, não o faz recair no seu antigo cativeiro! </P>
+
+<P>De resto, a mulher, a quem ele tiver revelado o segredo do seu coração, ficará sempre para ele como ser à parte. Não a esquece nunca. </P>
+
+<P>Morta, ou separado, nutre por aquela que a perdeu longas saudades. Perseguido pela lembrança que dela conserva, descobre muitas vezes que as outras mulheres por quem se apaixona só têm o mérito de se parecerem com ela. Dá-se ele então a comparações que o desvairam, que o irritam, que o põem fora de si, exigindo no seu trajar, no seu andar e até no seu falar alguma coisa que lhe recorde </P>
+
+<P>o seu implacável ideal. </P>
+
+<P>E se é ele o abandonado, que de torturas que sofre! </P>
+
+<P>Viver sem ser amado parece-lhe intolerável. Nada pode consolá-lo ou distraí-lo. </P>
+
+<P>No caso de tornar a ver os sítios que foram testemunhas da sua felicidade, evoca à sua memória mil circunstâncias perseverantes e cruéis. Ali está a cerca cheirosa, cujos espinhos rasgaram o véu da infiel; aqui, o rio que a medrosa só ousava atravessar amparada pela sua mão; além está a alameda, cuja areia fina parece ter ainda o molde de seus ligeiros passos. Contempla na janela as longas e alvas cortinas, no peitoril os arbustos em flor, na relva a mesa, o banco, as cadeiras em que outrora se sentaram. </P>
+
+<P>É possível que ela tenha mudado tão de repente? Pois não foi ainda ontem que de volta de um passeio ao bosque, lhe enxugou o suor da testa, e que se prendia em doce e estranho amplexo?... </P>
+
+<P>Hoje, nem mais doçuras, nem mais apertos de mão, nem mais dessas horas ébrias em que todo o passado ficava esquecido! Ele está só, entregue a si mesmo, sem força, sem alvo: é o delírio do desespero. </P>
+
+<P>O tolo está acima dessas misérias. Não o assusta um futuro prenhe de qualquer inquietação aflitiva. Sempre acobertado pela bandeira da inconstância, desfaz-se de uma amante sem luta, nem remorsos; utiliza uma traição para voar a novas aventuras. Para ele nada há de terrível em uma separação, porque nunca supõe que se possa colocar a vida numa vida alheia, e que fazendo-se um hábito dessa comunidade de existência, faz-se pouco novamente sofrer, quando ela tiver de quebrar-se. </P>
+
+<P>Da mulher, que deixa de amar, ele só conserva o nome, como o veterano conserva o nome de uma batalha para glorificar-se, ajuntando-o ao número das suas campanhas. </P>
+
+<P>VIII </P>
+
+<P>Há uma época em que custa-se muito a amar. Tendo visto e estudado um pouco a mulher, adquire-se uma certa dureza que permite aproximar-se sem perigo das mais belas e sedutoras. Confessa-se sem rebuço a admiração que elas inspiram, mas é uma admiração de artista, um entusiasmo sem ternura. Além disso, ganha-se uma penetração cruel para ver, através de todos os artifícios de casquilha, o que vale a submissão que elas ostentam, a doçura que afetam, a ignorância que fingem. E prenda-se um homem nessas condições! </P>
+
+<P>De ordinário, é entre trinta a trinta e cinco anos, que o coração do homem de espírito fecha-se assim à simpatia e começa a petrificar-se. É possível que nele tornem a aparecer os fogos da mocidade, e que ele venha a sentir um amor tão puro, tão fervente, tão ingênuo como nos frescos anos da adolescência; longe de ter perdido as perturbações, as apreensões, os transportes da alma amorosa, sente-os ele de novo com emoção mais profunda e dá-lhes um preço tanto mais elevado, quanto ele está certo de não os ver renascer. </P>
+
+<P>Oh! então lastima-se o pobre insensato! Ei-lo obrigado a ajoelhar-se aos pés de uma mulher para quem é nada o mérito de caminhar pouco e pouco atrás de sua sombra, de fazer exercício em torno aos seus vestidos, de se extasiar diante de seus bordados, de lisonjear os seus enfeites. Ai, triste! esses longos suplícios o revoltam, e, Pigmalião desesperado, afasta-se de Galatéia, cujo amor se não pode reanimar. </P>
+
+<P>Esses sintomas de idade são desconhecidos ao tolo, porquanto cada dia que passa não lhe faz achar no amor um bem mais caro, ou mais difícil a conquistar. Não tendo sido, nem melhorado, nem endurecido pelos reveses da vida, continuando a ver as mulheres com o mesmo olhar, exprime-lhes os seus amores com as mesmas lágrimas e os mesmos suspiros que lhes reserva para pintar os antigos tormentos. E como ele só exigiu sempre delas aparências de paixão, vem facilmente a persuadir-se que é amado. Longe de fugir, persevera e </P>
+
+<P>— triunfa. </P>
+
+<P>IX </P>
+
+<P>O homem de espírito é o menos hábil para escrever a uma mulher. </P>
+
+<P>Quando se arrisca a escrever uma carta, sente dificuldades incríveis. Desprezando </P>
+
+<P>o vasconço da galanteria, não sabe como se há de fazer entender. Quer ser reservado e parece frio; quer dizer o que espera e indica receio; confessa que nada tem para agradar, e é apanhado pela palavra. Comete o crime de não ser comum ou vulgar. As suas cartas saem do coração e não da cabeça; têm o estilo simples, claro e límpido, contendo apenas alguns detalhes tocantes. Mas é exatamente o que faz com que elas não sejam lidas, nem compreendidas. São cartas decentes, quando as pedem estúpidas. </P>
+
+<P>O tolo é fortíssimo em correspondência amorosa, e tem consciência disso. Longe de recuar diante da remessa de uma carta, é muitas vezes por aí que ele começa. Tem uma coleção de cartas prontas para todos os graus de paixão. Alega nelas em linguagem brusca o ardor de sua chama; a cada palavra repete: meu anjo, eu vos adoro. As suas fórmulas são enfáticas e chatas; nada que indique uma personalidade. Não faz suspeitar excentricidade ou poesia; é quanto basta; é medíocre e ridículo, tanto melhor. Efetivamente o estranho que ler as suas missivas, nada tem a dizer; na mocidade o pai da menina escrevia assim; a própria menina não esperava outra coisa. Todos estão satisfeitos, até os amigos. Que querem mais? </P>
+
+<P>X </P>
+
+<P>Enfim, o homem de espírito, em vista do que é, inspira às mulheres uma secreta repulsa. Elas se admiram com o ver tímido, acanham-se com o ver delicado, humilham-se com vê-lo distinto. </P>
+
+<P>Por muito que ele faça para descer até elas, nunca consegue fazê-las perder o acanhamento; choca-as, incomoda-as, e esse acanhamento, de que ele é causa, torna frias as conversações mais indiferentes, afasta a familiaridade e assusta a inclinação prestes a nascer. </P>
+
+<P>Mas o tolo não atrapalha, nem ofusca as mulheres. Desde a primeira entrevista, ele as anima e fraterniza-se com elas. Eleva-se sem acanhamento nas conversas mais insulsas, palra e requebra-se como elas. Compreende-as e elas o compreendem. Longe de se sentirem deslocadas na sua companhia, elas a procuram, porque brilham nela. Podem diante dele absorver todos os assuntos e conversar sobre tudo, inocentemente, sem conseqüência. Na persuasão de que ele não pensa melhor, nem contrário a elas, auxiliam o triste, quando a idéia lhe falta, suprem-lhe a indigência. Como se fazem valer por ele, é justo que lhe paguem, e por isso consentem em ouvi-lo em tudo. Entregam-lhe assim os seus ouvidos, que é o caminho do seu coração, e um belo dia admiram-se de ter encontrado no amigo complacente um senhor imperioso! </P>
+
+<P>XI </P>
+
+<P>Compreende-se, por este curto esboço, como e quanto diferem os tolos e os homens de espírito nos seus meios de sedução. A conclusão final é, que os tolos triunfam, e os homens de espírito falham, resultado importante e deplorável, nesta matéria sobretudo. </P>
+
+<P>XII </P>
+
+<P>Depois de ter indagado as causas da felicidade dos tolos, e da desgraça dos homens de espírito: perderemos tempo precioso em acusar as mulheres? Não hesitamos em deitar as culpas sobre os homens de espírito, como fez o profundo Champcenets. </P>
+
+<P>Por que não estudam os tolos, diz-lhes este autor, para conseguir imitá-los? Há de custar-vos muito fazer um tal papel: mas há proveito sem desar? E depois, quando assim sois a isso obrigado, visto como não vos dão outro meio de solução, querer subtrair o belo sexo a império dos tolos, descortinando-lhe a perversidade do seu gosto, é coisa em que ninguém deve pensar, é uma loucura; fora o mesmo que querer mudar a natureza, ou contrariar a fatalidade. </P>
+
+<P>Porquanto, ficai sabendo, continua Champcenets, que as mulheres não são senhoras de si próprias; que nelas tudo é instinto ou temperamento, e que portanto elas não podem ser culpadas de suas preferências. Só respondemos pelo que praticamos com intenção e discernimento. Ora, qual delas pode dizer que predileção a impele, que paixão a obriga, que sentimento a faz ingrata, ou que vingança lhe dita as malignidades? Debalde procurareis delas tão cruel prodígio; nenhuma é cúmplice do mal que causa: a este respeito, o seu estouvamento atesta-lhes a candura. </P>
+
+<P>Por que vos obstinais em pedir-lhes o que a Providência não lhes deu? Elas se apresentam belas, apetitosas e cegas: não vos basta isto? Querê-las com juízo, penetrantes e sensíveis, é não conhecê-las. </P>
+
+<P>Procurai as mulheres nas mulheres, admirai-lhes a figura elegante e flexível, afagai-lhes os cabelos, beijai-lhes as mãos mimosas; mas tomai como um brinquedo o seu desdém, aceitai os seus ultrajes sem azedume, e às suas cóleras mostrai indiferença. Para conquistar esses entes frágeis e ligeiros, é preciso atordoá-los pelo rumor dos vossos louvores, pelo fasto do vosso vestuário, pela publicidade das vossas homenagens. </P>
+
+<P>XIII </P>
+
+<P>Sim, sim, é mister ousar tudo para com as mulheres. </P>
+
+
+
+           
+                                
+        </div>           
+        <br />    <p class='text-center'> * * * </p>  <br /> <hr />  <br />            
+          <div class="bg-info container-fluid col-xs-12">    <h5 class='text-center'>  Machado de Assis - Miscelânea - Links </h5>   </div> 
+          <div class="text-center"><ul class="pagination pagination-lg">
+          <!--  class="active"  -->
+            <li   ><a href="Miscelanea-01">01</a></li>            
+            <li   ><a href="Miscelanea-02">02</a></li>
+            <li   ><a href="Miscelanea-03">03</a></li>
+            <li   ><a href="Miscelanea-04">04</a></li>
+            <li   ><a href="Miscelanea-05">05</a></li>
+            <li   ><a href="Miscelanea-06">06</a></li>
+            <li   ><a href="Miscelanea-07">07</a></li>
+            <li   ><a href="Miscelanea-08">08</a></li>
+            <li class="active"   ><a href="Miscelanea-09">09</a></li>
+            <li   ><a href="Miscelanea-10">10</a></li>                                         
+                                          
+          </ul>
+        </div>
+      </div>                   
+</asp:Content>

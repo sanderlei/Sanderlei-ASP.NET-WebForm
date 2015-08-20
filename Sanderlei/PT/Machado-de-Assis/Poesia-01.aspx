@@ -31,8 +31,9 @@
 <br />
 <a href="#p1"><p>MUSA CONSOLATRIX </p></a>
 <a href="#p2"><p>VISIO </p></a>
-<p>QUINZE ANOS STELLA </p>
-<p>EPITÁFIO DO MÉXICO </p>
+<a href="#p3"><p>QUINZE ANOS </p></a>
+<a href="#p4"><p>STELLA </p></a>
+<a href="#p5"><p>EPITÁFIO DO MÉXICO </p></a>
 <p>POLÔNIA </p>
 <p>ERRO ELEGIA </p>
 <p>SINHÁ </p>
@@ -95,8 +96,7 @@
 <p>Em vez de algumas ilusões que teve, </p>
 <p>A paz, o último bem, último e puro! </p>
 
-<br />
-            <hr /><br />
+<br />   <hr /><br />
 
 <H3 id="p2" class='text-center'>VISIO </H3>
 <br />
@@ -177,10 +177,11 @@ Alma, que em dores me chora,
 Chorara de agradecida! 
 </p>
 
+<br />   <hr /><br />
 
-            <br />
-<H5>QUINZE ANOS </H5>
-            <br />
+<H3 id="p3" class='text-center'>QUINZE ANOS </H3>
+<br />
+
 <p>Oh! la fleur de l'Eden, pourquoi l'as-tu 
 fannée, 
 Insouciant enfant, belle Eve aux blonds 
@@ -277,9 +278,11 @@ E dirás, — então já tarde, —
 Que por tais gozos não vale 
 Deixar os braços de Deus. 
 </p>
-            <br />
-<p>STELLA </p>
-            <br />
+
+<br />   <hr /><br />
+<H3 id="p4" class='text-center'>STELLA  </H3>
+<br />
+         
 <p>Já raro e mais escasso </p>
 
 <p>A noite arrasta o manto, 
@@ -341,10 +344,10 @@ Espero-te, divina,
 Espero-te, amanhã. 
 </p>
 
-            <br />
+<br />   <hr /><br />
+<H3 id="p5" class='text-center'>EPITÁFIO DO MÉXICO   </H3>
+<br />
 
-<H5>EPITÁFIO DO MÉXICO </H5>
-            <br />
 <p>Dobra o joelho: — é um túmulo. Embaixo amortalhado Jaz o cadáver tépido De um povo aniquilado; A prece melancólica </p>
 
 <p>Reza-lhe em torno à cruz. 
