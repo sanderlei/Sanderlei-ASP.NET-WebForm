@@ -72,7 +72,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="00.aspx" />
     <Content Include="AR\Index.aspx" />
     <Content Include="AR\SAP\00.aspx" />
     <Content Include="AR\SAP\EN-01-01.aspx" />
