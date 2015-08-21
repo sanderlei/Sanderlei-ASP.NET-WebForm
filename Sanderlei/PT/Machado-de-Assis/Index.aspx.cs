@@ -11,7 +11,7 @@ namespace Sanderlei.PT.Machado_de_Assis
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Redirect("~/PT/Machado-de-Assis/Dom-Casmurro-001");
+          //  Response.Redirect("~/PT/Machado-de-Assis/Dom-Casmurro-001");
         }
     }
 }

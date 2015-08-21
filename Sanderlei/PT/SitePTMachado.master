@@ -12,8 +12,13 @@
                           <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
                </div>
     	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>   
-                   <li><a href='Dom-Casmurro-001' data-target='#' data-toggle='dropdown'> Machado de Assis - Wikipedia <span class='caret'></span></a><ul class='dropdown-menu'>
-                           <li><a href='Wikipedia-01'> Joaquim Maria Machado de Assis</a></li>                            
+                   <li><a href='Dom-Casmurro-001' data-target='#' data-toggle='dropdown'> Machado de Assis <span class='caret'></span></a><ul class='dropdown-menu'>
+                       <li><a href='Wikipedia-01'> Joaquim Maria Machado de Assis</a></li>                            
+                       <li><a href='Wikipedia-02'> Biografia </a></li>                            
+                       <li><a href='Wikipedia-03'> Sobre sua Obra</a></li>                            
+                       <li><a href='Wikipedia-04'> Política, Religião e Saúde</a></li>                            
+                       <li><a href='Wikipedia-05'> Reputação crítica e Legado</a></li>                            
+                       <li><a href='Wikipedia-06'> Cronologia de sua Vida </a></li>                            
     
                            
                           
@@ -21,6 +26,11 @@
                  
                        
                        
+
+
+
+
+
                        
                                        
                		<li><a href='Dom-Casmurro-001' data-target='#' data-toggle='dropdown'>Dom Casmurro <span class='caret'></span></a><ul class='dropdown-menu'>
@@ -816,22 +826,29 @@
          
                               </ul>	      	         	                           
 
-               <li><a href='Papeis-Avulsos-01' data-target='#' data-toggle='dropdown'> Papéis Avulsos  <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Papeis-Avulsos-01'> Papéis Avulsos - 01 - ADVERTÊNCIA </a></li>
-                   <li><a href='Papeis-Avulsos-02'> Papéis Avulsos - 02 - O ALIENISTA </a></li>
-                   <li><a href='Papeis-Avulsos-03'> Papéis Avulsos - 03 - TEORIA DO MEDALHÃO </a></li>
-                   <li><a href='Papeis-Avulsos-04'> Papéis Avulsos - 04 - A CHINELA TURCA </a></li>
-                   <li><a href='Papeis-Avulsos-05'> Papéis Avulsos - 05 - NA ARCA </a></li>
-                   <li><a href='Papeis-Avulsos-06'> Papéis Avulsos - 06 - D. BENEDITA</a></li>
-                   <li><a href='Papeis-Avulsos-07'> Papéis Avulsos - 07 - SEGREDO DO BONZO </a></li>
-                   <li><a href='Papeis-Avulsos-08'> Papéis Avulsos - 08 - O ANEL DE POLÍCRATES</a></li>
-                   <li><a href='Papeis-Avulsos-09'> Papéis Avulsos - 09 - O EMPRÉSTIMO </a></li>
-                   <li><a href='Papeis-Avulsos-10'> Papéis Avulsos - 10 - A SERENÍSSIMA REPÚBLICA </a></li>                                                                                                                                                
-                   <li><a href='Papeis-Avulsos-11'> Papéis Avulsos - 11 - O ESPELHO </a></li>                                                                                                                                                
-                   <li><a href='Papeis-Avulsos-12'> Papéis Avulsos - 12 - UMA VISITA DE ALCIBÍADES </a></li>                                                                                                                                                
-                   <li><a href='Papeis-Avulsos-13'> Papéis Avulsos - 13 - VERBA TESTAMENTÁRIA </a></li>                                                                                                                                                
-                   <li><a href='Papeis-Avulsos-14'> Papéis Avulsos - 14 - NOTAS DO AUTOR </a></li>                                                                                                                                                
-                      </ul>	          
+              
+                    
+                    
+                    
+                    
+             <li><a href='Reliquias-de-Casa-Velha-01' data-target='#' data-toggle='dropdown'> Relíquias de Casa Velha  <span class='caret'></span></a><ul class='dropdown-menu'>
+                   <li><a href='Reliquias-de-Casa-Velha-01'> Relíquias de Casa Velha - 01  - ADVERTÊNCIA</a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-02'> Relíquias de Casa Velha - 02 - PAI CONTRA MÃE  </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-03'> Relíquias de Casa Velha - 03 - MARIA CORA </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-04'> Relíquias de Casa Velha - 04 - MARCHA FÚNEBRE </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-05'> Relíquias de Casa Velha - 05 - UM CAPITÃO DE VOLUNTÁRIOS  </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-06'> Relíquias de Casa Velha - 06 - SUJE-SE GORDO! </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-07'> Relíquias de Casa Velha - 07 - UMAS FÉRIAS  </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-08'> Relíquias de Casa Velha - 08 - EVOLUÇÃO </a></li>
+                   <li><a href='Reliquias-de-Casa-Velha-09'> Relíquias de Casa Velha - 09 - PÍLADES E ORESTES  </a></li>                   
+                   <li><a href='Reliquias-de-Casa-Velha-10'> Relíquias de Casa Velha - 10 - ANEDOTA DO CABRIOLET  </a></li>                   
+                      </ul>	            
+                    
+                    
+                    
+                    
+                    
+                        
 
                      <li><a href='Contos-Fluminenses-01' data-target='#' data-toggle='dropdown'> Contos Fluminenses   <span class='caret'></span></a><ul class='dropdown-menu'>
                    <li><a href='Contos-Fluminenses-01'> Contos Fluminenses - 01 - MISS DOLLAR  </a></li>
@@ -895,18 +912,24 @@
            
 
 
-             <li><a href='Reliquias-de-Casa-Velha-01' data-target='#' data-toggle='dropdown'> Relíquias de Casa Velha  <span class='caret'></span></a><ul class='dropdown-menu'>
-                   <li><a href='Reliquias-de-Casa-Velha-01'> Relíquias de Casa Velha - 01  - ADVERTÊNCIA</a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-02'> Relíquias de Casa Velha - 02 - PAI CONTRA MÃE  </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-03'> Relíquias de Casa Velha - 03 - MARIA CORA </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-04'> Relíquias de Casa Velha - 04 - MARCHA FÚNEBRE </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-05'> Relíquias de Casa Velha - 05 - UM CAPITÃO DE VOLUNTÁRIOS  </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-06'> Relíquias de Casa Velha - 06 - SUJE-SE GORDO! </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-07'> Relíquias de Casa Velha - 07 - UMAS FÉRIAS  </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-08'> Relíquias de Casa Velha - 08 - EVOLUÇÃO </a></li>
-                   <li><a href='Reliquias-de-Casa-Velha-09'> Relíquias de Casa Velha - 09 - PÍLADES E ORESTES  </a></li>                   
-                   <li><a href='Reliquias-de-Casa-Velha-10'> Relíquias de Casa Velha - 10 - ANEDOTA DO CABRIOLET  </a></li>                   
-                      </ul>	     
+            <li><a href='Papeis-Avulsos-01' data-target='#' data-toggle='dropdown'> Papéis Avulsos  <span class='caret'></span></a><ul class='dropdown-menu'>
+                   <li><a href='Papeis-Avulsos-01'> Papéis Avulsos - 01 - ADVERTÊNCIA </a></li>
+                   <li><a href='Papeis-Avulsos-02'> Papéis Avulsos - 02 - O ALIENISTA </a></li>
+                   <li><a href='Papeis-Avulsos-03'> Papéis Avulsos - 03 - TEORIA DO MEDALHÃO </a></li>
+                   <li><a href='Papeis-Avulsos-04'> Papéis Avulsos - 04 - A CHINELA TURCA </a></li>
+                   <li><a href='Papeis-Avulsos-05'> Papéis Avulsos - 05 - NA ARCA </a></li>
+                   <li><a href='Papeis-Avulsos-06'> Papéis Avulsos - 06 - D. BENEDITA</a></li>
+                   <li><a href='Papeis-Avulsos-07'> Papéis Avulsos - 07 - SEGREDO DO BONZO </a></li>
+                   <li><a href='Papeis-Avulsos-08'> Papéis Avulsos - 08 - O ANEL DE POLÍCRATES</a></li>
+                   <li><a href='Papeis-Avulsos-09'> Papéis Avulsos - 09 - O EMPRÉSTIMO </a></li>
+                   <li><a href='Papeis-Avulsos-10'> Papéis Avulsos - 10 - A SERENÍSSIMA REPÚBLICA </a></li>                                                                                                                                                
+                   <li><a href='Papeis-Avulsos-11'> Papéis Avulsos - 11 - O ESPELHO </a></li>                                                                                                                                                
+                   <li><a href='Papeis-Avulsos-12'> Papéis Avulsos - 12 - UMA VISITA DE ALCIBÍADES </a></li>                                                                                                                                                
+                   <li><a href='Papeis-Avulsos-13'> Papéis Avulsos - 13 - VERBA TESTAMENTÁRIA </a></li>                                                                                                                                                
+                   <li><a href='Papeis-Avulsos-14'> Papéis Avulsos - 14 - NOTAS DO AUTOR </a></li>                                                                                                                                                
+                      </ul>	      
+
+             
 
                   <li><a href='Varias-Historias-01' data-target='#' data-toggle='dropdown'> Várias Histórias  <span class='caret'></span></a><ul class='dropdown-menu'>
                    <li><a href='Varias-Historias-01'> Várias Histórias - 01  - ADVERTÊNCIA</a></li>
