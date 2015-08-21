@@ -48,7 +48,7 @@
       <img class="img-responsive" style="margin:0 auto;" src="/PT/Machado-de-Assis/img/machado-003.jpg" height="300" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
-                //teste
+           
             </div>
             <br>
             <br>
