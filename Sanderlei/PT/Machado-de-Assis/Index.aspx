@@ -39,7 +39,7 @@
                     <img class="img-responsive" style="margin:0 auto;" src="/PT/Machado-de-Assis/img/machado-001.jpg"  height="300" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
-      
+         
       
                       <div class='col-xs-12 col-sm-4 text-center bg-info'> 
                 <a href='Memorias-Postumas-de-Bras-Cubas-000'>
@@ -48,7 +48,7 @@
       <img class="img-responsive" style="margin:0 auto;" src="/PT/Machado-de-Assis/img/machado-003.jpg" height="300" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
-                
+                //teste
             </div>
             <br>
             <br>
