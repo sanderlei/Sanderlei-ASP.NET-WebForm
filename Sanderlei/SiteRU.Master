@@ -24,7 +24,7 @@
 </head>
 
 <body>
-     <!-- Menu Principal - test --> 
+     <!-- Menu Principal --> 
       <div class="container navbar navbar-inverse panel-heading">
 
            <div class="container-fluid" style="float:right">
