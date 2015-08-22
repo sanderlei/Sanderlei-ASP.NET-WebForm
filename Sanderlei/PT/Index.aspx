@@ -26,7 +26,7 @@
             <div class="container-fluid">	           
             
                 <div class='col-xs-12 col-sm-4 text-center bg-info'> 
-                <a href='/PT/Machado-de-Asssis/Dom-Casmurro-001'>
+                <a href='/PT/Machado-de-Assis/Dom-Casmurro-001'>
                <h3 style="color:black">Dom Casmurro </h3>               
       <p class="text-justify" style="color:black"> Dizem por ai, mas não tenho certeza, que meu sorriso fica mais feliz quando te vejo, dizem também que meus olhos brilham, dizem também que é amor, mas isso sim é certeza...</p>
                     
@@ -35,7 +35,7 @@
       <br></div>
       
                       <div class='col-xs-12 col-sm-4 text-center'> 
-                <a href='/PT/Machado-de-Asssis/Wikipedia-01'>
+                <a href='/PT/Machado-de-Assis/Wikipedia-01'>
                <h3 style="color:black">Biografia </h3>               
       <p class="text-justify" style="color:black"> Joaquim Maria Machado de Assis (1839—1908) foi um escritor brasileiro, amplamente considerado como o maior nome da literatura nacional...</p>
       <br />
@@ -45,7 +45,7 @@
       
       
                       <div class='col-xs-12 col-sm-4 text-center bg-info'> 
-                <a href='/PT/Machado-de-Asssis/Memorias-Postumas-de-Bras-Cubas-000'>
+                <a href='/PT/Machado-de-Assis/Memorias-Postumas-de-Bras-Cubas-000'>
                <h3 style="color:black">Memórias Póstumas de Brás Cubas </h3>               
       <p class="text-justify" style="color:black"> Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas Memórias Póstumas...</p>
       <img class="img-responsive" style="margin:0 auto;" src="/PT/Machado-de-Assis/img/machado-003.jpg" height="300" alt="Cronologia do Universo"/> 
