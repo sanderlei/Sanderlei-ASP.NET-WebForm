@@ -23,7 +23,7 @@ La aparición del fascismo como una fuerza dominante es un fenómeno de unos poc
 			</p>            
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/46 - 01 - Fascismo (BR).jpg" width="600" height="400" alt="46. Fascismo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/46-01-Fascismo.jpg" width="600" height="400" alt="46. Fascismo"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

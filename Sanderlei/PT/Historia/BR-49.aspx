@@ -28,7 +28,7 @@ Getúlio Vargas consegue prolongar seus anos de presidência até 1945. Ao térm
             
 			         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/49 - 01 - Brasil - Era Vargas (1930-1945).jpg" width="600" height="400" alt="Brasil - Era Vargas (1930-1945)"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/49-01-Brasil-Era-Vargas.jpg" width="600" height="400" alt="Brasil - Era Vargas (1930-1945)"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

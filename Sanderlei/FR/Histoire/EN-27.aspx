@@ -27,11 +27,11 @@ The termination of the captaincy system formally occurred on February 28, 1821, 
             
 		          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/27 - 01 - Colonização do Brasil.jpg" width="600" height="400" alt="27. Colonization of Brazil"/>  
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/27-01-Colonizacao-do-Brasil.jpg" width="600" height="400" alt="27. Colonization of Brazil"/>  
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/27 - 02 - Colonização do Brasil.jpg" width="600" height="400" alt="27. Colonization of Brazil"/>  
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/27-02-Colonizacao-do-Brasil.jpg" width="600" height="400" alt="27. Colonization of Brazil"/>  
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/27 - 03 - Colonização do Brasil.jpg" width="600" height="400" alt="27. Colonization of Brazil"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/27-03-Colonizacao-do-Brasil.jpg" width="600" height="400" alt="27. Colonization of Brazil"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

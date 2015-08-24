@@ -27,7 +27,7 @@ The Solar System formed only around 5 billion years ago by gravitational collaps
             
 			        
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/01 - 01 - Cronologia do Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/01-01-Cronologia-do-Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

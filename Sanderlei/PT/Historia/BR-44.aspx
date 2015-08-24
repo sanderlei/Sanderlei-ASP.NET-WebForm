@@ -28,7 +28,7 @@ No Brasil a semana de Arte Moderna, realizada em São Paulo, em 1922 foi o ponto
             
 			          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/44 - 01 - Modernismo.jpg" width="600" height="400" alt="Modernismo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/44-01-Modernismo.jpg" width="600" height="400" alt="Modernismo"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

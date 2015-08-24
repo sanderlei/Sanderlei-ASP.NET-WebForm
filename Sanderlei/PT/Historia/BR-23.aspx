@@ -42,7 +42,7 @@ Cronologia da Idade Moderna</h3><br>
 1789 - Início da Revolução Francesa.</li></ul>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/23 - 01 - Idade Moderna.jpg" width="600" height="400" alt="Idade Moderna"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/23-01-Idade-Moderna.jpg" width="600" height="400" alt="Idade Moderna"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

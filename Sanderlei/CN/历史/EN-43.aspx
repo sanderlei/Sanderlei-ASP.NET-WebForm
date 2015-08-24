@@ -25,7 +25,7 @@ The 1929 crisis also affected Brazil. The United States was the largest buyer of
             
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/43 - 01 - Grande Depressão.jpg" width="600" height="400" alt="43. Great Depression of 1929"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/43-01-Grande-Depressao.jpg" width="600" height="400" alt="43. Great Depression of 1929"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

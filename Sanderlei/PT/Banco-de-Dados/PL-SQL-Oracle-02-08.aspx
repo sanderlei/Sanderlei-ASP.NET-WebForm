@@ -9,7 +9,7 @@
             <h1> Oracle PL/SQL Fundamentals - 08 - Loops - Part 02	</h1>
             <br />
               <div class="embed-responsive embed-responsive-16by9">
-               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zLJAKl-V1uQ" frameborder="0" allowfullscreen></iframe>
+               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/opmtC2D5cVU" frameborder="0" allowfullscreen></iframe>
               </div>  <br /><br /><br />   <br /><br /><br />                  
      </div> </div>     
 </asp:Content>

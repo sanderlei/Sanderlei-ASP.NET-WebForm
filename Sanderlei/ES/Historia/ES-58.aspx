@@ -26,7 +26,7 @@ Después del 1980 la humanidad va de la era industrial a la era de la informaci�
 			</p>            
            
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/58 - 01 - Revolução Digital.jpg" width="600" height="400" alt="58. Revolución Digital"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/58-01-Revolucao-Digital.jpg" width="600" height="400" alt="58. Revolución Digital"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

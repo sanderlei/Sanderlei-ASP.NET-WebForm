@@ -28,7 +28,7 @@ The moral rehabilitation of the Church stopped the advance of Protestantism, but
 			</p>            
                     
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/25 - 01 - Reforma-Contra-Reforma.jpg" width="600" height="400" alt="25. Protestant Reformation"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/25-01-Reforma-Contra-Reforma.jpg" width="600" height="400" alt="25. Protestant Reformation"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

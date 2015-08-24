@@ -55,9 +55,9 @@ El tiempo de prosperidad y dura sólo 410 Roma es saqueada por los visigodos, y 
  476 - Caída de Roma e inicio de la Alta Edad Media.</li>
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/12 - 01 - Civilizacao Romana.jpg" width="600" height="400" alt="12. Imperio Romano"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/12-01-Civilizacao-Romana.jpg" width="600" height="400" alt="12. Imperio Romano"/> 
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/12 - 02 - Civilizacao Romana.jpg" width="600" height="400" alt="12. Imperio Romano"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/12-02-Civilizacao-Romana.jpg" width="600" height="400" alt="12. Imperio Romano"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

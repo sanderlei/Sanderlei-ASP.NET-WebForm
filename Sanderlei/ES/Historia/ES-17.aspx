@@ -34,7 +34,7 @@ Estos hechos, junto con la formación de ejércitos profesionales - el rey, ahor
 			</p>            
        
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/17 - 01 - Feudalismo.jpg" width="600" height="400" alt="17. Feudalismo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/17-01-Feudalismo.jpg" width="600" height="400" alt="17. Feudalismo"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

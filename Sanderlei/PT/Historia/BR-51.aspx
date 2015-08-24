@@ -26,7 +26,7 @@ Em 1991 as superpotências concordam em eliminar todos os mísseis táticos terr
             
 			         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/51 - 01 - Guerra Fria.jpg" width="600" height="400" alt="Guerra Fria"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/51-01-Guerra-Fria.jpg" width="600" height="400" alt="Guerra Fria"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

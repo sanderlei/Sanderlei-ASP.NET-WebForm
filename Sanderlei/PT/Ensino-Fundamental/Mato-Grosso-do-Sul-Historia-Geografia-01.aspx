@@ -14,9 +14,9 @@
                 <h4 class="text-center">O mundo em que vivemos - Observe as imagens</h4>
                                                
                  <Br />  
-                <img class="img-responsive" style="margin:0 auto;" src="img/Mato-Grosso-do-Sul-Historia-Geografia-01-01.jpg"  alt="Mato Grosso do Sul Historia Geografia Imagem Mapa-múndi"/> 
+                <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Mato-Grosso-do-Sul-Historia-Geografia-01-01.jpg"  alt="Mato Grosso do Sul Historia Geografia Imagem Mapa-múndi"/> 
                  <Br />  
-                <img class="img-responsive" style="margin:0 auto;" src="img/Mato-Grosso-do-Sul-Historia-Geografia-01-02.jpg"  alt="Mato Grosso do Sul Historia Geografia Imagem Mapa-múndi"/> 
+                <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Mato-Grosso-do-Sul-Historia-Geografia-01-02.jpg"  alt="Mato Grosso do Sul Historia Geografia Imagem Mapa-múndi"/> 
                  <Br />  
 
 
@@ -40,7 +40,7 @@ Glossário	</h4>
                 <br />
   <h4 class="text-center" >Mapa-múndi 	</h4>
                
- <img class="img-responsive" style="margin:0 auto;" src="img/Santa-Catarina-Historia-Geografia-01-01.jpg"  alt="Santa Catarina Historia Geografia Imagem Mapa-múndi"/> 
+ <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Santa-Catarina-Historia-Geografia-01-01.jpg"  alt="Santa Catarina Historia Geografia Imagem Mapa-múndi"/> 
                 <br />
                 <br />
           <h2>      O Brasil no mundo</h2>
@@ -53,7 +53,7 @@ Glossário	</h4>
 <br />
   <h4 class="text-center" >	América do Sul 	</h4>
               
-  <img class="img-responsive" style="margin:0 auto;" src="img/Santa-Catarina-Historia-Geografia-01-02.jpg"  alt="Santa Catarina Historia Geografia Imagem América do Sul"/> 
+  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Santa-Catarina-Historia-Geografia-01-02.jpg"  alt="Santa Catarina Historia Geografia Imagem América do Sul"/> 
 
                 <br />
 <p>Você deve ter notado que o Brasil é um país muito grande, ou seja, tem um território extenso e, por isso, apresenta em seu território diferenças físicas, econômicas, sociais e culturais.  </p> 

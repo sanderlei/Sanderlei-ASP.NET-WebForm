@@ -74,8 +74,8 @@ Renascimento científico
 <b>Alemanha - Johannes Kepler (1571-1630): </b>estudou as leis dos movimentos dos planetas e conseguiu apresentar teorias sobre o planeta Marte.</p>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/24 - 01 - Renascimento.jpg" width="600" height="400" alt="Renascimento"/>   <br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/24 - 02 - Renascimento.jpg" width="600" height="400" alt="Renascimento"/>      
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/24-01-Renascimento.jpg" width="600" height="400" alt="Renascimento"/>   <br><br>
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/24-02-Renascimento.jpg" width="600" height="400" alt="Renascimento"/>      
           <br><br><br></div>
      </div>
 </asp:Content>

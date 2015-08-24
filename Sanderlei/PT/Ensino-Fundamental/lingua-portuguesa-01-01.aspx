@@ -39,7 +39,7 @@
 
                  <br />
                 <h4 class="text-center" >Drummond, um dos mais importantes poetas brasileiros de todos os tempos. 	</h4>               
-                <img class="img-responsive" style="margin:0 auto;" src="img/lingua-portuguesa-01-01.png"  alt=" Carlos Drummond de Andrade "/>                 
+                <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/lingua-portuguesa-01-01.png"  alt=" Carlos Drummond de Andrade "/>                 
                 <br />
                 <hr />
                 <h4 class="text-justify" > Vocabulário </h4>

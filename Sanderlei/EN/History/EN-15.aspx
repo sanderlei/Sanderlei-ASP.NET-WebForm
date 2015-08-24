@@ -28,7 +28,7 @@ Today Islam is the second religion with the largest number of faithful, behind C
             
 		      
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/15 - 01 - Civilizacao Islamica.JPG" width="600" height="400" alt="15. Islamic Civilization"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/15-01-Civilizacao-Islamica.JPG" width="600" height="400" alt="15. Islamic Civilization"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

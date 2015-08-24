@@ -36,7 +36,7 @@ En 2011, Dilma Rousseff asumió la presidencia, convirtiéndose en la primera mu
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/55 - Brasil - Nova República (BR).jpg" width="600" height="400" alt="55. Brasil - Nueva República"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/55-01-Brasil-Nova-Republica.jpg" width="600" height="400" alt="55. Brasil - Nueva República"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

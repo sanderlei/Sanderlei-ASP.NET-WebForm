@@ -23,7 +23,7 @@ Eventos nos conflitos locais eram tão tumultuados quanto nas grandes frentes de
 			</p>            
                     
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/41 - 01 - Primeira Guerra Mundial.jpg" width="600" height="400" alt="Primeira Guerra Mundial"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/41-01-Primeira-Guerra-Mundial.jpg" width="600" height="400" alt="Primeira Guerra Mundial"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

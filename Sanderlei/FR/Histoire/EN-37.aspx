@@ -23,7 +23,7 @@ To complete the goal of unifying all Germanic states, Prussia needed to win the 
 			</p>            
         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/37 - 01 - Unificação da Alemanha.jpg" width="600" height="400" alt="37. Unification of Germany"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/37-01-Unificação-da-Alemanha.jpg" width="600" height="400" alt="37. Unification of Germany"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

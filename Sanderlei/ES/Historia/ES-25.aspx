@@ -28,7 +28,7 @@ La rehabilitación moral de la Iglesia detuvo el avance del protestantismo, pero
 			</p>            
               
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/25 - 01 - Reforma-Contra-Reforma.jpg" width="600" height="400" alt="25. Reforma y Contra la Reforma"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/25-01-Reforma-Contra-Reforma.jpg" width="600" height="400" alt="25. Reforma y Contra la Reforma"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

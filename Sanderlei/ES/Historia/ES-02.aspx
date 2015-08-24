@@ -67,7 +67,7 @@ Los primeros seres humanos (Homo sapiens) apareció hace unos 200.000 años.
           200.000	</td><td>	Homo sapiens Oleada(primeros seres humanos)</td></tr><tr><td>
             12.000	</td><td>	Fin del último período glacial         </td></tr></tbody></table></div>
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/02 - 01 - Cronologia da Terra.jpg" width="600" height="400" alt="2. Cronología de la Tierra"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/02-01-Cronologia-da-Terra.jpg" width="600" height="400" alt="2. Cronología de la Tierra"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

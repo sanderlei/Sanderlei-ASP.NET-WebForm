@@ -54,7 +54,7 @@ Los nuevos enlaces transoceánicos y su dominio de las potencias europeas dieron
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/22 - 01 - Grandes Navegações.jpg" width="600" height="400" alt="22. Era de los Descubrimientos"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/22-01-Grandes-Navegacoes.jpg" width="600" height="400" alt="22. Era de los Descubrimientos"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -24,7 +24,7 @@ All that remained absolutism in Europe during the sixteenth, seventeenth and eig
 			</p>            
                
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/26 - 01 - Absolutismo Europeu.jpg" width="600" height="400" alt="26. European Absolutism"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/26-01-Absolutismo-Europeu.jpg" width="600" height="400" alt="26. European Absolutism"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

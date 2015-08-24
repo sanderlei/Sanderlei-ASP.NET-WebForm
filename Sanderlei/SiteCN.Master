@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head runat="server">
-    <title><%: Page.Title %> - Sanderlei Silveira</title>   
+    <title><%: Page.Title %> - Sanderlei</title>   
 	<meta charset="utf-8" />
     <meta name="viewport" content="width=devide-width, initial-scale=1">
     <!-- Latest compiled and minified CSS -->
@@ -13,7 +13,8 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<!-- Latest compiled JavaScript -->
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-    
+    <!-- Google+ -->
+    <script src="https://apis.google.com/js/platform.js" async defer>  {lang: 'zh'}</script>
     <meta name="keywords" content="Curso de Ingles, Online, Gratis, Completo, sanderlei, sanderlei silveira, 网页，历史，有声读物，本书，视频，历史在1分钟内，免费，视频" /> 
     <link rel="icon" type="image/png" href="/images/mafavicon.png" />
     <meta name="author" content="Sanderlei Silveira">

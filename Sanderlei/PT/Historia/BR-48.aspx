@@ -25,7 +25,7 @@ Também pós guerra os Estados Unidos ocuparam o Japão e a Coreia, anteriorment
             
 			          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/48 - 01 - Segunda Guerra Mundial.jpg" width="600" height="400" alt="Segunda Guerra Mundial"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/48-01-Segunda-Guerra-Mundial.jpg" width="600" height="400" alt="Segunda Guerra Mundial"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -73,9 +73,9 @@ Polonia - Nicolás Copérnico (1473-1543): </b>su trabajo giraron en torno a la 
 <b>Alemania - Johannes Kepler (1571-1630): </b>estudió las leyes de los movimientos de los planetas y logró presentar teorías sobre el planeta Marte.</li>
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/24 - 01 - Renascimento.jpg" width="600" height="400" alt="24. Renacimiento"/>   
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/24-01-Renascimento.jpg" width="600" height="400" alt="24. Renacimiento"/>   
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/24 - 02 - Renascimento.jpg" width="600" height="400" alt="24. Renacimiento"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/24-02-Renascimento.jpg" width="600" height="400" alt="24. Renacimiento"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

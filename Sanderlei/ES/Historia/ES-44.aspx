@@ -27,7 +27,7 @@ En Brasil, la semana de Arte Moderno, que tuvo lugar en São Paulo en 1922 fue e
             
 	         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/44 - 01 - Modernismo.jpg" width="600" height="400" alt="44. Modernismo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/44-01-Modernismo.jpg" width="600" height="400" alt="44. Modernismo"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

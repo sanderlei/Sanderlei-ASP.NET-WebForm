@@ -24,9 +24,9 @@ La guerra civil americana fue una de las primeras verdaderas guerras industriale
             
 		          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/35 - 01 - Guerra Civil Americana.jpg" width="600" height="400" alt="35. Guerra Civil Americana"/>
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/35-01-Guerra-Civil-Americana.jpg" width="600" height="400" alt="35. Guerra Civil Americana"/>
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/35 - 02 - Guerra Civil Americana.jpg" width="600" height="400" alt="35. Guerra Civil Americana"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/35-02-Guerra-Civil-Americana.jpg" width="600" height="400" alt="35. Guerra Civil Americana"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

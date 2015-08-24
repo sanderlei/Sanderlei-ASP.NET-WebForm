@@ -26,7 +26,7 @@ It was famously the first astronaut to walk on the moon, Neil Armstrong , "Thatâ
             
 		          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/53 - 01 - Corrida Espacial.jpg" width="600" height="400" alt="53. Space Race"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/53-01-Corrida-Espacial.jpg" width="600" height="400" alt="53. Space Race"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -71,7 +71,7 @@ The first humans (Homo sapiens) appeared around 200,000 years ago.
             
                    
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/02 - 01 - Cronologia da Terra.jpg" width="600" height="400" alt="Earth Chronology"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/02-01-Cronologia-da-Terra.jpg" width="600" height="400" alt="Earth Chronology"/>        
         <br><br><br></div>
      </div>
 

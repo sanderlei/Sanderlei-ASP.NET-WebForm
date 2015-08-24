@@ -27,9 +27,9 @@ Toda essa era de ouro durou até a eclosão da Primeira Guerra Mundial em 1914 n
             
 			          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/38 - 01 - Belle Époque.jpg" width="600" height="400" alt="Belle Époque"/>     
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/38-01-Belle-Epoque.jpg" width="600" height="400" alt="Belle Époque"/>     
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/38 - 02 - Belle Époque.jpg" width="600" height="400" alt="Belle Époque"/>           
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/38-02-Belle-Epoque.jpg" width="600" height="400" alt="Belle Époque"/>           
         <br><br><br></div>
      </div>
 </asp:Content>

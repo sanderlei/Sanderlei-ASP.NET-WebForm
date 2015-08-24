@@ -55,9 +55,9 @@ The time of prosperity and lasts just 410 Rome is sacked by the Visigoths, and i
  476 AD - Fall of Rome and the beginning the Middle Ages.    </li>
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/12 - 01 - Civilizacao Romana.jpg" width="600" height="400" alt="12. Roman Civilization (Roman Empire)"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/12-01-Civilizacao-Romana.jpg" width="600" height="400" alt="12. Roman Civilization (Roman Empire)"/>        
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/12 - 02 - Civilizacao Romana.jpg" width="600" height="400" alt="12. Roman Civilization (Roman Empire)"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/12-02-Civilizacao-Romana.jpg" width="600" height="400" alt="12. Roman Civilization (Roman Empire)"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

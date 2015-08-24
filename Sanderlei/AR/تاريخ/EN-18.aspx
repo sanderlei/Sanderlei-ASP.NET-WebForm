@@ -44,7 +44,7 @@ Italy - </b>was unified only in 1861 and became a republic in 1946.</li>
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/18 - 01 - Estados Europeus.jpg" width="600" height="400" alt="18 . Creation of European States"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/18-01-Estados-Europeus.jpg" width="600" height="400" alt="18 . Creation of European States"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

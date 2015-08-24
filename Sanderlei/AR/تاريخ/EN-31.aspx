@@ -24,7 +24,7 @@ The United Kingdom has pioneered the process of the Industrial Revolution and he
 			</p>            
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/31 - 01 - Revolução Industrial.jpg" width="600" height="400" alt="31. Industrial Revolution"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/31-01-Revolucao-Industrial.jpg" width="600" height="400" alt="31. Industrial Revolution"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

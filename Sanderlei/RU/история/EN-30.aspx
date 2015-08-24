@@ -47,7 +47,7 @@ Currently there is speculation as to when this will end and was about the curren
  2010 - Start of the Arab Spring.</li>
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/30 - 01 - Idade Contemporânea.jpg" width="600" height="400" alt="30. Contemporary Age"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/30-01-Idade-Contemporanea.jpg" width="600" height="400" alt="30. Contemporary Age"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

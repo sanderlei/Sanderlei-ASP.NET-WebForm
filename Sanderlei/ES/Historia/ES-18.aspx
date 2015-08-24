@@ -43,7 +43,7 @@ Esta contradicción en el sistema social del Estado-nación entraría en crisis 
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/18 - 01 - Estados Europeus.jpg" width="600" height="400" alt="18. Formación de los Estados Europeos"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/18-01-Estados-Europeus.jpg" width="600" height="400" alt="18. Formación de los Estados Europeos"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

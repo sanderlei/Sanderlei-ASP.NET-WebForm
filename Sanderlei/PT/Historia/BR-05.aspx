@@ -52,7 +52,7 @@ Islamismo		</td><td>				    VII		</td><td>Maomé</td></tr>
 
 
 		  </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/05 - 01 - Religião - Idade Antiga.jpg" width="600" height="400" alt="Religião - Idade Antiga"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/05-01-Religiao-Idade-Antiga.jpg" width="600" height="400" alt="Religião - Idade Antiga"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

@@ -56,11 +56,11 @@ Below the list of Olympians with their Greek and Roman names and their functions
 Greek mythology has exerted a major influence on culture, the arts and literature of Western civilization mainly in the Renaissance period and remains as part of the heritage and language of the West.</p>
 
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/10 - 01 - Mitologia Grega.jpg" width="600" height="400" alt="10. Greek Mythology"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/10-01-Mitologia-Grega.jpg" width="600" height="400" alt="10. Greek Mythology"/>        
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/10 - 02 - Mitologia Grega.jpg" width="600" height="400" alt="10. Greek Mythology"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/10-02-Mitologia-Grega.jpg" width="600" height="400" alt="10. Greek Mythology"/>        
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/10 - 03 - Mitologia Grega.jpg" width="600" height="400" alt="10. Greek Mythology"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/10-03-Mitologia-Grega.jpg" width="600" height="400" alt="10. Greek Mythology"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

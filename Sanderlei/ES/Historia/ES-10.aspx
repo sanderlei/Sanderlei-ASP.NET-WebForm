@@ -54,11 +54,11 @@ La mitología griega ha ejercido una gran influencia en la cultura, las artes y 
 			</p>            
                 
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/10 - 01 - Mitologia Grega.jpg" width="600" height="400" alt="10. Mitología Griega"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/10-01-Mitologia-Grega.jpg" width="600" height="400" alt="10. Mitología Griega"/> 
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/10 - 02 - Mitologia Grega.jpg" width="600" height="400" alt="10. Mitología Griega"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/10-02-Mitologia-Grega.jpg" width="600" height="400" alt="10. Mitología Griega"/> 
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/10 - 03 - Mitologia Grega.jpg" width="600" height="400" alt="10. Mitología Griega"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/10-03-Mitologia-Grega.jpg" width="600" height="400" alt="10. Mitología Griega"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

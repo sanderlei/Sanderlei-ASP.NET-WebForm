@@ -26,7 +26,7 @@ After complex processes occurring in later years resulted in 16 Latin American c
 			</p>            
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/34 - 01 - Independência da América Espanhola.jpg" width="600" height="400" alt="34. Independence of Spanish America"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/34-01-Independencia-da-America-Espanhola.jpg" width="600" height="400" alt="34. Independence of Spanish America"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -26,7 +26,7 @@ Após a década de 1980 a humanidade está passando da Era Industrial para a Era
             
 			         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/58 - 01 - Revolução Digital.jpg" width="600" height="400" alt="Revolução Digital"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/58-01-Revolucao-Digital.jpg" width="600" height="400" alt="Revolução Digital"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

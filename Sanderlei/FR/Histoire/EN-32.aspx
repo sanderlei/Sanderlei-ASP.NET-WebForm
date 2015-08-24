@@ -26,7 +26,7 @@ In March 1815 Napoleon escaped from Elba and returned to France. The French king
             
         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/32 - 01 - Guerras Napoleônicas.jpg" width="600" height="400" alt="32. Napoleonic Wars"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/32-01-Guerras-Napoleonicas.jpg" width="600" height="400" alt="32. Napoleonic Wars"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

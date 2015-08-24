@@ -79,9 +79,9 @@ Scientific Renaissance</h3>
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/24 - 01 - Renascimento.jpg" width="600" height="400" alt="24. Renaissance"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/24-01-Renascimento.jpg" width="600" height="400" alt="24. Renaissance"/>        
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/24 - 02 - Renascimento.jpg" width="600" height="400" alt="24. Renaissance"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/24-02-Renascimento.jpg" width="600" height="400" alt="24. Renaissance"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -50,7 +50,7 @@ The Greeks were conquered militarily by the Romans in 146 BC, but it was the Rom
 Another legacy of the Greeks was the list of the seven wonders of the ancient world attributed to the Greek Antipater who wrote about the structures in a poem, namely: Khufu Pyramid, Hanging Gardens of Babylon, Statue of Zeus at Olympia, Temple of Artemis at Ephesus, mausoleum of Halicarnassus, Colossus of Rhodes and Lighthouse of Alexandria.</p>
         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/09 - 01 - Grecia Antiga.jpg" width="600" height="400" alt="9. Ancient Greece"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/09-01-Grecia-Antiga.jpg" width="600" height="400" alt="9. Ancient Greece"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

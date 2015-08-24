@@ -48,7 +48,7 @@ Los griegos fueron conquistadas militarmente por los romanos en el año 146 AC, 
 Otro legado de los griegos fue la lista de las siete maravillas del mundo antiguo, atribuido a la Antípatro griego que escribió sobre las estructuras en un poema, a saber: Pirámide de Keops, los jardines colgantes de Babilonia, la Estatua de Zeus en Olimpia, el Templo de Artemisa en Éfeso, Mausoleo de Halicarnasso, Coloso de Rodas y el Faro de Alejandría.</p>
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/09 - 01 - Grecia Antiga.jpg" width="600" height="400" alt="9. La Antigua Grecia"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/09-01-Grecia-Antiga.jpg" width="600" height="400" alt="9. La Antigua Grecia"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

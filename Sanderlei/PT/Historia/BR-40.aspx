@@ -47,7 +47,7 @@ Esse equilíbrio de poder entre os estados, foi uma política criada pelo presid
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/40 - 01 - Republica Brasileira.jpg" width="600" height="400" alt="Republica Brasileira"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/40-01-Republica-Brasileira.jpg" width="600" height="400" alt="Republica Brasileira"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

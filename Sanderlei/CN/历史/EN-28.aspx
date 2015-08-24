@@ -27,7 +27,7 @@ The war would end in 1783, when the United States independence was recognized by
             
 			       
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/28 - 01 - Revolução Americana.jpg" width="600" height="400" alt="28. Independence of the United States"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/28-01-Revolucao-Americana.jpg" width="600" height="400" alt="28. Independence of the United States"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

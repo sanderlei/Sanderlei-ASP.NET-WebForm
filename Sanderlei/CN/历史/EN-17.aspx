@@ -34,7 +34,7 @@ These events, coupled with the formation of professional armies - the King , now
 			</p>            
                    
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/17 - 01 - Feudalismo.jpg" width="600" height="400" alt="17. Feudalism"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/17-01-Feudalismo.jpg" width="600" height="400" alt="17. Feudalism"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

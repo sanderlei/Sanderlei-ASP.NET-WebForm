@@ -24,7 +24,7 @@ Desde o início da Guerra ao Terror, a Anistia Internacional registrou e denunci
 			</p>            
                     
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/57 - 01 - Guerra ao Terrorismo.JPG" width="600" height="400" alt="Guerra ao Terrorismo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/57-01-Guerra-ao-Terrorismo.JPG" width="600" height="400" alt="Guerra ao Terrorismo"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

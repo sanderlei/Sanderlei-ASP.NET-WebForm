@@ -9,7 +9,7 @@
             <h1> Oracle PL/SQL Fundamentals - 05 - PL/SQL Commonly Used Datatypes - Part 03	</h1>
             <br />
               <div class="embed-responsive embed-responsive-16by9">
-               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/n_jvj1QY14U" frameborder="0" allowfullscreen></iframe>
+               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ahesxAifozE" frameborder="0" allowfullscreen></iframe>
               </div>  <br /><br /><br />   <br /><br /><br />                  
      </div> </div>     
 </asp:Content>

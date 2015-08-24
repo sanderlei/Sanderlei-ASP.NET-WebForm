@@ -48,7 +48,7 @@ New Kingdom				</td><td>	XVIII XIX XX	</td><td>	1.550 BC </td></tr><tr><td>
 Low Season			</td><td>XXVI XXVII XXVIII XXIX XXX </td><td> 664 BC </td></tr><tr><td>
 Greco-Roman Period	</td><td>		</td><td>						  332 BC </td></tr></tbody></table></div>
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/07 - 01 - Egito.jpg" width="600" height="400" alt="7. Ancient Egypt"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/07-01-Egito.jpg" width="600" height="400" alt="7. Ancient Egypt"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -26,7 +26,7 @@ Italia se convirtió en República sólo en 02 de junio 1946 después de un pleb
 			</p>            
           
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/36 - 01 - Unificação da Itália.jpg" width="600" height="400" alt="36. Unificación de Italia"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/36-01-Unificação-da-Italia.jpg" width="600" height="400" alt="36. Unificación de Italia"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

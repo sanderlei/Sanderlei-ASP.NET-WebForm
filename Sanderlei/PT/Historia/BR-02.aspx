@@ -132,7 +132,7 @@ Resumo
             <br>
             <br>            
             <br>
-            <img class="img-responsive" style="margin:0 auto;" src="/images/02 - 01 - Cronologia da Terra.jpg" width="600" height="400" alt="Cronologia da Terra"/>           
+            <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/02-01-Cronologia-da-Terra.jpg" width="600" height="400" alt="Cronologia da Terra"/>           
             <br>
             <br>
 			<br>

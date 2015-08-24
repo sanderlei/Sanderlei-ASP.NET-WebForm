@@ -24,7 +24,7 @@ The appearance of fascism as a dominant force is a phenomenon of a few years can
             
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/46 - 01 - Fascismo (BR).jpg" width="600" height="400" alt="46. Fascism"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/46-01-Fascismo.jpg" width="600" height="400" alt="46. Fascism"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

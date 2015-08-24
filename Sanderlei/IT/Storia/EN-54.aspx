@@ -28,7 +28,7 @@ The military regime ends with indirect elections for president in 1984 and the f
 			</p>            
                  
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/54 - 01 - Brasil - Regime Militar (1964-1985).jpg" width="600" height="400" alt="54. Brazil - Military Regime"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/54-01-Brasil-Regime-Militar.jpg" width="600" height="400" alt="54. Brazil - Military Regime"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

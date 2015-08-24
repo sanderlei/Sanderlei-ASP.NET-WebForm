@@ -47,7 +47,7 @@ This balance of power between the states, a policy was established by President 
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/40 - 01 - Republica Brasileira.jpg" width="600" height="400" alt="40. Brazilian Republic"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/40-01-Republica-Brasileira.jpg" width="600" height="400" alt="40. Brazilian Republic"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -25,7 +25,7 @@ Desde el comienzo de la Guerra contra el Terror, Amnistía Internacional registr
             
         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/57 - 01 - Guerra ao Terrorismo.JPG" width="600" height="400" alt="57. Guerra Contra el Terrorismo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/57-01-Guerra-ao-Terrorismo.JPG" width="600" height="400" alt="57. Guerra Contra el Terrorismo"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

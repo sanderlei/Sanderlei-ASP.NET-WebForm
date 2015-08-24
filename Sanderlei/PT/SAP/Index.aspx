@@ -12,17 +12,17 @@
         <div class="container-fluid">	                       
             <div class='col-xs-12 col-sm-8'> 
                 <a href='EN-04-08'>
-                  <img class="img-responsive" style="margin:0 auto;" src="/images/sap/01.png"  alt="SAP"/></a>
+                  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/sap/01.png"  alt="SAP"/></a>
             </div>
             <div class='col-xs-12 col-sm-4'> 
                 <div class='col-xs-12'> 
                 <a href='EN-04-14'>
-                  <img class="img-responsive" style="margin:0 auto;" src="/images/sap/02.png" alt="SAP"/></a>
+                  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/sap/02.png" alt="SAP"/></a>
                     <br />
                 </div>                
                 <div class='col-xs-12'> 
                 <a href='EN-04-13'>
-                  <img class="img-responsive" style="margin:0 auto;" src="/images/sap/03.png" alt="SAP"/></a>
+                  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/sap/03.png" alt="SAP"/></a>
                  </div>
             </div>
             <div class='col-xs-12 text-center'>
@@ -36,19 +36,19 @@
              
                 <div class='col-xs-12 col-sm-3'> 
                     <a href='EN-04-09'>
-                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/04.png" alt="SAP"/></a>
+                       <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/sap/04.png" alt="SAP"/></a>
                  </div>
                 <div class='col-xs-12 col-sm-3'> 
                     <a href='EN-04-05'>
-                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/05.png" alt="SAP"/></a>
+                       <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/sap/05.png" alt="SAP"/></a>
                  </div>
                 <div class='col-xs-12 col-sm-3'> 
                     <a href='EN-04-11'>
-                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/06.png" alt="SAP"/></a>
+                       <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/sap/06.png" alt="SAP"/></a>
                  </div>
                 <div class='col-xs-12 col-sm-3'> 
                     <a href='EN-04-12'>
-                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/07.png" alt="SAP"/></a>
+                       <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/sap/07.png" alt="SAP"/></a>
                  </div>
 
             </div>            
@@ -59,22 +59,22 @@
                 <br />
                 <div class='col-xs-12 col-sm-6'> 
                     <a href='EN-01-01'>
-                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/08.png" alt="SAP"/></a>
+                       <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/sap/08.png" alt="SAP"/></a>
                  </div>
                 <div class='col-xs-12 col-sm-6'> 
                     <a href='SAP-BR-01-32'>
-                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/09.png" alt="SAP"/></a>
+                       <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/sap/09.png" alt="SAP"/></a>
                  </div>                
                 <div class='col-xs-12'>
                       <hr />                      
                 </div>  
                 <div class='col-xs-12 col-sm-6'> 
                     <a href='EN-02-01'>
-                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/10.png" alt="SAP"/></a>
+                       <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/sap/10.png" alt="SAP"/></a>
                  </div>
                 <div class='col-xs-12 col-sm-6'> 
                     <a href='EN-06-01'>
-                       <img class="img-responsive" style="margin:0 auto;" src="/images/sap/11.png" alt="SAP"/></a>
+                       <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/sap/11.png" alt="SAP"/></a>
                  </div>      
 
             </div>

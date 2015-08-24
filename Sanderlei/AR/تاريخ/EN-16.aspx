@@ -26,9 +26,9 @@ With the weakening of the successors of Charlemagne from the ninth century to th
 			</p>            
              
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/16 - 01 - Reino dos francos.jpg" width="600" height="400" alt="16. Kingdom of the Franks"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/16-01-Reino-dos-francos.jpg" width="600" height="400" alt="16. Kingdom of the Franks"/> 
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/16 - 02 - Reino dos francos.jpg" width="600" height="400" alt="16. Kingdom of the Franks"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/16-02-Reino-dos-francos.jpg" width="600" height="400" alt="16. Kingdom of the Franks"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

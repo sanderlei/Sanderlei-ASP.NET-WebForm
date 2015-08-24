@@ -26,7 +26,7 @@ The height of antagonism between Socialism x Capitalism comes after World War II
             
           
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/45 - 01 - Socialismo x Capitalismo (BR).jpg" width="600" height="400" alt="45. Socialism X Capitalism"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/45-01-Socialismo-Capitalismo.jpg" width="600" height="400" alt="45. Socialism X Capitalism"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

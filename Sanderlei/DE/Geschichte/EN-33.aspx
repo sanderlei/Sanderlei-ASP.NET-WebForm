@@ -27,7 +27,7 @@ There was no popular participation in the proclamation of the Republic of Brazil
 			</p>            
            
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/33 - 01 - Reino Luso-Brasileiro.jpg" width="600" height="400" alt="33. Luso-Brazilian Kingdom"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/33-01-Reino-Luso-Brasileiro.jpg" width="600" height="400" alt="33. Luso-Brazilian Kingdom"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

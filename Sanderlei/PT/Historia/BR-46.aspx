@@ -25,7 +25,7 @@ A aparição do fascismo como uma força dominante é um fenômeno de apenas alg
           
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/46 - 01 - Fascismo (BR).jpg" width="600" height="400" alt="Fascismo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/46-01-Fascismo.jpg" width="600" height="400" alt="Fascismo"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -58,7 +58,7 @@ Age of Metals covers the last two millennia prior to the appearance of writing i
 
         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/03 - 01 - Pre-historia.jpg" width="600" height="400" alt="Prehistory"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/03-01-Pre-historia.jpg" width="600" height="400" alt="Prehistory"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -24,7 +24,7 @@
                 <a href='ES-03'>
                <h3 style="color:black">Prehistoria </h3>               
       <p class="text-justify" style="color:black"> La Prehistoria es el período comprendido entre 2,5 millones de años con los surgimientos de los primeros individuos...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/03 - 01 - Pre-historia.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/03-01-Pre-historia.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -32,7 +32,7 @@
                 <a href='ES-05'>
                <h3 style="color:black">Religión</h3>               
       <p class="text-justify" style="color:black"> Las principales religiones de hoy se iniciaron durante la época clásica. Pero es importante recordar que las primeras...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/05 - 01 - Religião - Idade Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/05-01-Religiao-Idade-Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -41,7 +41,7 @@
                 <a href='ES-60'>
                <h3 style="color:black">Primavera Árabe </h3>               
       <p class="text-justify" style="color:black"> La primavera árabe es conocida internacionalmente como una ola revolucionaria de manifestaciones y protestas que ocurren en el...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/60 - 01 - Primavera Árabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/60-01-Primavera-Arabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
                 

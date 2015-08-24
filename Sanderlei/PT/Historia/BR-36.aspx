@@ -27,7 +27,7 @@ A Itália se tornaria República apenas em 2 de junho de 1946 após um plebiscit
             
 			       
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/36 - 01 - Unificação da Itália.jpg" width="600" height="400" alt="Unificação da Itália"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/36-01-Unificação-da-Italia.jpg" width="600" height="400" alt="Unificação da Itália"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

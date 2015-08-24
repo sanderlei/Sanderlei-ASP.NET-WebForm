@@ -27,7 +27,7 @@ Italy became Republic only in June 2, 1946 after a plebiscite.
             
 	         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/36 - 01 - Unificação da Itália.jpg" width="600" height="400" alt="36. Unification of Italy"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/36-01-Unificação-da-Italia.jpg" width="600" height="400" alt="36. Unification of Italy"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

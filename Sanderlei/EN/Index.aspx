@@ -16,7 +16,7 @@
                    <div class='col-xs-12 col-md-12 text-center'>
                         <a href='/PT/Poesia/INDEX'>
                <h3 style="color:black">Poetry </h3>                     
-      <img class="img-responsive" style="margin:0 auto;" src="/images/Poesia.png" height="212" alt="Poesia"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/poesia/Poesia.png" height="212" alt="Poesia"/> 
       </a>
                        <br />            
             <hr />
@@ -39,7 +39,7 @@
                 <a href='/EN/History/EN-03'>
                <h3 style="color:black">Prehistory </h3>               
       <p class="text-justify" style="color:black"> The Prehistory is the period from 2.5 million years ago with the arising of the first...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/01 - 01 - Cronologia do Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/01-01-Cronologia-do-Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -47,7 +47,7 @@
                 <a href='/EN/History/EN-05'>
                <h3 style="color:black">Religion</h3>               
       <p class="text-justify" style="color:black">The major religions of today were started during the Ancient History. But it is...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/05 - 01 - Religião - Idade Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/05-01-Religiao-Idade-Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -56,7 +56,7 @@
                 <a href='/EN/History/EN-60'>
                <h3 style="color:black">Arab Spring </h3>               
       <p class="text-justify" style="color:black">Arab Spring is internationally known as a revolutionary wave of demonstrations and...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/60 - 01 - Primavera Árabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/60-01-Primavera-Arabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
                 

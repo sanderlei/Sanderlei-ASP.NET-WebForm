@@ -9,7 +9,7 @@
             <h1> 15-38 - Positioning the Solution	</h1>
             <br />
               <div class="embed-responsive embed-responsive-16by9">
-               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jAWBlgE0KCg" frameborder="0" allowfullscreen></iframe>
+               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WJ8PNUT0lCE" frameborder="0" allowfullscreen></iframe>
               </div>  <br /><br /><br />   <br /><br /><br />                  
      </div> </div>     
 </asp:Content>

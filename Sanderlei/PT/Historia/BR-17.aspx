@@ -50,7 +50,7 @@ Tais acontecimentos, aliados à formação dos exércitos profissionais — o Re
 			</p>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/17 - 01 - Feudalismo.jpg" width="600" height="400" alt="Feudalismo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/17-01-Feudalismo.jpg" width="600" height="400" alt="Feudalismo"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

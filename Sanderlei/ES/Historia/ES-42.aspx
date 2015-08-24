@@ -26,7 +26,7 @@ Con la victoria de los aliados, la Unión Soviética, el principal adversario de
 			</p>            
             
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/42 - 01 - Revolução Russa.jpg" width="600" height="400" alt="42. Revolución Rusa"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/42-01-Revolucao-Russa.jpg" width="600" height="400" alt="42. Revolución Rusa"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

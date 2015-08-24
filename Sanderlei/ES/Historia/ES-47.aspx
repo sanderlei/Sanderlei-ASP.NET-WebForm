@@ -25,7 +25,7 @@ La persecución y el genocidio fueron logradas por etapas. Varias leyes para exc
 			</p>            
             
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/47 - 01 - Nazismo.jpg" width="600" height="400" alt="47. Nazismo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/47-01-Nazismo.jpg" width="600" height="400" alt="47. Nazismo"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

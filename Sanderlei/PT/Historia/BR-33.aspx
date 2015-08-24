@@ -25,7 +25,7 @@ Não houve nenhuma participação popular na proclamação da República do Bras
             
 		        
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/33 - 01 - Reino Luso-Brasileiro.jpg" width="600" height="400" alt="Reino Luso-Brasileiro"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/33-01-Reino-Luso-Brasileiro.jpg" width="600" height="400" alt="Reino Luso-Brasileiro"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

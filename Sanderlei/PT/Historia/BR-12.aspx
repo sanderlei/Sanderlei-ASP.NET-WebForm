@@ -83,9 +83,9 @@ Cronologia da Roma Antiga</h3><br>
 			
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/12 - 01 - Civilizacao Romana.jpg" width="600" height="400" alt="Civilizacao Romana"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/12-01-Civilizacao-Romana.jpg" width="600" height="400" alt="Civilizacao Romana"/>        
           <br><br>
-          <img class="img-responsive" style="margin:0 auto;" src="/images/12 - 02 - Civilizacao Romana.jpg" width="600" height="400" alt="Civilizacao Romana"/>        
+          <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/12-02-Civilizacao-Romana.jpg" width="600" height="400" alt="Civilizacao Romana"/>        
           <br><br>
           <br></div>
      </div>

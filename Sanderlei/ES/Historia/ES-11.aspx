@@ -27,7 +27,7 @@ El período inicial de la filosofía se clasifica como la filosofía antigua y s
 			</p>            
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/11 - 01 - Filosofia Grega.jpg" width="600" height="400" alt="11. Folosofia Griega"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/11-01-Filosofia-Grega.jpg" width="600" height="400" alt="11. Folosofia Griega"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

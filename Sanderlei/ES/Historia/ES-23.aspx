@@ -41,7 +41,7 @@ Fue en este período de la historia europea que surgió el absolutismo, esta vez
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/23 - 01 - Idade Moderna.jpg" width="600" height="400" alt="23. Edad Moderna"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/23-01-Idade-Moderna.jpg" width="600" height="400" alt="23. Edad Moderna"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

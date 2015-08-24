@@ -38,7 +38,7 @@ Hoje o Islão é a segunda religião com maior número de fiéis, atrás apenas 
 			</p>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/15 - 01 - Civilizacao Islamica.JPG" width="600" height="400" alt="Civilizacao Islamica"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/15-01-Civilizacao-Islamica.JPG" width="600" height="400" alt="Civilizacao Islamica"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

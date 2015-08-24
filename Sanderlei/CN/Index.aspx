@@ -35,7 +35,7 @@
                 <a href='/CN/历史/EN-03'>
                <h3 style="color:black">史前 </h3>               
       <p class="text-justify" style="color:black"> 史前为2.5万年前期间与第一的产生......</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/01 - 01 - Cronologia do Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/01-01-Cronologia-do-Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -43,7 +43,7 @@
                 <a href='/CN/历史/EN-05'>
                <h3 style="color:black">宗教</h3>               
       <p class="text-justify" style="color:black">古史期间今天开始的主要宗教。但它是...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/05 - 01 - Religião - Idade Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/05-01-Religiao-Idade-Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -52,7 +52,7 @@
                 <a href='/CN/历史/EN-60'>
                <h3 style="color:black">阿拉伯之春 </h3>               
       <p class="text-justify" style="color:black">阿拉伯之春是国际知名的示威和的革命浪潮...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/60 - 01 - Primavera Árabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/60-01-Primavera-Arabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
                 

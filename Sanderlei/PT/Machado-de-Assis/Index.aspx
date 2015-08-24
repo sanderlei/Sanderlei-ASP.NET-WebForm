@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/PT/SitePTMachado.master" AutoEventWireup="true"  %>
+﻿<%@ Page Title="Obra completa de Machado de Assis" Language="C#" MasterPageFile="~/PT/SitePTMachado.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
@@ -27,7 +27,7 @@
                <h3 style="color:black">Dom Casmurro </h3>               
       <p class="text-justify" style="color:black"> Dizem por ai, mas não tenho certeza, que meu sorriso fica mais feliz quando te vejo, dizem também que meus olhos brilham, dizem também que é amor, mas isso sim é certeza...</p>
                     
-      <img class="img-responsive" style="margin:0 auto;" src="/PT/Machado-de-Assis/img/machado-002.jpg" height="300" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/machado-de-assis/machado-002.jpg" height="300" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -36,7 +36,7 @@
                <h3 style="color:black">Biografia </h3>               
       <p class="text-justify" style="color:black"> Joaquim Maria Machado de Assis (1839—1908) foi um escritor brasileiro, amplamente considerado como o maior nome da literatura nacional...</p>
       <br />
-                    <img class="img-responsive" style="margin:0 auto;" src="/PT/Machado-de-Assis/img/machado-001.jpg"  height="300" alt="Cronologia do Universo"/> 
+                    <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/machado-de-assis/machado-001.jpg"  height="300" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
          
@@ -45,7 +45,7 @@
                 <a href='Memorias-Postumas-de-Bras-Cubas-000'>
                <h3 style="color:black">Memórias Póstumas de Brás Cubas </h3>               
       <p class="text-justify" style="color:black"> Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas Memórias Póstumas...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/PT/Machado-de-Assis/img/machado-003.jpg" height="300" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/machado-de-assis/machado-003.jpg" height="300" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
            

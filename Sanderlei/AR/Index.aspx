@@ -35,7 +35,7 @@
                 <a href='/AR/تاريخ/EN-03'>
                <h3 style="color:black">قبل التاريخ </h3>               
       <p class="text-justify" style="color:black"> في عصور ما قبل التاريخ هي الفترة من قبل 2.5 مليون سنة مع الناشئة من أول </p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/01 - 01 - Cronologia do Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/01-01-Cronologia-do-Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -43,7 +43,7 @@
                 <a href='/AR/تاريخ/EN-05'>
                <h3 style="color:black">دين</h3>               
       <p class="text-justify" style="color:black">وقد بدأ الديانات الرئيسية في اليوم خلال التاريخ القديم. و لكنها </p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/05 - 01 - Religião - Idade Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/05-01-Religiao-Idade-Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -52,7 +52,7 @@
                 <a href='/AR/تاريخ/EN-60'>
                <h3 style="color:black">الربيع العربي </h3>               
       <p class="text-justify" style="color:black">الربيع العربي المعروف عالميا باسم موجة ثورية من المظاهرات و </p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/60 - 01 - Primavera Árabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/60-01-Primavera-Arabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
                 

@@ -26,9 +26,9 @@ All this golden age lasted until the outbreak of World War I in Europe in 1914.
 			</p>            
           
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/38 - 01 - Belle Époque.jpg" width="600" height="400" alt="38. BELLE EPOQUE"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/38-01-Belle-Epoque.jpg" width="600" height="400" alt="38. BELLE EPOQUE"/>        
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/38 - 02 - Belle Époque.jpg" width="600" height="400" alt="38. BELLE EPOQUE"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/38-02-Belle-Epoque.jpg" width="600" height="400" alt="38. BELLE EPOQUE"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

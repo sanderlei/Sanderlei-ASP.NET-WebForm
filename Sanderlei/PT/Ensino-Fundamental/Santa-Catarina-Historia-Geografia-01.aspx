@@ -19,7 +19,7 @@ Você já estudou e aprendeu a identificar as características marcantes do mund
                 <br />
   <h4 class="text-center" >Mapa-múndi 	</h4>
                
- <img class="img-responsive" style="margin:0 auto;" src="img/Santa-Catarina-Historia-Geografia-01-01.jpg"  alt="Santa Catarina Historia Geografia Imagem Mapa-múndi"/> 
+ <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Santa-Catarina-Historia-Geografia-01-01.jpg"  alt="Santa Catarina Historia Geografia Imagem Mapa-múndi"/> 
                 <br />
                 <br />
 <p>O nosso país, o Brasil, faz parte do continente americano, e por estar localiza- do na porção sul desse continente, fazemos parte da América do Sul. </p> 
@@ -39,7 +39,7 @@ Glossário	</h4>
 <br />
   <h4 class="text-center" >	América do Sul 	</h4>
               
-  <img class="img-responsive" style="margin:0 auto;" src="img/Santa-Catarina-Historia-Geografia-01-02.jpg"  alt="Santa Catarina Historia Geografia Imagem América do Sul"/> 
+  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Santa-Catarina-Historia-Geografia-01-02.jpg"  alt="Santa Catarina Historia Geografia Imagem América do Sul"/> 
 
                 <br />
 <p>Você deve ter notado que o Brasil é um país muito grande, ou seja, tem um território extenso e, por isso, apresenta em seu território diferenças físicas, econômicas, sociais e culturais. Para melhor administrá-las, foram feitas divisões no território com o objetivo de organizar esse grande espaço geográfico e, com isso, facilitar as ações políticas, administrativas e econômicas. </p> 

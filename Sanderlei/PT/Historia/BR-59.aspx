@@ -27,7 +27,7 @@ O desdobramento mais recente da crise financeira e econômica internacional de 2
             
 		         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/59 - 01 - Grande Recessão.jpg" width="600" height="400" alt="Grande Recessão"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/59-01-Grande-Recessao.jpg" width="600" height="400" alt="Grande Recessão"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

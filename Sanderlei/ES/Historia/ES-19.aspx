@@ -40,7 +40,7 @@ Las Cruzadas influyeron en la caballería europea, y durante siglos, su literatu
 
           </p>
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/19 - 01 - As Cruzadas.jpg" width="600" height="400" alt="19. Las Cruzadas"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/19-01-As-Cruzadas.jpg" width="600" height="400" alt="19. Las Cruzadas"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

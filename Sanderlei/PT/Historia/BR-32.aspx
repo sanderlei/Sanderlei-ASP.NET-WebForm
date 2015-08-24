@@ -24,7 +24,7 @@ Em março de 1815 Napoleão escapa da ilha de Elba e regressa à França. O rei 
             
 		        
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/32 - 01 - Guerras Napoleônicas.jpg" width="600" height="400" alt="Guerras Napoleônicas"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/32-01-Guerras-Napoleonicas.jpg" width="600" height="400" alt="Guerras Napoleônicas"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

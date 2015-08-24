@@ -28,7 +28,7 @@ The initial period of philosophy is classified as Ancient Philosophy and extendi
             
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/11 - 01 - Filosofia Grega.jpg" width="600" height="400" alt="11. Greek Philosophy"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/11-01-Filosofia-Grega.jpg" width="600" height="400" alt="11. Greek Philosophy"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

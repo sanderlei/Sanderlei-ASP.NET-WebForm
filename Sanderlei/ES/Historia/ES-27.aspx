@@ -26,11 +26,11 @@ La terminación del sistema capitanía se produjo oficialmente el 28 de febrero 
 			</p>            
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/27 - 01 - Colonização do Brasil.jpg" width="600" height="400" alt="27. Colonización de Brasil"/>  
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/27-01-Colonizacao-do-Brasil.jpg" width="600" height="400" alt="27. Colonización de Brasil"/>  
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/27 - 02 - Colonização do Brasil.jpg" width="600" height="400" alt="27. Colonización de Brasil"/>  
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/27-02-Colonizacao-do-Brasil.jpg" width="600" height="400" alt="27. Colonización de Brasil"/>  
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/27 - 03 - Colonização do Brasil.jpg" width="600" height="400" alt="27. Colonización de Brasil"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/27-03-Colonizacao-do-Brasil.jpg" width="600" height="400" alt="27. Colonización de Brasil"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

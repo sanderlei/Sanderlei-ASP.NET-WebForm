@@ -27,7 +27,7 @@ Vargas puede prolongar sus años de presidencia hasta 1945. Al final de la Segun
 			</p>            
         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/49 - 01 - Brasil - Era Vargas (1930-1945).jpg" width="600" height="400" alt="49. Brasil - Era Vargas"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/49-01-Brasil-Era-Vargas.jpg" width="600" height="400" alt="49. Brasil - Era Vargas"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

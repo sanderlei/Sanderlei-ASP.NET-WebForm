@@ -27,7 +27,7 @@
   <h4 class="text-center" >	Brasil – Divisão regional 		</h4>  
 
 
-  <img class="img-responsive" style="margin:0 auto;" src="img/Santa-Catarina-Historia-Geografia-02-01.jpg"  alt=" Santa Catarina Historia Geografia - Brasil – Divisão regional  "/> 
+  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Santa-Catarina-Historia-Geografia-02-01.jpg"  alt=" Santa Catarina Historia Geografia - Brasil – Divisão regional  "/> 
 
  <br />
                 <hr />

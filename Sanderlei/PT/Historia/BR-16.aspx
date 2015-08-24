@@ -30,8 +30,8 @@ Com o enfraquecimento dos sucessores de Carlos Magno a partir do século IX até
 			</p>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/16 - 01 - Reino dos francos.jpg" width="600" height="400" alt="Reino dos francos"/> <br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/16 - 02 - Reino dos francos.jpg" width="600" height="400" alt="Reino dos francos"/>       
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/16-01-Reino-dos-francos.jpg" width="600" height="400" alt="Reino dos francos"/> <br><br>
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/16-02-Reino-dos-francos.jpg" width="600" height="400" alt="Reino dos francos"/>       
           <br><br><br></div>
      </div>
 </asp:Content>

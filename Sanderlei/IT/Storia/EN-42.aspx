@@ -26,7 +26,7 @@ With the victory of the allies, the Soviet Union, the main opponent of Germany i
 			</p>            
                
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/42 - 01 - Revolução Russa.jpg" width="600" height="400" alt="42. Russian Revolution"/>   
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/42-01-Revolucao-Russa.jpg" width="600" height="400" alt="42. Russian Revolution"/>   
       <br><br>                  
  	        
         <br><br><br></div>

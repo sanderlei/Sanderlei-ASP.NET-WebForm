@@ -23,9 +23,9 @@ The American Civil War was one of the first true industrial wars. Railroads, the
 			</p>            
              
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/35 - 01 - Guerra Civil Americana.jpg" width="600" height="400" alt="35. American Civil War"/>
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/35-01-Guerra-Civil-Americana.jpg" width="600" height="400" alt="35. American Civil War"/>
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/35 - 02 - Guerra Civil Americana.jpg" width="600" height="400" alt="35. American Civil War"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/35-02-Guerra-Civil-Americana.jpg" width="600" height="400" alt="35. American Civil War"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

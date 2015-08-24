@@ -28,7 +28,7 @@ En las regiones de colonización Inglés, la descolonización se caracterizó en
 			</p>            
           
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/50 - 01 - Descolonização da África.jpg" width="600" height="400" alt="50. Descolonización del África"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/50-01-Descolonização-da-Africa.jpg" width="600" height="400" alt="50. Descolonización del África"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

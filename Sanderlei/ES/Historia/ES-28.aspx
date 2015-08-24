@@ -27,7 +27,7 @@ La guerra terminaría en 1783, cuando la independencia de Estados Unidos fue rec
 			</p>            
           
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/28 - 01 - Revolução Americana.jpg" width="600" height="400" alt="28. Revolución Americana"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/28-01-Revolucao-Americana.jpg" width="600" height="400" alt="28. Revolución Americana"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

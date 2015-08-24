@@ -26,7 +26,7 @@ En el campo del arte Nabucodonosor II es responsable de la famosa Jardines Colga
             
           
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/06 - 01 - Mesopotamia.jpg" width="600" height="400" alt="6. Mesopotamia"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/06-01-Mesopotamia.jpg" width="600" height="400" alt="6. Mesopotamia"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

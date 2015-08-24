@@ -49,7 +49,7 @@ Período Greco-romano	</td><td>	</td><td>								  332 a.C.</td></tr>
 
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/07 - 01 - Egito.jpg" width="600" height="400" alt="Egito"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/07-01-Egito.jpg" width="600" height="400" alt="Egito"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

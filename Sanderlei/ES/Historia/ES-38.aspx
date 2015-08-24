@@ -26,9 +26,9 @@ Toda esta edad de oro duró hasta el estallido de la Primera Guerra Mundial en E
 			</p>            
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/38 - 01 - Belle Époque.jpg" width="600" height="400" alt="38. Belle Époque"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/38-01-Belle-Epoque.jpg" width="600" height="400" alt="38. Belle Époque"/> 
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/38 - 02 - Belle Époque.jpg" width="600" height="400" alt="38. Belle Époque"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/38-02-Belle-Epoque.jpg" width="600" height="400" alt="38. Belle Époque"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

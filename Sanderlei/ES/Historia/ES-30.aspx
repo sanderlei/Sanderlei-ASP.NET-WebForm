@@ -48,7 +48,7 @@ Actualmente se especula sobre cuándo esto va a terminar y estaba a punto de la 
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/30 - 01 - Idade Contemporânea.jpg" width="600" height="400" alt="30. Edad Contemporánea"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/30-01-Idade-Contemporanea.jpg" width="600" height="400" alt="30. Edad Contemporánea"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

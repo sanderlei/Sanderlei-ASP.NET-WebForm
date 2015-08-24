@@ -40,7 +40,7 @@ Em 1963, entretanto, João Goulart recuperou a chefia de governo com o plebiscit
 	1961-1964 - João Goulart</li>
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/52 - 01 - Brasil - República Nova (1945-1964).jpg" width="600" height="400" alt="Brasil - República Nova (1945-1964)"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/52-01-Brasil-Republica-Nova.jpg" width="600" height="400" alt="Brasil - República Nova (1945-1964)"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

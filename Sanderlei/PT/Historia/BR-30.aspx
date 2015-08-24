@@ -43,7 +43,7 @@ Atualmente está havendo uma especulação a respeito de quando essa era irá ac
 	2010 – Início da Primavera Árabe.</li>
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/30 - 01 - Idade Contemporânea.jpg" width="600" height="400" alt="Idade Contemporânea"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/30-01-Idade-Contemporanea.jpg" width="600" height="400" alt="Idade Contemporânea"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

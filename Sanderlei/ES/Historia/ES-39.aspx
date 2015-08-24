@@ -25,9 +25,9 @@ Otra particularidad de China es el famoso úrsido Panda, un animal endémico de 
 			</p>            
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/39 - 01 - Revolução Chinesa.jpg" width="600" height="400" alt="39. Revolucion China"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/39-01-Revolucao-Chinesa.jpg" width="600" height="400" alt="39. Revolucion China"/> 
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/39 - 02 - Revolução Chinesa.jpg" width="600" height="400" alt="39. Revolucion China"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/39-02-Revolucao-Chinesa.jpg" width="600" height="400" alt="39. Revolucion China"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

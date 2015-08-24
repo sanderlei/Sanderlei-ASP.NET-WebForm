@@ -27,7 +27,7 @@ The most recent development of the international financial and economic crisis o
             
 	          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/59 - 01 - Grande Recessão.jpg" width="600" height="400" alt="59. Great Recession"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/59-01-Grande-Recessao.jpg" width="600" height="400" alt="59. Great Recession"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

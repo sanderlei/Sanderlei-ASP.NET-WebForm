@@ -23,7 +23,7 @@ Events in local conflicts were as tumultuous as the major battlefronts, and part
 			</p>            
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/41 - 01 - Primeira Guerra Mundial.jpg" width="600" height="400" alt="41. World War I"/>  
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/41-01-Primeira-Guerra-Mundial.jpg" width="600" height="400" alt="41. World War I"/>  
       <br><br>                   	 
         <br><br><br></div>
      </div>

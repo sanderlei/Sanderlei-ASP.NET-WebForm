@@ -23,9 +23,9 @@ The damage to the Pentagon was repaired within a year, and the Pentagon Memorial
 			</p>            
                  
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/56 - 01 - Ataques de 11 de setembro.jpg" width="600" height="400" alt="56. Attacks of September 11"/>  
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/56-01-Ataques-de-11-de-setembro.jpg" width="600" height="400" alt="56. Attacks of September 11"/>  
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/56 - 02 - Ataques de 11 de setembro.jpg" width="600" height="400" alt="56. Attacks of September 11"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/56-02-Ataques-de-11-de-setembro.jpg" width="600" height="400" alt="56. Attacks of September 11"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

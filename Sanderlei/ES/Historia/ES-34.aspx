@@ -26,7 +26,7 @@ Después de complejos procesos que ocurren en años posteriores resultaron en 16
 			</p>            
           
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/34 - 01 - Independência da América Espanhola.jpg" width="600" height="400" alt="34. Independencia de la América Española"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/34-01-Independencia-da-America-Espanhola.jpg" width="600" height="400" alt="34. Independencia de la América Española"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -41,7 +41,7 @@ La era moderna se ha desarrollado a la sombra de los ideales conquistados por la
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/29 - 01 - Revolução Francesa.jpg" width="600" height="400" alt="29. Revolución Francesa"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/29-01-Revolucao-Francesa.jpg" width="600" height="400" alt="29. Revolución Francesa"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

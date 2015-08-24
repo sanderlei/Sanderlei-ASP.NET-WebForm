@@ -24,9 +24,9 @@ Until now, demonstrations have resulted in the overthrow of three heads of state
             
 		          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/60 - 01 - Primavera Árabe.jpg" width="600" height="400" alt="60. Arab Spring"/>   
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/60-01-Primavera-Arabe.jpg" width="600" height="400" alt="60. Arab Spring"/>   
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/60 - 02 - Primavera Árabe.jpg" width="600" height="400" alt="60. Arab Spring"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/60-02-Primavera-Arabe.jpg" width="600" height="400" alt="60. Arab Spring"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

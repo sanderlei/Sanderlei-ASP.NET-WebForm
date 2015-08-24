@@ -33,7 +33,7 @@ O reino de Israel dura até 721 a.C. com a conquista dos assírios e o reino de 
 O cativeiro da Babilônia acabou em 539 a.C., quando Ciro, imperador persa conquistou a Babilônia e libertou os judeus, que retornaram a Palestina e reconstruíram o templo de Jerusalém que teria sido destruído por Nabucodonosor. Em 332 a.C. os persas foram derrotados por Alexandre, O Grande e os macedônios e gregos passaram a dominar a Palestina, seguindo pelo domínio romano, a partir de 63 a.C. Após a contenção da revolta judaica iniciada em meados da década de 60 d.C., e a destruição de Jerusalém em 70 d.C., os judeus se dispersaram pelo mundo e o estado de Israel seria criado novamente na Palestina apenas em 1948 pela ONU.
 
 		   </p></div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/08 - 01 - Hebreus - Judaismo.jpg" width="600" height="400" alt="Hebreus - Judaismo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/08-01-Hebreus-Judaismo.jpg" width="600" height="400" alt="Hebreus - Judaismo"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

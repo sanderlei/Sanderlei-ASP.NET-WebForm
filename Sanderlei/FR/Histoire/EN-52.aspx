@@ -29,7 +29,7 @@ In 1963, however, João Goulart recovered the head of government with the refere
             
 		         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/52 - 01 - Brasil - República Nova (1945-1964).jpg" width="600" height="400" alt="52. Second Brazilian Republic (1945-1964)"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/52-01-Brasil-Republica-Nova.jpg" width="600" height="400" alt="52. Second Brazilian Republic (1945-1964)"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

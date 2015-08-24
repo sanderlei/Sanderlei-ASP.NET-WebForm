@@ -52,7 +52,7 @@ The new trans-oceanic links and their domination by the European powers gave the
 1636-1638 - Pedro Teixeira goes up the Amazon River and reached the Equator.</li>
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/22 - 01 - Grandes Navegações.jpg" width="600" height="400" alt="22. Age of Discovery"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/22-01-Grandes-Navegacoes.jpg" width="600" height="400" alt="22. Age of Discovery"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

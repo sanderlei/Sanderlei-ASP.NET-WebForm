@@ -60,7 +60,7 @@ Cronología de la Edad Media
  1453 - Toma de Constantinopla por los turcos otomanos.</li>
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/13 - 01 - Idade Média.jpg" width="600" height="400" alt="13. La Edad Media"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/13-01-Idade-Media.jpg" width="600" height="400" alt="13. La Edad Media"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

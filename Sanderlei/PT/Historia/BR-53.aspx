@@ -27,7 +27,7 @@ Ficou famosa a frase do primeiro astronauta a pisar na Lua, Neil Armstrong: "Um 
             
 			         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/53 - 01 - Corrida Espacial.jpg" width="600" height="400" alt="Corrida Espacial"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/53-01-Corrida-Espacial.jpg" width="600" height="400" alt="Corrida Espacial"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

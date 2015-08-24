@@ -21,7 +21,7 @@ O Reino Unido foi pioneiro no processo da Revolução Industrial e ajudou a mant
             
 		         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/31 - 01 - Revolução Industrial.jpg" width="600" height="400" alt="Revolução Industrial"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/31-01-Revolucao-Industrial.jpg" width="600" height="400" alt="Revolução Industrial"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

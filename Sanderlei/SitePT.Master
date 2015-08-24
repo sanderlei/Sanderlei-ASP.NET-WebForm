@@ -3,15 +3,18 @@
 <!DOCTYPE html>
 <html lang="pt">
 <head runat="server">
-    <title><%: Page.Title %> - Sanderlei Silveira</title>          
+    <title><%: Page.Title %> - Sanderlei</title>          
 	<meta charset="utf-8" />
     <meta name="viewport" content="width=devide-width, initial-scale=1">
+    <meta name="dailymotion-domain-verification" content="dmf2h85gdqzgdu3rs" />
     <!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 	<!-- jQuery library -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<!-- Latest compiled JavaScript -->
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <!-- Google+ -->
+    <script src="https://apis.google.com/js/platform.js" async defer>  {lang: 'pt'}</script>
     
     <meta name="keywords" content="Curso de Ingles, Online, Gratis, Completo, sanderlei, sanderlei silveira, web page, pessoal, história, filosofia, audio livro, livro, video, Historia em 1 minuto, treinamento, videos" /> 
     <link rel="icon" type="image/png" href="/images/mafavicon.png" />

@@ -30,7 +30,7 @@
                <h3 style="color:black">Dom Casmurro </h3>               
       <p class="text-justify" style="color:black"> Dizem por ai, mas não tenho certeza, que meu sorriso fica mais feliz quando te vejo, dizem também que meus olhos brilham, dizem também que é amor, mas isso sim é certeza...</p>
                     
-      <img class="img-responsive" style="margin:0 auto;" src="/PT/Machado-de-Assis/img/machado-002.jpg" height="300" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/machado-de-assis/machado-002.jpg" height="300" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -39,7 +39,7 @@
                <h3 style="color:black">Biografia </h3>               
       <p class="text-justify" style="color:black"> Joaquim Maria Machado de Assis (1839—1908) foi um escritor brasileiro, amplamente considerado como o maior nome da literatura nacional...</p>
       <br />
-                    <img class="img-responsive" style="margin:0 auto;" src="/PT/Machado-de-Assis/img/machado-001.jpg"  height="300" alt="Cronologia do Universo"/> 
+                    <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/machado-de-assis/machado-001.jpg"  height="300" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -48,7 +48,7 @@
                 <a href='/PT/Machado-de-Assis/Memorias-Postumas-de-Bras-Cubas-000'>
                <h3 style="color:black">Memórias Póstumas de Brás Cubas </h3>               
       <p class="text-justify" style="color:black"> Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas Memórias Póstumas...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/PT/Machado-de-Assis/img/machado-003.jpg" height="300" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/machado-de-assis/machado-003.jpg" height="300" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
                 
@@ -70,7 +70,7 @@
                    <div class='col-xs-12 col-md-12 text-center'>
                         <a href='/PT/Poesia/INDEX'>
                <h3 style="color:black">Poesia </h3>                     
-      <img class="img-responsive" style="margin:0 auto;" src="/images/Poesia.png" height="212" alt="Poesia"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/poesia/Poesia.png" height="212" alt="Poesia"/> 
       </a>
                        <br />            
             <hr />
@@ -89,7 +89,7 @@
                 <a href='/PT/Historia/BR-03'>
                <h3 style="color:black">Pré-História </h3>               
       <p class="text-justify" style="color:black"> A Pré-história é o período entre 2,5 milhões de anos atrás com o surgimentos dos primeiros indivíduos...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/01 - 01 - Cronologia do Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/01-01-Cronologia-do-Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -97,7 +97,7 @@
                 <a href='/PT/Historia/BR-05'>
                <h3 style="color:black">Religião </h3>               
       <p class="text-justify" style="color:black"> As principais religiões da atualidade tiveram início durante a Idade Antiga. Mas é importante lembrar que...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/05 - 01 - Religião - Idade Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/05-01-Religiao-Idade-Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -106,7 +106,7 @@
                 <a href='/PT/Historia/BR-60'>
                <h3 style="color:black">Primavera Árabe </h3>               
       <p class="text-justify" style="color:black"> A Primavera Árabe como é conhecida internacionalmente é uma onda revolucionária de manifestações...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/60 - 01 - Primavera Árabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/60-01-Primavera-Arabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
                 
@@ -120,14 +120,9 @@
             <br>
             
                         <div>
-<!-- Posicione esta tag no cabeçalho ou imediatamente antes da tag de fechamento do corpo. -->
-<script src="https://apis.google.com/js/platform.js" async defer>
-  {lang: 'pt-BR'}
-</script>
-
-<!-- Posicione esta tag onde você deseja que o botão +1 apareça. -->
-<div class="g-plusone" data-size="tall" data-annotation="inline" data-width="300"></div>
-            </div>
+    
+        <!-- Posicione esta tag onde você deseja que o botão +1 apareça. -->
+        <div class="g-plusone" data-size="tall" data-annotation="inline" data-width="300"></div> </div>
             
 </div>
                       <br>

@@ -47,7 +47,7 @@ Este equilibrio de poder entre los estados, se estableció una política por el 
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/40 - 01 - Republica Brasileira.jpg" width="600" height="400" alt="40. República de Brasil"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/40-01-Republica-Brasileira.jpg" width="600" height="400" alt="40. República de Brasil"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

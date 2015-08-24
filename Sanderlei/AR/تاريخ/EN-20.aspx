@@ -23,7 +23,7 @@ Scientists still debate the cause of the Black Death, whose greatest suspicion i
 			</p>            
                   
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/20 - 01 - Peste Negra.jpg" width="600" height="400" alt="20. Black Death"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/20-01-Peste-Negra.jpg" width="600" height="400" alt="20. Black Death"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

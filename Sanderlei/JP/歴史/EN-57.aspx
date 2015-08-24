@@ -24,7 +24,7 @@ Since the beginning of the War on Terror, Amnesty International recorded and rep
 			</p>            
             
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/57 - 01 - Guerra ao Terrorismo.JPG" width="600" height="400" alt="57. War on Terror"/>  
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/57-01-Guerra-ao-Terrorismo.JPG" width="600" height="400" alt="57. War on Terror"/>  
       <br><br>                  
  	       
         <br><br><br></div>

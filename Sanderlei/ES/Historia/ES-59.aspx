@@ -26,7 +26,7 @@ El desarrollo más reciente de la crisis financiera y económica internacional d
 			</p>            
             
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/59 - 01 - Grande Recessão.jpg" width="600" height="400" alt="59. Gran Recesión"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/59-01-Grande-Recessao.jpg" width="600" height="400" alt="59. Gran Recesión"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

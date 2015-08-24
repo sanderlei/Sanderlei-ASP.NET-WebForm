@@ -46,7 +46,7 @@ Islam			</td><td>				    VII	</td><td>	Muhammad</td></tr></tbody></table></div>
 
           
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/05 - 01 - Religião - Idade Antiga.jpg" width="600" height="400" alt="5. Religión - La Edad Antigua"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/05-01-Religiao-Idade-Antiga.jpg" width="600" height="400" alt="5. Religión - La Edad Antigua"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

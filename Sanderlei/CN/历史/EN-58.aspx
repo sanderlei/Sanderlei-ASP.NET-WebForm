@@ -25,7 +25,7 @@ After the 1980 humanity is going from the Industrial Age to the Information Age 
 			</p>            
         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/58 - 01 - Revolução Digital.jpg" width="600" height="400" alt="58. Digital Revolution"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/58-01-Revolucao-Digital.jpg" width="600" height="400" alt="58. Digital Revolution"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

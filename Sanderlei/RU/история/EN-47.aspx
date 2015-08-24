@@ -26,7 +26,7 @@ The persecution and genocide were accomplished in stages. Several laws to exclud
             
 	         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/47 - 01 - Nazismo.jpg" width="600" height="400" alt="47. Nazism"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/47-01-Nazismo.jpg" width="600" height="400" alt="47. Nazism"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

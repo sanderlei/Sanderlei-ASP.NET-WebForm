@@ -36,7 +36,7 @@ Tradicionalmente se fala em nove Cruzadas, mas, na realidade, elas constituíram
 As cruzadas influenciaram a cavalaria europeia e, durante séculos, sua literatura. Se por um lado aprofundaram a hostilidade entre o cristianismo e o Islã, por outro estimularam os contatos econômicos e culturais para benefício permanente da civilização europeia. O comércio entre a Europa e a Ásia Menor aumentou consideravelmente e a Europa conheceu novos produtos, em especial, o açúcar e o algodão. Os contatos culturais que se estabeleceram entre a Europa e o Oriente tiveram um efeito estimulante no conhecimento ocidental e, até certo ponto, prepararam o caminho para o Renascimento. </p>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/19 - 01 - As Cruzadas.jpg" width="600" height="400" alt="As Cruzadas"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/19-01-As-Cruzadas.jpg" width="600" height="400" alt="As Cruzadas"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

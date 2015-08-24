@@ -31,11 +31,11 @@ Entretanto, o mais importante dos três foi Tomas de Aquino, que sintetizou a fi
 			</p>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/21 - 01 - Filosofia Medieval.jpg" width="600" height="400" alt="Filosofia Medieval"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/21-01-Filosofia-Medieval.jpg" width="600" height="400" alt="Filosofia Medieval"/> 
       <br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/21 - 02 - Filosofia Medieval.jpg" width="600" height="400" alt="Filosofia Medieval"/>
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/21-02-Filosofia-Medieval.jpg" width="600" height="400" alt="Filosofia Medieval"/>
       <br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/21 - 03 - Filosofia Medieval.jpg" width="600" height="400" alt="Filosofia Medieval"/>       
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/21-03-Filosofia-Medieval.jpg" width="600" height="400" alt="Filosofia Medieval"/>       
           <br><br><br></div>
      </div>
 </asp:Content>

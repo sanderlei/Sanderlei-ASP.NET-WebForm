@@ -26,7 +26,7 @@ In Brazil the week of Modern Art, held in São Paulo in 1922 was the starting po
 			</p>            
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/44 - 01 - Modernismo.jpg" width="600" height="400" alt="44. Modernism"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/44-01-Modernismo.jpg" width="600" height="400" alt="44. Modernism"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

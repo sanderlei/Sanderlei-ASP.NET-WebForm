@@ -27,11 +27,11 @@ A extinção do sistema de capitanias ocorreu formalmente em 28 de fevereiro de 
 			</p>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/27 - 01 - Colonização do Brasil.jpg" width="600" height="400" alt="Colonização do Brasil"/>
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/27-01-Colonizacao-do-Brasil.jpg" width="600" height="400" alt="Colonização do Brasil"/>
       <br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/27 - 02 - Colonização do Brasil.jpg" width="600" height="400" alt="Colonização do Brasil"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/27-02-Colonizacao-do-Brasil.jpg" width="600" height="400" alt="Colonização do Brasil"/> 
       <br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/27 - 03 - Colonização do Brasil.jpg" width="600" height="400" alt="Colonização do Brasil"/>         
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/27-03-Colonizacao-do-Brasil.jpg" width="600" height="400" alt="Colonização do Brasil"/>         
           <br><br><br></div>
      </div>
 </asp:Content>

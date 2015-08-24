@@ -82,11 +82,11 @@ Abaixo a relação dos Deuses Olímpicos, com seus nomes gregos e romano e suas 
 A mitologia grega tem exercido uma grande influência na cultura, nas artes e na literatura da civilização ocidental principalmente no período do renascimento e permanece como parte da herança e da linguagem do Ocidente.
 </p>
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/10 - 01 - Mitologia Grega.jpg" width="600" height="400" alt="Mitologia Greg"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/10-01-Mitologia-Grega.jpg" width="600" height="400" alt="Mitologia Greg"/>        
           <br><br>
-           	  <img class="img-responsive" style="margin:0 auto;" src="/images/10 - 02 - Mitologia Grega.jpg" width="600" height="400" alt="Mitologia Greg"/>        
+           	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/10-02-Mitologia-Grega.jpg" width="600" height="400" alt="Mitologia Greg"/>        
           <br><br>
-           	  <img class="img-responsive" style="margin:0 auto;" src="/images/10 - 03 - Mitologia Grega.jpg" width="600" height="400" alt="Mitologia Greg"/>        
+           	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/10-03-Mitologia-Grega.jpg" width="600" height="400" alt="Mitologia Greg"/>        
           <br><br>
           <br></div>
           

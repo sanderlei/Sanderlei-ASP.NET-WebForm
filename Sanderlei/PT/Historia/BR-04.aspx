@@ -87,7 +87,7 @@ A civilização egípcia que se desenvolveu no fértil vale do rio Nilo e se uni
             <br>
             <br>            
             <br>
-            <img class="img-responsive" style="margin:0 auto;" src="/images/04 - 01 - Idade Antiga.jpg" width="600" height="400" alt="Idade Antiga"/>           
+            <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/04-01-Idade-Antiga.jpg" width="600" height="400" alt="Idade Antiga"/>           
             <br>
             <br>
 			<br>

@@ -26,11 +26,11 @@ However, the most important of the three was Thomas Aquinas, who synthesized the
 			</p>            
             
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/21 - 01 - Filosofia Medieval.jpg" width="600" height="400" alt="21. Medieval Philosophy"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/21-01-Filosofia-Medieval.jpg" width="600" height="400" alt="21. Medieval Philosophy"/> 
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/21 - 02 - Filosofia Medieval.jpg" width="600" height="400" alt="21. Medieval Philosophy"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/21-02-Filosofia-Medieval.jpg" width="600" height="400" alt="21. Medieval Philosophy"/> 
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/21 - 03 - Filosofia Medieval.jpg" width="600" height="400" alt="21. Medieval Philosophy"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/21-03-Filosofia-Medieval.jpg" width="600" height="400" alt="21. Medieval Philosophy"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

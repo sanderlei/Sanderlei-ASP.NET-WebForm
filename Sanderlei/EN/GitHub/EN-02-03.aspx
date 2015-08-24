@@ -1,4 +1,4 @@
-﻿<%@ Page Title="GitHub - Intermediate  - 03 - Purging History" Language="C#" MasterPageFile="~/EN/SiteENGitHub.master" AutoEventWireup="true" CodeBehind="EN-02-03.aspx.cs" Inherits="Sanderlei.EN.GitHub.EN_02_03" %>
+﻿<%@ Page Title="GitHub - Intermediate  - 03 - Purging History" Language="C#" MasterPageFile="~/EN/SiteENGitHub.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" GitHub  (Tutorial) - GitHub - Intermediate  - 03 - Purging History " /> 
 </asp:Content>

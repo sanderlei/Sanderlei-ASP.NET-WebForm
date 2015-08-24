@@ -26,7 +26,7 @@ O auge do antagonismo entre Capitalismo x Socialismo surge após a segunda guerr
             
 			          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/45 - 01 - Socialismo x Capitalismo (BR).jpg" width="600" height="400" alt="Socialismo x Capitalismo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/45-01-Socialismo-Capitalismo.jpg" width="600" height="400" alt="Socialismo x Capitalismo"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

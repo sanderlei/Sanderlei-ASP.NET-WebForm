@@ -25,7 +25,7 @@ Todo esse absolutismo permaneceu na Europa durante os séculos XVI, XVII e XVIII
 			</p>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/26 - 01 - Absolutismo Europeu.jpg" width="600" height="400" alt="Absolutismo Europeu"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/26-01-Absolutismo-Europeu.jpg" width="600" height="400" alt="Absolutismo Europeu"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

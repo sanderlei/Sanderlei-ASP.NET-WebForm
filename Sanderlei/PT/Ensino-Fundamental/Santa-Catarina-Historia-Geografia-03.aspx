@@ -39,7 +39,7 @@
 
                  <br />
                 <h4 class="text-center" > 	Mapa político de Santa Catarina  </h4>               
-                <img class="img-responsive" style="margin:0 auto;" src="img/Santa-Catarina-Historia-Geografia-01-03.png"  alt=" Santa Catarina Historia Geografia Mapa político "/>                 
+                <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Santa-Catarina-Historia-Geografia-01-03.png"  alt=" Santa Catarina Historia Geografia Mapa político "/>                 
                 <br />
                 <p>Os números indicam os municípios do estado. Consulte e identifique o que corresponde ao município em que você reside.</p>
                 <br />

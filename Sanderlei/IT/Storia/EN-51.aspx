@@ -25,7 +25,7 @@ In 1991 the superpowers agreed to eliminate all ground tactical missiles armed w
 			</p>            
            
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/51 - 01 - Guerra Fria.jpg" width="600" height="400" alt="51. Cold War"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/51-01-Guerra-Fria.jpg" width="600" height="400" alt="51. Cold War"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

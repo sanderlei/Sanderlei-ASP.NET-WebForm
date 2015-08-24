@@ -28,7 +28,7 @@ La cautividad de Babilonia terminó en el año 539 AC cuando Ciro el emperador p
 			</p>            
           
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/08 - 01 - Hebreus - Judaismo.jpg" width="600" height="400" alt="8. Hebreos - Judaísmo"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/08-01-Hebreus-Judaismo.jpg" width="600" height="400" alt="8. Hebreos - Judaísmo"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

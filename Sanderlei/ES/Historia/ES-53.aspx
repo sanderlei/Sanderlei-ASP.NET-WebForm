@@ -26,7 +26,7 @@ Fue famoso el primer astronauta en pisar la Luna, Neil Armstrong, "Un pequeño p
             
        
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/53 - 01 - Corrida Espacial.jpg" width="600" height="400" alt="53. Carrera Espacial"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/53-01-Corrida-Espacial.jpg" width="600" height="400" alt="53. Carrera Espacial"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

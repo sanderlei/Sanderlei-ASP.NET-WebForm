@@ -23,7 +23,7 @@
                 <a href='EN-03'>
                <h3 style="color:black">предыстория </h3>               
       <p class="text-justify" style="color:black"> Предыстория является период с 2,5 млн лет назад с возникновением сначала ...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/01 - 01 - Cronologia do Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/01-01-Cronologia-do-Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -31,7 +31,7 @@
                 <a href='EN-05'>
                <h3 style="color:black">религия</h3>               
       <p class="text-justify" style="color:black">Основными религиями сегодня начались в истории Древнего. Но, это ...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/05 - 01 - Religião - Idade Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/05-01-Religiao-Idade-Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -40,7 +40,7 @@
                 <a href='EN-60'>
                <h3 style="color:black">Арабская Весна </h3>               
       <p class="text-justify" style="color:black">Арабская весна всемирно известный как революционной волны демонстраций и ...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/60 - 01 - Primavera Árabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/60-01-Primavera-Arabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
                 

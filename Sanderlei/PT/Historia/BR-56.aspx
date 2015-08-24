@@ -23,9 +23,9 @@ Os danos no Pentágono foram reparados em um ano, e o Memorial do Pentágono foi
 			</p>            
                      
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/56 - 01 - Ataques de 11 de setembro.jpg" width="600" height="400" alt="Ataques de 11 de setembro"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/56-01-Ataques-de-11-de-setembro.jpg" width="600" height="400" alt="Ataques de 11 de setembro"/> 
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/56 - 02 - Ataques de 11 de setembro.jpg" width="600" height="400" alt="Ataques de 11 de setembro"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/56-02-Ataques-de-11-de-setembro.jpg" width="600" height="400" alt="Ataques de 11 de setembro"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

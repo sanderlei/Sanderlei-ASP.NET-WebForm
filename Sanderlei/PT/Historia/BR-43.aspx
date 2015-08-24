@@ -25,7 +25,7 @@ A crise de 1929 afetou também o Brasil. Os Estados Unidos eram o maior comprado
             
 			         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/43 - 01 - Grande Depressão.jpg" width="600" height="400" alt="Grande Depressão"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/43-01-Grande-Depressao.jpg" width="600" height="400" alt="Grande Depressão"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

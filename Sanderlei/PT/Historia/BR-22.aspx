@@ -60,7 +60,7 @@ Cronologia</h3><br>
 1636–1638 - Pedro Teixeira sobe o rio Amazonas e alcançou o Equador.</li></ul>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/22 - 01 - Grandes Navegações.jpg" width="600" height="400" alt="Grandes Navegações"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/22-01-Grandes-Navegacoes.jpg" width="600" height="400" alt="Grandes Navegações"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

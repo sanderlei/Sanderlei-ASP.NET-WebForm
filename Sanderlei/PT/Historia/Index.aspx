@@ -20,7 +20,7 @@
                 <a href='BR-03'>
                <h3 style="color:black">Pré-História </h3>               
       <p class="text-justify" style="color:black"> A Pré-história é o período entre 2,5 milhões de anos atrás com o surgimentos dos primeiros indivíduos...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/01 - 01 - Cronologia do Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/01-01-Cronologia-do-Universo.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -28,7 +28,7 @@
                 <a href='BR-05'>
                <h3 style="color:black">Religião </h3>               
       <p class="text-justify" style="color:black"> As principais religiões da atualidade tiveram início durante a Idade Antiga. Mas é importante lembrar que...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/05 - 01 - Religião - Idade Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/05-01-Religiao-Idade-Antiga.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
       
@@ -37,7 +37,7 @@
                 <a href='BR-60'>
                <h3 style="color:black">Primavera Árabe </h3>               
       <p class="text-justify" style="color:black"> A Primavera Árabe como é conhecida internacionalmente é uma onda revolucionária de manifestações...</p>
-      <img class="img-responsive" style="margin:0 auto;" src="/images/60 - 01 - Primavera Árabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
+      <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/60-01-Primavera-Arabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
                 

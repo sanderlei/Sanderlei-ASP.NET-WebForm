@@ -25,7 +25,7 @@ Uno de los principales logros de la civilización del antiguo Egipto estaba en e
 			</p>            
            
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/07 - 01 - Egito.jpg" width="600" height="400" alt="7. Antiguo Egipto"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/07-01-Egito.jpg" width="600" height="400" alt="7. Antiguo Egipto"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

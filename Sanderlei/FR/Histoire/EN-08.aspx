@@ -29,7 +29,7 @@ The Babylonian captivity ended in 539 BC when Cyrus the Persian emperor conquere
             
         
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/08 - 01 - Hebreus - Judaismo.jpg" width="600" height="400" alt="8. Hebrews - Judaism"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/08-01-Hebreus-Judaismo.jpg" width="600" height="400" alt="8. Hebrews - Judaism"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

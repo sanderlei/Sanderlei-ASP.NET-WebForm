@@ -1,4 +1,4 @@
-﻿<%@ Page Title="GitHub - Beginner - 04 - Collaboration Basics" Language="C#" MasterPageFile="~/EN/SiteENGitHub.master" AutoEventWireup="true" CodeBehind="EN-01-04.aspx.cs" Inherits="Sanderlei.EN.GitHub.EN_01_04" %>
+﻿<%@ Page Title="GitHub - Beginner - 04 - Collaboration Basics" Language="C#" MasterPageFile="~/EN/SiteENGitHub.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" GitHub  (Tutorial) - GitHub - Beginner - 04 - Collaboration Basics " /> 
 </asp:Content>

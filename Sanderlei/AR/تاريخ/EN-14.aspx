@@ -43,9 +43,9 @@ The various economic and political changes that followed the fall of the Byzanti
 
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/14 - 01 - Imperio Bizantino.jpg" width="600" height="400" alt="14. Byzantine Empire"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/14-01-Imperio-Bizantino.jpg" width="600" height="400" alt="14. Byzantine Empire"/>        
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/14 - 02 - Imperio Bizantino.jpg" width="600" height="400" alt="14. Byzantine Empire"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/14-02-Imperio-Bizantino.jpg" width="600" height="400" alt="14. Byzantine Empire"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

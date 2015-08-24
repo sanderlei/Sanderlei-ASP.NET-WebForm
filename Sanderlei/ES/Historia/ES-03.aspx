@@ -55,7 +55,7 @@ Datos importantes de la Edad de Piedra :</b></p>
           Edad de los Metales cubre los dos últimos milenios antes de la aparición de la escritura en el 3.500 antes de Cristo. Durante este período se inicia la formación de las ciudades y posteriormente la formación de estados como la mesopotámica y egipcia. Aparece el comercio y la agricultura cobraron impulso con nuevas técnicas. Había también un descubrimiento de la utilización de minerales tales como cobre, latón y hierro.
 </p>
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/03 - 01 - Pre-historia.jpg" width="600" height="400" alt="03. Prehistoria"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/03-01-Pre-historia.jpg" width="600" height="400" alt="03. Prehistoria"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

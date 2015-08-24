@@ -57,7 +57,7 @@ Roman Empire 	</td><td>	  275 BC </td><td>		 476 A.D.</td><td></td></tr></tbody>
  And the Maya civilization in America.</li>
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/04 - 01 - Idade Antiga.jpg" width="600" height="400" alt="Ancient History"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/04-01-Idade-Antiga.jpg" width="600" height="400" alt="Ancient History"/>        
         <br><br><br></div>
      </div>
 

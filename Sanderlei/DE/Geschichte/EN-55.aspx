@@ -35,7 +35,7 @@ In 2011, Dilma Rousseff took over the presidency, becoming the first woman to as
  2011-2014 - Dilma Rousseff</li>
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/55 - Brasil - Nova República (BR).jpg" width="600" height="400" alt="55. BRAZIL - NEW REPUBLIC"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/55-01-Brasil-Nova-Republica.jpg" width="600" height="400" alt="55. BRAZIL - NEW REPUBLIC"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

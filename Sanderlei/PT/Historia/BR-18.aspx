@@ -56,7 +56,7 @@ França –</b> o estado Frances surgi com a divisão do reino de Carlos Magno e
 
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/18 - 01 - Estados Europeus.jpg" width="600" height="400" alt="Estados Europeus"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/18-01-Estados-Europeus.jpg" width="600" height="400" alt="Estados Europeus"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

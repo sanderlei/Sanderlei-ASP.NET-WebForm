@@ -29,7 +29,7 @@ A reabilitação moral da Igreja deteve o avanço do protestantismo, mas não im
 			</p>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/25 - 01 - Reforma-Contra-Reforma.jpg" width="600" height="400" alt="Reforma-Contra-Reforma"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/25-01-Reforma-Contra-Reforma.jpg" width="600" height="400" alt="Reforma-Contra-Reforma"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

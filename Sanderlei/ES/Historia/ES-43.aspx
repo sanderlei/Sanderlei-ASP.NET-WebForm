@@ -24,7 +24,7 @@ La crisis de 1929 también afectó a Brasil. Los Estados Unidos fue el mayor com
 			</p>            
              
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/43 - 01 - Grande Depressão.jpg" width="600" height="400" alt="43. Gran Depresión de 1929"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/43-01-Grande-Depressao.jpg" width="600" height="400" alt="43. Gran Depresión de 1929"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

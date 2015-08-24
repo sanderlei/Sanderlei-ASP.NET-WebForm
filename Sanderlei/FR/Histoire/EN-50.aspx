@@ -28,7 +28,7 @@ In regions of English colonization, decolonization was characterized in general 
 			</p>            
        
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/50 - 01 - Descolonização da África.jpg" width="600" height="400" alt="50. Descolonisation of Africa"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/50-01-Descolonização-da-Africa.jpg" width="600" height="400" alt="50. Descolonisation of Africa"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -110,7 +110,7 @@ A idade dos Metais abrange os dois últimos milênios que antecedem o aparecimen
             <br>
             <br>            
             <br>
-            <img class="img-responsive" style="margin:0 auto;" src="/images/03 - 01 - Pre-historia.jpg" width="600" height="400" alt="Pre-historia"/>           
+            <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/03-01-Pre-historia.jpg" width="600" height="400" alt="Pre-historia"/>           
             <br>
             <br>
 			<br>

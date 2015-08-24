@@ -25,7 +25,7 @@ Os cientistas ainda debatem a causa da peste negra, cuja maior suspeita é a pes
 			</p>
 
 		   </div><br><br><br><br>
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/20 - 01 - Peste Negra.jpg" width="600" height="400" alt="Peste Negra"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/20-01-Peste-Negra.jpg" width="600" height="400" alt="Peste Negra"/>        
           <br><br><br></div>
      </div>
 </asp:Content>

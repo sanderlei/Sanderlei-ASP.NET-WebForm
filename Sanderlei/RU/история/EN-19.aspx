@@ -40,7 +40,7 @@ The Crusades influenced the European cavalry, and for centuries, its literature.
 
           </p>
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/19 - 01 - As Cruzadas.jpg" width="600" height="400" alt="19. The Crusades"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/19-01-As-Cruzadas.jpg" width="600" height="400" alt="19. The Crusades"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="GitHub - Advanced - 06 - Single Repository Workflows" Language="C#" MasterPageFile="~/EN/SiteENGitHub.master" AutoEventWireup="true" CodeBehind="EN-03-06.aspx.cs" Inherits="Sanderlei.EN.GitHub.EN_03_06" %>
+﻿<%@ Page Title="GitHub - Advanced - 06 - Single Repository Workflows" Language="C#" MasterPageFile="~/EN/SiteENGitHub.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" GitHub  (Tutorial) - GitHub - Advanced - 06 - Single Repository Workflows " /> 
 </asp:Content>

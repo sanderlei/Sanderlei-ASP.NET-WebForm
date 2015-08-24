@@ -50,7 +50,7 @@ Durante la antigüedad también se crearon otros imperios grandes, algunos ejemp
  Y la civilización maya en América.</li>
           </ul>          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/04 - 01 - Idade Antiga.jpg" width="600" height="400" alt="4. La Edad Antigua"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/04-01-Idade-Antiga.jpg" width="600" height="400" alt="4. La Edad Antigua"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

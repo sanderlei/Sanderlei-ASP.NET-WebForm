@@ -24,7 +24,7 @@ Also after the war the United States occupied Japan and Korea, formerly under Ja
 			</p>            
           
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/48 - 01 - Segunda Guerra Mundial.jpg" width="600" height="400" alt="48. World War II"/>
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/48-01-Segunda-Guerra-Mundial.jpg" width="600" height="400" alt="48. World War II"/>
       <br><br>                 
  	     
         <br><br><br></div>

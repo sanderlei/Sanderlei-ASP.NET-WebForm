@@ -25,7 +25,7 @@ En 1991 las superpotencias acordaron eliminar todos los misiles tácticos tierra
 			</p>            
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/51 - 01 - Guerra Fria.jpg" width="600" height="400" alt="51. Guerra Fría"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/51-01-Guerra-Fria.jpg" width="600" height="400" alt="51. Guerra Fría"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

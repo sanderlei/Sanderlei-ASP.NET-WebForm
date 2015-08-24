@@ -26,9 +26,9 @@ Con el debilitamiento de los sucesores de Carlomagno desde el siglo IX hasta el 
 			</p>            
          
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/16 - 01 - Reino dos francos.jpg" width="600" height="400" alt="16. Reino de los Francos"/> 
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/16-01-Reino-dos-francos.jpg" width="600" height="400" alt="16. Reino de los Francos"/> 
       <br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/16 - 02 - Reino dos francos.jpg" width="600" height="400" alt="16. Reino de los Francos"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/16-02-Reino-dos-francos.jpg" width="600" height="400" alt="16. Reino de los Francos"/>        
         <br><br><br></div>
      </div>
 </asp:Content>

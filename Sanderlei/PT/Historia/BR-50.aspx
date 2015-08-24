@@ -28,7 +28,7 @@ Nas regiões de colonização inglesa, o movimento descolonizador caracterizou�
 			</p>            
                       
 	      </div><br><br><br><br>                  
- 	  <img class="img-responsive" style="margin:0 auto;" src="/images/50 - 01 - Descolonização da África.jpg" width="600" height="400" alt="Descolonização da África"/>        
+ 	  <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/50-01-Descolonização-da-Africa.jpg" width="600" height="400" alt="Descolonização da África"/>        
         <br><br><br></div>
      </div>
 </asp:Content>
