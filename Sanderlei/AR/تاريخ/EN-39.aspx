@@ -1,4 +1,4 @@
-﻿<%@ Page Title="39. الثورة الصينية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-39.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_39" %>
+﻿<%@ Page Title="39. الثورة الصينية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="وقعت أول الثورة الصينية أو الثورة ألوهين في" /> 
 </asp:Content>

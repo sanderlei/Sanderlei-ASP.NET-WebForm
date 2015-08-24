@@ -1,4 +1,4 @@
-﻿<%@ Page Title="18. إنشاء دول أوروبا" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-18.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_18" %>
+﻿<%@ Page Title="18. إنشاء دول أوروبا" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="بعد سقوط الإمبراطورية الرومانية الغربية عدة" /> 
 </asp:Content>

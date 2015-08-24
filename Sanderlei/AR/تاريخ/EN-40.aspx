@@ -1,4 +1,4 @@
-﻿<%@ Page Title="40. الجمهورية البرازيلية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-40.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_40" %>
+﻿<%@ Page Title="40. الجمهورية البرازيلية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="في 15 نوفمبر 1889، المارشال ديودورو دا فونسيكا مرسوما " /> 
 </asp:Content>

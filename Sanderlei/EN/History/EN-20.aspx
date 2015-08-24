@@ -1,4 +1,4 @@
-﻿<%@ Page Title="20. Black Death" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-20.aspx.cs" Inherits="Sanderlei.EN.History.EN_20" %>
+﻿<%@ Page Title="20. Black Death" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="Black Death was an epidemic which killed a third of..." /> 
 </asp:Content>

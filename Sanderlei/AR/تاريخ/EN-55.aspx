@@ -1,4 +1,4 @@
-﻿<%@ Page Title="55. البرازيل - نيو ريبابليك" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-55.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_55" %>
+﻿<%@ Page Title="55. البرازيل - نيو ريبابليك" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="جمهورية جديدة هي فترة في تاريخ" /> 
 </asp:Content>

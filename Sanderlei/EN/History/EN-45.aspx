@@ -1,4 +1,4 @@
-﻿<%@ Page Title="45. Socialism X Capitalism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-45.aspx.cs" Inherits="Sanderlei.EN.History.EN_45" %>
+﻿<%@ Page Title="45. Socialism X Capitalism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Modern socialism originated in the eighteenth century intellectual and..." /> 
 </asp:Content>

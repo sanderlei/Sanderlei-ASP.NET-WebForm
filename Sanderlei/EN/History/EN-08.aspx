@@ -1,4 +1,4 @@
-﻿<%@ Page Title="08. Hebrews - Judaism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-08.aspx.cs" Inherits="Sanderlei.EN.History.EN_08" %>
+﻿<%@ Page Title="08. Hebrews - Judaism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content=" The Hebrews also known as Israelites and later as Jews were..." /> 
 </asp:Content>

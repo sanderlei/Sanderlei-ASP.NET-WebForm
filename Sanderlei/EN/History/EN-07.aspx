@@ -1,4 +1,4 @@
-﻿<%@ Page Title="07. Ancient Egypt" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-07.aspx.cs" Inherits="Sanderlei.EN.History.EN_07" %>
+﻿<%@ Page Title="07. Ancient Egypt" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="One of the first great civilizations of mankind Egyptian..." /> 
 </asp:Content>

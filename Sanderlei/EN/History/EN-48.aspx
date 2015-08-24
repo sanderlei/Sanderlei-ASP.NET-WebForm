@@ -1,4 +1,4 @@
-﻿<%@ Page Title="48. World War II" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-48.aspx.cs" Inherits="Sanderlei.EN.History.EN_48" %>
+﻿<%@ Page Title="48. World War II" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="World War II was a global military conflict which..." /> 
 </asp:Content>

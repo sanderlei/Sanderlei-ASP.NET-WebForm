@@ -1,4 +1,4 @@
-﻿<%@ Page Title="44. عصرية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-44.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_44" %>
+﻿<%@ Page Title="44. عصرية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="الحداثة هي عبارة عن مجموعة من الحركات الثقافية والمدارس و" /> 
 </asp:Content>

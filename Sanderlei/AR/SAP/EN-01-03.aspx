@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="03-38 - Introduction to SAP Rapid Deployment Solutions" Language="C#" MasterPageFile="~/AR/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
-    <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 03-38 - Introduction to SAP Rapid Deployment Solutions " /> 
+    <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 03-38 - Introduction to SAP Rapid Deployment Solutions  - SAP الأعمال الكل في واحد" /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 

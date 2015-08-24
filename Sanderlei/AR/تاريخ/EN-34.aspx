@@ -1,4 +1,4 @@
-﻿<%@ Page Title="34. استقلال أمريكا الإسبانية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-34.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_34" %>
+﻿<%@ Page Title="34. استقلال أمريكا الإسبانية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="حروب الاستقلال في أمريكا الإسبانية تبدأ" /> 
 </asp:Content>

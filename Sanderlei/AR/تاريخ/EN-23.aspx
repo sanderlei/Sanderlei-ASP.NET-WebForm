@@ -1,4 +1,4 @@
-﻿<%@ Page Title="23. العصر الحديث" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-23.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_23" %>
+﻿<%@ Page Title="23. العصر الحديث" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="في أواخر القرن الخامس عشر وأوائل القرن السادس عشر، الأوروبيون عبور" />
 </asp:Content>

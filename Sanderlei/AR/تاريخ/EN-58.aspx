@@ -1,4 +1,4 @@
-﻿<%@ Page Title="58. الثورة الرقمية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-58.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_58" %>
+﻿<%@ Page Title="58. الثورة الرقمية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="في أواخر 1960s، ظهرت شبكة الإنترنت مع" /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="52. (جمهورية البرازيلي الثانية (1945-1964" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-52.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_52" %>
+﻿<%@ Page Title="52. (جمهورية البرازيلي الثانية (1945-1964" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="الفترة المعروفة باسم الجمهورية الجديدة تبدأ مع" /> 
 </asp:Content>

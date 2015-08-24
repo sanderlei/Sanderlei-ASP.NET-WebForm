@@ -1,4 +1,4 @@
-﻿<%@ Page Title="21. Medieval Philosophy" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-21.aspx.cs" Inherits="Sanderlei.EN.History.EN_21" %>
+﻿<%@ Page Title="21. Medieval Philosophy" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="In general, it is considered that the medieval period of..." /> 
 </asp:Content>

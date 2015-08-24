@@ -1,4 +1,4 @@
-﻿<%@ Page Title="41. الحرب العالمية الأولى" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-41.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_41" %>
+﻿<%@ Page Title="41. الحرب العالمية الأولى" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="بدأت الحرب العالمية الأولى في 28 يوليو 1914 واستمر حتى" /> 
 </asp:Content>

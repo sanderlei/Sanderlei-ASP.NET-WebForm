@@ -1,4 +1,4 @@
-﻿<%@ Page Title="01. الكون التسلسل الزمني" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-01.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_01" %>
+﻿<%@ Page Title="01. الكون التسلسل الزمني" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="بدأ الكون قبل حوالي 13 بليون سنة، وفقا ..." /> 
 </asp:Content>

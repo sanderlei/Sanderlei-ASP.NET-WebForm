@@ -1,4 +1,4 @@
-﻿<%@ Page Title="05. Religion - Ancient History" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-05.aspx.cs" Inherits="Sanderlei.EN.History.EN_05" %>
+﻿<%@ Page Title="05. Religion - Ancient History" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="The major religions of today were started during the Ancient..." /> 
 </asp:Content>

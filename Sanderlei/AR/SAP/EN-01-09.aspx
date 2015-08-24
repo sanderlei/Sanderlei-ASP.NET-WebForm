@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="09-38 - Introduction to BI Best Practices" Language="C#" MasterPageFile="~/AR/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
-    <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 09-38 - Introduction to BI Best Practices " /> 
+    <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 09-38 - Introduction to BI Best Practices  - SAP الأعمال الكل في واحد" /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 

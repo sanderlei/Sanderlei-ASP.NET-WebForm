@@ -1,4 +1,4 @@
-﻿<%@ Page Title="27. استعمار البرازيل" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-27.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_27" %>
+﻿<%@ Page Title="27. استعمار البرازيل" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="لم اكتشاف البرازيل في 1500 لا تثير الكثير" /> 
 </asp:Content>

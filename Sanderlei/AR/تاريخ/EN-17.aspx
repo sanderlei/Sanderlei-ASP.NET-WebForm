@@ -1,4 +1,4 @@
-﻿<%@ Page Title="17. إقطاعية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-17.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_17" %>
+﻿<%@ Page Title="17. إقطاعية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content=" كان الإقطاع شكل من أشكال التنظيم الاجتماعي والسياسي الذي" /> 
 </asp:Content>

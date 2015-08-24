@@ -1,4 +1,4 @@
-﻿<%@ Page Title="11. الفلسفة اليونانية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-11.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_11" %>
+﻿<%@ Page Title="11. الفلسفة اليونانية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content=" نشأت الفلسفة الغربية في اليونان القديمة في" /> 
 </asp:Content>

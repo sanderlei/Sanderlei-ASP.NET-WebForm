@@ -1,4 +1,4 @@
-﻿<%@ Page Title="10. الأساطير اليونانية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-10.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_10" %>
+﻿<%@ Page Title="10. الأساطير اليونانية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="يرتبط الأساطير اليونانية إلى الأساطير اليونانية القديمة التي" /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="30. المعاصر العمر" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-30.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_30" %>
+﻿<%@ Page Title="30. المعاصر العمر" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="العصر المعاصر هي الفترة المحددة الحالية في" /> 
 </asp:Content>

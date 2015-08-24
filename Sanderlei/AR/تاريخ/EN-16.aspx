@@ -1,4 +1,4 @@
-﻿<%@ Page Title="16. مملكة الفرنجة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-16.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_16" %>
+﻿<%@ Page Title="16. مملكة الفرنجة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="معظم الممالك البربرية تشكلت من" /> 
 </asp:Content>

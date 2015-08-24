@@ -1,4 +1,4 @@
-﻿<%@ Page Title="48. الحرب العالمية الثانية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-48.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_48" %>
+﻿<%@ Page Title="48. الحرب العالمية الثانية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="كانت الحرب العالمية الثانية صراع العسكري العالمي الذي" /> 
 </asp:Content>

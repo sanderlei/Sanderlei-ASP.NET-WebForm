@@ -1,4 +1,4 @@
-﻿<%@ Page Title="16. Kingdom of the Franks" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-16.aspx.cs" Inherits="Sanderlei.EN.History.EN_16" %>
+﻿<%@ Page Title="16. Kingdom of the Franks" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="Most of the barbarian kingdoms formed from the..." /> 
 </asp:Content>

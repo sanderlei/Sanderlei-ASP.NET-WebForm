@@ -1,4 +1,4 @@
-﻿<%@ Page Title="56. Attacks of September 11" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-56.aspx.cs" Inherits="Sanderlei.EN.History.EN_56" %>
+﻿<%@ Page Title="56. Attacks of September 11" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="The terrorist attacks of September 11, 2001 were a..." /> 
 </asp:Content>

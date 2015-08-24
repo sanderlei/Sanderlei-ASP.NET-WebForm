@@ -1,4 +1,4 @@
-﻿<%@ Page Title="02. الأرض التسلسل الزمني" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-02.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_02" %>
+﻿<%@ Page Title="02. الأرض التسلسل الزمني" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="وتشكلت الأرض قبل نحو 4570000000 سنوات، خلال" /> 
 </asp:Content>

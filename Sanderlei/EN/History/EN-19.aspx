@@ -1,4 +1,4 @@
-﻿<%@ Page Title="19. The Crusades" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-19.aspx.cs" Inherits="Sanderlei.EN.History.EN_19" %>
+﻿<%@ Page Title="19. The Crusades" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Called crusade any of the military movements of Christian inspiration..." /> 
 </asp:Content>

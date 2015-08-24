@@ -1,4 +1,4 @@
-﻿<%@ Page Title="37. توحيد ألمانيا" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-37.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_37" %>
+﻿<%@ Page Title="37. توحيد ألمانيا" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="توحيد ألمانيا، سياسيا وإداريا، في" /> 
 </asp:Content>

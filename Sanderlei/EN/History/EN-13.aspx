@@ -1,4 +1,4 @@
-﻿<%@ Page Title="13. Middle Age" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-13.aspx.cs" Inherits="Sanderlei.EN.History.EN_13" %>
+﻿<%@ Page Title="13. Middle Age" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="The Middle Ages or Dark Ages begins with the fall..." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="38. أتممت حسناء" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-38.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_38" %>
+﻿<%@ Page Title="38. أتممت حسناء" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="كان هو أتممت حسناء فترة في التاريخ الأوروبي أن" /> 
 </asp:Content>

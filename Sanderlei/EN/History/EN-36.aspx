@@ -1,4 +1,4 @@
-﻿<%@ Page Title="36. Unification of Italy" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-36.aspx.cs" Inherits="Sanderlei.EN.History.EN_36" %>
+﻿<%@ Page Title="36. Unification of Italy" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="The unification of Italy as a nation state occurred..." /> 
 </asp:Content>

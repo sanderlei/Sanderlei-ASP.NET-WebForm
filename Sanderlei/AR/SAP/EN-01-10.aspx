@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="10-38 - Your Attidute Against SAP Business All-In-One Projects" Language="C#" MasterPageFile="~/AR/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
-    <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 10-38 - Your Attidute Against SAP Business All-In-One Projects " /> 
+    <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 10-38 - Your Attidute Against SAP Business All-In-One Projects  - SAP الأعمال الكل في واحد" /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 

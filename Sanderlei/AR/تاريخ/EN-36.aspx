@@ -1,4 +1,4 @@
-﻿<%@ Page Title="36. توحيد إيطاليا" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-36.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_36" %>
+﻿<%@ Page Title="36. توحيد إيطاليا" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="توحيد إيطاليا كدولة قومية حدث" /> 
 </asp:Content>

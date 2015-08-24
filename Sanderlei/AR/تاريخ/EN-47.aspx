@@ -1,4 +1,4 @@
-﻿<%@ Page Title="47. النازية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-47.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_47" %>
+﻿<%@ Page Title="47. النازية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="النازية هي الأيديولوجية التي يمارسها الحزب النازي من" /> 
 </asp:Content>

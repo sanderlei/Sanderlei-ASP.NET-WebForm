@@ -1,4 +1,4 @@
-﻿<%@ Page Title="50. تصفية الاستعمار من أفريقي" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-50.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_50" %>
+﻿<%@ Page Title="50. تصفية الاستعمار من أفريقي" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
        <meta name="description" content="في أواخر العصور الوسطى بدأت دول أوروبا إلى" /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="30. Contemporary Age" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-30.aspx.cs" Inherits="Sanderlei.EN.History.EN_30" %>
+﻿<%@ Page Title="30. Contemporary Age" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="The Contemporary Age is the current specific period in the..." /> 
 </asp:Content>

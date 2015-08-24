@@ -1,4 +1,4 @@
-﻿<%@ Page Title="32. الحروب النابليونية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-32.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_32" %>
+﻿<%@ Page Title="32. الحروب النابليونية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="جاء نابليون إلى السلطة كقنصل 1 إمبراطور" /> 
 </asp:Content>

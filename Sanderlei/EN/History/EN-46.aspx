@@ -1,4 +1,4 @@
-﻿<%@ Page Title="46. Fascism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-46.aspx.cs" Inherits="Sanderlei.EN.History.EN_46" %>
+﻿<%@ Page Title="46. Fascism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="Fascism is a form of authoritarian nationalist political radicalism that..." /> 
 </asp:Content>

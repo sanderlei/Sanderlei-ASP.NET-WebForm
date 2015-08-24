@@ -1,4 +1,4 @@
-﻿<%@ Page Title="43. الكساد الكبير في عام 1929" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-43.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_43" %>
+﻿<%@ Page Title="43. الكساد الكبير في عام 1929" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="في نهاية الحرب العالمية الأولى، وجدت الدول الأوروبية" /> 
 </asp:Content>

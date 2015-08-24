@@ -1,4 +1,4 @@
-﻿<%@ Page Title="46. فاشية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-46.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_46" %>
+﻿<%@ Page Title="46. فاشية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="الفاشية هي شكل من أشكال التطرف السلطوي سياسي وطني أن" /> 
 </asp:Content>

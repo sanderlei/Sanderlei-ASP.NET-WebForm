@@ -1,4 +1,4 @@
-﻿<%@ Page Title="25. Protestant Reformation" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-25.aspx.cs" Inherits="Sanderlei.EN.History.EN_25" %>
+﻿<%@ Page Title="25. Protestant Reformation" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="The Protestant Reformation was a movement that..." /> 
 </asp:Content>

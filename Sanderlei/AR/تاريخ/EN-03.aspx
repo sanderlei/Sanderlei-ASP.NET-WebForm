@@ -1,4 +1,4 @@
-﻿<%@ Page Title="03. قبل التاريخ" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-03.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_03" %>
+﻿<%@ Page Title="03. قبل التاريخ" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="في عصور ما قبل التاريخ هي الفترة من قبل 2.5 مليون سنة مع" /> 
 </asp:Content>

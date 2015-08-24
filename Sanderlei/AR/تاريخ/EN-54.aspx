@@ -1,4 +1,4 @@
-﻿<%@ Page Title="54. (البرازيل - النظام العسكري (1964-1985" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-54.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_54" %>
+﻿<%@ Page Title="54. (البرازيل - النظام العسكري (1964-1985" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="في 31 مارس 1964 قيام القوات المسلحة خارج." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="34. Independence of Spanish America" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-34.aspx.cs" Inherits="Sanderlei.EN.History.EN_34" %>
+﻿<%@ Page Title="34. Independence of Spanish America" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="The wars of independence in Spanish America starts the..." /> 
 </asp:Content>

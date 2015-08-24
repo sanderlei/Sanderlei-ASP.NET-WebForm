@@ -1,4 +1,4 @@
-﻿<%@ Page Title="12. الحضارة الرومانية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-12.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_12" %>
+﻿<%@ Page Title="12. الحضارة الرومانية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="وجاءت الحضارة الرومانية من أسس المجتمع الزراعي صغيرة على" /> 
 </asp:Content>

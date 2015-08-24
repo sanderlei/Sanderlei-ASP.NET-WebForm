@@ -1,4 +1,4 @@
-﻿<%@ Page Title="33. البرتغالي البرازيلي المملكة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-33.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_33" %>
+﻿<%@ Page Title="33. البرتغالي البرازيلي المملكة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="في نوفمبر 1807، أجبرت قوات نابليون بونابرت " /> 
 </asp:Content>

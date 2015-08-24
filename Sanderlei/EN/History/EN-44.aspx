@@ -1,4 +1,4 @@
-﻿<%@ Page Title="44. Modernism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-44.aspx.cs" Inherits="Sanderlei.EN.History.EN_44" %>
+﻿<%@ Page Title="44. Modernism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Modernism is a collection of cultural movements, schools and..." /> 
 </asp:Content>

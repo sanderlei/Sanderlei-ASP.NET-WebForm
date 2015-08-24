@@ -1,4 +1,4 @@
-﻿<%@ Page Title="52. Second Brazilian Republic (1945-1964)" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-52.aspx.cs" Inherits="Sanderlei.EN.History.EN_52" %>
+﻿<%@ Page Title="52. Second Brazilian Republic (1945-1964)" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="The period known as the New Republic starts with the..." /> 
 </asp:Content>

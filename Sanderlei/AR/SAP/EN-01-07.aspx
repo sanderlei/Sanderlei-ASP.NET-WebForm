@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="07-38 - SAP ERP Basic Concepts" Language="C#" MasterPageFile="~/AR/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
-    <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 07-38 - SAP ERP Basic Concepts " /> 
+    <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 07-38 - SAP ERP Basic Concepts  - SAP الأعمال الكل في واحد" /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 

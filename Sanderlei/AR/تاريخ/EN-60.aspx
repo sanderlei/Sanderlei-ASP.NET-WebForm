@@ -1,4 +1,4 @@
-﻿<%@ Page Title="60. الربيع العربي" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-60.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_60" %>
+﻿<%@ Page Title="60. الربيع العربي" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="الربيع العربي المعروف عالميا باسم ل" /> 
 </asp:Content>

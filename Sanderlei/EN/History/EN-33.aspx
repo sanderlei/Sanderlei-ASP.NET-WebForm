@@ -1,4 +1,4 @@
-﻿<%@ Page Title="33. Luso-Brazilian Kingdom" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-33.aspx.cs" Inherits="Sanderlei.EN.History.EN_33" %>
+﻿<%@ Page Title="33. Luso-Brazilian Kingdom" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="In November 1807, the troops of Napoleon Bonaparte forced the..." /> 
 </asp:Content>

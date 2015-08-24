@@ -1,4 +1,4 @@
-﻿<%@ Page Title="26. European Absolutism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-26.aspx.cs" Inherits="Sanderlei.EN.History.EN_26" %>
+﻿<%@ Page Title="26. European Absolutism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="It was the political party that was the greatest transformations of..." /> 
 </asp:Content>

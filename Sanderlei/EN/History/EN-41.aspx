@@ -1,4 +1,4 @@
-﻿<%@ Page Title="41. World War I" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-41.aspx.cs" Inherits="Sanderlei.EN.History.EN_41" %>
+﻿<%@ Page Title="41. World War I" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="World War I began on July 28, 1914 and lasted until..." /> 
 </asp:Content>

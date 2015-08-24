@@ -1,4 +1,4 @@
-﻿<%@ Page Title="13. منتصف العمر" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-13.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_13" %>
+﻿<%@ Page Title="13. منتصف العمر" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="في العصور الوسطى أو العصور المظلمة يبدأ مع سقوط" /> 
 </asp:Content>

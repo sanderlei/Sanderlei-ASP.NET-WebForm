@@ -1,4 +1,4 @@
-﻿<%@ Page Title="03. Prehistory" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-03.aspx.cs" Inherits="Sanderlei.EN.History.EN_03" %>
+﻿<%@ Page Title="03. Prehistory" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="The Prehistory is the period from 2.5 million years ago with..." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="51. الحرب الباردة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-51.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_51" %>
+﻿<%@ Page Title="51. الحرب الباردة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="الحرب الباردة هو الاسم الذي يطلق على" /> 
 </asp:Content>

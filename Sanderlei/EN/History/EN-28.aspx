@@ -1,4 +1,4 @@
-﻿<%@ Page Title="28. Independence of the United States" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-28.aspx.cs" Inherits="Sanderlei.EN.History.EN_28" %>
+﻿<%@ Page Title="28. Independence of the United States" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="The Independence of the United States had its roots in the..." /> 
 </asp:Content>

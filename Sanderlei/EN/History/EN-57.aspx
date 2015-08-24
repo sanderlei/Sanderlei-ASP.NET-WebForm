@@ -1,4 +1,4 @@
-﻿<%@ Page Title="57. War on Terror" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-57.aspx.cs" Inherits="Sanderlei.EN.History.EN_57" %>
+﻿<%@ Page Title="57. War on Terror" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="The War on Terror is a military initiative unleashed by the..." /> 
 </asp:Content>

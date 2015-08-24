@@ -1,4 +1,4 @@
-﻿<%@ Page Title="4. نهضة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-24.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_24" %>
+﻿<%@ Page Title="4. نهضة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="وجاءت الفترة المعروفة باسم عصر النهضة" /> 
 </asp:Content>

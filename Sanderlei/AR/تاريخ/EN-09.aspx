@@ -1,4 +1,4 @@
-﻿<%@ Page Title="09. اليونان القديمة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-09.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_09" %>
+﻿<%@ Page Title="09. اليونان القديمة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="الفترة التاريخية دعا اليونان القديمة هي" /> 
 </asp:Content>

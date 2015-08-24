@@ -1,4 +1,4 @@
-﻿<%@ Page Title="04. التاريخ القديم" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-04.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_04" %>
+﻿<%@ Page Title="04. التاريخ القديم" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="يعرف التاريخ القديم أو أفضل مع بدء العصور القديمة " /> 
 </asp:Content>

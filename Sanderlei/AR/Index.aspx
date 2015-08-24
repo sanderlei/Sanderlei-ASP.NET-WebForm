@@ -1,4 +1,4 @@
-﻿<%@ Page Title="الصفحة الرئيسية" Language="C#" MasterPageFile="~/SiteAR.Master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.AR.Index" %>
+﻿<%@ Page Title="الصفحة الرئيسية" Language="C#" MasterPageFile="~/SiteAR.Master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenu" runat="server">

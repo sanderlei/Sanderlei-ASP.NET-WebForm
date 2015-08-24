@@ -1,4 +1,4 @@
-﻿<%@ Page Title="06. Mesopotamia" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-06.aspx.cs" Inherits="Sanderlei.EN.History.EN_06" %>
+﻿<%@ Page Title="06. Mesopotamia" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="Considered the cradle of civilization, Mesopotamia was where the..." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="25. الإصلاح البروتستانتي" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-25.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_25" %>
+﻿<%@ Page Title="25. الإصلاح البروتستانتي" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="كان الإصلاح البروتستانتي الحركة التي" /> 
 </asp:Content>

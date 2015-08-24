@@ -1,4 +1,4 @@
-﻿<%@ Page Title="31. ثورة صناعية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-31.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_31" %>
+﻿<%@ Page Title="31. ثورة صناعية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="الثورة الصناعية جنبا إلى جنب مع استقلال" /> 
 </asp:Content>

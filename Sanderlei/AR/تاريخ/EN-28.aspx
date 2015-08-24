@@ -1,4 +1,4 @@
-﻿<%@ Page Title="28. استقلال الولايات المتحدة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-28.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_28" %>
+﻿<%@ Page Title="28. استقلال الولايات المتحدة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="كان استقلال الولايات المتحدة جذورها في" /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="35. American Civil War" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-35.aspx.cs" Inherits="Sanderlei.EN.History.EN_35" %>
+﻿<%@ Page Title="35. American Civil War" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content=" The American Civil War happened between the..." /> 
 </asp:Content>

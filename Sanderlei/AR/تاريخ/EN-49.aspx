@@ -1,4 +1,4 @@
-﻿<%@ Page Title="49. البرازيل - فارغاس عصر" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-49.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_49" %>
+﻿<%@ Page Title="49. البرازيل - فارغاس عصر" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="الفترة 1930-1945، من الإطاحة " /> 
 </asp:Content>

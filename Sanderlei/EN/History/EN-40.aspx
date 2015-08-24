@@ -1,4 +1,4 @@
-﻿<%@ Page Title="40. Brazilian Republic" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-40.aspx.cs" Inherits="Sanderlei.EN.History.EN_40" %>
+﻿<%@ Page Title="40. Brazilian Republic" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="On November 15, 1889, Marshal Deodoro da Fonseca decreed..." /> 
 </asp:Content>

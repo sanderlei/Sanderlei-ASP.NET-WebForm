@@ -1,4 +1,4 @@
-﻿<%@ Page Title="24. Renaissance" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-24.aspx.cs" Inherits="Sanderlei.EN.History.EN_24" %>
+﻿<%@ Page Title="24. Renaissance" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content=" The period known as the Renaissance followed the..." /> 
 </asp:Content>

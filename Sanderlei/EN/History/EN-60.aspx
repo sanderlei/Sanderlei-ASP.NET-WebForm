@@ -1,4 +1,4 @@
-﻿<%@ Page Title="60. Arab Spring" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-60.aspx.cs" Inherits="Sanderlei.EN.History.EN_60" %>
+﻿<%@ Page Title="60. Arab Spring" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content=" Arab Spring is internationally known as a" /> 
 </asp:Content>

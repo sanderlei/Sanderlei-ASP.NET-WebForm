@@ -1,4 +1,4 @@
-﻿<%@ Page Title="57. الحرب على الإرهاب" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-57.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_57" %>
+﻿<%@ Page Title="57. الحرب على الإرهاب" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="الحرب على الإرهاب هي مبادرة العسكرية التي تشنها" /> 
 </asp:Content>

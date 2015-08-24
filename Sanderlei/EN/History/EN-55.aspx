@@ -1,4 +1,4 @@
-﻿<%@ Page Title="55. BRAZIL - NEW REPUBLIC" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-55.aspx.cs" Inherits="Sanderlei.EN.History.EN_55" %>
+﻿<%@ Page Title="55. BRAZIL - NEW REPUBLIC" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="New Republic is the period in the history of..." /> 
 </asp:Content>

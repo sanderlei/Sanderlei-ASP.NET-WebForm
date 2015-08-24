@@ -1,4 +1,4 @@
-﻿<%@ Page Title="22. عصر الاستكشاف" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-22.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_22" %>
+﻿<%@ Page Title="22. عصر الاستكشاف" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="سن الاكتشاف يمثل وفاة الإقطاع من" /> 
 </asp:Content>

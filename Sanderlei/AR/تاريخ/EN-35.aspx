@@ -1,4 +1,4 @@
-﻿<%@ Page Title="35. الحرب الأهلية الأمريكية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-35.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_35" %>
+﻿<%@ Page Title="35. الحرب الأهلية الأمريكية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="حدث في الحرب الأهلية الأمريكية بين" /> 
 </asp:Content>

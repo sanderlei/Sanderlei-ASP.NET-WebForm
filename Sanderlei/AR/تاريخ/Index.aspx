@@ -1,4 +1,4 @@
-﻿<%@ Page Title="التاريخ في 1 دقيقة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.AR.تاريخ.Index" %>
+﻿<%@ Page Title="التاريخ في 1 دقيقة" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="وقالت الأحداث الكبرى 60 في تاريخ البشرية بطريقة سهلة بالنسبة لك لقراءة أي مكان." />
 </asp:Content>

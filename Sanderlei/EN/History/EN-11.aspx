@@ -1,4 +1,4 @@
-﻿<%@ Page Title="11. Greek Philosophy" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-11.aspx.cs" Inherits="Sanderlei.EN.History.EN_11" %>
+﻿<%@ Page Title="11. Greek Philosophy" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content=" Western philosophy arose in ancient Greece in the..." /> 
 </asp:Content>

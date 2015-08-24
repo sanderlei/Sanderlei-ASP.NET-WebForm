@@ -1,4 +1,4 @@
-﻿<%@ Page Title="15. الحضارة الاسلامية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-15.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_15" %>
+﻿<%@ Page Title="15. الحضارة الاسلامية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="نشأت الحضارة الإسلامية في المملكة العربية لها كما" /> 
 </asp:Content>

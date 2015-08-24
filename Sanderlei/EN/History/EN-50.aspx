@@ -1,4 +1,4 @@
-﻿<%@ Page Title="50. Descolonisation of Africa" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-50.aspx.cs" Inherits="Sanderlei.EN.History.EN_50" %>
+﻿<%@ Page Title="50. Descolonisation of Africa" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
        <meta name="description" content="In the late Middle Ages the states of Europe began to..." /> 
 </asp:Content>

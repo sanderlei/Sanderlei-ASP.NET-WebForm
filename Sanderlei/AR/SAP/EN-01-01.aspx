@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="01-38 - SAP Business All-In-One and the Midmarket Approach" Language="C#" MasterPageFile="~/AR/SiteENSAP.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
-    <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 01-38 - SAP Business All-In-One and the Midmarket Approach " /> 
+    <meta name="description" content=" SAP Business All-in-One | 01 | Solution Consultant Training | Level 1 - 01-38 - SAP Business All-In-One and the Midmarket Approach - SAP الأعمال الكل في واحد" /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 

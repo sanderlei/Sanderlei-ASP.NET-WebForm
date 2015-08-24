@@ -1,4 +1,4 @@
-﻿<%@ Page Title="21. فلسفة القرون الوسطى" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-21.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_21" %>
+﻿<%@ Page Title="21. فلسفة القرون الوسطى" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="بشكل عام، يعتبر أن فترة القرون الوسطى" /> 
 </asp:Content>

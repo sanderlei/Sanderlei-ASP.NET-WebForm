@@ -1,4 +1,4 @@
-﻿<%@ Page Title="45. الاشتراكية X الرأسمالي" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-45.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_45" %>
+﻿<%@ Page Title="45. الاشتراكية X الرأسمالي" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="الاشتراكية الحديثة نشأت في القرن الثامن عشر والفكرية" /> 
 </asp:Content>

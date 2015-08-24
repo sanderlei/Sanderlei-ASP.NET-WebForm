@@ -1,4 +1,4 @@
-﻿<%@ Page Title="14. الإمبراطورية البيزنطية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-14.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_14" %>
+﻿<%@ Page Title="14. الإمبراطورية البيزنطية" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="الإمبراطورية البيزنطية هي أول إمبراطورية كبيرة خلال" /> 
 </asp:Content>

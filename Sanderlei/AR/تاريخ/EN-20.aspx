@@ -1,4 +1,4 @@
-﻿<%@ Page Title="20. الموت الاسود" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-20.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_20" %>
+﻿<%@ Page Title="20. الموت الاسود" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="كان الموت الأسود وباء الذي قتل ثلث" /> 
 </asp:Content>

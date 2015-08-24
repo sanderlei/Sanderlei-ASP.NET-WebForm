@@ -1,4 +1,4 @@
-﻿<%@ Page Title="17. Feudalism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-17.aspx.cs" Inherits="Sanderlei.EN.History.EN_17" %>
+﻿<%@ Page Title="17. Feudalism" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content=" Feudalism was a form of social and political organization that..." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="14. Byzantine Empire" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-14.aspx.cs" Inherits="Sanderlei.EN.History.EN_14" %>
+﻿<%@ Page Title="14. Byzantine Empire" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="The Byzantine Empire is the first great Empire during the..." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="05. الدين - التاريخ القديم" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-05.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_05" %>
+﻿<%@ Page Title="05. الدين - التاريخ القديم" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="وقد بدأ الديانات الرئيسية في اليوم خلال القديمة" /> 
 </asp:Content>

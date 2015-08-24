@@ -1,4 +1,4 @@
-﻿<%@ Page Title="53. سباق الفضاء" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true" CodeBehind="EN-53.aspx.cs" Inherits="Sanderlei.AR.تاريخ.EN_53" %>
+﻿<%@ Page Title="53. سباق الفضاء" Language="C#" MasterPageFile="~/AR/SiteARHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="تاريخيا، بدأ استكشاف الفضاء مع" /> 
 </asp:Content>

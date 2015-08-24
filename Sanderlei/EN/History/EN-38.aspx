@@ -1,4 +1,4 @@
-﻿<%@ Page Title="38. BELLE EPOQUE" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true" CodeBehind="EN-38.aspx.cs" Inherits="Sanderlei.EN.History.EN_38" %>
+﻿<%@ Page Title="38. BELLE EPOQUE" Language="C#" MasterPageFile="~/EN/SiteENHistory.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="he Belle Époque was a period in European history that..." /> 
 </asp:Content>
