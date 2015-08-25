@@ -1,4 +1,4 @@
-﻿<%@ Page Title="A organização do espaço geográfico brasileiro (MS)" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true" CodeBehind="Mato-Grosso-do-Sul-Historia-Geografia-02.aspx.cs" Inherits="Sanderlei.PT.Ensino_Fundamental.Mato_Grosso_do_Sul_Historia_Geografia_02" %>
+﻿<%@ Page Title="Espaço geográfico brasileiro (MS)" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Na atualidade, o espaço geográfico do Brasil está organizado em estados. O Brasil possui 27 Unidades da Federação (UF), sendo 26 estados ... " /> 
 </asp:Content>

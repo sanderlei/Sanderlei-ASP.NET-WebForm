@@ -1,4 +1,4 @@
-﻿<%@ Page Title="O espaço geográfico e sua organização" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true" CodeBehind="Santa-Catarina-Historia-Geografia-01.aspx.cs" Inherits="Sanderlei.PT.Ensino_Fundamental.Santa_Catarina_Historia_Geografia_01" %>
+﻿<%@ Page Title="O espaço geográfico e sua organização" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="O mundo em que vivemos - Você já estudou e aprendeu a identificar as características marcantes do mundo onde vivemos, o planeta Terra, com sua ... " /> 
 </asp:Content>

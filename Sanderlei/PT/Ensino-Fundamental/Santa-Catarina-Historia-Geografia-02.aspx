@@ -1,4 +1,4 @@
-﻿<%@ Page Title="A organização do espaço geográfico brasileiro" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true" CodeBehind="Santa-Catarina-Historia-Geografia-02.aspx.cs" Inherits="Sanderlei.PT.Ensino_Fundamental.Santa_Catarina_Historia_Geografia_02" %>
+﻿<%@ Page Title="A organização do espaço geográfico brasileiro" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Na atualidade, o espaço geográfico do Brasil está organizado em estados. O Brasil possui 27 Unidades da Federação (UF), sendo 26 estados ... " /> 
 </asp:Content>

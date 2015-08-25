@@ -61,20 +61,21 @@
     	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>
                     <li><a href='/PT/Index.aspx' >Início</a></li>                   
                     <li><a href='/PT/Historia/Index' >História</a></li>
-                    <li><a href='/PT/Poesia/Index' >Poesia</a></li>
-                    <li><a href='/PT/Idioma/Index' >Curso de Idiomas</a></li>  
-                   <li><a href='/PT/AudioLivro/Index' >Áudio Livro</a></li>                                      
-                   <li><a href='/PT/Ensino-Fundamental/Index' > Ensino Fundamental (Educação)</a></li>  
-                   <li><a href='/PT/Machado-de-Assis/Index' > Machado de Assis </a></li>
-                   <li><a href='/PT/TOTVS-Datasul/Index' > TOTVS - Datasul </a></li>
-                   <li><a href='/PT/ASP-NET/Index' > ASP.NET </a></li>                   
-                   <li><a href='/PT/AudioBook/Index' >Audio Book (EN)</a></li>
-                   <li><a href='/EN/GitHub/Index' > GitHub (EN)</a></li>  
-                   <li><a href='/PT/SAP/Index' > SAP</a></li>                     
-                   <li><a href='/EN/JavaScript/Index' > JavaScript (EN)</a></li>
-                   <li><a href='/EN/Adobe/Index' > Adobe Academy (EN)</a></li>         
-                   <li><a href='/PT/Banco-de-Dados/Index' > Banco de Dados </a></li>         
-                   <li><a href='/PT/Design-Grafico/Index' > Design Gráfico </a></li>                   
+                    <li><a href='/PT/Machado-de-Assis/Index' > Machado de Assis </a></li>
+                    <li><a href='/PT/Poesia/Index' >Poesia</a></li>                     
+                    <li><a href='/PT/Idioma/Index' >Curso de Idiomas</a></li>                          
+                    <li><a href='/PT/AudioLivro/Index' >Áudio Livro</a></li>
+                    <li><a href='/PT/AudioBook/Index' >Audio Book (EN)</a></li>
+                    <li><a href='/PT/Ensino-Fundamental/Index' > Ensino Fundamental (Educação)</a></li>                     
+                    <li><a href='/EN/JavaScript/Index' > JavaScript (EN)</a></li>                                         
+                    <li><a href='/PT/ASP-NET/Index' > ASP.NET </a></li>  
+                    <li><a href='/PT/Banco-de-Dados/Index' > Banco de Dados </a></li> 
+                    <li><a href='/EN/GitHub/Index' > GitHub (EN)</a></li> 
+                    <li><a href='/PT/TOTVS-Datasul/Index' > TOTVS - Datasul </a></li>                                                          
+                    <li><a href='/EN/Adobe/Index' > Adobe Academy (EN)</a></li>                                    
+                    <li><a href='/PT/Design-Grafico/Index' > Design Gráfico </a></li>                         
+                     <li><a href='/PT/SAP/Index' > SAP</a></li>                                       
+                               
                    
                <!--    -->
                </ul>                  

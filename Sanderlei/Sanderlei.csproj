@@ -3689,6 +3689,7 @@
     <Content Include="PT\Design-Grafico\Design-Grafico-01-05.aspx" />
     <Content Include="PT\Design-Grafico\00.aspx" />
     <Content Include="PT\Design-Grafico\Index.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-03.aspx" />
     <Content Include="PT\Ensino-Fundamental\00.aspx" />
     <Content Include="PT\Ensino-Fundamental\Index.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-01.aspx" />
@@ -5637,7 +5638,7 @@
     <Content Include="FR\SiteENSAP.master" />
     <Content Include="IT\SiteENSAP.master" />
     <Content Include="JP\SiteENSAP.master" />
-    <None Include="Properties\PublishProfiles\sanderlei %28A%29.pubxml" />
+    <None Include="Properties\PublishProfiles\01-Sanderlei.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -10068,89 +10069,12 @@
     <Compile Include="PT\AudioLivro\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
-    <Compile Include="PT\Ensino-Fundamental\00.aspx.cs">
-      <DependentUpon>00.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\00.aspx.designer.cs">
-      <DependentUpon>00.aspx</DependentUpon>
-    </Compile>
     <Compile Include="PT\Ensino-Fundamental\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="PT\Ensino-Fundamental\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\lingua-portuguesa-01-01.aspx.cs">
-      <DependentUpon>lingua-portuguesa-01-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\lingua-portuguesa-01-01.aspx.designer.cs">
-      <DependentUpon>lingua-portuguesa-01-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-01.aspx.cs">
-      <DependentUpon>Mato-Grosso-do-Sul-Historia-Geografia-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-01.aspx.designer.cs">
-      <DependentUpon>Mato-Grosso-do-Sul-Historia-Geografia-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-02.aspx.cs">
-      <DependentUpon>Mato-Grosso-do-Sul-Historia-Geografia-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-02.aspx.designer.cs">
-      <DependentUpon>Mato-Grosso-do-Sul-Historia-Geografia-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-01.aspx.cs">
-      <DependentUpon>Parana-Historia-Geografia-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-01.aspx.designer.cs">
-      <DependentUpon>Parana-Historia-Geografia-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-02.aspx.cs">
-      <DependentUpon>Parana-Historia-Geografia-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-02.aspx.designer.cs">
-      <DependentUpon>Parana-Historia-Geografia-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-01.aspx.cs">
-      <DependentUpon>Santa-Catarina-Historia-Geografia-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-01.aspx.designer.cs">
-      <DependentUpon>Santa-Catarina-Historia-Geografia-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-02.aspx.cs">
-      <DependentUpon>Santa-Catarina-Historia-Geografia-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-02.aspx.designer.cs">
-      <DependentUpon>Santa-Catarina-Historia-Geografia-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-03.aspx.cs">
-      <DependentUpon>Santa-Catarina-Historia-Geografia-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-03.aspx.designer.cs">
-      <DependentUpon>Santa-Catarina-Historia-Geografia-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-01.aspx.cs">
-      <DependentUpon>Sao-Paulo-Historia-Geografia-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-01.aspx.designer.cs">
-      <DependentUpon>Sao-Paulo-Historia-Geografia-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-02.aspx.cs">
-      <DependentUpon>Sao-Paulo-Historia-Geografia-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-02.aspx.designer.cs">
-      <DependentUpon>Sao-Paulo-Historia-Geografia-02.aspx</DependentUpon>
     </Compile>
     <Compile Include="PT\Historia\BR-01.aspx.cs">
       <DependentUpon>BR-01.aspx</DependentUpon>

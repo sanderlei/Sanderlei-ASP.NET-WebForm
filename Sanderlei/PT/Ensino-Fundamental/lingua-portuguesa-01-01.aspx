@@ -1,4 +1,4 @@
-﻿<%@ Page Title="A genialidade de Drummond" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true" CodeBehind="lingua-portuguesa-01-01.aspx.cs" Inherits="Sanderlei.PT.Ensino_Fundamental.lingua_portuguesa_01_01" %>
+﻿<%@ Page Title="A genialidade de Drummond" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" A luminosa trajetória do gênio que se distinguiu pelo recato e se tornou imortal sem precisar da Academia. ... " /> 
 </asp:Content>

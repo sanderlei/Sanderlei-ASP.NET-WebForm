@@ -36,8 +36,10 @@
 
           <h2 class='text-center' > Machado de Assis </h2>
            <br /> 
-           <img class="img-responsive" style="margin:0 auto;" src="img/machado-001.jpg" width="366" height="450" alt="Machado de Assis"/>        
+           <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/machado-de-assis/machado-001.jpg" width="366" height="450" alt="Machado de Assis"/>        
            <br /> 
+          <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/index/machado-de-assis/Machado-de-Assis-Assinatura.png" width="242" height="39" alt="Machado de Assis"/>        
+          <br /> 
 
        <div class="table-responsive">          
   <table class="table"> 

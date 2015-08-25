@@ -1,4 +1,4 @@
-﻿<%@ Page Title="A representação do espaço catarinense" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true" CodeBehind="Santa-Catarina-Historia-Geografia-03.aspx.cs" Inherits="Sanderlei.PT.Ensino_Fundamental.Santa_Catarina_Historia_Geografia_03" %>
+﻿<%@ Page Title="A representação do espaço catarinense" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="  Diversos municípios formam um estado e todos os estados formam o país.  Cada estado brasileiro ocupa um território ..." /> 
 </asp:Content>

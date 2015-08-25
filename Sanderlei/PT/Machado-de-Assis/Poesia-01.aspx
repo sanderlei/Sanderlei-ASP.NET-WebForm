@@ -34,25 +34,35 @@
 <a href="#p3"><p>QUINZE ANOS </p></a>
 <a href="#p4"><p>STELLA </p></a>
 <a href="#p5"><p>EPITÁFIO DO MÉXICO </p></a>
-<p>POLÔNIA </p>
-<p>ERRO ELEGIA </p>
-<p>SINHÁ </p>
-<p>HORAS VIVAS </p>
-<p>VERSOS A CORINA </p>
-<p>ÚLTIMA FOLHA </p>
+<a href="#p6"><p>POLÔNIA </p></a>
+<a href="#p7"><p>ERRO </p></a>
+<a href="#p8"><p>ELEGIA </p></a>
+<a href="#p9"><p>SINHÁ </p></a>
+<a href="#p10"><p>HORAS VIVAS </p></a>
+<a href="#p11"><p>VERSOS A CORINA </p></a>
+<a href="#p12"><p>ÚLTIMA FOLHA </p></a>
 <br />
-<h5><strong> POEMAS PRESENTES NA PRIMEIRA EDIÇÃO </strong></h5>
+<h3><strong> POEMAS PRESENTES NA PRIMEIRA EDIÇÃO </strong></h3>
 <br />
-<p>LÚCIA </p>
-<p>O DILÚVIO </p>
-<p>FÉ </p>
-<p>A CARIDADE </p>
-<p>A JOVEM CATIVA</p> 
-<p>NO LIMIAR </p>
-<p>ASPIRAÇÃO </p>
-<p>CLEÓPATRA </p>
+<a href="#p13"><p>LÚCIA </p></a>
+<a href="#p14"><p>O DILÚVIO </p></a>
+<a href="#p15"><p>FÉ </p></a>
+<a href="#p16"><p>A CARIDADE </p></a>
+<a href="#p17"><p>A JOVEM CATIVA</p> </a>
+<a href="#p18"><p>NO LIMIAR </p></a>
+<a href="#p19"><p>ASPIRAÇÃO </p></a>
+<a href="#p20"><p>CLEÓPATRA </p></a>
 <br />
-<p>OS ARLEQUINS AS ONDINAS MARIA DUPLESSIS AS ROSAS OS DOUS HORIZONTES MONTE ALVERNE AS VENTOINHAS ALPUJARRA EMBIRRAÇÃO POSFÁCIO </p>
+<a href="#p21"><p>OS ARLEQUINS </p></a>
+<a href="#p22"><p>    AS ONDINAS </p></a>
+    <a href="#p23"><p>MARIA DUPLESSIS </p></a>
+    <a href="#p24"><p>AS ROSAS </p></a>
+    <a href="#p25"><p>OS DOUS HORIZONTES </p></a>
+    <a href="#p26"><p>MONTE ALVERNE </p></a>
+    <a href="#p27"><p>AS VENTOINHAS </p></a>
+    <a href="#p28"><p>ALPUJARRA </p></a>
+    <a href="#p29"><p>EMBIRRAÇÃO </p></a>
+    <a href="#p30"><p>POSFÁCIO </p></a>
 
 <br />            <hr /> <br />
             
@@ -100,359 +110,325 @@
 
 <H3 id="p2" class='text-center'>VISIO </H3>
 <br />
-<p>Eras pálida. E os cabelos, 
-Aéreos, soltos novelos 
-Sobre as espáduas caíam... 
-Os olhos meio cerrados 
-De volúpia e de ternura 
-Entre lágrimas luziam... 
-E os braços entrelaçados, 
-Como cingindo a ventura, 
-Ao teu seio me cingiam... 
-</p>
-
-<p>Depois, naquele delírio, 
-Suave, doce martírio 
-De pouquíssimos instantes 
-Os teus lábios sequiosos, 
-Frios, trêmulos, trocavam 
-Os beijos mais delirantes, 
-E no supremo dos gozos 
-Ante os anjos se casavam 
-Nossas almas palpitantes... 
-</p>
-
-<p> Depois... depois a verdade, 
-A fria realidade, 
-A solidão, a tristeza; 
-Daquele sonho desperto, 
-Olhei... silêncio de morte 
-Respirava a natureza, — 
-Era a terra, era o deserto, 
-Fora-se o doce transporte, 
-Restava a fria certeza. 
-</p>
-
-<p>Desfizera-se a mentira: 
-Tudo aos meus olhos fugira, 
-Tu e o teu olhar ardente, 
-Lábios trêmulos e frios, 
-O abraço longo e apertado, 
-O beijo doce e veemente; 
-Restavam meus desvarios, 
-E o incessante cuidado, 
-E a fantasia doente. 
-</p>
-
-<p>E agora te vejo. E fria 
-Tão outra estás da que eu via 
-Naquele sonho encantado!
-És outra, calma, discreta, 
-Com o olhar indiferente, 
-Tão outro do olhar sonhado, 
-Que a minha alma de poeta 
-Não se vê a imagem presente 
-Foi a visão do passado. 
-</p>
-
-<p>Foi, sim, mas visão apenas; 
-Daquelas visões amenas 
-Que à mente dos infelizes 
-Descem vivas e animadas, 
-Cheias de luz e esperança 
-E de celestes matizes: 
-Mas, apenas dissipadas, 
-Fica uma leve lembrança, 
-Não ficam outras raízes. 
-</p>
-
-<p>Inda assim, embora sonho, 
-Mas, sonho doce e risonho, 
-Desse-me Deus que fingida 
-Tivesse aquela ventura 
-Noite por noite, hora a hora, 
-No que me resta de vida, 
-Que, já livre da amargura, 
-Alma, que em dores me chora, 
-Chorara de agradecida! 
-</p>
+<p>Eras pálida. E os cabelos, </p>
+<p>Aéreos, soltos novelos </p>
+<p>Sobre as espáduas caíam... </p>
+<p>Os olhos meio cerrados </p>
+<p>De volúpia e de ternura </p>
+<p>Entre lágrimas luziam... </p>
+<p>E os braços entrelaçados, </p>
+<p>Como cingindo a ventura, </p>
+<p>Ao teu seio me cingiam... </p>
+ <br />
+<p>Depois, naquele delírio, </p>
+<p>Suave, doce martírio </p>
+<p>De pouquíssimos instantes </p>
+<p>Os teus lábios sequiosos, </p>
+<p>Frios, trêmulos, trocavam </p>
+<p>Os beijos mais delirantes, </p>
+<p>E no supremo dos gozos </p>
+<p>Ante os anjos se casavam </p>
+<p>Nossas almas palpitantes... </p>
+             <br />
+<p> Depois... depois a verdade, </p>
+<p>A fria realidade, </p>
+<p>A solidão, a tristeza; </p>
+<p>Daquele sonho desperto, </p>
+<p>Olhei... silêncio de morte </p>
+<p>Respirava a natureza, — </p>
+<p>Era a terra, era o deserto, </p>
+<p>Fora-se o doce transporte, </p>
+<p>Restava a fria certeza. </p>
+             <br />
+<p>Desfizera-se a mentira: </p>
+<p>Tudo aos meus olhos fugira, </p>
+<p>Tu e o teu olhar ardente, </p>
+<p>Lábios trêmulos e frios, </p>
+<p>O abraço longo e apertado, </p>
+<p>O beijo doce e veemente; </p>
+<p>Restavam meus desvarios, </p>
+<p>E o incessante cuidado, </p>
+<p>E a fantasia doente. </p>
+             <br />
+<p>E agora te vejo. E fria </p>
+<p>Tão outra estás da que eu via </p>
+<p>Naquele sonho encantado!</p>
+<p>És outra, calma, discreta, </p>
+<p>Com o olhar indiferente, </p>
+<p>Tão outro do olhar sonhado, </p>
+<p>Que a minha alma de poeta </p>
+<p>Não se vê a imagem presente </p>
+<p>Foi a visão do passado. </p>
+             <br />
+<p>Foi, sim, mas visão apenas;</p> 
+<p>Daquelas visões amenas </p>
+<p>Que à mente dos infelizes </p>
+<p>Descem vivas e animadas, </p>
+<p>Cheias de luz e esperança </p>
+<p>E de celestes matizes: </p>
+<p>Mas, apenas dissipadas, </p>
+<p>Fica uma leve lembrança, </p>
+<p>Não ficam outras raízes. </p>
+             <br />
+<p>Inda assim, embora sonho, </p>
+<p>Mas, sonho doce e risonho, </p>
+<p>Desse-me Deus que fingida </p>
+<p>Tivesse aquela ventura </p>
+<p>Noite por noite, hora a hora,</p> 
+<p>No que me resta de vida, </p>
+<p>Que, já livre da amargura, </p>
+<p>Alma, que em dores me chora, </p>
+<p>Chorara de agradecida! </p>
 
 <br />   <hr /><br />
 
 <H3 id="p3" class='text-center'>QUINZE ANOS </H3>
 <br />
 
-<p>Oh! la fleur de l'Eden, pourquoi l'as-tu 
-fannée, 
-Insouciant enfant, belle Eve aux blonds 
-cheveux! 
-</p>
-
+<p>Oh! la fleur de l'Eden, pourquoi l'as-tu </p>
+<p>fannée, </p>
+<p>Insouciant enfant, belle Eve aux blonds </p>
+<p>cheveux! </p>
+             <br />
 <p>ALFRED DE MUSSET </p>
-
-<p>Era uma pobre criança... 
-— Pobre criança, se o eras! — 
-Entre as quinze primaveras 
-De sua vida cansada 
-Nem uma flor de esperança 
-Abria a medo. Eram rosas 
-Que a doida da esperdiçada 
-Tão festivas, tão formosas, 
-Desfolhava pelo chão. 
-— Pobre criança, se o eras! — 
-Os carinhos mal gozados 
-Eram por todos comprados, 
-Que os afetos de sua alma 
-Havia-os levado à feira, 
-Onde vendera sem pena 
-Até a ilusão primeira 
-Do seu doido coração! 
-</p>
-
-<p>Pouco antes, a candura, 
-Coas brancas asas abertas, 
-Em um berço de ventura 
-A criança acalentava 
-Na santa paz do Senhor; 
-Para acordá-la era cedo, 
-E a pobre ainda dormia 
-Naquele mudo segredo 
-</p>
-
-<p>Que só abre o seio um dia 
-Para dar entrada a amor. 
-</p>
-
-<p>Mas, por teu mal, acordaste! 
-Junto do berço passou-te 
-A festiva melodia 
-Da sedução... e acordou-te! 
-Colhendo as límpidas asas, 
-O anjo que te velava 
-Nas mãos trêmulas e frias 
-Fechou o rosto... chorava! 
-</p>
-
-<p>Tu, na sede dos amores, 
-Colheste todas as flores 
-Que nas orlas do caminho 
-Foste encontrando ao passar; 
-Por elas, um só espinho 
-Não te feriu... vais andando... 
-Corre, criança, até quando 
-Fores forçada a parar! 
-</p>
-
-<p>Então, desflorada a alma 
-De tanta ilusão, perdida 
-Aquela primeira calma 
-Do teu sono de pureza; 
-Esfolhadas, uma a uma, 
-Essas rosas de beleza 
-Que se esvaem como a escuma 
-Que a vaga cospe na praia 
-E que por si se desfaz; 
-</p>
-
-<p>Então, quando nos teus olhos 
-Uma lágrima buscares, 
-E secos, secos de febre, 
-Uma só não encontrares 
-Das que em meio das angústias 
-São um consolo e uma paz; 
-</p>
-
-<p>Então, quando o frio 'spectro 
-Do abandono e da penúria 
-Vier aos teus sofrimentos 
-Juntar a última injúria: 
-E que não vires ao lado 
-Um rosto, um olhar amigo 
-Daqueles que são agora 
-Os desvelados contigo; 
-</p>
-
-<p>Criança, verás o engano 
-E o erro dos sonhos teus; 
-E dirás, — então já tarde, — 
-Que por tais gozos não vale 
-Deixar os braços de Deus. 
-</p>
+             <br />
+<p>Era uma pobre criança... </p>
+<p>— Pobre criança, se o eras! — </p>
+<p>Entre as quinze primaveras </p>
+<p>De sua vida cansada </p>
+<p>Nem uma flor de esperança </p>
+<p>Abria a medo. Eram rosas </p>
+<p>Que a doida da esperdiçada </p>
+<p>Tão festivas, tão formosas, </p>
+<p>Desfolhava pelo chão. </p>
+<p>— Pobre criança, se o eras! — </p>
+<p>Os carinhos mal gozados </p>
+<p>Eram por todos comprados, </p>
+<p>Que os afetos de sua alma </p>
+<p>Havia-os levado à feira, </p>
+<p>Onde vendera sem pena </p>
+<p>Até a ilusão primeira </p>
+<p>Do seu doido coração! </p>
+             <br />
+<p>Pouco antes, a candura, </p>
+<p>Coas brancas asas abertas, </p>
+<p>Em um berço de ventura </p>
+<p>A criança acalentava </p>
+<p>Na santa paz do Senhor; </p>
+<p>Para acordá-la era cedo, </p>
+<p>E a pobre ainda dormia </p>
+<p>Naquele mudo segredo </p>
+             <br />
+<p>Que só abre o seio um dia </p>
+<p>Para dar entrada a amor. </p>
+             <br />
+<p>Mas, por teu mal, acordaste! </p>
+<p>Junto do berço passou-te </p>
+<p>A festiva melodia </p>
+<p>Da sedução... e acordou-te! </p>
+<p>Colhendo as límpidas asas, </p>
+<p>O anjo que te velava </p>
+<p>Nas mãos trêmulas e frias </p>
+<p>Fechou o rosto... chorava! </p>
+             <br />
+<p>Tu, na sede dos amores, </p>
+<p>Colheste todas as flores </p>
+<p>Que nas orlas do caminho </p>
+<p>Foste encontrando ao passar;</p> 
+<p>Por elas, um só espinho </p>
+<p>Não te feriu... vais andando... </p>
+<p>Corre, criança, até quando </p>
+<p>Fores forçada a parar! </p>
+             <br />
+<p>Então, desflorada a alma </p>
+<p>De tanta ilusão, perdida </p>
+<p>Aquela primeira calma </p>
+<p>Do teu sono de pureza; </p>
+<p>Esfolhadas, uma a uma, </p>
+<p>Essas rosas de beleza </p>
+<p>Que se esvaem como a escuma </p>
+<p>Que a vaga cospe na praia </p>
+<p>E que por si se desfaz; </p>
+             <br />
+<p>Então, quando nos teus olhos </p>
+<p>Uma lágrima buscares, </p>
+<p>E secos, secos de febre, </p>
+<p>Uma só não encontrares </p>
+<p>Das que em meio das angústias </p>
+<p>São um consolo e uma paz; </p>
+             <br />
+<p>Então, quando o frio 'spectro </p>
+<p>Do abandono e da penúria </p>
+<p>Vier aos teus sofrimentos </p>
+<p>Juntar a última injúria: </p>
+<p>E que não vires ao lado </p>
+<p>Um rosto, um olhar amigo </p>
+<p>Daqueles que são agora </p>
+<p>Os desvelados contigo; </p>
+             <br />
+<p>Criança, verás o engano </p>
+<p>E o erro dos sonhos teus; </p>
+<p>E dirás, — então já tarde, — </p>
+<p>Que por tais gozos não vale </p>
+<p>Deixar os braços de Deus. </p>
 
 <br />   <hr /><br />
 <H3 id="p4" class='text-center'>STELLA  </H3>
 <br />
-         
+          <br />
 <p>Já raro e mais escasso </p>
 
-<p>A noite arrasta o manto, 
-E verte o último pranto 
-Por todo o vasto espaço. 
-</p>
-
-<p>Tíbio clarão já cora 
-A tela do horizonte, 
-E já de sobre o monte 
-Vem debruçar-se a aurora. 
-</p>
-
-<p>À muda e torva irmã, 
-Dormida de cansaço, 
-Lá vem tomar o espaço 
-A virgem da manhã. 
-</p>
-
-<p>Uma por uma, vão 
-As pálidas estrelas, 
-E vão, e vão com elas 
-Teus sonhos, coração. 
-</p>
-
-<p>Mas tu, que o devaneio 
-Inspiras do poeta, 
-Não vês que a vaga inquieta 
-Abre-te o úmido seio? 
-</p>
-
-<p>Vai. Radioso e ardente, 
-Em breve o astro do dia, 
-Rompendo a névoa fria, 
-Virá do roxo oriente. 
-</p>
-
-<p>Dos íntimos sonhares 
-Que a noite protegera, 
-De tanto que eu vertera, 
-Em lágrimas a pares, 
-</p>
-
-<p>Do amor silencioso, 
-Místico, doce, puro, 
-Dos sonhos de futuro, 
-Da paz, do etéreo gozo, 
-</p>
-
-<p>De tudo nos desperta 
-Luz de importuno dia; 
-Do amor que tanto a enchia 
-Minha alma está deserta. 
-</p>
-
-<p>A virgem da manhã 
-Já todo o céu domina... 
-Espero-te, divina, 
-Espero-te, amanhã. 
-</p>
+<p>A noite arrasta o manto, </p>
+<p>E verte o último pranto </p>
+<p>Por todo o vasto espaço. </p>
+             <br />
+<p>Tíbio clarão já cora </p>
+<p>A tela do horizonte, </p>
+<p>E já de sobre o monte </p>
+<p>Vem debruçar-se a aurora. </p>
+             <br />
+<p>À muda e torva irmã, </p>
+<p>Dormida de cansaço, </p>
+<p>Lá vem tomar o espaço </p>
+<p>A virgem da manhã. </p>
+             <br />
+<p>Uma por uma, vão </p>
+<p>As pálidas estrelas, </p>
+<p>E vão, e vão com elas </p>
+<p>Teus sonhos, coração. </p>
+             <br />
+<p>Mas tu, que o devaneio </p>
+<p>Inspiras do poeta, </p>
+<p>Não vês que a vaga inquieta </p>
+<p>Abre-te o úmido seio? </p>
+             <br />
+<p>Vai. Radioso e ardente, </p>
+<p>Em breve o astro do dia, </p>
+<p>Rompendo a névoa fria, </p>
+<p>Virá do roxo oriente. </p>
+             <br />
+<p>Dos íntimos sonhares </p>
+<p>Que a noite protegera, </p>
+<p>De tanto que eu vertera,</p> 
+<p>Em lágrimas a pares, </p>
+             <br />
+<p>Do amor silencioso, </p>
+<p>Místico, doce, puro, </p>
+<p>Dos sonhos de futuro, </p>
+<p>Da paz, do etéreo gozo, </p>
+             <br />
+<p>De tudo nos desperta </p>
+<p>Luz de importuno dia; </p>
+<p>Do amor que tanto a enchia </p>
+<p>Minha alma está deserta. </p>
+             <br />
+<p>A virgem da manhã </p>
+<p>Já todo o céu domina... </p>
+<p>Espero-te, divina, </p>
+<p>Espero-te, amanhã. </p>
 
 <br />   <hr /><br />
 <H3 id="p5" class='text-center'>EPITÁFIO DO MÉXICO   </H3>
 <br />
 
 <p>Dobra o joelho: — é um túmulo. Embaixo amortalhado Jaz o cadáver tépido De um povo aniquilado; A prece melancólica </p>
-
-<p>Reza-lhe em torno à cruz. 
-</p>
-
-<p>Ante o universo atônito 
-Abriu-se a estranha liça, 
-Travou-se a luta férvida 
-Da força e da justiça; 
-Contra a justiça, ó século, 
-Venceu a espada e o obus. 
-</p>
-
-<p>Venceu a força indômita; 
-Mas a infeliz vencida 
-A mágoa, a dor, o ódio, 
-Na face envilecida 
-Cuspiu-lhe. E a eterna mácula 
-Seus louros murchará. 
-</p>
-
-<p>E quando a voz fatídica 
-Da santa liberdade 
-Vier em dias prósperos 
-Clamar à humanidade, 
-Então revivo o México 
-Da campa surgirá. 
-</p>
+             <br />
+<p>Reza-lhe em torno à cruz. </p>
+             <br />
+<p>Ante o universo atônito </p>
+<p>Abriu-se a estranha liça, </p>
+<p>Travou-se a luta férvida </p>
+<p>Da força e da justiça; </p>
+<p>Contra a justiça, ó século, </p>
+<p>Venceu a espada e o obus. </p>
+             <br />
+<p>Venceu a força indômita; </p>
+<p>Mas a infeliz vencida </p>
+<p>A mágoa, a dor, o ódio,</p> 
+<p>Na face envilecida </p>
+<p>Cuspiu-lhe. E a eterna mácula </p>
+<p>Seus louros murchará. </p>
+             <br />
+<p>E quando a voz fatídica</p> 
+<p>Da santa liberdade </p>
+<p>Vier em dias prósperos </p>
+<p>Clamar à humanidade, </p>
+<p>Então revivo o México </p>
+<p>Da campa surgirá. </p>
 
 
 
-<H5>POLÔNIA </H5>
+<br />   <hr /><br />
+<H3 id="p6" class='text-center'>POLÔNIA  </H3>
+<br />
+
 
 <p>E ao terceiro dia a alma deve voltar ao corpo, e a nação ressuscitará. </p>
-
+             <br />
 <p>MICKIEWICZ </p>
-
-<p>Como aurora de um dia desejado, 
-Clarão suave o horizonte inunda. 
-É talvez a manhã. A noite amarga 
-Como que chega ao termo; e o sol dos livres, 
-Cansado de te ouvir o inútil pranto, 
-Alfim ressurge no dourado Oriente. 
-</p>
-
-<p>Eras livre, — tão livre como as águas 
-Do teu formoso, celebrado rio; 
-</p>
-
+             <br />
+<p>Como aurora de um dia desejado, </p>
+<p>Clarão suave o horizonte inunda. </p>
+<p>É talvez a manhã. A noite amarga </p>
+<p>Como que chega ao termo; e o sol dos livres, </p>
+<p>Cansado de te ouvir o inútil pranto, </p>
+<p>Alfim ressurge no dourado Oriente. </p>
+             <br />
+<p>Eras livre, — tão livre como as águas </p>
+<p>Do teu formoso, celebrado rio; </p>
+             <br />
 <p>A coroa dos tempos Cingia-te a cabeça veneranda; E a desvelada mãe, a irmã cuidosa, </p>
 
 <p>A santa liberdade, Como junto de um berço precioso,À porta dos teus lares vigiava. </p>
-
-<p>Eras feliz demais, demais formosa; 
-A sanhuda cobiça dos tiranos 
-Veio enlutar teus venturosos dias... 
-Infeliz! a medrosa liberdade 
-Em face dos canhões espavorida 
-Aos reis abandonou teu chão sagrado; 
-</p>
-
+             <br />
+<p>Eras feliz demais, demais formosa; </p>
+<p>A sanhuda cobiça dos tiranos </p>
+<p>Veio enlutar teus venturosos dias... </p>
+<p>Infeliz! a medrosa liberdade </p>
+<p>Em face dos canhões espavorida </p>
+<p>Aos reis abandonou teu chão sagrado; </p>
+             <br />
 <p>Sobre ti, moribunda, Viste cair os duros opressores: Tal a gazela que percorre os campos, </p>
 
 <p>Se o caçador a fere, </p>
 
 <p>Cai convulsa de dor em mortais ânsias, E vê no extremo arranco Abater-se sobre ela </p>
-
-<p>Escura nuvem de famintos corvos. 
-Presa uma vez da ira dos tiranos, 
-Os membros retalhou-te 
-Dos senhores a esplêndida cobiça; 
-Em proveito dos reis a terra livre 
-Foi repartida, e os filhos teus — escravos — 
-Viram descer um véu de luto à pátria 
-E apagar-se na história a glória tua. 
-</p>
-
-<p>A glória, não! — É glória o cativeiro, 
-Quando a cativa, como tu, não perde 
-A aliança de Deus, a fé que alenta, 
-E essa união universal e muda 
-Que faz comuns a dor, o ódio, a esperança. 
-Um dia, quando o cálice da amargura, 
-Mártir, até às fezes esgotaste, 
-Longo tremor correu as fibras tuas; 
-Em teu ventre de mãe, a liberdade 
-Parecia soltar esse vagido 
-Que faz rever o céu no olhar materno; 
-Teu coração estremeceu; teus lábios 
-Trêmulos de ansiedade e de esperança, 
-Buscaram aspirar a longos tragos 
-A vida nova nas celestes auras. 
-</p>
-
+             <br />
+<p>Escura nuvem de famintos corvos. </p>
+<p>Presa uma vez da ira dos tiranos, </p>
+<p>Os membros retalhou-te </p>
+<p>Dos senhores a esplêndida cobiça; </p>
+<p>Em proveito dos reis a terra livre </p>
+<p>Foi repartida, e os filhos teus — escravos — </p>
+<p>Viram descer um véu de luto à pátria </p>
+<p>E apagar-se na história a glória tua. </p>
+             <br />
+<p>A glória, não! — É glória o cativeiro, </p>
+<p>Quando a cativa, como tu, não perde </p>
+<p>A aliança de Deus, a fé que alenta, </p>
+<p>E essa união universal e muda </p>
+<p>Que faz comuns a dor, o ódio, a esperança. </p>
+<p>Um dia, quando o cálice da amargura, </p>
+<p>Mártir, até às fezes esgotaste, </p>
+<p>Longo tremor correu as fibras tuas; </p>
+<p>Em teu ventre de mãe, a liberdade </p>
+<p>Parecia soltar esse vagido </p>
+<p>Que faz rever o céu no olhar materno; </p>
+<p>Teu coração estremeceu; teus lábios </p>
+<p>Trêmulos de ansiedade e de esperança, </p>
+<p>Buscaram aspirar a longos tragos</p> 
+<p>A vida nova nas celestes auras. </p>
+             <br />
 <p>Então surgiu Kosciusko; Pela mão do Senhor vinha tocado; A fé no coração, a espada em punho, E na ponta da espada a torva morte, Chamou aos campos a nação caída. De novo entre o direito e a força bruta Empenhou-se o duelo atroz e infausto </p>
 
 <p>Que a triste humanidade Inda verá por séculos futuros. Foi longa a luta; os filhos dessa terra Ah! não pouparam nem valor nem sangue! A mãe via partir sem pranto os filhos, A irmã o irmão, a esposa o esposo, </p>
 
 <p>E todas abençoavam A heróica legião que ia à conquista Do grande livramento. </p>
-
+             <br />
 <p>Coube às hostes da força 
-Da pugna o alto prêmio; 
-A opressão jubilosa 
-</p>
-
+<p>Da pugna o alto prêmio; 
+<p>A opressão jubilosa </p>
+             <br />
 <p>Cantou essa vitória de ignomínia; E de novo, ó cativa, o véu de luto Correu sobre teu rosto! </p>
 
 <p>Deus continha Em suas mãos o sol da liberdade, E inda não quis que nesse dia infausto Teu macerado corpo alumiasse. Resignada à dor e ao infortúnio, A mesma fé, o mesmo amor ardente </p>
@@ -468,88 +444,85 @@ A opressão jubilosa
 <p>Não ama a liberdade Quem não chora contigo as dores tuas; E não pede, e não ama, e não deseja Tua ressurreição, finada heróica! </p>
 
             <br />
-
-<H5>ERRO </H5>
-            <br />
-<p>Erro é teu. Amei-te um dia 
-Com esse amor passageiro 
-Que nasce na fantasia 
-E não chega ao coração; 
-Não foi amor, foi apenas 
-Uma ligeira impressão; 
-Um querer indiferente, 
-Em tua presença, vivo, 
-Morto, se estavas ausente, 
-E se ora me vês esquivo, 
-Se, como outrora, não vês 
-Meus incensos de poeta 
-Ir eu queimar a teus pés,
-É que, — como obra de um dia, 
-Passou-me essa fantasia. 
-</p>
-
-<p>Para eu amar-te devias 
-Outra ser e não como eras. 
-Tuas frívolas quimeras, 
-Teu vão amor de ti mesma, 
-Essa pêndula gelada 
-Que chamavas coração, 
-Eram bem fracos liames 
-Para que a alma enamorada 
-Me conseguissem prender; 
-Foram baldados tentames, 
-Saiu contra ti o azar, 
-E embora pouca, perdeste 
-A glória de me arrastar 
-Ao teu carro... Vãs quimeras! 
-Para eu amar-te devias 
-Outra ser e não como eras... 
-</p>
-
+<br />   <hr /><br />
+<H3 id="p7" class='text-center'>ERRO  </H3>
+<br />
 
             <br />
-<H5>ELEGIA </H5>
-            <br />
+<p>Erro é teu. Amei-te um dia </p>
+<p>Com esse amor passageiro </p>
+<p>Que nasce na fantasia </p>
+<p>E não chega ao coração; </p>
+<p>Não foi amor, foi apenas </p>
+<p>Uma ligeira impressão; </p>
+<p>Um querer indiferente, </p>
+<p>Em tua presença, vivo, </p>
+<p>Morto, se estavas ausente, </p>
+<p>E se ora me vês esquivo, </p>
+<p>Se, como outrora, não vês </p>
+<p>Meus incensos de poeta </p>
+<p>Ir eu queimar a teus pés,</p>
+<p>É que, — como obra de um dia,</p> 
+<p>Passou-me essa fantasia. </p>
+             <br />
+<p>Para eu amar-te devias </p>
+<p>Outra ser e não como eras. </p>
+<p>Tuas frívolas quimeras, </p>
+<p>Teu vão amor de ti mesma, </p>
+<p>Essa pêndula gelada </p>
+<p>Que chamavas coração, </p>
+<p>Eram bem fracos liames </p>
+<p>Para que a alma enamorada </p>
+<p>Me conseguissem prender; </p>
+<p>Foram baldados tentames, </p>
+<p>Saiu contra ti o azar, </p>
+<p>E embora pouca, perdeste </p>
+<p>A glória de me arrastar </p>
+<p>Ao teu carro... Vãs quimeras! </p>
+<p>Para eu amar-te devias </p>
+<p>Outra ser e não como eras... </p>
+
+<br />   <hr /><br />
+<H3 id="p8" class='text-center'>ELEGIA  </H3>
+<br />
+            
 <p>A bondade choremos inocente 
-Cortada em flor que, pela mão da morte, 
-Nos foi arrebatada dentre a gente. 
-</p>
-
+<p>Cortada em flor que, pela mão da morte, 
+<p>Nos foi arrebatada dentre a gente. </p>
+             <br />
 <p>CAMÕES — Elegias </p>
-
+             <br />
 <p>Se, como outrora, nas florestas virgens, Nos fosse dado — o esquife que te encerra Erguer a um galho de árvore frondosa Certo não tinhas um melhor jazigo Do que ali, ao ar livre, entre os perfumes Da florente estação, imagem viva De teus cortados dias, e mais perto </p>
-
+             <br />
 <p>Do clarão das estrelas. </p>
-
-<p>Sobre teus pobres e adorados restos, 
-Piedosa, a noite ali derramaria 
-De seus negros cabelos puro orvalho
-À beira do teu último jazigo 
-Os alados cantores da floresta 
-Iriam sempre modular seus cantos; 
-Nem letra, nem lavor de emblema humano, 
-Relembraria a mocidade morta; 
-Bastava só que ao coração materno, 
-Ao do esposo, ao dos teus, ao dos amigos, 
-Um aperto, uma dor, um pranto oculto, 
-Dissesse: — Dorme aqui, perto dos anjos, 
-A cinza de quem foi gentil transunto 
-</p>
-
+             <br />
+<p>Sobre teus pobres e adorados restos,</p> 
+<p>Piedosa, a noite ali derramaria </p>
+<p>De seus negros cabelos puro orvalho</p>
+<p>À beira do teu último jazigo </p>
+<p>Os alados cantores da floresta </p>
+<p>Iriam sempre modular seus cantos; </p>
+<p>Nem letra, nem lavor de emblema humano, </p>
+<p>Relembraria a mocidade morta; </p>
+<p>Bastava só que ao coração materno, </p>
+<p>Ao do esposo, ao dos teus, ao dos amigos, </p>
+<p>Um aperto, uma dor, um pranto oculto, </p>
+<p>Dissesse: — Dorme aqui, perto dos anjos, </p>
+<p>A cinza de quem foi gentil transunto </p>
+             <br />
 <p>De virtudes e graças. </p>
-
+             <br />
 <p>Mal havia transposto da existência Os dourados umbrais; a vida agora Sorria-lhe toucada dessas flores Que o amor, que o talento e a mocidade</p>
-
+             <br />
 <p>À uma repartiam. </p>
-
-<p>Tudo lhe era presságio alegre e doce; 
-Uma nuvem sequer não sombreava, 
-Em sua fronte, o íris da esperança; 
-Era, enfim, entre os seus a cópia viva 
-Dessa ventura que os mortais almejam, 
-E que raro a fortuna, avessa ao homem. 
-</p>
-
+             <br />
+<p>Tudo lhe era presságio alegre e doce; </p>
+<p>Uma nuvem sequer não sombreava, </p>
+<p>Em sua fronte, o íris da esperança; </p>
+<p>Era, enfim, entre os seus a cópia viva </p>
+<p>Dessa ventura que os mortais almejam, </p>
+<p>E que raro a fortuna, avessa ao homem. </p>
+             <br />
 <p>Deixa gozar na terra. </p>
 
 <p>Mas eis que o anjo pálido da morte A pressentiu feliz e bela e pura, E, abandonando a região do olvido, Desceu à terra, e sob a asa negra A fronte lhe escondeu; o frágil corpo Não pôde resistir; a noite eterna </p>
@@ -562,21 +535,19 @@ E que raro a fortuna, avessa ao homem.
 
 <p>Deixa os inúteis restos E, atravessando airosa os leves ares, Vai buscar noutra parte outra guarida. </p>
 
-<p>Hoje, do que era inda lembrança resta, 
-E que lembrança! Os olhos fatigados 
-Parecem ver passar a sombra dela; 
-O atento ouvido inda lhe escuta os passos; 
-E as teclas do piano, em que seus dedos 
-Tanta harmonia despertavam antes, 
-Como que soltam essas doces notas 
-Que outrora ao seu contato respondiam. 
-</p>
-
-<p>Ah! pesava-lhe este ar da terra impura, 
-Faltava-lhe esse alento de outra esfera, 
-Onde, noiva dos anjos, a esperavam 
-</p>
-
+<p>Hoje, do que era inda lembrança resta, </p>
+<p>E que lembrança! Os olhos fatigados </p>
+<p>Parecem ver passar a sombra dela; </p>
+<p>O atento ouvido inda lhe escuta os passos; </p>
+<p>E as teclas do piano, em que seus dedos </p>
+<p>Tanta harmonia despertavam antes, </p>
+<p>Como que soltam essas doces notas </p>
+<p>Que outrora ao seu contato respondiam. </p>
+             <br />
+<p>Ah! pesava-lhe este ar da terra impura, </p>
+<p>Faltava-lhe esse alento de outra esfera, </p>
+<p>Onde, noiva dos anjos, a esperavam </p>
+             <br />
 <p>As palmas da virtude. Mas, quando assim a flor da mocidade Toda se esfolha sobre o chão da morte, Senhor, em que firmar a segurança Das venturas da terra? Tudo morre; À sentença fatal nada se esquiva, O que é fruto e o que é flor. O homem cego Cuida haver levantado em chão de bronze Um edifício resistente aos tempos, Mas lá vem dia, em que, a um leve sopro, </p>
 
 <p>O castelo se abate, Onde, doce ilusão, fechado havias Tudo o que de melhor a alma do homem </p>
@@ -586,68 +557,64 @@ Onde, noiva dos anjos, a esperavam
 <p>Dorme, dorme tranqüila Em teu último asilo; e se eu não pude Ir espargir também algumas flores Sobre a lájea da tua sepultura; Se não pude, — eu que há pouco te saudava Em teu erguer, estrela, — os tristes olhos Banhar nos melancólicos fulgores, Na triste luz do teu recente ocaso, Deixo-te ao menos nesses pobres versos Um penhor de saudade, e lá na esfera Aonde aprouve ao Senhor chamar-te cedo, Possas tu ler nas pálidas estrofes </p>
 
 <p>A tristeza do amigo. </p>
-
+             <br />
 <p>1861 </p>
+             <br />
+            <br />   <hr /><br />
+<H3 id="p9" class='text-center'>SINHÁ  </H3>
+<br />
 
-<p>SINHÁ </p>
-
+             <br />
 <p>O teu nome é como o óleo derramado. </p>
-
+             <br />
 <p>CÂNTICO DOS CÂNTICOS </p>
-
+             <br />
 <p>Nem o perfume que expira A flor, pela tarde amena, Nem a nota que suspira Canto de saudade e pena Nas brandas cordas da lira; Nem o murmúrio da veia Que abriu sulco pelo chão Entre margens de alva areia, Onde se mira e recreia Rosa fechada em botão; </p>
 
 <p>Nem o arrulho enternecido Das pombas nem do arvoredo Esse amoroso arruído Quando escuta algum segredo Pela brisa repetido; Nem esta saudade pura Do canto do sabiá Escondido na espessura, Nada respira doçura Como o teu nome, Sinhá! </p>
 
 
-
-<H5>HORAS VIVAS </H5>
+<br />   <hr /><br />
+<H3 id="p10" class='text-center'>HORAS VIVAS  </H3>
+<br />
+             <br />
 
 <p>Noite; abrem-se as flores... Que esplendores! Cíntia sonha amores Pelo céu. Tênues as neblinas Às campinas Descem das colinas, Como um véu. </p>
-
+             <br />
 <p>Mãos em mãos travadas Animadas, </p>
-
-<p>Vão aquelas fadas 
-Pelo ar; 
-Soltos os cabelos, 
-</p>
-
+             <br />
+<p>Vão aquelas fadas </p>
+<p>Pelo ar; </p>
+<p>Soltos os cabelos, </p>
+             <br />
 <p>Em novelos, Puros, louros, belos, A voar. </p>
+             <br />
 
 
-
-<p>
-—
-
- Homem, nos teus dias Que agonias, Sonhos, utopias, Ambições; Vivas e fagueiras, As primeiras, 
+<p>— Homem, nos teus dias Que agonias, Sonhos, utopias, Ambições; Vivas e fagueiras, As primeiras, 
 </p>
 
 <p>Como as derradeiras Ilusões! </p>
 
 
 
-<p>
-—
-
- Quantas, quantas vidas Vão perdidas, Pombas malferidas Pelo mal! Anos após anos, Tão insanos, 
+<p>— Quantas, quantas vidas Vão perdidas, Pombas malferidas Pelo mal! Anos após anos, Tão insanos, 
 </p>
-
 <p>Vêm os desenganos Afinal. </p>
 
 
 <p>
-—
-
- Dorme: se os pesares Repousares. Vês? — por estes ares Vamos rir; Mortas, não; festivas, E lascivas, 
+— Dorme: se os pesares Repousares. Vês? — por estes ares Vamos rir; Mortas, não; festivas, E lascivas, 
 </p>
 
 
 <p>Somos — horas vivas De dormir. — </p>
 
+             <br />
+<br />   <hr /><br />
+<H3 id="p11" class='text-center'>VERSOS A CORINA  </H3>
+<br />
 
-            <br />
-<H5>VERSOS A CORINA </H5>
-            <br />
 <p>Tacendo il nome di questa gentilíssima </p>
 
 <p>DANTE </p>
@@ -1160,7 +1127,10 @@ Não tremas: — é teu nome,
 Não fujas — que sou eu! 
 </p>
 
-<p>ÚLTIMA FOLHA </p>
+            <br />   <hr /><br />
+<H3 id="p12" class='text-center'>ÚLTIMA FOLHA  </H3>
+<br />
+
 
 <p>Musa, desce do alto da montanha Onde aspiraste o aroma da poesia, E deixa ao eco dos sagrados ermos </p>
 
@@ -1229,7 +1199,11 @@ Viver de luz mais viva e de ar mais puro,
 
 <p>A última harmonia. </p>
 
-<p>LÚCIA </p>
+            <br />   <hr /><br />
+<H3 id="p13" class='text-center'>LÚCIA  </H3>
+<br />
+
+<p> </p>
 
 <p>1860 (Alfred de Musset) </p>
 
@@ -1299,7 +1273,11 @@ E a Deus voltaste no calor do berço.
 
 <p> Paz à tua alma, pálida menina! Ermo de vida, o piano em que tocavas Já não acordará sob os teus dedos! </p>
 
-<p>O DILÚVIO[i] </p>
+
+            <br />   <hr /><br />
+<H3 id="p14" class='text-center'>O DILÚVIO </H3>
+<br />
+
 
 <p>1863 </p>
 
@@ -1389,7 +1367,13 @@ Desaparece a cólera
 Do rosto do Senhor. 
 </p>
 
-<p>FÉ </p>
+
+            <br />   <hr /><br />
+<H3 id="p15" class='text-center'>FÉ  </H3>
+<br />
+
+
+<p> </p>
 
 <p>1863 </p>
 
@@ -1421,7 +1405,13 @@ Do rosto do Senhor.
 
 <p>No seio do infinito. </p>
 
-<p>A CARIDADE </p>
+
+            <br />   <hr /><br />
+<H3 id="p16" class='text-center'>A CARIDADE </H3>
+<br />
+
+
+<p> </p>
 
 <p>1861 </p>
 
@@ -1454,8 +1444,10 @@ Dando-lhes pão, guarida, amparo, leito e amor.
 </p>
             <br />
 
-<H5>A JOVEM CATIVA[ii] </H5>
-            <br />
+            <br />   <hr /><br />
+<H3 id="p17" class='text-center'>A JOVEM CATIVA  </H3>
+<br />
+
 <p>1861 </p>
 
 <p>(André Chenier) </p>
@@ -1535,7 +1527,11 @@ Quem aos seus dias for casar seus dias.
 
             <br />
 
-<H5>NO LIMIAR </H5>
+            <br />   <hr /><br />
+<H3 id="p18" class='text-center'>NO LIMIAR   </H3>
+<br />
+
+
             <br />
 <p>1863 </p>
 
@@ -1604,10 +1600,10 @@ Outra tomou por um desvio. Eram:
 Ela a Esperança, Ele o Desengano. 
 </p>
 
-
-            <br />
-<H5>ASPIRAÇÃO </H5>
-            <br />
+            <br />   <hr /><br />
+<H3 id="p19" class='text-center'>ASPIRAÇÃO  </H3>
+<br />
+           
 <p>1862 </p>
 
 <p>A F. X. DE NOVAIS </p>
@@ -1719,11 +1715,11 @@ Mas guardemos, poeta, a melhor esperança:
 Sucederá a glória à salutar provança: 
 O que a terra não deu, dar-nos-á o Senhor! 
 </p>
+            <br />   <hr /><br />
+<H3 id="p20" class='text-center'>CLEÓPATRA  </H3>
+<br />
+           
 
-            <br />
-<H5>CLEÓPATRA[iii] 
-Canto de um escravo 
-</H5>
             <br />
 <p>(Mme. Emile de Girardin) </p>
 
@@ -1843,8 +1839,10 @@ Aquele nome adorado,
 
             <br />
 
-<H5>OS ARLEQUINS[iv] Sátira </H5>
-            <br />
+            <br />   <hr /><br />
+<H3 id="p21" class='text-center'>OS ARLEQUINS  </H3>
+<br />
+
 <p>1864 </p>
 
 <p>Que deviendra dans l’éternité l’âme d’un homme qui a fait Polichinelle toute sa vie? </p>
@@ -1920,8 +1918,10 @@ Aquele nome adorado,
 <p>Abres o grande livro, e sem detençaÀ envilecida glória Fulminas a sentença. </p>
 
 
+            <br />   <hr /><br />
+<H3 id="p22" class='text-center'>AS ONDINAS (Noturno de H. Heine)  </H3>
+<br />
 
-<H5>AS ONDINAS (Noturno de H. Heine) </H5>
 
 <p>Beijam as ondas a deserta praia; 
 Cai do luar a luz serena e pura; 
@@ -1965,7 +1965,11 @@ E deixa-se beijar pelas ondinas
 Da branca lua ao doce e brando raio. 
 </p>
 
-<p>MARIA DUPLESSIS[v] </p>
+
+            <br />   <hr /><br />
+<H3 id="p23" class='text-center'>MARIA DUPLESSIS  </H3>
+<br />
+
 
 <p>(A. Dumas Filho) </p>
 
@@ -2069,9 +2073,10 @@ E apenas dous amigos dos de outrora
 Foram levar-te à cama derradeira. 
 </p>
 
+            <br />   <hr /><br />
+<H3 id="p24" class='text-center'>AS ROSAS  </H3>
+<br />
 
-
-<H5>AS ROSAS[vi] </H5>
 
 <p>A Caetano Filgueiras </p>
 
@@ -2106,7 +2111,12 @@ Em que vos pese à beleza,
 
 <p>Pereceis; Mas, não... Se a mão de um poeta Vos cultiva agora, ó rosas, Mais vivas, mais jubilosas, Floresceis. </p>
 
-<p>OS DOUS HORIZONTES </p>
+
+            <br />   <hr /><br />
+<H3 id="p25" class='text-center'>OS DOUS HORIZONTES  </H3>
+<br />
+
+<p> </p>
 
 <p>1863 </p>
 
@@ -2166,7 +2176,10 @@ Das ilusões do futuro.
 
 <p> Dous horizontes fecham nossa vida. </p>
 
-<p>MONTE ALVERNE[vii] </p>
+
+            <br />   <hr /><br />
+<H3 id="p26" class='text-center'>MONTE ALVERNE  </H3>
+<br />
 
 <p>1858 Ao padre-mestre A. J. da Silveira Sarmento </p>
 
@@ -2246,8 +2259,10 @@ A fronte do orador.
 
 
 
+<br />   <hr /><br />
+<H3 id="p27" class='text-center'>AS VENTOINHAS  </H3>
+<br />
 
-<H5>AS VENTOINHAS </H5>
 
 <p>1863 </p>
 
@@ -2298,7 +2313,11 @@ A fronte do orador.
 <p> Cata-vento, Cata-vento, água e mulher. </p>
 
             <br />
-<H5>ALPUJARRA[viii] </H5>
+            <br />   <hr /><br />
+<H3 id="p28" class='text-center'>ALPUJARRA  </H3>
+<br />
+
+
             <br />
 <p>(Mickiewicz) </p>
 
@@ -2428,9 +2447,10 @@ Vegetar como o arbusto, e murchar, como a flor,
 Como um corpo sem alma ou alma sem amor. 
 </p>
 
-            <br />
+            <br /><br />   <hr /><br />
+<H3 id="p29" class='text-center'>EMBIRRAÇÃO  </H3>
+<br />
 
-<H5>EMBIRRAÇÃO[x] </H5>
             <br />
 <p>(A Machado de Assis) </p>
 
@@ -2540,8 +2560,10 @@ Se nem da salvação nutrir posso a esperança,
 
 
             <br />
+            <br />   <hr /><br />
+<H3 id="p30" class='text-center'>POSFÁCIO CARTA AO DR. CAETANO FILGUEIRAS  </H3>
+<br />
 
-<H5>POSFÁCIO CARTA AO DR. CAETANO FILGUEIRAS </H5>
             <br />
 <p>Meu amigo. Agora que o leitor frio e severo pôde comparar o meu pobre livro com a tua crítica benévola e amiga, deixa-me dizer-te rapidamente duas palavras. </p>
 

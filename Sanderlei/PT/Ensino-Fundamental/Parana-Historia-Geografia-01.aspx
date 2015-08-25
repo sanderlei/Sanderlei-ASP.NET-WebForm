@@ -1,4 +1,4 @@
-﻿<%@ Page Title="O espaço geográfico e sua organização - Paraná" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true" CodeBehind="Parana-Historia-Geografia-01.aspx.cs" Inherits="Sanderlei.PT.Ensino_Fundamental.Parana_Historia_Geografia_01" %>
+﻿<%@ Page Title="O espaço geográfico e sua organização - Paraná" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Paraná - O mundo em que vivemos - Você já estudou e aprendeu a identificar as características marcantes do mundo onde vivemos, o planeta Terra, com sua ... " /> 
 </asp:Content>
