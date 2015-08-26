@@ -19,6 +19,7 @@
                    
                     <li><a href='lingua-portuguesa-01-01' data-target='#' data-toggle='dropdown'>Língua Portuguesa<span class='caret'></span></a><ul class='dropdown-menu'>
                         <li><a href='lingua-portuguesa-01-01'> 01 - A genialidade de Drummond  </a></li>
+                        <li><a href='lingua-portuguesa-01-02'> 02 - Tesouro líquido - GOTA-D’ÁGUA  </a></li>
                       
                                                                                                                                 </ul>
                                  
@@ -38,12 +39,16 @@
                	    <li><a href='Parana-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>História e Geografia do Paraná<span class='caret'></span></a><ul class='dropdown-menu'>
                         <li><a href='Parana-Historia-Geografia-01'> 01 - O espaço geográfico e sua organização  </a></li>
                         <li><a href='Parana-Historia-Geografia-02'> 02 - A organização do espaço geográfico brasileiro  </a></li>
+                        <li><a href='Parana-Historia-Geografia-03'> 03 - A representação do espaço paranaense  </a></li>
+
+                           
                       
                                                                                                                                 </ul> 
                            
              <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>História e Geografia de Matto Grosso do Sul<span class='caret'></span></a><ul class='dropdown-menu'>
                         <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-01'> 01 - O espaço geográfico e sua organização  </a></li>
                   <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-02'> 02 - A organização do espaço geográfico brasileiro </a></li>
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-03'> 03 - Mato Grosso do Sul – representação e localização </a></li>
                       
                                                                                                                                 </ul>       	      	                           
 

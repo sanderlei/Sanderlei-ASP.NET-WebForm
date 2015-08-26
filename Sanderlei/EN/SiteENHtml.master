@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/SiteEN.Master" AutoEventWireup="true"  %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder11" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenu" runat="server">
+
+     <!-- Menu Principal -->     
+        <div class='navbar navbar-inverse navbar-static-top' >
+        	<div class='container'>  
+	           <div class='navbar-header'>
+            		<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>                                    
+                          <span class='sr-only'>Toggle navigation</span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span><span class='icon-bar'></span></button>
+               </div>
+    	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>                                  		
+                       <li><a href='HTML-01-01' data-target='#' data-toggle='dropdown'>HTML5 + CSS3 - Front-end Foundations<span class='caret'></span></a><ul class='dropdown-menu'>
+                               <li><a href='HTML-01-01'> Front-end Foundations - 01 - HTML TAGS    </a></li>                            
+                               <li><a href='HTML-01-02'> Front-end Foundations - 02 - HTML LINKS    </a></li>                            
+                               <li><a href='HTML-01-03'> Front-end Foundations - 03 - CSS SELECTORS   </a></li>                            
+                               <li><a href='HTML-01-04'> Front-end Foundations - 04 - HEXADECIMAL COLORS    </a></li>                            
+                               <li><a href='HTML-01-05'> Front-end Foundations - 05 - THE BOX MODEL    </a></li>                            
+                               <li><a href='HTML-01-06'> Front-end Foundations - 06 - THE CLASS ATTRIBUTE    </a></li>                            
+                               <li><a href='HTML-01-07'> Front-end Foundations - 07 - DIVS AND LAYOUT    </a></li>                            
+                               <li><a href='HTML-01-08'> Front-end Foundations - 08 - CONTENT IMAGES    </a></li>                            
+                               <li><a href='HTML-01-09'> Front-end Foundations - 09 - BACKGROUND IMAGES    </a></li>                            
+                               <li><a href='HTML-01-10'> Front-end Foundations - 10 - FLOATING IMAGES    </a></li>                            
+                               <li><a href='HTML-01-11'> Front-end Foundations - 11 - ADJUSTING FONT STYLES   </a></li>                            
+                               <li><a href='HTML-01-12'> Front-end Foundations - 12 - CREATING WEB FORMS    </a></li>                            
+                          
+                              </ul>	    	  
+                           
+                           
+       
+                                  
+               		 
+
+                                     
+           
+                         	         	                           
+              </ul>                  
+        	</div>
+        </div>
+
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder12" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>

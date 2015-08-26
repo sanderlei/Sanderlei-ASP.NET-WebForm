@@ -1356,7 +1356,42 @@
     <Content Include="EN\History\EN-59.aspx" />
     <Content Include="EN\History\EN-60.aspx" />
     <Content Include="EN\History\Index.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-01.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-02.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-03.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-04.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-05.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-06.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-07.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-08.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-09.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-10.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-11.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-12.aspx" />
+    <Content Include="EN\HTML5-CSS3\Index.aspx" />
     <Content Include="EN\Index.aspx" />
+    <Content Include="EN\iOS\iOS-01-10.aspx" />
+    <Content Include="EN\iOS\iOS-01-11.aspx" />
+    <Content Include="EN\iOS\iOS-01-12.aspx" />
+    <Content Include="EN\iOS\iOS-01-13.aspx" />
+    <Content Include="EN\iOS\iOS-01-14.aspx" />
+    <Content Include="EN\iOS\iOS-01-15.aspx" />
+    <Content Include="EN\iOS\iOS-01-16.aspx" />
+    <Content Include="EN\iOS\iOS-01-17.aspx" />
+    <Content Include="EN\iOS\iOS-01-18.aspx" />
+    <Content Include="EN\iOS\iOS-01-19.aspx" />
+    <Content Include="EN\iOS\iOS-01-20.aspx" />
+    <Content Include="EN\iOS\iOS-01-03.aspx" />
+    <Content Include="EN\iOS\iOS-01-02.aspx" />
+    <Content Include="EN\iOS\iOS-01-04.aspx" />
+    <Content Include="EN\iOS\iOS-01-05.aspx" />
+    <Content Include="EN\iOS\iOS-01-06.aspx" />
+    <Content Include="EN\iOS\iOS-01-07.aspx" />
+    <Content Include="EN\iOS\iOS-01-08.aspx" />
+    <Content Include="EN\iOS\iOS-01-09.aspx" />
+    <Content Include="EN\iOS\iOS-01-01.aspx" />
+    <Content Include="EN\iOS\00.aspx" />
+    <Content Include="EN\iOS\Index.aspx" />
     <Content Include="EN\JavaScript\Java-01-02.aspx" />
     <Content Include="EN\JavaScript\Java-01-03.aspx" />
     <Content Include="EN\JavaScript\Java-01-04.aspx" />
@@ -3279,6 +3314,18 @@
     <Content Include="JP\歴史\EN-60.aspx" />
     <Content Include="JP\歴史\Index.aspx" />
     <Content Include="packages.config" />
+    <Content Include="PT\ASP-NET\HTML-01-02.aspx" />
+    <Content Include="PT\ASP-NET\HTML-01-03.aspx" />
+    <Content Include="PT\ASP-NET\HTML-01-04.aspx" />
+    <Content Include="PT\ASP-NET\HTML-01-05.aspx" />
+    <Content Include="PT\ASP-NET\HTML-01-06.aspx" />
+    <Content Include="PT\ASP-NET\HTML-01-07.aspx" />
+    <Content Include="PT\ASP-NET\HTML-01-08.aspx" />
+    <Content Include="PT\ASP-NET\HTML-01-09.aspx" />
+    <Content Include="PT\ASP-NET\HTML-01-10.aspx" />
+    <Content Include="PT\ASP-NET\HTML-01-11.aspx" />
+    <Content Include="PT\ASP-NET\HTML-01-12.aspx" />
+    <Content Include="PT\ASP-NET\HTML-01-01.aspx" />
     <Content Include="PT\ASP-NET\MVC-01-11.aspx" />
     <Content Include="PT\ASP-NET\MVC-01-12.aspx" />
     <Content Include="PT\ASP-NET\MVC-01-13.aspx" />
@@ -3689,9 +3736,12 @@
     <Content Include="PT\Design-Grafico\Design-Grafico-01-05.aspx" />
     <Content Include="PT\Design-Grafico\00.aspx" />
     <Content Include="PT\Design-Grafico\Index.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Index.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-02.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-03.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-03.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-03.aspx" />
     <Content Include="PT\Ensino-Fundamental\00.aspx" />
-    <Content Include="PT\Ensino-Fundamental\Index.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-01.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-01.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-02.aspx" />
@@ -5638,7 +5688,10 @@
     <Content Include="FR\SiteENSAP.master" />
     <Content Include="IT\SiteENSAP.master" />
     <Content Include="JP\SiteENSAP.master" />
+    <Content Include="EN\SiteENHtml.master" />
+    <Content Include="EN\SiteENiOS.master" />
     <None Include="Properties\PublishProfiles\01-Sanderlei.pubxml" />
+    <None Include="Properties\PublishProfiles\audio-book-sanderlei.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -6561,6 +6614,20 @@
     </Compile>
     <Compile Include="DE\SiteDEGeschichte.master.designer.cs">
       <DependentUpon>SiteDEGeschichte.master</DependentUpon>
+    </Compile>
+    <Compile Include="EN\HTML5-CSS3\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\HTML5-CSS3\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EN\iOS\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\iOS\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="ES\Historia\ES-01.aspx.cs">
       <DependentUpon>ES-01.aspx</DependentUpon>

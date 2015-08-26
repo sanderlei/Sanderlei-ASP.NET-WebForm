@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/SitePT.Master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.PT.Ensino_Fundamental.Index" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/SiteEN.Master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.EN.iOS.Index" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenu" runat="server">

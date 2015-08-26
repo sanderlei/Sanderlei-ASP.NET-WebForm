@@ -3501,6 +3501,20 @@
   <url><loc>http://sanderlei.com.br/PT/ASP-NET/MVC-01-25 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/ASP-NET/MVC-01-26 </loc><priority>0.70</priority></url>
 
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-10 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-11 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-12 </loc><priority>0.70</priority></url>
+
+
 
   <url><loc>http://sanderlei.com.br/PT/AudioBook/EN-01-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/AudioBook/EN-01-02 </loc><priority>0.70</priority></url>
@@ -3578,15 +3592,19 @@
 
 
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/lingua-portuguesa-01-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/lingua-portuguesa-01-02 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Santa-Catarina-Historia-Geografia-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Santa-Catarina-Historia-Geografia-02 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Santa-Catarina-Historia-Geografia-03 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Sao-Paulo-Historia-Geografia-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Sao-Paulo-Historia-Geografia-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Sao-Paulo-Historia-Geografia-03 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Parana-Historia-Geografia-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Parana-Historia-Geografia-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Parana-Historia-Geografia-03 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Mato-Grosso-do-Sul-Historia-Geografia-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Mato-Grosso-do-Sul-Historia-Geografia-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Mato-Grosso-do-Sul-Historia-Geografia-03 </loc><priority>0.70</priority></url>
 
 
   <url><loc>http://sanderlei.com.br/PT/Banco-de-Dados/PL-SQL-Oracle-01-01 </loc><priority>0.70</priority></url>
@@ -5627,6 +5645,7 @@
   <url><loc>http://sanderlei.com.br/EN/Adobe/Premiere-Pro-01-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/EN/Adobe/Premiere-Pro-01-02 </loc><priority>0.70</priority></url>
 
+
   <url><loc>http://sanderlei.com.br/EN/GitHub/EN-01-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/EN/GitHub/EN-01-02 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/EN/GitHub/EN-01-03 </loc><priority>0.70</priority></url>
@@ -5684,6 +5703,41 @@
   <url><loc>http://sanderlei.com.br/EN/JavaScript/Java-01-04 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/EN/JavaScript/Java-01-05 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/EN/JavaScript/Java-01-06 </loc><priority>0.70</priority></url>
+
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-10 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-11 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-12 </loc><priority>0.70</priority></url>
+
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-10 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-11 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-12 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-13 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-14 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-15 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-16 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-17 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-18 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-19 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-20 </loc><priority>0.70</priority></url>
+
 
 
 </urlset>

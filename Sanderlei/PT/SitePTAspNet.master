@@ -45,6 +45,26 @@
                            
                           
                               </ul>	
+
+
+
+
+                           <li><a href='HTML-01-01' data-target='#' data-toggle='dropdown'>HTML5 + CSS3 - Front-end Foundations<span class='caret'></span></a><ul class='dropdown-menu'>
+                               <li><a href='HTML-01-01'> Front-end Foundations - 01 - HTML TAGS    </a></li>                            
+                               <li><a href='HTML-01-02'> Front-end Foundations - 02 - HTML LINKS    </a></li>                            
+                               <li><a href='HTML-01-03'> Front-end Foundations - 03 - CSS SELECTORS   </a></li>                            
+                               <li><a href='HTML-01-04'> Front-end Foundations - 04 - HEXADECIMAL COLORS    </a></li>                            
+                               <li><a href='HTML-01-05'> Front-end Foundations - 05 - THE BOX MODEL    </a></li>                            
+                               <li><a href='HTML-01-06'> Front-end Foundations - 06 - THE CLASS ATTRIBUTE    </a></li>                            
+                               <li><a href='HTML-01-07'> Front-end Foundations - 07 - DIVS AND LAYOUT    </a></li>                            
+                               <li><a href='HTML-01-08'> Front-end Foundations - 08 - CONTENT IMAGES    </a></li>                            
+                               <li><a href='HTML-01-09'> Front-end Foundations - 09 - BACKGROUND IMAGES    </a></li>                            
+                               <li><a href='HTML-01-10'> Front-end Foundations - 10 - FLOATING IMAGES    </a></li>                            
+                               <li><a href='HTML-01-11'> Front-end Foundations - 11 - ADJUSTING FONT STYLES   </a></li>                            
+                               <li><a href='HTML-01-12'> Front-end Foundations - 12 - CREATING WEB FORMS    </a></li>                            
+                          
+                              </ul>	
+
                          	         	                           
               </ul>                  
         	</div>
