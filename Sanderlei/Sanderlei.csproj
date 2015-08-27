@@ -5692,6 +5692,7 @@
     <Content Include="EN\SiteENiOS.master" />
     <None Include="Properties\PublishProfiles\01-Sanderlei.pubxml" />
     <None Include="Properties\PublishProfiles\audio-book-sanderlei.pubxml" />
+    <None Include="Properties\PublishProfiles\audio-livro-sanderlei.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
