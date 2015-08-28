@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raul Pompeia - O Ateneu - 10 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-06-10.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_06_10" %>
+﻿<%@ Page Title="Raul Pompeia - O Ateneu - 10 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Bem diferente esta exaltação deliciosa do abatimento espavorido da véspera, da manhã mesmo, na secretaria da Instrução Pública. A expectativa mortal das chamadas; uma insignificância: o terror acadêmico! que nos sobressalta, que nos deprime como o que há de mais grave. E por ocasião das provas de francês já não era estreante.  " /> 
 </asp:Content>

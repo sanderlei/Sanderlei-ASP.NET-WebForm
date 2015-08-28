@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raul Pompeia - O Ateneu - 11 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-06-11.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_06_11" %>
+﻿<%@ Page Title="Raul Pompeia - O Ateneu - 11 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" O Dr. Cláudio encetou uma série de preleções aos sábados, à imitação das que fazia às quintas Aristarco sobre lugares-comuns de moralidade. Filosofia, ciência, literatura, economia política, pedagogia, biografia, até mesmo política e higiene, tudo era assunto; interessantíssimas, sem pesadas minuciosidades. Depois da astronomia do diretor, nenhuma curiosidade me valera tão bons minutos de atenção. " /> 
 </asp:Content>

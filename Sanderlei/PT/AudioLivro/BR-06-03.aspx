@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raul Pompeia - O Ateneu - 03 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-06-03.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_06_03" %>
+﻿<%@ Page Title="Raul Pompeia - O Ateneu - 03 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Se em pequeno, movido por um vislumbre de luminosa prudência, enquanto aplicavam-se os outros à peteca, eu me houvesse entregado ao manso labor de fabricar documentos autobiográficos, para a oportuna confecção de mais uma infância célebre, certo não registraria, entre os meus episódios de predestinado, o caso banal da natação, de conseqüências, entretanto, para mim, e origem de dissabores como jamais encontrei tão amargos.  " /> 
 </asp:Content>

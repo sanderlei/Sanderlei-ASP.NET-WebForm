@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raul Pompeia - O Ateneu - 04 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-06-04.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_06_04" %>
+﻿<%@ Page Title="Raul Pompeia - O Ateneu - 04 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" o alfabeto azul que delineia o fumo do incenso no ar tranqüilo, inolvidáveis tréguas de íntimo sossego em toda a minha juventude, eis em que se tornou a minha amarga descida ao fundo descrédito escolar. " /> 
 </asp:Content>

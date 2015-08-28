@@ -12,7 +12,7 @@ namespace Sanderlei
         protected void Page_Load(object sender, EventArgs e)
         {
             // SITE BRasil - Principal
-         Response.Redirect("~/PT/Index");
+               Response.Redirect("~/PT/Index");
 
             // SITE ENGLISH - Principal
             //    Response.Redirect("~/EN/Index");
@@ -25,6 +25,11 @@ namespace Sanderlei
 
             // SITE GITHUB
             //      Response.Redirect("~/EN/GitHub/Index");
+
+            // SITE POESIA
+      //      Response.Redirect("~/PT/Poesia/Index");
+
+
         }
     }
 }

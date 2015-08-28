@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raul Pompeia - O Ateneu - 09 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-06-09.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_06_09" %>
+﻿<%@ Page Title="Raul Pompeia - O Ateneu - 09 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" A anistia dos revolucionários aproveitou por extensão aos execrandos réus da moralidade. Já frouxa a fibra dos rigores, Aristarco despediu-os do gabinete com a penitência de algumas dezenas de páginas de escrita e reclusão por três dias numa sala. Desprestigiava-se a Lei, salvavam-se, porém, muitas coisas, entre as quais o crédito do estabelecimento, que nada tinha a lucrar com o escândalo de um grande número de expulsões. Quanto ao encerramento dos culpados na trevosa cafua, impossível, que lá estava o Franco, por exigência expressa do Silvino, como causador primeiro das inqualificáveis perturbações da ordem no Ateneu.  " /> 
 </asp:Content>

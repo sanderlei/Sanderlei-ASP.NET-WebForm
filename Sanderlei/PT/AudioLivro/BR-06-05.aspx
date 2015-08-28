@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raul Pompeia - O Ateneu - 05 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-06-05.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_06_05" %>
+﻿<%@ Page Title="Raul Pompeia - O Ateneu - 05 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Devo, entretanto, à minha efeméride religiosa a maior soma de gratidão. Suavizou-me com a complacência divina o período de vadiação profunda e amolecimento hipnótico com que me pesou a atmosfera do Ateneu. Toda a perseguição de castigos, sem prejuízo da minha delicadeza moral, resvalava pelo cilício da penitência; eu emergia forte das provações. Que tranqüilidade, na apatia, ter por fiador a Deus! " /> 
 </asp:Content>

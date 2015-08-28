@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raul Pompeia - O Ateneu - 06 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-06-06.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_06_06" %>
+﻿<%@ Page Title="Raul Pompeia - O Ateneu - 06 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Duas vezes ao mês congregavam-se os amigos das letras, numa das salas de cima; a mesma das lições astronômicas de Aristarco. Havia ainda para iluminar as sessões pedaços de matéria cósmica pelos cantos, esfrangalhada pela análise do mestre. Não quer dizer que merecesse as eternas luminárias da ironia a benemérita associação.  " /> 
 </asp:Content>
@@ -9,7 +9,7 @@
             <h1> Raul Pompeia - O Ateneu - 06 / 12	</h1>
             <br />
               <div class="embed-responsive embed-responsive-16by9">
-               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FhelnU-pxFE" frameborder="0" allowfullscreen></iframe>
+               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Hp39XuzsCM8" frameborder="0" allowfullscreen></iframe>
               </div>  <br /><br /><br />   <br /><br /><br />                  
      </div>
         <div class='col-xs-12 col-md-12 text-justify' style='line-height:1.7'>

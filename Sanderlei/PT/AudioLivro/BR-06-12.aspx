@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raul Pompeia - O Ateneu - 12 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-06-12.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_06_12" %>
+﻿<%@ Page Title="Raul Pompeia - O Ateneu - 12 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Música estranha, na hora cálida. Devia ser Gottschalk. Aquele esforço agonizante dos sons, lentos, pungidos, angústia deliciosa de extremo gozo em que pode ficar a vida porque fora uma conclusão triunfal. Notas graves, uma, uma; pausas de silêncio e treva em que o instrumento sucumbe e logo um dia claro de renascença, que ilumina o mundo como o momento fantástico do relâmpago, que a escuridão novamente abate... " /> 
 </asp:Content>

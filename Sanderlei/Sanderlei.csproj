@@ -1356,6 +1356,64 @@
     <Content Include="EN\History\EN-59.aspx" />
     <Content Include="EN\History\EN-60.aspx" />
     <Content Include="EN\History\Index.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-04-02.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-04-03.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-04-04.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-04-05.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-04-06.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-04-07.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-04-08.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-01.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-02.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-03.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-04.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-05.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-06.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-07.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-08.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-09.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-10.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-11.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-05-12.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-06-01.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-06-02.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-06-03.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-06-04.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-06-05.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-06-06.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-06-07.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-06-08.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-06-09.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-04-01.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-03-02.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-03-03.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-03-04.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-03-05.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-03-06.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-03-07.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-03-08.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-03-09.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-03-01.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-02.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-03.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-04.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-05.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-06.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-07.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-08.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-09.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-10.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-11.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-12.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-13.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-02-01.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-13.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-14.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-15.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-16.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-17.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-18.aspx" />
+    <Content Include="EN\HTML5-CSS3\HTML-01-19.aspx" />
     <Content Include="EN\HTML5-CSS3\HTML-01-01.aspx" />
     <Content Include="EN\HTML5-CSS3\HTML-01-02.aspx" />
     <Content Include="EN\HTML5-CSS3\HTML-01-03.aspx" />
@@ -1367,6 +1425,7 @@
     <Content Include="EN\HTML5-CSS3\HTML-01-09.aspx" />
     <Content Include="EN\HTML5-CSS3\HTML-01-10.aspx" />
     <Content Include="EN\HTML5-CSS3\HTML-01-11.aspx" />
+    <Content Include="EN\HTML5-CSS3\00.aspx" />
     <Content Include="EN\HTML5-CSS3\HTML-01-12.aspx" />
     <Content Include="EN\HTML5-CSS3\Index.aspx" />
     <Content Include="EN\Index.aspx" />
@@ -3736,6 +3795,77 @@
     <Content Include="PT\Design-Grafico\Design-Grafico-01-05.aspx" />
     <Content Include="PT\Design-Grafico\00.aspx" />
     <Content Include="PT\Design-Grafico\Index.aspx" />
+    <Content Include="PT\Developer\HTML-01-01.aspx" />
+    <Content Include="PT\Developer\HTML-01-02.aspx" />
+    <Content Include="PT\Developer\HTML-01-03.aspx" />
+    <Content Include="PT\Developer\HTML-01-04.aspx" />
+    <Content Include="PT\Developer\HTML-01-05.aspx" />
+    <Content Include="PT\Developer\HTML-01-06.aspx" />
+    <Content Include="PT\Developer\HTML-01-07.aspx" />
+    <Content Include="PT\Developer\HTML-01-08.aspx" />
+    <Content Include="PT\Developer\HTML-01-09.aspx" />
+    <Content Include="PT\Developer\HTML-01-10.aspx" />
+    <Content Include="PT\Developer\HTML-01-11.aspx" />
+    <Content Include="PT\Developer\HTML-01-12.aspx" />
+    <Content Include="PT\Developer\HTML-01-13.aspx" />
+    <Content Include="PT\Developer\HTML-01-14.aspx" />
+    <Content Include="PT\Developer\HTML-01-15.aspx" />
+    <Content Include="PT\Developer\HTML-01-16.aspx" />
+    <Content Include="PT\Developer\HTML-01-17.aspx" />
+    <Content Include="PT\Developer\HTML-01-18.aspx" />
+    <Content Include="PT\Developer\HTML-01-19.aspx" />
+    <Content Include="PT\Developer\HTML-02-01.aspx" />
+    <Content Include="PT\Developer\HTML-02-02.aspx" />
+    <Content Include="PT\Developer\HTML-02-03.aspx" />
+    <Content Include="PT\Developer\HTML-02-04.aspx" />
+    <Content Include="PT\Developer\HTML-02-05.aspx" />
+    <Content Include="PT\Developer\HTML-02-06.aspx" />
+    <Content Include="PT\Developer\HTML-02-07.aspx" />
+    <Content Include="PT\Developer\HTML-02-08.aspx" />
+    <Content Include="PT\Developer\HTML-02-09.aspx" />
+    <Content Include="PT\Developer\HTML-02-10.aspx" />
+    <Content Include="PT\Developer\HTML-02-11.aspx" />
+    <Content Include="PT\Developer\HTML-02-12.aspx" />
+    <Content Include="PT\Developer\HTML-02-13.aspx" />
+    <Content Include="PT\Developer\HTML-03-01.aspx" />
+    <Content Include="PT\Developer\HTML-03-02.aspx" />
+    <Content Include="PT\Developer\HTML-03-03.aspx" />
+    <Content Include="PT\Developer\HTML-03-04.aspx" />
+    <Content Include="PT\Developer\HTML-03-05.aspx" />
+    <Content Include="PT\Developer\HTML-03-06.aspx" />
+    <Content Include="PT\Developer\HTML-03-07.aspx" />
+    <Content Include="PT\Developer\HTML-03-08.aspx" />
+    <Content Include="PT\Developer\HTML-03-09.aspx" />
+    <Content Include="PT\Developer\HTML-04-01.aspx" />
+    <Content Include="PT\Developer\HTML-04-02.aspx" />
+    <Content Include="PT\Developer\HTML-04-03.aspx" />
+    <Content Include="PT\Developer\HTML-04-04.aspx" />
+    <Content Include="PT\Developer\HTML-04-05.aspx" />
+    <Content Include="PT\Developer\HTML-04-06.aspx" />
+    <Content Include="PT\Developer\HTML-04-07.aspx" />
+    <Content Include="PT\Developer\HTML-04-08.aspx" />
+    <Content Include="PT\Developer\HTML-05-01.aspx" />
+    <Content Include="PT\Developer\HTML-05-02.aspx" />
+    <Content Include="PT\Developer\HTML-05-03.aspx" />
+    <Content Include="PT\Developer\HTML-05-04.aspx" />
+    <Content Include="PT\Developer\HTML-05-05.aspx" />
+    <Content Include="PT\Developer\HTML-05-06.aspx" />
+    <Content Include="PT\Developer\HTML-05-07.aspx" />
+    <Content Include="PT\Developer\HTML-05-08.aspx" />
+    <Content Include="PT\Developer\HTML-05-09.aspx" />
+    <Content Include="PT\Developer\HTML-05-10.aspx" />
+    <Content Include="PT\Developer\HTML-05-11.aspx" />
+    <Content Include="PT\Developer\HTML-05-12.aspx" />
+    <Content Include="PT\Developer\HTML-06-01.aspx" />
+    <Content Include="PT\Developer\HTML-06-02.aspx" />
+    <Content Include="PT\Developer\HTML-06-03.aspx" />
+    <Content Include="PT\Developer\HTML-06-04.aspx" />
+    <Content Include="PT\Developer\HTML-06-05.aspx" />
+    <Content Include="PT\Developer\HTML-06-06.aspx" />
+    <Content Include="PT\Developer\HTML-06-07.aspx" />
+    <Content Include="PT\Developer\HTML-06-08.aspx" />
+    <Content Include="PT\Developer\HTML-06-09.aspx" />
+    <Content Include="PT\Developer\Index.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-04.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-05.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-05.aspx" />
@@ -5701,9 +5831,10 @@
     <Content Include="EN\SiteENHtml.master" />
     <Content Include="EN\SiteENiOS.master" />
     <None Include="Properties\PublishProfiles\01-Sanderlei.pubxml" />
-    <None Include="Properties\PublishProfiles\audio-book-sanderlei.pubxml" />
-    <None Include="Properties\PublishProfiles\audio-livro-sanderlei.pubxml" />
-    <None Include="Properties\PublishProfiles\github-tutorial-sanderlei.pubxml" />
+    <None Include="Properties\PublishProfiles\02-AudioBook.pubxml" />
+    <None Include="Properties\PublishProfiles\03-AudioLivro.pubxml" />
+    <None Include="Properties\PublishProfiles\04-GitHub.pubxml" />
+    <None Include="Properties\PublishProfiles\05-Poesia.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -5721,6 +5852,7 @@
     <Content Include="PT\SitePTDataBase.master" />
     <Content Include="PT\SiteENSAP.master" />
     <Content Include="RU\SiteENSAP.master" />
+    <Content Include="PT\SitePTDev.master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -9581,90 +9713,6 @@
     <Compile Include="PT\AudioLivro\BR-04-15.aspx.designer.cs">
       <DependentUpon>BR-04-15.aspx</DependentUpon>
     </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-01.aspx.cs">
-      <DependentUpon>BR-06-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-01.aspx.designer.cs">
-      <DependentUpon>BR-06-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-02.aspx.cs">
-      <DependentUpon>BR-06-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-02.aspx.designer.cs">
-      <DependentUpon>BR-06-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-03.aspx.cs">
-      <DependentUpon>BR-06-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-03.aspx.designer.cs">
-      <DependentUpon>BR-06-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-04.aspx.cs">
-      <DependentUpon>BR-06-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-04.aspx.designer.cs">
-      <DependentUpon>BR-06-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-05.aspx.cs">
-      <DependentUpon>BR-06-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-05.aspx.designer.cs">
-      <DependentUpon>BR-06-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-06.aspx.cs">
-      <DependentUpon>BR-06-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-06.aspx.designer.cs">
-      <DependentUpon>BR-06-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-07.aspx.cs">
-      <DependentUpon>BR-06-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-07.aspx.designer.cs">
-      <DependentUpon>BR-06-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-08.aspx.cs">
-      <DependentUpon>BR-06-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-08.aspx.designer.cs">
-      <DependentUpon>BR-06-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-09.aspx.cs">
-      <DependentUpon>BR-06-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-09.aspx.designer.cs">
-      <DependentUpon>BR-06-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-10.aspx.cs">
-      <DependentUpon>BR-06-10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-10.aspx.designer.cs">
-      <DependentUpon>BR-06-10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-11.aspx.cs">
-      <DependentUpon>BR-06-11.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-11.aspx.designer.cs">
-      <DependentUpon>BR-06-11.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-12.aspx.cs">
-      <DependentUpon>BR-06-12.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-06-12.aspx.designer.cs">
-      <DependentUpon>BR-06-12.aspx</DependentUpon>
-    </Compile>
     <Compile Include="PT\AudioLivro\BR-07-01.aspx.cs">
       <DependentUpon>BR-07-01.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -10146,6 +10194,13 @@
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="PT\AudioLivro\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PT\Developer\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PT\Developer\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="PT\Ensino-Fundamental\Index.aspx.cs">

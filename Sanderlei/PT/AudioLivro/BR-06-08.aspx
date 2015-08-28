@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raul Pompeia - O Ateneu - 08 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-06-08.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_06_08" %>
+﻿<%@ Page Title="Raul Pompeia - O Ateneu - 08 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" No ano seguinte, o Ateneu revelou-se-me noutro aspecto. Conhecera-o interessante, com as seduções do que é novo, com as projeções obscuras de perspectiva, desafiando curiosidade e receio; conhecera-o insípido e banal como os mistérios resolvidos, caiado de tédio; conhecia-o agora intolerável como um cárcere, murado de desejos e privações. " /> 
 </asp:Content>

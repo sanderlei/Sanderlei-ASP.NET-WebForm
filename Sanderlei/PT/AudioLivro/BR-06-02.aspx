@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raul Pompeia - O Ateneu - 02 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-06-02.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_06_02" %>
+﻿<%@ Page Title="Raul Pompeia - O Ateneu - 02 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" De manhã, à hora regulamentar, compareci. O diretor, no escritório do estabelecimento, ocupava uma cadeira rotativa junto à mesa de trabalho. Sobre a mesa, um grande livro abria-se em colunas maciças de escrituração e linhas encarnadas.  " /> 
 </asp:Content>

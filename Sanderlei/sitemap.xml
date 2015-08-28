@@ -3501,20 +3501,81 @@
   <url><loc>http://sanderlei.com.br/PT/ASP-NET/MVC-01-25 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/ASP-NET/MVC-01-26 </loc><priority>0.70</priority></url>
 
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-01 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-02 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-03 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-04 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-05 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-06 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-07 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-08 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-09 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-10 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-11 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/ASP-NET/HTML-01-12 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-10 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-11 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-12 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-13 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-14 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-15 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-16 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-17 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-18 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-01-19 </loc><priority>0.70</priority></url>
 
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-10 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-11 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-12 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-02-13 </loc><priority>0.70</priority></url>
 
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-03-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-03-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-03-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-03-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-03-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-03-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-03-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-03-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-03-09 </loc><priority>0.70</priority></url>
+
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-04-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-04-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-04-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-04-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-04-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-04-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-04-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-04-08 </loc><priority>0.70</priority></url>
+
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-10 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-11 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-05-12 </loc><priority>0.70</priority></url>
+
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-06-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-06-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-06-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-06-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-06-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-06-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-06-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-06-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/HTML-06-09 </loc><priority>0.70</priority></url>
 
   <url><loc>http://sanderlei.com.br/PT/AudioBook/EN-01-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/AudioBook/EN-01-02 </loc><priority>0.70</priority></url>
@@ -5726,6 +5787,70 @@
   <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-10 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-11 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-12 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-13 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-14 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-15 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-16 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-17 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-18 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-01-19 </loc><priority>0.70</priority></url>
+
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-10 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-11 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-12 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-02-13 </loc><priority>0.70</priority></url>
+
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-03-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-03-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-03-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-03-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-03-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-03-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-03-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-03-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-03-09 </loc><priority>0.70</priority></url>
+
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-04-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-04-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-04-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-04-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-04-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-04-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-04-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-04-08 </loc><priority>0.70</priority></url>
+
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-10 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-11 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-05-12 </loc><priority>0.70</priority></url>
+
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-06-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-06-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-06-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-06-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-06-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-06-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-06-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-06-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/EN/HTML5-CSS3/HTML-06-09 </loc><priority>0.70</priority></url>
+
 
   <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/EN/iOS/iOS-01-02 </loc><priority>0.70</priority></url>

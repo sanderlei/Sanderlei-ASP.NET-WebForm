@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raul Pompeia - O Ateneu - 07 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-06-07.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_06_07" %>
+﻿<%@ Page Title="Raul Pompeia - O Ateneu - 07 / 12" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Tínhamos em torno da vida o ajardinamento em floresta do parque e a toalha esmeraldina do campo e o diorama acidentado das montanhas da Tijuca, ostentosas em curvatura torácica e frentes felpudas de colosso; espetáculos de exceção, por momentos, que não modificavam a secura branca dos dias, enquadrados em pacote nos limites do pátio central, quente, insuportável de luz, ao fundo daquelas altíssimas paredes do Ateneu, claras da caiação, do tédio, claras, cada vez mais claras. " /> 
 </asp:Content>
