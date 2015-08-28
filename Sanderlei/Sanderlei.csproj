@@ -3736,6 +3736,16 @@
     <Content Include="PT\Design-Grafico\Design-Grafico-01-05.aspx" />
     <Content Include="PT\Design-Grafico\00.aspx" />
     <Content Include="PT\Design-Grafico\Index.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-04.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-05.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-05.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-05.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-05.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-03.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-04.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-04.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-04.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-04.aspx" />
     <Content Include="PT\Ensino-Fundamental\Index.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-02.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-03.aspx" />
@@ -5693,6 +5703,7 @@
     <None Include="Properties\PublishProfiles\01-Sanderlei.pubxml" />
     <None Include="Properties\PublishProfiles\audio-book-sanderlei.pubxml" />
     <None Include="Properties\PublishProfiles\audio-livro-sanderlei.pubxml" />
+    <None Include="Properties\PublishProfiles\github-tutorial-sanderlei.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

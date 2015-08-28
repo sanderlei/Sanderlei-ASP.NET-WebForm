@@ -12,7 +12,7 @@ namespace Sanderlei
         protected void Page_Load(object sender, EventArgs e)
         {
             // SITE BRasil - Principal
-              Response.Redirect("~/PT/Index");
+         Response.Redirect("~/PT/Index");
 
             // SITE ENGLISH - Principal
             //    Response.Redirect("~/EN/Index");
@@ -22,6 +22,9 @@ namespace Sanderlei
 
             //audiobook
             //     Response.Redirect("~/PT/AudioLivro/Index");  
+
+            // SITE GITHUB
+            //      Response.Redirect("~/EN/GitHub/Index");
         }
     }
 }

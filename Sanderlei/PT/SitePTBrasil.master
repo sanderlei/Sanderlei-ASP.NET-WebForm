@@ -20,6 +20,11 @@
                     <li><a href='lingua-portuguesa-01-01' data-target='#' data-toggle='dropdown'>Língua Portuguesa<span class='caret'></span></a><ul class='dropdown-menu'>
                         <li><a href='lingua-portuguesa-01-01'> 01 - A genialidade de Drummond  </a></li>
                         <li><a href='lingua-portuguesa-01-02'> 02 - Tesouro líquido - GOTA-D’ÁGUA  </a></li>
+                        <li><a href='lingua-portuguesa-01-03'> 03 - Em busca da água que sustenta a vida  </a></li>
+                        <li><a href='lingua-portuguesa-01-04'> 04 - Com licença, por favor, obrigado(a)! </a></li>
+                        
+
+                        
                       
                                                                                                                                 </ul>
                                  
@@ -27,6 +32,9 @@
                            <li><a href='Santa-Catarina-Historia-Geografia-01'>01 - O espaço geográfico e sua organização</a></li>                            
                            <li><a href='Santa-Catarina-Historia-Geografia-02'>02 - A organização do espaço geográfico brasileiro</a></li>  
                            <li><a href='Santa-Catarina-Historia-Geografia-03'>03 - A representação do espaço catarinense</a></li>  
+                           <li><a href='Santa-Catarina-Historia-Geografia-04'>04 - O município e sua administração (SC)</a></li>  
+                           <li><a href='Santa-Catarina-Historia-Geografia-05'>05 - Atribuições das Câmaras Municipais (SC)</a></li>  
+                            
                           
                               </ul>	       	         	                           
              
@@ -34,24 +42,29 @@
                         <li><a href='Sao-Paulo-Historia-Geografia-01'> 01 - O espaço geográfico e sua organização  </a></li>
                         <li><a href='Sao-Paulo-Historia-Geografia-02'> 02 - A organização do espaço geográfico brasileiro</a></li> 
                         <li><a href='Sao-Paulo-Historia-Geografia-03'> 03 - A representação do espaço paulista </a></li> 
+                        <li><a href='Sao-Paulo-Historia-Geografia-04'> 04 - O município e sua administração (SP) </a></li> 
+                        <li><a href='Sao-Paulo-Historia-Geografia-05'> 05 - Atribuições das Câmaras Municipais (SP) </a></li>  
+                     
                       
                                                                                                                                 </ul>
                	    <li><a href='Parana-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>História e Geografia do Paraná<span class='caret'></span></a><ul class='dropdown-menu'>
                         <li><a href='Parana-Historia-Geografia-01'> 01 - O espaço geográfico e sua organização  </a></li>
                         <li><a href='Parana-Historia-Geografia-02'> 02 - A organização do espaço geográfico brasileiro  </a></li>
                         <li><a href='Parana-Historia-Geografia-03'> 03 - A representação do espaço paranaense  </a></li>
-
+                        <li><a href='Parana-Historia-Geografia-04'> 04 - O município e sua administração (PR) </a></li>
+                        <li><a href='Parana-Historia-Geografia-05'> 05 - Atribuições das Câmaras Municipais (PR) </a></li>
                            
-                      
+                       
                                                                                                                                 </ul> 
                            
              <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>História e Geografia de Matto Grosso do Sul<span class='caret'></span></a><ul class='dropdown-menu'>
                         <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-01'> 01 - O espaço geográfico e sua organização  </a></li>
                   <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-02'> 02 - A organização do espaço geográfico brasileiro </a></li>
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-03'> 03 - Mato Grosso do Sul – representação e localização </a></li>
-                      
-                                                                                                                                </ul>       	      	                           
-
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-04'> 04 - O município e sua administração (MS)  </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-05'> 05 - Atribuições das Câmaras Municipais (MS)  </a></li>     
+                                                                                                                               </ul>       	      	                           
+                 
                 
                          	         	                           
               </ul>                  
