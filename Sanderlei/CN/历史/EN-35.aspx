@@ -1,4 +1,4 @@
-﻿<%@ Page Title="35. 美国南北战争" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-35.aspx.cs" Inherits="Sanderlei.CN.历史.EN_35" %>
+﻿<%@ Page Title="35. 美国南北战争" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="美国内战发生的..." /> 
 </asp:Content>

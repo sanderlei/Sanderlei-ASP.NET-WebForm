@@ -1,4 +1,4 @@
-﻿<%@ Page Title="52. 巴西第二共和国（1945年至1964年）" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-52.aspx.cs" Inherits="Sanderlei.CN.历史.EN_52" %>
+﻿<%@ Page Title="52. 巴西第二共和国（1945年至1964年）" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="被称为新的共和国时期的开始......" /> 
 </asp:Content>

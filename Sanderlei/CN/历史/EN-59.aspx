@@ -1,4 +1,4 @@
-﻿<%@ Page Title="59. 大衰退" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-59.aspx.cs" Inherits="Sanderlei.CN.历史.EN_59" %>
+﻿<%@ Page Title="59. 大衰退" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="大衰退是全球性的经济危机仍在..." /> 
 </asp:Content>

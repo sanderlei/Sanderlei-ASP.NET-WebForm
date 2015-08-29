@@ -1,4 +1,4 @@
-﻿<%@ Page Title="33. 葡王国巴西" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-33.aspx.cs" Inherits="Sanderlei.CN.历史.EN_33" %>
+﻿<%@ Page Title="33. 葡王国巴西" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="在1807年11月，拿破仑·波拿巴的军队迫使..." /> 
 </asp:Content>

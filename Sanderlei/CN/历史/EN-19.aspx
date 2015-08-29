@@ -1,4 +1,4 @@
-﻿<%@ Page Title="19. 十字军东征" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-19.aspx.cs" Inherits="Sanderlei.CN.历史.EN_19" %>
+﻿<%@ Page Title="19. 十字军东征" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="所谓讨伐任何基督教灵感的军事行动中..." /> 
 </asp:Content>

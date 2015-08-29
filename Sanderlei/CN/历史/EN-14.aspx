@@ -1,4 +1,4 @@
-﻿<%@ Page Title="14. 拜占庭帝国" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-14.aspx.cs" Inherits="Sanderlei.CN.历史.EN_14" %>
+﻿<%@ Page Title="14. 拜占庭帝国" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="拜占庭帝国是在第一个伟大的帝国..." /> 
 </asp:Content>

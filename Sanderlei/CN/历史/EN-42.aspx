@@ -1,4 +1,4 @@
-﻿<%@ Page Title="42. 俄国革命 " Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-42.aspx.cs" Inherits="Sanderlei.CN.历史.EN_42" %>
+﻿<%@ Page Title="42. 俄国革命 " Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="直到1917年，俄罗斯帝国是一个绝对的..." /> 
 </asp:Content>

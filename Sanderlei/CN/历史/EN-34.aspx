@@ -1,4 +1,4 @@
-﻿<%@ Page Title="34. 西班牙美洲独立" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-34.aspx.cs" Inherits="Sanderlei.CN.历史.EN_34" %>
+﻿<%@ Page Title="34. 西班牙美洲独立" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="独立的西班牙语美国的战争开始了......." /> 
 </asp:Content>

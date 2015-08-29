@@ -1,4 +1,4 @@
-﻿<%@ Page Title="45. 社会主义X资本主义" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-45.aspx.cs" Inherits="Sanderlei.CN.历史.EN_45" %>
+﻿<%@ Page Title="45. 社会主义X资本主义" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="社会主义现代化起源于十八世纪的智力和..." /> 
 </asp:Content>

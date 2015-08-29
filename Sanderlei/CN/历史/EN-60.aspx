@@ -1,4 +1,4 @@
-﻿<%@ Page Title="60. 阿拉伯之春" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-60.aspx.cs" Inherits="Sanderlei.CN.历史.EN_60" %>
+﻿<%@ Page Title="60. 阿拉伯之春" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content=" 阿拉伯之春是国际上被称为..." /> 
 </asp:Content>

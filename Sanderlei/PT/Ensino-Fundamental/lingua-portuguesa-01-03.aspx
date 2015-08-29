@@ -39,6 +39,9 @@
   <p>Mas conseguir que as nações tratem de assuntos globais não é tarefa fácil, conforme admite o Secretário-Geral da ONU, Kofi Annan. “No atual mundo globalizado”, diz ele, “os mecanismos existentes para ação em âmbito global estão num estágio pouco mais do que embrionário. Já está na hora de darmos um sentido mais concreto à ideia de ‘comunidade internacional’”.  </p>
 
 
+            
+
+
                 <br />
                 <hr />
                <br />
@@ -61,6 +64,32 @@
 
                   <br />
                  <hr />
+                 <br />
+
+
+                     <br /> <br />
+
+                <div style="background-color:antiquewhite; padding:10px 10px 10px 10px; border:solid 1px black;" >
+                    <br />
+                <h3> Preposição antes do <strong> que </strong>:</h3>
+                    <br />
+                    <p>Às vezes, por exigência dos verbos em uma oração, é necessário colocar preposição antes do que. Veja a frase abaixo:  </p>
+                    <br />
+                    <ul><li> [...] mas sabiam coletar e conservar a água de que dispunham.(dispor de)</li></ul>
+                    <br />
+                    <p><strong> Analise outros exemplos:</strong> </p>
+                    <ul><li> Gosto de romances. </li></ul>
+                    <p> Esse é o romance de que gosto. </p>
+                    <ul><li> Ele lembrou-se de a água ter fervido. </li></ul>
+                    <p> Ele lembrou-se de que a água ferveu. </p>
+                    <ul><li>Ele duvida da existência do problema da água.  </li></ul>
+                    <p>  Ele duvida de que existam problemas com a água </p>
+
+                    <br />
+                    </div>
+
+
+
                  <br />
 
                  <br />

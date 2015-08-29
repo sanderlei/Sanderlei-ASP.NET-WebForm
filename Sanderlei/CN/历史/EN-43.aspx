@@ -1,4 +1,4 @@
-﻿<%@ Page Title="43. 1929年大萧条" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-43.aspx.cs" Inherits="Sanderlei.CN.历史.EN_43" %>
+﻿<%@ Page Title="43. 1929年大萧条" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content=" 在第一次世界大战结束后，欧洲国家发现..." /> 
 </asp:Content>

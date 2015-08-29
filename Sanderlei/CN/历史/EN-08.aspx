@@ -1,4 +1,4 @@
-﻿<%@ Page Title="08. 希伯来 - 犹太教" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-08.aspx.cs" Inherits="Sanderlei.CN.历史.EN_08" %>
+﻿<%@ Page Title="08. 希伯来 - 犹太教" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content=" 希伯来人也被称为以色列人，后来成为犹太人..." /> 
 </asp:Content>

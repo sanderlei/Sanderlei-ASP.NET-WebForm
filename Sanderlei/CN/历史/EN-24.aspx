@@ -1,4 +1,4 @@
-﻿<%@ Page Title="24. 再生" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-24.aspx.cs" Inherits="Sanderlei.CN.历史.EN_24" %>
+﻿<%@ Page Title="24. 再生" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="被称为文艺复兴时期沿袭了..." /> 
 </asp:Content>

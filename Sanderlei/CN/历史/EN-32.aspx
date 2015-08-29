@@ -1,4 +1,4 @@
-﻿<%@ Page Title="32. 拿破仑战争" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-32.aspx.cs" Inherits="Sanderlei.CN.历史.EN_32" %>
+﻿<%@ Page Title="32. 拿破仑战争" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="拿破仑上台为第一领事皇帝..." /> 
 </asp:Content>

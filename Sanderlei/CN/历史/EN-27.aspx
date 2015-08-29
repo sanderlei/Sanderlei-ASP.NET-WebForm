@@ -1,4 +1,4 @@
-﻿<%@ Page Title="27. 巴西殖民" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-27.aspx.cs" Inherits="Sanderlei.CN.历史.EN_27" %>
+﻿<%@ Page Title="27. 巴西殖民" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="巴西在1500年的发现并没有引起人们太多的..." /> 
 </asp:Content>

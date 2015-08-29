@@ -1,4 +1,4 @@
-﻿<%@ Page Title="11. 希腊哲学" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-11.aspx.cs" Inherits="Sanderlei.CN.历史.EN_11" %>
+﻿<%@ Page Title="11. 希腊哲学" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content=" 西方哲学产生于古希腊的..." /> 
 </asp:Content>

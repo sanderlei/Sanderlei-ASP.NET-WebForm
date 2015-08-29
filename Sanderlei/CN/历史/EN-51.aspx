@@ -1,4 +1,4 @@
-﻿<%@ Page Title="51. 冷战" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-51.aspx.cs" Inherits="Sanderlei.CN.历史.EN_51" %>
+﻿<%@ Page Title="51. 冷战" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="冷战是赋予这个名字..." /> 
 </asp:Content>

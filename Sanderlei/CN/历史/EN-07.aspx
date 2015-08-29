@@ -1,4 +1,4 @@
-﻿<%@ Page Title="07. 古埃及" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-07.aspx.cs" Inherits="Sanderlei.CN.历史.EN_07" %>
+﻿<%@ Page Title="07. 古埃及" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="一个人类埃及的第一个伟大的文明..." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="40. 巴西共和国" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-40.aspx.cs" Inherits="Sanderlei.CN.历史.EN_40" %>
+﻿<%@ Page Title="40. 巴西共和国" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="11月15日1889年，德奥多罗元帅达丰塞卡颁布。.." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="30. 现时代" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-30.aspx.cs" Inherits="Sanderlei.CN.历史.EN_30" %>
+﻿<%@ Page Title="30. 现时代" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="当代年龄是在当前特定时期..." /> 
 </asp:Content>

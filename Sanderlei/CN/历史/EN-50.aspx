@@ -1,4 +1,4 @@
-﻿<%@ Page Title="50. 非洲非殖民化的" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-50.aspx.cs" Inherits="Sanderlei.CN.历史.EN_50" %>
+﻿<%@ Page Title="50. 非洲非殖民化的" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
        <meta name="description" content="在中世纪后期欧洲各国开始..." /> 
 </asp:Content>

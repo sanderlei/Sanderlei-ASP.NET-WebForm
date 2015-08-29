@@ -1,4 +1,4 @@
-﻿<%@ Page Title="54. 巴西 - 军事政权（1964-1985）" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-54.aspx.cs" Inherits="Sanderlei.CN.历史.EN_54" %>
+﻿<%@ Page Title="54. 巴西 - 军事政权（1964-1985）" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content=" 于1964年3月31日武装部队开展..." /> 
 </asp:Content>

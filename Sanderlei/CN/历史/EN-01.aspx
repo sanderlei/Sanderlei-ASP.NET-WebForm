@@ -1,4 +1,4 @@
-﻿<%@ Page Title="01. 宇宙年表" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-01.aspx.cs" Inherits="Sanderlei.CN.历史.EN_01" %>
+﻿<%@ Page Title="01. 宇宙年表" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="宇宙始于大约13十亿年前，根据..." /> 
 </asp:Content>

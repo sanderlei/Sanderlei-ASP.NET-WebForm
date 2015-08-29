@@ -1,4 +1,4 @@
-﻿<%@ Page Title="20. 黑死病" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-20.aspx.cs" Inherits="Sanderlei.CN.历史.EN_20" %>
+﻿<%@ Page Title="20. 黑死病" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="黑死病是其中死亡的第三流行病..." /> 
 </asp:Content>

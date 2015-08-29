@@ -1,4 +1,4 @@
-﻿<%@ Page Title="06. 美索不达米亚" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-06.aspx.cs" Inherits="Sanderlei.CN.历史.EN_06" %>
+﻿<%@ Page Title="06. 美索不达米亚" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="认为文明的摇篮，美索不达米亚是那里的..." /> 
 </asp:Content>

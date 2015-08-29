@@ -1,4 +1,4 @@
-﻿<%@ Page Title="58. 数字革命" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-58.aspx.cs" Inherits="Sanderlei.CN.历史.EN_58" %>
+﻿<%@ Page Title="58. 数字革命" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="在20世纪60年代后期，互联网的出现..." /> 
 </asp:Content>

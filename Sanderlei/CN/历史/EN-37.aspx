@@ -1,4 +1,4 @@
-﻿<%@ Page Title="37. 德意志统一" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-37.aspx.cs" Inherits="Sanderlei.CN.历史.EN_37" %>
+﻿<%@ Page Title="37. 德意志统一" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="德国的统一，政治上和行政上，在..." /> 
 </asp:Content>

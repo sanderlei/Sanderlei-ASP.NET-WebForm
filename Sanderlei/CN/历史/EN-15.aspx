@@ -1,4 +1,4 @@
-﻿<%@ Page Title="15. 伊斯兰文明" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-15.aspx.cs" Inherits="Sanderlei.CN.历史.EN_15" %>
+﻿<%@ Page Title="15. 伊斯兰文明" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="伊斯兰文明产生于阿拉伯具有如..." /> 
 </asp:Content>

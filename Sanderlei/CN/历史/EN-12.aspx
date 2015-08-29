@@ -1,4 +1,4 @@
-﻿<%@ Page Title="12. 罗马文明建设" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-12.aspx.cs" Inherits="Sanderlei.CN.历史.EN_12" %>
+﻿<%@ Page Title="12. 罗马文明建设" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="罗马文明来自一个小的农业社区成立于..." /> 
 </asp:Content>

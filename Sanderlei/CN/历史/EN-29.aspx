@@ -1,4 +1,4 @@
-﻿<%@ Page Title="29. 法国大革命" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-29.aspx.cs" Inherits="Sanderlei.CN.历史.EN_29" %>
+﻿<%@ Page Title="29. 法国大革命" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="法国大革命的发生..." /> 
 </asp:Content>

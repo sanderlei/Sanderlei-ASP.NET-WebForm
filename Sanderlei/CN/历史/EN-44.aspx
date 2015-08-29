@@ -1,4 +1,4 @@
-﻿<%@ Page Title="44. 现代主义" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-44.aspx.cs" Inherits="Sanderlei.CN.历史.EN_44" %>
+﻿<%@ Page Title="44. 现代主义" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" 现代主义是文化运动，学校和集合..." /> 
 </asp:Content>

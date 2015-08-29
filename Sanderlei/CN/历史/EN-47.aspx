@@ -1,4 +1,4 @@
-﻿<%@ Page Title="47. 纳粹主义" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-47.aspx.cs" Inherits="Sanderlei.CN.历史.EN_47" %>
+﻿<%@ Page Title="47. 纳粹主义" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="纳粹主义是纳粹党实行的思想..." /> 
 </asp:Content>

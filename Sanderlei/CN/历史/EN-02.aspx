@@ -1,4 +1,4 @@
-﻿<%@ Page Title="02. 地球年表" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-02.aspx.cs" Inherits="Sanderlei.CN.历史.EN_02" %>
+﻿<%@ Page Title="02. 地球年表" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="地球是围绕形成4.57十亿年前，在..." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="21. 中世纪哲学" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-21.aspx.cs" Inherits="Sanderlei.CN.历史.EN_21" %>
+﻿<%@ Page Title="21. 中世纪哲学" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="在一般情况下，人们认为中世纪时期..." /> 
 </asp:Content>

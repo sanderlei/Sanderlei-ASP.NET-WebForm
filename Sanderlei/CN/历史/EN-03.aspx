@@ -1,4 +1,4 @@
-﻿<%@ Page Title="03. 史前" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-03.aspx.cs" Inherits="Sanderlei.CN.历史.EN_03" %>
+﻿<%@ Page Title="03. 史前" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="史前为2.5万年前的时期..." /> 
 </asp:Content>

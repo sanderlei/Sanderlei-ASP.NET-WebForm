@@ -1,4 +1,4 @@
-﻿<%@ Page Title="38. 美好时代" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-38.aspx.cs" Inherits="Sanderlei.CN.历史.EN_38" %>
+﻿<%@ Page Title="38. 美好时代" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="他美好时代是一个时期的欧洲历史的..." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="36. 意大利统一" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-36.aspx.cs" Inherits="Sanderlei.CN.历史.EN_36" %>
+﻿<%@ Page Title="36. 意大利统一" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="意大利统一为一个民族国家发生..." /> 
 </asp:Content>

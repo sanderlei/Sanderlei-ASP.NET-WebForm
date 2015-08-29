@@ -1,4 +1,4 @@
-﻿<%@ Page Title="57. 反恐战争" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-57.aspx.cs" Inherits="Sanderlei.CN.历史.EN_57" %>
+﻿<%@ Page Title="57. 反恐战争" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="反恐战争是军事行动的发动..." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="10. 希腊神话" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-10.aspx.cs" Inherits="Sanderlei.CN.历史.EN_10" %>
+﻿<%@ Page Title="10. 希腊神话" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="希腊神话中涉及到古希腊的神话......" /> 
 </asp:Content>

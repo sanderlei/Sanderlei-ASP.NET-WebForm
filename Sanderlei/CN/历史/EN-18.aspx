@@ -1,4 +1,4 @@
-﻿<%@ Page Title="18. 创建欧洲国家" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-18.aspx.cs" Inherits="Sanderlei.CN.历史.EN_18" %>
+﻿<%@ Page Title="18. 创建欧洲国家" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="西罗马帝国几个沦陷后..." /> 
 </asp:Content>

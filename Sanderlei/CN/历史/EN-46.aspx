@@ -1,4 +1,4 @@
-﻿<%@ Page Title="46. 法西斯主义" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-46.aspx.cs" Inherits="Sanderlei.CN.历史.EN_46" %>
+﻿<%@ Page Title="46. 法西斯主义" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="法西斯主义是民族主义的专制政治激进主义的一种形式。.." /> 
 </asp:Content>

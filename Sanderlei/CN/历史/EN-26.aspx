@@ -1,4 +1,4 @@
-﻿<%@ Page Title="26. 欧洲绝对" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-26.aspx.cs" Inherits="Sanderlei.CN.历史.EN_26" %>
+﻿<%@ Page Title="26. 欧洲绝对" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="这是，这是最大的变革政党..." /> 
 </asp:Content>

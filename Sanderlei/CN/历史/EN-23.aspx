@@ -1,4 +1,4 @@
-﻿<%@ Page Title="23. 摩登时代" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-23.aspx.cs" Inherits="Sanderlei.CN.历史.EN_23" %>
+﻿<%@ Page Title="23. 摩登时代" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="在十五世纪后期和十六世纪初，欧洲人跨越..." />
 </asp:Content>

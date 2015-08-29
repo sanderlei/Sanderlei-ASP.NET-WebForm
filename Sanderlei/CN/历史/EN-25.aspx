@@ -1,4 +1,4 @@
-﻿<%@ Page Title="25. 宗教改革" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-25.aspx.cs" Inherits="Sanderlei.CN.历史.EN_25" %>
+﻿<%@ Page Title="25. 宗教改革" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="新教改革是一个运动的..." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="49. 巴西 - 巴尔加斯时代" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-49.aspx.cs" Inherits="Sanderlei.CN.历史.EN_49" %>
+﻿<%@ Page Title="49. 巴西 - 巴尔加斯时代" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="期间1930年至1945年，从推翻..." /> 
 </asp:Content>

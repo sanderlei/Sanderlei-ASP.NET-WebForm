@@ -1,4 +1,4 @@
-﻿<%@ Page Title="53. 太空竞赛" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="EN-53.aspx.cs" Inherits="Sanderlei.CN.历史.EN_53" %>
+﻿<%@ Page Title="53. 太空竞赛" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
       <meta name="description" content="从历史上看，太空探索始于..." /> 
 </asp:Content>
