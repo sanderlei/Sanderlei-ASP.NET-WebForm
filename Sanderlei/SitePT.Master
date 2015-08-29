@@ -68,9 +68,8 @@
                     <li><a href='/PT/AudioBook/Index' >Audio Book (EN)</a></li>
                     <li><a href='/PT/Ensino-Fundamental/Index' > Ensino Fundamental (Educação)</a></li>                     
                     <li><a href='/EN/JavaScript/Index' > JavaScript (EN)</a></li>                                         
-                    <li><a href='/PT/ASP-NET/Index' > ASP.NET </a></li>  
-                    <li><a href='/PT/Banco-de-Dados/Index' > Banco de Dados </a></li> 
-                    <li><a href='/EN/GitHub/Index' > GitHub (EN)</a></li> 
+                    <li><a href='/PT/ASP-NET/Index' > ASP.NET </a></li>                                     
+                    <li><a href='/PT/Banco-de-Dados/Index' > Banco de Dados </a></li>
                     <li><a href='/PT/TOTVS-Datasul/Index' > TOTVS - Datasul </a></li>                                                          
                     <li><a href='/EN/Adobe/Index' > Adobe Academy (EN)</a></li>                                    
                     <li><a href='/PT/Design-Grafico/Index' > Design Gráfico </a></li>                         
