@@ -82,11 +82,12 @@
    <br />
     <!--  anuncio patrocinado  -->
      <div class='container'> 
-        <a style="color:white" href='http://www.sanderlei.com.br/'>Sanderlei Silveira (S-01)|</a>        
-        <a style="color:white" href='http://www.historia1minuto.com.br/'>História em 1 Minuto (S-02)|</a>
-        <a style="color:white" href='http://www.ssconsult.com.br/'>SS Consul (S-03)|</a>
-        <a style="color:white" href='http://www.ss-solucoes.com/'>SS Solucoes (S-04)|</a>
-        <a style="color:white" href='http://www.sz-solution.com/'>SZ Soluções - SZ Solucoes (S-05)|</a>        
+        <a style="color:white" href='http://sanderlei.com/'>Sanderlei Silveira (S-00)|</a>        
+        <a style="color:white" href='http://sanderlei.com.br/'>Sanderlei Silveira (S-01)|</a>        
+        <a style="color:white" href='http://historia1minuto.com.br/'>História em 1 Minuto (S-02)|</a>
+        <a style="color:white" href='http://ssconsult.com.br/'>SS Consul (S-03)|</a>
+        <a style="color:white" href='http://ss-solucoes.com/'>SS Solucoes (S-04)|</a>
+        <a style="color:white" href='http://sz-solution.com/'>SZ Soluções - SZ Solucoes (S-05)|</a>              
         <a style="color:white" href='http://sanderlei.azurewebsites.net/'>Sanderlei Silveira (A-01)|</a>
         <a style="color:white" href='http://historia.azurewebsites.net/'>História em 1 Minuto (A-02)|</a>                
         <a style="color:white" href='http://sz-solucoes.azurewebsites.net/'>SZ Soluções - SZ Solucoes (A-03)|</a>          

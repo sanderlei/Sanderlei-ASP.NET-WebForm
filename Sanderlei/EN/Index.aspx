@@ -11,7 +11,10 @@
 	        <h1>Welcome!</h1>
             <br>
             <br>
-            <br>          
+            <br>           
+            
+            
+                    
              </div>             
                    <div class='col-xs-12 col-md-12 text-center'>
                         <a href='/PT/Poesia/INDEX'>
@@ -59,11 +62,35 @@
       <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/historia/60-01-Primavera-Arabe.jpg" width="600" height="400" alt="Cronologia do Universo"/> 
       </a>
       <br></div>
+
+
+
+               
+
+
+                
+
+
+
+
+
+
+
                 
             </div>
             <br>
+            <hr />
             <br>
-            <div class='well col-sm-8 col-sm-offset-2'>
+            <div class="dailymotion-widget" data-placement="55e08f51855f6153746ec915"></div><script>(function(w,d,s,u,n,e,c){w.PXLObject = n; w[n] = w[n] || function(){(w[n].q = w[n].q || []).push(arguments);};w[n].l = 1 * new Date();e = d.createElement(s); e.async = 1; e.src = u;c = d.getElementsByTagName(s)[0]; c.parentNode.insertBefore(e,c);})(window, document, "script", "//api.dmcdn.net/pxl/client.js", "pxl");</script>
+            <br>
+            <hr />
+            <br>
+            <br>
+            <br>
+
+
+
+            <div class='well  hidden-xs col-sm-8 col-sm-offset-2'>
              <iframe id="I1" allowtransparency="true" frameborder="0" name="I1" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FHistoriaEm1Minuto&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80" style="border:none; overflow:hidden; height:80px;"></iframe>
              
                <br>
