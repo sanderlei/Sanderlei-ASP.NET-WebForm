@@ -30,9 +30,10 @@ namespace Sanderlei
 
             // SITE CURSO DE INGLES
             //     Response.Redirect("~/PT/Idioma/Index");
+            Response.Redirect("~/PT/Idioma/Index");
 
             // SITE BRasil - Principal
-            Response.Redirect("~/PT/Index");
+            //  Response.Redirect("~/PT/Index");
 
 
         }
