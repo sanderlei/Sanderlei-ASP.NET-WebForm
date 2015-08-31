@@ -4021,6 +4021,11 @@
     <Content Include="PT\Developer\iOS-03-12.aspx" />
     <Content Include="PT\Developer\iOS-03-13.aspx" />
     <Content Include="PT\Developer\iOS-03-14.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-08.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-08.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-08.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-08.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-07.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-07.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-07.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-07.aspx" />
@@ -6002,7 +6007,11 @@
     <None Include="Properties\PublishProfiles\04-GitHub.pubxml" />
     <None Include="Properties\PublishProfiles\05-Poesia.pubxml" />
     <None Include="Properties\PublishProfiles\06-Curso-Ingles.pubxml" />
-    <None Include="Properties\PublishProfiles\Curso-de-Espanhol-Online-Gratis-Completo.pubxml" />
+    <None Include="Properties\PublishProfiles\07-Curso-Espanhol.pubxml" />
+    <None Include="Properties\PublishProfiles\08-Machado-Dom.pubxml" />
+    <None Include="Properties\PublishProfiles\09-Machado-Bras.pubxml" />
+    <None Include="Properties\PublishProfiles\10-Machado-San.pubxml" />
+    <None Include="Properties\PublishProfiles\historia.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

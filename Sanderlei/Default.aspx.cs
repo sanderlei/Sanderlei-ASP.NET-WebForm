@@ -30,11 +30,13 @@ namespace Sanderlei
 
             // SITE CURSO DE INGLES
             //     Response.Redirect("~/PT/Idioma/Index");
-            Response.Redirect("~/PT/Idioma/Index");
+            // Response.Redirect("~/PT/Machado-de-Assis/Index");
 
             // SITE BRasil - Principal
             //  Response.Redirect("~/PT/Index");
 
+
+            Response.Redirect("~/PT/SAP/Index");
 
         }
     }
