@@ -4021,8 +4021,13 @@
     <Content Include="PT\Developer\iOS-03-12.aspx" />
     <Content Include="PT\Developer\iOS-03-13.aspx" />
     <Content Include="PT\Developer\iOS-03-14.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-10.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-10.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-09.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-09.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-09.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-10.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-10.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-09.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-09.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-08.aspx" />

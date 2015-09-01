@@ -3660,6 +3660,7 @@
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/lingua-portuguesa-01-06 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/lingua-portuguesa-01-07 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/lingua-portuguesa-01-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/lingua-portuguesa-01-09 </loc><priority>0.70</priority></url>
 
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Santa-Catarina-Historia-Geografia-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Santa-Catarina-Historia-Geografia-02 </loc><priority>0.70</priority></url>
@@ -3670,6 +3671,7 @@
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Santa-Catarina-Historia-Geografia-07 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Santa-Catarina-Historia-Geografia-08 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Santa-Catarina-Historia-Geografia-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Santa-Catarina-Historia-Geografia-10 </loc><priority>0.70</priority></url>
 
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Sao-Paulo-Historia-Geografia-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Sao-Paulo-Historia-Geografia-02 </loc><priority>0.70</priority></url>
@@ -3680,6 +3682,7 @@
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Sao-Paulo-Historia-Geografia-07 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Sao-Paulo-Historia-Geografia-08 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Sao-Paulo-Historia-Geografia-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Sao-Paulo-Historia-Geografia-10 </loc><priority>0.70</priority></url>
 
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Parana-Historia-Geografia-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Parana-Historia-Geografia-02 </loc><priority>0.70</priority></url>
@@ -3690,6 +3693,7 @@
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Parana-Historia-Geografia-07 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Parana-Historia-Geografia-08 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Parana-Historia-Geografia-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Parana-Historia-Geografia-10 </loc><priority>0.70</priority></url>
 
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Mato-Grosso-do-Sul-Historia-Geografia-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Mato-Grosso-do-Sul-Historia-Geografia-02 </loc><priority>0.70</priority></url>
@@ -3700,6 +3704,7 @@
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Mato-Grosso-do-Sul-Historia-Geografia-07 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Mato-Grosso-do-Sul-Historia-Geografia-08 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Mato-Grosso-do-Sul-Historia-Geografia-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Ensino-Fundamental/Mato-Grosso-do-Sul-Historia-Geografia-10 </loc><priority>0.70</priority></url>
 
   <url><loc>http://sanderlei.com.br/PT/Banco-de-Dados/PL-SQL-Oracle-01-01 </loc><priority>0.70</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Banco-de-Dados/PL-SQL-Oracle-01-02 </loc><priority>0.70</priority></url>

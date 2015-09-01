@@ -26,6 +26,7 @@
                         <li><a href='lingua-portuguesa-01-06'> 06 - O Memorial de Iwo Jima </a></li>
                         <li><a href='lingua-portuguesa-01-07'> 07 - Não se renega o berço </a></li>
                         <li><a href='lingua-portuguesa-01-08'> 08 - Serra Pelada </a></li>
+                        <li><a href='lingua-portuguesa-01-09'> 09 - Cortadores de cana </a></li>
                         
                         
                         
@@ -42,8 +43,10 @@
                            <li><a href='Santa-Catarina-Historia-Geografia-07'>07 - A história da configuração do território catarinense</a></li>  
                            <li><a href='Santa-Catarina-Historia-Geografia-08'>08 - Os tratados de limites estabelecendo as fronteiras </a></li>  
                            <li><a href='Santa-Catarina-Historia-Geografia-09'>09 - A divisão estadual após a independência do Brasil </a></li>  
-                            
+                           <li><a href='Santa-Catarina-Historia-Geografia-10'>10 - A Guerra do Contestado</a></li>  
                           
+                           
+
                               </ul>	       	         	                           
              
                 <li><a href='Sao-Paulo-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>História e Geografia de São Paulo<span class='caret'></span></a><ul class='dropdown-menu'>
@@ -56,7 +59,10 @@
                         <li><a href='Sao-Paulo-Historia-Geografia-07'> 07 - A história da configuração do território paulista </a></li>  
                         <li><a href='Sao-Paulo-Historia-Geografia-08'> 08 - Os tratados de limites estabelecendo as fronteiras </a></li>  
                         <li><a href='Sao-Paulo-Historia-Geografia-09'> 09 - A divisão estadual após a independência do Brasil </a></li>  
+                        <li><a href='Sao-Paulo-Historia-Geografia-10'> 10 - A divisão estadual após a Proclamação da República </a></li>  
                      
+                    
+
                       
                                                                                                                                 </ul>
                	    <li><a href='Parana-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>História e Geografia do Paraná<span class='caret'></span></a><ul class='dropdown-menu'>
@@ -69,6 +75,7 @@
                         <li><a href='Parana-Historia-Geografia-07'> 07 - A história da configuração do território paranaense </a></li>
                         <li><a href='Parana-Historia-Geografia-08'> 08 - Os tratados de limites estabelecendo as fronteiras</a></li>
                         <li><a href='Parana-Historia-Geografia-09'> 09 - A divisão estadual após a independência do Brasil </a></li>
+                        <li><a href='Parana-Historia-Geografia-10'> 10 - A Guerra do Contestado </a></li>
                            
                        
                                                                                                                                 </ul> 
@@ -83,6 +90,7 @@
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-07'> 07 - A história da formação do território do Mato Grosso do Sul  </a></li>     
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-08'> 08 - Os tratados de limites estabelecendo as fronteiras </a></li>     
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-09'> 09 - A divisão estadual após a independência do Brasil </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-10'> 10 - A divisão estadual após a Proclamação da República </a></li>     
 
 
                                                                                                                                </ul>       	      	                           
