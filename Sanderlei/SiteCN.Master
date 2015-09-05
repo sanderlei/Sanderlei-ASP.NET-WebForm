@@ -80,35 +80,28 @@
       </div>
     <br />
     <!--  anuncio patrocinado  -->
-     <div class='container'> 
-        <a style="color:white" href='http://sanderlei.com/'>Sanderlei Silveira (S-00)|</a>        
-        <a style="color:white" href='http://sanderlei.com.br/'>Sanderlei Silveira (S-01)|</a>        
-        <a style="color:white" href='http://historia1minuto.com.br/'>História em 1 Minuto (S-02)|</a>
-        <a style="color:white" href='http://ssconsult.com.br/'>SS Consul (S-03)|</a>
-        <a style="color:white" href='http://ss-solucoes.com/'>SS Solucoes (S-04)|</a>
-        <a style="color:white" href='http://sz-solution.com/'>SZ Soluções - SZ Solucoes (S-05)|</a>             
+      <div class='container'> 
+        <a style="color:white" href='http://sanderlei.com/'>Sanderlei Silveira (S-01)|</a>        
+        <a style="color:white" href='http://sanderlei.com.br/'>Sanderlei Silveira (S-02)|</a>        
+        <a style="color:white" href='http://historia1minuto.com.br/'>História em 1 Minuto (S-03)|</a>
+        <a style="color:white" href='http://ssconsult.com.br/'>SS Consul (S-04)|</a>
+        <a style="color:white" href='http://ss-solucoes.com/'>SS Solucoes (S-05)|</a>
+        <a style="color:white" href='http://sz-solution.com/'>SZ Soluções - SZ Solucoes (S-06)|</a>        
+        <a style="color:white" href='http://casadosorvetejoinville.com.br/'>Casa do Sorvete - Joinville (S-07)|</a>        
         <a style="color:white" href='http://sanderlei.azurewebsites.net/'>Sanderlei Silveira (A-01)|</a>
         <a style="color:white" href='http://historia.azurewebsites.net/'>História em 1 Minuto (A-02)|</a>                
         <a style="color:white" href='http://sz-solucoes.azurewebsites.net/'>SZ Soluções - SZ Solucoes (A-03)|</a>          
         <a style="color:white" href='http://poesia-sanderlei.azurewebsites.net/'>Poesia (A-04)|</a>
-        <a style="color:white" href='http://curso-de-ingles-online-gratis-completo.azurewebsites.net/'> Curso de Inglês Online - Gratis e Completo (A-05)|</a>        
-        <a style="color:white" href='http://curso-de-espanhol-online-gratis-completo.azurewebsites.net/'> Curso de Espanhol Online - Gratis e Completo (A-06)|</a>        
-        <a style="color:white" href='http://audio-book-sanderlei.azurewebsites.net/'> Audio Book Online - Gratis e Completo (A-07)|</a>        
-        <a style="color:white" href='http://audio-livro-sanderlei.azurewebsites.net/'> Audio Livro Online - Gratis e Completo (A-08)|</a>        
-        <a style="color:white" href='http://github-tutorial-sanderlei.azurewebsites.net/'> GitHub Tutorial - Curso online Gratuito e Completo (A-09)|</a>
-        <a style="color:white" href='http://machado-de-assis-sanderlei.azurewebsites.net/'> Machado de Assis - Sanderlei (A-10)|</a>
-        <a style="color:white" href='http://machado-de-assis-dom-casmurro.azurewebsites.net/'> Machado de Assis - Dom Casmurro (A-11)|</a>
-        <a style="color:white" href='http://machado-de-assis-memorias-postumas-de-bras-cubas.azurewebsites.net/'> Machado de Assis - Memórias Póstumas de Brás Cubas (A-12)|</a>
-        <a style="color:white" href='http://sap-curso-online-gratuito.azurewebsites.net/'> Sap Curso Online Gratuito (A-13)|</a>
-        <a style="color:white" href='http://sap-learning-hub-free.azurewebsites.net/'> Sap Learning Hub Free (A-14)|</a>
-        <a style="color:white" href='http://sap-treinamento-online-gratis.azurewebsites.net/'> Sap Treinamento Online Gratis (A-15)|</a>
-        <a style="color:white" href='http://sap-academy-free.azurewebsites.net/'> Sap Academy Free (A-16)|</a>
-        <a style="color:white" href='http://sap-sanderlei.azurewebsites.net/'> Sap Sanderlei (A-17)|</a>
-        <a style="color:white" href='http://sap-curso-online-gratuito.azurewebsites.net/'> Sap Curso Online Gratuito (A-13)|</a>
-        <a style="color:white" href='http://sap-learning-hub-free.azurewebsites.net/'> Sap Learning Hub Free (A-14)|</a>
-        <a style="color:white" href='http://sap-treinamento-online-gratis.azurewebsites.net/'> Sap Treinamento Online Gratis (A-15)|</a>
-        <a style="color:white" href='http://sap-academy-free.azurewebsites.net/'> Sap Academy Free (A-16)|</a>
-        <a style="color:white" href='http://sap-sanderlei.azurewebsites.net/'> Sap Sanderlei (A-17)|</a>
+        <a style="color:white" href='http://curso-de-ingles-online-gratis-completo.azurewebsites.net/'> Curso de Inglês Online - Gratis e Completo (A-05)|</a>                
+        <a style="color:white" href='http://audio-book-sanderlei.azurewebsites.net/'> Audio Book Online - Gratis e Completo (A-06)|</a>        
+        <a style="color:white" href='http://audio-livro-sanderlei.azurewebsites.net/'> Audio Livro Online - Gratis e Completo (A-07)|</a>                
+        <a style="color:white" href='http://machado-de-assis-sanderlei.azurewebsites.net/'> Machado de Assis - Sanderlei (A-08)|</a>
+        <a style="color:white" href='http://machado-de-assis-dom-casmurro.azurewebsites.net/'> Machado de Assis - Dom Casmurro (A-09)|</a>
+        <a style="color:white" href='http://machado-de-assis-memorias-postumas-de-bras-cubas.azurewebsites.net/'> Machado de Assis - Memórias Póstumas de Brás Cubas (A-10)|</a>
+        <a style="color:white" href='http://sap-curso-online-gratuito.azurewebsites.net/'> Sap Curso Online Gratuito (A-11)|</a>
+        <a style="color:white" href='http://sap-learning-hub-free.azurewebsites.net/'> Sap Learning Hub Free (A-12)|</a>
+        <a style="color:white" href='http://sap-treinamento-online-gratis.azurewebsites.net/'> Sap Treinamento Online Gratis (A-13)|</a>                        
+        <a style="color:white" href='http://casadosorvetejoinville.azurewebsites.net/'> Casa do Sorvete - Joinville (A-14)|</a>        
         <a style="color:white" href='http://historiaem1minutobr.blogspot.com/'>História em 1 Minuto (B-01)|</a>
         <a style="color:white" href='http://historiaen1minutoes.blogspot.com/'>History in 1 Minute (B-02)|</a>
         <a style="color:white" href='http://historyin1minuteen.blogspot.com/'>Historia en 1 Minuto (B-03)|</a>

@@ -33,10 +33,10 @@ namespace Sanderlei
             // Response.Redirect("~/PT/Machado-de-Assis/Index");
 
             // SITE BRasil - Principal
-            //  Response.Redirect("~/PT/Index");
+            Response.Redirect("~/PT/Index");
 
 
-            Response.Redirect("~/PT/SAP/Index");
+        //    Response.Redirect("~/PT/SAP/Index");
 
         }
     }
