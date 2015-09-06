@@ -4021,6 +4021,11 @@
     <Content Include="PT\Developer\iOS-03-12.aspx" />
     <Content Include="PT\Developer\iOS-03-13.aspx" />
     <Content Include="PT\Developer\iOS-03-14.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-15.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-14.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-13.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-12.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-11.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-11.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-11.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-10.aspx" />
