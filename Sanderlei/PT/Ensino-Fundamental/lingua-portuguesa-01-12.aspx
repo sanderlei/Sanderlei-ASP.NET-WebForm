@@ -7,14 +7,13 @@
       <div class='container panel-body'>
         <div class='col-xs-12 col-md-12 text-center'>
             <br>  <h1> Top 10 - Prédios mais altos do mundo (Atualizado até 09/2015) </h1>               
+            <br><br><br>
             <div class=' text-justify' style='line-height:1.7'> 
                 <Br />  
                 <p> <span class="lead">   O Burj Khalifa Bin Zayid (em árabe “Torre de Khalifa”) anteriormente conhecido como Burj Dubai, é um arranha-céu localizado em Dubai, </span>   nos Emirados Árabes Unidos, sendo a maior estrutura e, consequentemente, o maior arranha-céu construído pelo homem, com 828 metros de altura em formato de agulha e com 192 andares. Sua construção começou em setembro de 2004 e foi inaugurado em janeiro de 2010. Foi rebatizado devido ao empréstimo feito por Khalifa bin Zayed Al Nahyan, xeique do emirado de Abu Dhabi, depois que emprestou US$ 10 bilhões para a sua conclusão.        </p>
                   <p>   </p>
-                 
-  <p>O edifício faz parte de uma área de 2 km2 em desenvolvimento chamada “Downtown Burj Dubai”, localizada no “First Interchange”. </p>
-  <p>O Burj Khalifa Bin Zayid, que desbanca até agora a mais alta torre do mundo, a Taipei 101, de Taiwan, com 509 metros, e também a torre da antena da KVLY - TV, nos EUA, tornando-se a estrutura mais alta já construída pelo homem quando atingiu 629 metros. </p>
-  <p>A seguir, a lista dos dez edifícios mais altos do planeta (esses prédios são tão altos que fazem jus ao nome “arranha-céus”.</p>
+  
+                 <p>A seguir, a lista dos dez edifícios mais altos do planeta (esses prédios são tão altos que fazem jus ao nome “arranha-céus”.</p>
                 <br /><br />
                 <h3 class="text-center">  1° – Burj Khalifa – 828 m  </h3>
                 <br />

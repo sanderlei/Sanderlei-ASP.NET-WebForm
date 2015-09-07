@@ -39,7 +39,7 @@
                       
                                                                                                                                 </ul>
                                  
-               		<li><a href='Santa-Catarina-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>História e Geografia de Santa Catarina<span class='caret'></span></a><ul class='dropdown-menu'>
+               		<li><a href='Santa-Catarina-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>Santa Catarina<span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='Santa-Catarina-Historia-Geografia-01'>01 - O espaço geográfico e sua organização</a></li>                            
                            <li><a href='Santa-Catarina-Historia-Geografia-02'>02 - A organização do espaço geográfico brasileiro</a></li>  
                            <li><a href='Santa-Catarina-Historia-Geografia-03'>03 - A representação do espaço catarinense</a></li>  
@@ -51,13 +51,13 @@
                            <li><a href='Santa-Catarina-Historia-Geografia-09'>09 - A divisão estadual após a independência do Brasil </a></li>  
                            <li><a href='Santa-Catarina-Historia-Geografia-10'>10 - A Guerra do Contestado</a></li>  
                            <li><a href='Santa-Catarina-Historia-Geografia-11'>11 - A divisão estadual após a Proclamação da República</a></li>  
-                           <li><a href='Santa-Catarina-Historia-Geografia-12'>12 - A divisão estadual após a Proclamação da República</a></li>  
+                           <li><a href='Santa-Catarina-Historia-Geografia-12'>12 - As regiões do estado de Santa Catarina</a></li>  
                           
                            
 
                               </ul>	       	         	                           
              
-                <li><a href='Sao-Paulo-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>História e Geografia de São Paulo<span class='caret'></span></a><ul class='dropdown-menu'>
+                <li><a href='Sao-Paulo-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>São Paulo<span class='caret'></span></a><ul class='dropdown-menu'>
                         <li><a href='Sao-Paulo-Historia-Geografia-01'> 01 - O espaço geográfico e sua organização  </a></li>
                         <li><a href='Sao-Paulo-Historia-Geografia-02'> 02 - A organização do espaço geográfico brasileiro</a></li> 
                         <li><a href='Sao-Paulo-Historia-Geografia-03'> 03 - A representação do espaço paulista </a></li> 
@@ -69,12 +69,13 @@
                         <li><a href='Sao-Paulo-Historia-Geografia-09'> 09 - A divisão estadual após a independência do Brasil </a></li>  
                         <li><a href='Sao-Paulo-Historia-Geografia-10'> 10 - A divisão estadual após a Proclamação da República </a></li>  
                         <li><a href='Sao-Paulo-Historia-Geografia-11'> 11 - As regiões do estado de São Paulo </a></li>  
+                        <li><a href='Sao-Paulo-Historia-Geografia-12'> 12 - Mesorregião de São José do Rio Preto </a></li>  
                      
                     
 
                       
                                                                                                                                 </ul>
-               	    <li><a href='Parana-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>História e Geografia do Paraná<span class='caret'></span></a><ul class='dropdown-menu'>
+               	    <li><a href='Parana-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>Paraná<span class='caret'></span></a><ul class='dropdown-menu'>
                         <li><a href='Parana-Historia-Geografia-01'> 01 - O espaço geográfico e sua organização  </a></li>
                         <li><a href='Parana-Historia-Geografia-02'> 02 - A organização do espaço geográfico brasileiro  </a></li>
                         <li><a href='Parana-Historia-Geografia-03'> 03 - A representação do espaço paranaense  </a></li>
@@ -86,11 +87,12 @@
                         <li><a href='Parana-Historia-Geografia-09'> 09 - A divisão estadual após a independência do Brasil </a></li>
                         <li><a href='Parana-Historia-Geografia-10'> 10 - A Guerra do Contestado </a></li>
                         <li><a href='Parana-Historia-Geografia-11'> 11 - A divisão estadual após a Proclamação da República </a></li>
+                        <li><a href='Parana-Historia-Geografia-12'> 12 - As regiões do estado do Paraná </a></li>
                            
                        
                                                                                                                                 </ul> 
                            
-             <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>História e Geografia de Matto Grosso do Sul<span class='caret'></span></a><ul class='dropdown-menu'>
+             <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>Matto Grosso do Sul<span class='caret'></span></a><ul class='dropdown-menu'>
                         <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-01'> 01 - O espaço geográfico e sua organização  </a></li>
                   <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-02'> 02 - A organização do espaço geográfico brasileiro </a></li>
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-03'> 03 - Mato Grosso do Sul – representação e localização </a></li>
@@ -102,8 +104,9 @@
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-09'> 09 - A divisão estadual após a independência do Brasil </a></li>     
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-10'> 10 - A divisão estadual após a Proclamação da República </a></li>     
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-11'> 11 - A criação do estado do Mato Grosso do Sul </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-12'> 12 - As regiões do estado de Mato Grosso do Sul </a></li>     
 
-
+                 
                                                                                                                                </ul>       	      	                           
                  
                 
