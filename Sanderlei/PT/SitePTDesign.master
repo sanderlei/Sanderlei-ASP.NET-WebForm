@@ -58,6 +58,42 @@
                            
                           
                               </ul>	   	           	         	                           
+
+
+                               <li><a href='Flash-01-01' data-target='#' data-toggle='dropdown'>Flash - Your First Day in Flash<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='Flash-01-01'> Flash - 01 - Introduction and course overview	</a></li>                            
+                           <li><a href='Flash-01-02'> Flash - 02 - Setting up your workspace	</a></li>                            
+                           <li><a href='Flash-01-03'> Flash - 03 - The Selection and Transform tools	</a></li>                            
+                           <li><a href='Flash-01-04'> Flash - 04 - Getting familiar with shape tools	</a></li>                            
+                           <li><a href='Flash-01-05'> Flash - 05 - Using the painting and drawing tools </a></li>                            
+                           <li><a href='Flash-01-06'> Flash - 06 - Getting to know the Paint Bucket, Ink Bottle and the Color panels	</a></li>                            
+                           <li><a href='Flash-01-07'> Flash - 07 - Learning the difference between groups, symbols and drawing objects	</a></li>  
+                           <li><a href='Flash-01-08'> Flash - 08 - Importing artwork into Flash	</a></li>  
+                           <li><a href='Flash-01-09'> Flash - 09 - Working with Illustrator files	</a></li>  
+                           <li><a href='Flash-01-10'> Flash - 10 - Getting familiar with the timeline	</a></li>  
+                                          
+
+                          
+                              </ul>	     	         	                           
+
+
+                  <li><a href='InDesign-01-01' data-target='#' data-toggle='dropdown'>InDesign - Your First Day with InDesign CC<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='InDesign-01-01'> InDesign - 01 - Introduction and project overview </a></li>                            
+                           <li><a href='InDesign-01-02'> InDesign - 02 - Creating, opening and saving files	</a></li>                            
+                           <li><a href='InDesign-01-03'> InDesign - 03 - Interface and UI overview	</a></li>                            
+                           <li><a href='InDesign-01-04'> InDesign - 04 - Zooming, panning and document navigation</a></li>                                                   
+                                          
+
+                          
+                              </ul>	     
+                                                   
+               
+  <li><a href='Premiere-Pro-01-01' data-target='#' data-toggle='dropdown'>Premiere Pro<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='Premiere-Pro-01-01'> 01 - Getting Started in Premiere Pro	</a></li>                            
+                           <li><a href='Premiere-Pro-02-01'> 02 - Advanced Editing Theories and Techniques in Premiere Pro	</a></li>            
+
+
+
                  
                          	         	                           
               </ul>                  

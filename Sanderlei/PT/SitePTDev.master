@@ -243,13 +243,108 @@
                                                                                                                                 </ul>
 
 
+                                 
+               		<li><a href='MVC-01-01' data-target='#' data-toggle='dropdown'>Curso de ASP.NET MVC (PT)<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='MVC-01-01'> Curso de ASP.NET MVC - 01 - MVC - Introdução    </a></li>                            
+                           <li><a href='MVC-01-02'> Curso de ASP.NET MVC - 02.1 - Características MVC e ASP.NET MVC   </a></li>                            
+                           <li><a href='MVC-01-03'> Curso de ASP.NET MVC - 02.2 - Mudanças nas URLs   </a></li>                            
+                           <li><a href='MVC-01-04'> Curso de ASP.NET MVC - 03.1 - WebForms x HTML   </a></li>                            
+                           <li><a href='MVC-01-05'> Curso de ASP.NET MVC - 03.2 - Métodos Get e Post   </a></li>                            
+                           <li><a href='MVC-01-06'> Curso de ASP.NET MVC - 04.1 - Projeto ASP.NET Web Application   </a></li>                            
+                           <li><a href='MVC-01-07'> Curso de ASP.NET MVC - 04.2 - Visão geral das Estruturas   </a></li>  
+                           <li><a href='MVC-01-08'> Curso de ASP.NET MVC - 05.1 - Controller e View  </a></li>                           
+                           <li><a href='MVC-01-09'> Curso de ASP.NET MVC - 05.2 - Controller Home - Exemplos  </a></li>                           
+                           <li><a href='MVC-01-10'> Curso de ASP.NET MVC - 06.1 - Trabalhando com download de arquivos  </a></li>                           
+                           <li><a href='MVC-01-11'> Curso de ASP.NET MVC - 06.2 - FileStreamResult com parâmetros  </a></li>                           
+                           <li><a href='MVC-01-12'> Curso de ASP.NET MVC - 07.1 - ViewData - Int e String  </a></li>                           
+                           <li><a href='MVC-01-13'> Curso de ASP.NET MVC - 07.2 - ViewData Dinâmica  </a></li>                           
+                           <li><a href='MVC-01-14'> Curso de ASP.NET MVC - 07.3 - Array no ViewData  </a></li>                           
+                           <li><a href='MVC-01-15'> Curso de ASP.NET MVC - 07.4 - ViewData - Pesquisa Array  </a></li>                           
+                           <li><a href='MVC-01-16'> Curso de ASP.NET MVC - 07.5 - ViewData - Trabalhando com Coleções  </a></li>                           
+                           <li><a href='MVC-01-17'> Curso de ASP.NET MVC - 07.6 - ViewData - Dados Tipados  </a></li>                           
+                           <li><a href='MVC-01-18'> Curso de ASP.NET MVC - 08.1 - HtmlHelper - Encode e Label  </a></li>                           
+                           <li><a href='MVC-01-19'> Curso de ASP.NET MVC - 08.2 - HtmlHelper - Label e TextBox  </a></li>                           
+                           <li><a href='MVC-01-20'> Curso de ASP.NET MVC - 08.3 - HtmlHelper - RadioButton  </a></li>                           
+                           <li><a href='MVC-01-21'> Curso de ASP.NET MVC - 08.4 - HtmlHelper - DropDownList  </a></li>                           
+                           <li><a href='MVC-01-22'> Curso de ASP.NET MVC - 08.5 - HtmlHelper - ActionLink  </a></li>                           
+                           <li><a href='MVC-01-23'> Curso de ASP.NET MVC - 08.6 - HtmlHelper - ActionLink e ID  </a></li>                           
+                           <li><a href='MVC-01-24'> Curso de ASP.NET MVC - 08.7 - HtmlHelper - Criando HtmlHelpers  </a></li>                           
+                           <li><a href='MVC-01-25'> Curso de ASP.NET MVC - 08.8 - HtmlHelper - Criando HtmlHelper Formulário  </a></li>                           
+                           <li><a href='MVC-01-26'> Curso de ASP.NET MVC - 08.9 - HtmlHelper - Extension Method  </a></li>                           
+                                                     
+                           
+                          
+                              </ul>	
 
 
+	                <li><a href='BR-01-01' data-target='#' data-toggle='dropdown'>Datasul - TOTVS - DDK-GUI - Smart Objects<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='BR-01-01'> Datasul - 0401 - DDK-GUI - Parte 1   </a></li>                            
+                           <li><a href='BR-01-02'> Datasul - 0402 - DDK-GUI - Parte 2   </a></li>                            
+                           <li><a href='BR-01-03'> Datasul - 0403 - DDK-GUI - Parte 3   </a></li>                            
+                           <li><a href='BR-01-04'> Datasul - 0404 - DDK-GUI - Parte 4   </a></li>                            
+                           <li><a href='BR-01-05'> Datasul - 0405 - DDK-GUI - Parte 5   </a></li>                            
+                           <li><a href='BR-01-06'> Datasul - 0406 - DDK-GUI - Parte 6   </a></li>                            
+                           <li><a href='BR-01-07'> Datasul - 0407 - DDK-GUI - Parte 7   </a></li>                            
+                           <li><a href='BR-01-08'> Datasul - 0408 - DDK-GUI - Parte 8   </a></li>                            
+                           <li><a href='BR-01-09'> Datasul - 0409 - DDK-GUI - Estilos de Janelas   </a></li>                            
+                           <li><a href='BR-01-10'> Datasul - 0410 - DDK-GUI - Validações e Cadastro Simples   </a></li>                            
+                           <li><a href='BR-01-11'> Datasul - 0411 - DDK-GUI - Pesquisa e Cadastro Complexo   </a></li>                            
+                           <li><a href='BR-01-12'> Datasul - 0412 - DDK-GUI - PaixFilho e Chave Extrangeira   </a></li>                                                     
+                           
+                          
+                              </ul>	      	         	                           
+                 
+                        	         	                           
+                    <li><a href='BR-02-01' data-target='#' data-toggle='dropdown'>Datasul - TOTVS - DDK-2000 - DBO e Thin Template<span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='BR-02-01'>  Datasul - 0501 - DDK-2000 - Construção de DBOs </a></li>
+                        <li><a href='BR-02-02'>  Datasul - 0502 - DDK-2000 - Técnicas de Uso de DBOs </a></li>
+                        <li><a href='BR-02-03'>  Datasul - 0503 - DDK-2000 - Thin Template - Parte 1 </a></li>
+                        <li><a href='BR-02-04'>  Datasul - 0504 - DDK-2000 - Thin Template - Parte 2 </a></li>
+                        <li><a href='BR-02-05'>  Datasul - 0505 - DDK-2000 - Thin Template - Parte 3 </a></li>
+                        <li><a href='BR-02-06'>  Datasul - 0506 - DDK-2000 - Thin Template - Parte 4 </a></li>
+                        
+                        
+
+                                                                                                                         </ul>	 
 
 
+<li><a href='JavaScript-01-01' data-target='#' data-toggle='dropdown'>JavaScript - Course 01<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='JavaScript-01-01'> JavaScript - Course 01 - Part 01	</a></li>                            
+                           <li><a href='JavaScript-01-02'> JavaScript - Course 01 - Part 02	</a></li>                            
+                           <li><a href='JavaScript-01-03'> JavaScript - Course 01 - Part 03	</a></li>                            
+                           <li><a href='JavaScript-01-04'> JavaScript - Course 01 - Part 04	</a></li>                            
+                           <li><a href='JavaScript-01-05'> JavaScript - Course 01 - Part 05	</a></li>                            
+                           <li><a href='JavaScript-01-06'> JavaScript - Course 01 - Part 06	</a></li>                            
+                           <li><a href='JavaScript-01-07'> JavaScript - Course 01 - Part 07	</a></li>                            
+                           <li><a href='JavaScript-01-08'> JavaScript - Course 01 - Part 08	</a></li>                            
+                           <li><a href='JavaScript-01-09'> JavaScript - Course 01 - Part 09	</a></li>                            
+                           <li><a href='JavaScript-01-10'> JavaScript - Course 01 - Part 10	</a></li>                            
+                           <li><a href='JavaScript-01-11'> JavaScript - Course 01 - Part 11	</a></li>                            
+                           <li><a href='JavaScript-01-12'> JavaScript - Course 01 - Part 12	</a></li>                            
+                           <li><a href='JavaScript-01-13'> JavaScript - Course 01 - Part 13	</a></li>                            
+                           <li><a href='JavaScript-01-14'> JavaScript - Course 01 - Part 14	</a></li>                            
+                           <li><a href='JavaScript-01-15'> JavaScript - Course 01 - Part 15	</a></li>                            
+                           <li><a href='JavaScript-01-16'> JavaScript - Course 01 - Part 16	</a></li>                            
+                           
 
+                 
 
+                          
+                              </ul>	     	  
+                           
+                           
+                           
+            <li><a href='Java-01-01' data-target='#' data-toggle='dropdown'>Java Fundamentals - Part 1<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='Java-01-01'> Java Fundamentals - 01 - Introduction to Java	</a></li>                            
+                           <li><a href='Java-01-02'> Java Fundamentals - 02 - Variables and Operators	</a></li>                            
+                           <li><a href='Java-01-03'> Java Fundamentals - 03 - Classes	</a></li>                            
+                           <li><a href='Java-01-04'> Java Fundamentals - 04 - Control Statements	</a></li>                            
+                           <li><a href='Java-01-05'> Java Fundamentals - 05 - Inheritance and Composition	</a></li>                            
+                           <li><a href='Java-01-06'> Java Fundamentals - 06 - Generics	</a></li>                                                   
+                                        
 
+                          
+                              </ul>	            	   
 
 
 
