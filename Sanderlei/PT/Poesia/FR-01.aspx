@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Victor Hugo - Lorsque l'enfant paraît" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="FR-01.aspx.cs" Inherits="Sanderlei.PT.Poesia.FR_01" %>
+﻿<%@ Page Title="Victor Hugo - Lorsque l'enfant paraît" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Lorsque l'enfant paraît, le cercle de famille Applaudit à grands cris.  Son doux regard qui brille Fait briller tous les yeux, Et les plus tristes fronts, les plus souillés peut-être, Se dérident soudain à voir l'enfant paraître, Innocent et joyeux. " /> 
 </asp:Content>

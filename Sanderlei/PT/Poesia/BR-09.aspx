@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Augusto dos Anjos - A Esperança" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-09.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_09" %>
+﻿<%@ Page Title="Augusto dos Anjos - A Esperança" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="A Esperança não murcha, ela não cansa, Também como ela não sucumbe a Crença. Vão-se sonhos nas asas da Descrença, Voltam sonhos nas asas da... " /> 
 </asp:Content>

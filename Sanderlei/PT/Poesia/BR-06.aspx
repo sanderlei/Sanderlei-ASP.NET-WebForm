@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A Carolina" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-06.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_06" %>
+﻿<%@ Page Title="Machado de Assis - A Carolina" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Querida! Ao pé do leito derradeiro, em que descansas desta longa vida, aqui venho e virei, pobre querida, trazer-te o coração..." /> 
 </asp:Content>

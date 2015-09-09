@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 03 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-03.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_03" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 03 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Insone, a moça Luísa Salta do leito, em camisa... Verão! verão de rachar! Calor! calor que devora! Luísa vai dormir fora, Ao luar...  " /> 
 </asp:Content>

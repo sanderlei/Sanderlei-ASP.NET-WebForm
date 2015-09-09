@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - Ela" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-14.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_14" %>
+﻿<%@ Page Title="Machado de Assis - Ela" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Seus olhos que brilham tanto, Que prendem tão doce encanto, Que prendem um casto amor Onde com rara beleza, Se esmerou a natureza... " /> 
 </asp:Content>

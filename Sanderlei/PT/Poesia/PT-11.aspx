@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Mário de Sá-Carneiro - Fim" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-11.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_11" %>
+﻿<%@ Page Title="Mário de Sá-Carneiro - Fim" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Quando eu morrer batam em latas, Rompam aos saltos e aos pinotes, Façam estalar no ar chicotes, Chamem palhaços e acrobatas!" /> 
 </asp:Content>

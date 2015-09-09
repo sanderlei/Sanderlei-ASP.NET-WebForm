@@ -1,4 +1,4 @@
-﻿<%@ Page Title="José de Alencar - Cinco Minutos - 10 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-08-10.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_08_10" %>
+﻿<%@ Page Title="José de Alencar - Cinco Minutos - 10 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" O resto desta história, minha prima, a senhora conhece, com exceção de algumas particularidades. Vivi um mês, contando os dias, as horas e os minutos; o tempo corria vagarosamente para mim, que desejava poder devorá-lo. " /> 
 </asp:Content>

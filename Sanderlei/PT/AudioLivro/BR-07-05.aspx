@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 05 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-05.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_05" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 05 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="A pálida Ramona. É uma formosa dona,  Moça e cheia de encantos: Tem a graça e a malícia do Demônio... E, aos vinte anos, uniu-se em matrimônio Ao Chilperico Santos. " /> 
 </asp:Content>

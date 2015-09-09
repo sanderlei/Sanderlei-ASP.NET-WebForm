@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Amado Nervo - Bonsoir" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="ES-02.aspx.cs" Inherits="Sanderlei.PT.Poesia.ES_02" %>
+﻿<%@ Page Title="Amado Nervo - Bonsoir" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=""¡Donc bon soir, mon mignon et a demain!" ( Palabras que Ana me dejó escritas una noche en que tuvimos que separarnos. ) Buenas noches, mi amor, y hasta mañana! Hasta mañana, sí, cuando amanezca,  " /> 
 </asp:Content>

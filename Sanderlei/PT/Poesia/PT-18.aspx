@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Cesário Verde - Num Bairro Moderno" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-18.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_18" %>
+﻿<%@ Page Title="Cesário Verde - Num Bairro Moderno" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Dez horas da manhã; os transparentes. Matizam uma casa apalaçada; Pelos jardins estancam-se as nascentes, E fere a vista, com brancuras quentes, A larga rua macadamizada.  " /> 
 </asp:Content>

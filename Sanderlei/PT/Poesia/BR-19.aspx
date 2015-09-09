@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - A Boneca" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-19.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_19" %>
+﻿<%@ Page Title="Olavo Bilac - A Boneca" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Deixando a bola e a peteca, Com que inda há pouco brincavam, Por causa de uma boneca, Duas meninas brigavam. " /> 
 </asp:Content>

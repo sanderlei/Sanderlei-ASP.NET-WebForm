@@ -1,4 +1,4 @@
-﻿<%@ Page Title="José de Alencar - Cinco Minutos - 09 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-08-09.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_08_09" %>
+﻿<%@ Page Title="José de Alencar - Cinco Minutos - 09 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Eram seis horas da tarde. O sol declinava rapidamente, e a noite, descendo do céu,  envolvia a terra nas sombras desmaiadas que acompanham o ocaso.  " /> 
 </asp:Content>

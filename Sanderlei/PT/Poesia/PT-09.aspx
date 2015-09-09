@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Florbela Espanca - Amar" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-09.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_09" %>
+﻿<%@ Page Title="Florbela Espanca - Amar" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Eu quero amar, amar perdidamente! Amar só por amar: aqui... além... Mais Este e Aquele, o Outro e toda a gente... Amar!  Amar!  E não amar ninguém! " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Augusto Gil - Balada da Neve" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-16.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_16" %>
+﻿<%@ Page Title="Augusto Gil - Balada da Neve" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Batem leve, levemente, como quem chama por mim. Será chuva? Será gente? Gente não é, certamente e a chuva não bate assim." /> 
 </asp:Content>

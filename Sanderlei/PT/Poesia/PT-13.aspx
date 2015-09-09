@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Jose Regio - Cantico Negro" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-13.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_13" %>
+﻿<%@ Page Title="Jose Regio - Cantico Negro" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Vem por aqui — dizem-me alguns com os olhos doces. Estendendo-me os braços, e seguros De que seria bom que eu os ouvisse Quando me dizem: vem por aqui! Eu olho-os com olhos lassos, (Há, nos olhos meus, ironias e cansaços)" /> 
 </asp:Content>

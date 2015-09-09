@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Florbela Espanca - Doce Milagre" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-07.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_07" %>
+﻿<%@ Page Title="Florbela Espanca - Doce Milagre" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="O dia chora. Agonizo Com ele meu doce amor. Nem a sombra dum sorriso, Na Natureza diviso, A dar-lhe vida e frescor!  " /> 
 </asp:Content>

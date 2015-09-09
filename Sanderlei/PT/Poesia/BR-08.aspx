@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Cecilia Meireles - Motivo" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-08.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_08" %>
+﻿<%@ Page Title="Cecilia Meireles - Motivo" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Eu canto porque o instante existe, e a minha vida está completa. Não sou alegre nem sou triste: sou..." /> 
 </asp:Content>

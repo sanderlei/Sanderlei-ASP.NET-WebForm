@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Augusto dos Anjos - Budismo Moderno" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-17.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_17" %>
+﻿<%@ Page Title="Augusto dos Anjos - Budismo Moderno" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Tome, Dr., esta tesoura, e... corte Minha singularíssima pessoa. Que importa a mim que a bicharia roa Todo o meu coração, depois da morte?! " /> 
 </asp:Content>

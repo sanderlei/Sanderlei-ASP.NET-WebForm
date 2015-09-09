@@ -1,4 +1,4 @@
-﻿<%@ Page Title="John Keats - Ode on a Grecian Urn" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="EN-BR-07.aspx.cs" Inherits="Sanderlei.PT.Poesia.EN_BR_07" %>
+﻿<%@ Page Title="John Keats - Ode on a Grecian Urn" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Thou still unravish'd bride of quietness, Thou foster-child of silence and slow time, Sylvan historian, who canst thus express. A flowery tale more sweetly than our rhyme: What leaf-fring'd legend haunts about thy shape" /> 
 </asp:Content>

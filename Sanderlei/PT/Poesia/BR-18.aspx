@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Augusto dos Anjos - Vandalismo" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-18.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_18" %>
+﻿<%@ Page Title="Augusto dos Anjos - Vandalismo" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Meu coração tem catedrais imensas, Templos de priscas e longínquas datas, Onde um nume de amor, em serenatas, Canta a aleluia virginal das crenças. " /> 
 </asp:Content>

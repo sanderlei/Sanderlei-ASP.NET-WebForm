@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Camilo Pessanha - Estátua" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-03.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_03" %>
+﻿<%@ Page Title="Camilo Pessanha - Estátua" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Cansei-me de tentar o teu segredo: No teu olhar sem cor, de frio escalpelo, O meu olhar quebrei, a debatê-lo, Como a onda na crista dum rochedo. " /> 
 </asp:Content>

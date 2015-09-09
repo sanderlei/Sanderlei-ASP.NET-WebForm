@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Auta de Souza - Ao cair da noite" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-31.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_31" %>
+﻿<%@ Page Title="Auta de Souza - Ao cair da noite" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Não sei que paz imensa. Envolve a Natureza, N’ess’hora de tristeza, De dor e de pesar. Minh’alma, rindo, pensa Que a sombra é um grande véu Que a Virgem traz do Céu Num raio de luar." /> 
 </asp:Content>

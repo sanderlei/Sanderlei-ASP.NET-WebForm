@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Bocage - Cantata à morte de Inês de Castro" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-05.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_05" %>
+﻿<%@ Page Title="Bocage - Cantata à morte de Inês de Castro" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Longe do caro Esposo Inês formosa. Na margem do Mondego. As amorosas faces aljofrava. De mavioso pranto. Os melindrosos, cândidos penhores Do tálamo furtivo," /> 
 </asp:Content>

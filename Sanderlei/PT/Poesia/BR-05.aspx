@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Castro Alves - O Navio Negreiro" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-05.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_05" %>
+﻿<%@ Page Title="Castro Alves - O Navio Negreiro" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="'Stamos em pleno mar... Doudo no espaço, Brinca o luar — dourada borboleta; E as vagas após ele correm... cansam, Como turba de infantes inquieta..." /> 
 </asp:Content>

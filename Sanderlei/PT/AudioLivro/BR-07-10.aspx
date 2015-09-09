@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 10 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-10.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_10" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 10 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" >Foi Praxedes Cristiano. À Capital Federal: Levou a mulher, o mano E a filha. E, ao cabo de um ano, Regressa ao torrão natal. " /> 
 </asp:Content>

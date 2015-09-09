@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Francisca Julia  - Musa Impassível II" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-26.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_26" %>
+﻿<%@ Page Title="Francisca Julia  - Musa Impassível II" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Ó Musa, cujo olhar de pedra, que não chora, Gela o sorriso ao lábio e as lágrimas estanca! Dá-me que eu vá contigo, em liberdade franca, Por esse grande espaço onde o impassível mora." /> 
 </asp:Content>

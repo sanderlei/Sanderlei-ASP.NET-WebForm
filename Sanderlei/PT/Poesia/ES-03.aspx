@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Manuel Acuña - Nocturno a Rosario" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="ES-03.aspx.cs" Inherits="Sanderlei.PT.Poesia.ES_03" %>
+﻿<%@ Page Title="Manuel Acuña - Nocturno a Rosario" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Pues bien, yo necesito. decirte que te adoro, decirte que te quiero con todo el corazón; que es mucho lo que sufro, que es mucho lo que lloro, " /> 
 </asp:Content>

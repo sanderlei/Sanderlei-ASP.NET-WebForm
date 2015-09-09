@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Florbela Espanca - Languidez" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-02.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_02" %>
+﻿<%@ Page Title="Florbela Espanca - Languidez" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Tardes da minha terra, doce encanto, Tardes duma pureza de açucenas, Tardes de sonho, as tardes de novenas, Tardes de Portugal, as tardes de Anto,  " /> 
 </asp:Content>

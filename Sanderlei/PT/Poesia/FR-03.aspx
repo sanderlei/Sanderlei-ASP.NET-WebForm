@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Charles Baudelaire - La Géante" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="FR-03.aspx.cs" Inherits="Sanderlei.PT.Poesia.FR_03" %>
+﻿<%@ Page Title="Charles Baudelaire - La Géante" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Du temps que la Nature en sa verve puissante. Concevait chaque jour des enfants monstrueux, J'eusse aimé vivre auprès d'une jeune géante, Comme aux pieds d'une reine un chat voluptueux." /> 
 </asp:Content>

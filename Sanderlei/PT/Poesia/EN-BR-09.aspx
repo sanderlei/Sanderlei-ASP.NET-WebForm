@@ -1,4 +1,4 @@
-﻿<%@ Page Title="William Butler Yeats - The Second Coming" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="EN-BR-09.aspx.cs" Inherits="Sanderlei.PT.Poesia.EN_BR_09" %>
+﻿<%@ Page Title="William Butler Yeats - The Second Coming" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Troubles my sight: somewhere in sands of the desert. A shape with lion body and the head of a man, A gaze blank and pitiless as the sun, Is moving its slow thighs, while all about it Reel shadows of the indignant desert birds." /> 
 </asp:Content>

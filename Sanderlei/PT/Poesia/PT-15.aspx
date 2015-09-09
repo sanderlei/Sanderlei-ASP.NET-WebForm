@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Florbela Espanca - Este Livro" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-15.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_15" %>
+﻿<%@ Page Title="Florbela Espanca - Este Livro" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Este livro é de mágoas. Desgraçados. Que no mundo passais, chorai ao lê-lo! Somente a vossa dor de Torturados Pode, talvez, senti-lo... e compreendê-lo." /> 
 </asp:Content>

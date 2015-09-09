@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 09 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-09.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_09" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 09 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Casados há três meses, — já o arrufo, já o ciúme, já a resigna... E Clélia quer que o marido, o Álvaro, lhe ponha já para ali toda a verdade: se foi de fato noivo de Laura, e porque é que foi expulso da casa de Laura, e porque não casou com Laura, e porque é que a família de Laura lhe tem tanta raiva... " /> 
 </asp:Content>

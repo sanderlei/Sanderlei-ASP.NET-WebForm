@@ -1,4 +1,4 @@
-﻿<%@ Page Title="José Asunción Silva - A TÍ" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="ES-04.aspx.cs" Inherits="Sanderlei.PT.Poesia.ES_04" %>
+﻿<%@ Page Title="José Asunción Silva - A TÍ" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Tú no sabes, más yo he soñado entre mis sueños color de armiño, horas de dicha con tus amores, besos ardientes, quedos suspiros cuando la tarde se tiñe de oro" /> 
 </asp:Content>

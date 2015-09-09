@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Nel mezzo del camim" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-10.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_10" %>
+﻿<%@ Page Title="Olavo Bilac - Nel mezzo del camim" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Cheguei. Chegaste. Vinhas fatigada, E triste, e triste e fatigado eu vinha. Tinhas a alma de sonhos povoada... " /> 
 </asp:Content>

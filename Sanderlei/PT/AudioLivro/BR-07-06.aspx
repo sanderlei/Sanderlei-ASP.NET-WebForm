@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 06 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-06.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_06" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 06 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Tão bonita, tão bem feita, dona de tão lindos olhos e de formoso sorriso, a Maroca, — mas tão tola!... Aos dezessete anos, tinha a ingenuidade das crianças de mama; e o seu coração só entendia o amor dos gatos, das bonecas, de quantos brinquedos inocentes podem interessar a alma de uma criança. A mãe, lavadeira e engomadeira de fama, dizia sempre ao seu compadre e vizinho Manoel Tesoura, — alfaiate de bairros: " /> 
 </asp:Content>

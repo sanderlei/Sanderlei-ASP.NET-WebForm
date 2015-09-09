@@ -1,4 +1,4 @@
-﻿<%@ Page Title="José de Alencar - Cinco Minutos - 08 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-08-08.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_08_08" %>
+﻿<%@ Page Title="José de Alencar - Cinco Minutos - 08 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Devorei toda esta carta de um lanço de olhos. Minha vista corria sobre o papel como o meu pensamento, sem parar, sem hesitar, poderia até dizer sem respirar.  " /> 
 </asp:Content>

@@ -1335,6 +1335,58 @@
     <Content Include="EN\AudioBook\EN-03-04.aspx" />
     <Content Include="EN\AudioBook\EN-03-05.aspx" />
     <Content Include="EN\AudioBook\Index.aspx" />
+    <Content Include="EN\Developer\Index.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-01.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-02.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-03.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-04.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-05.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-06.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-07.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-08.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-09.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-10.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-11.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-12.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-13.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-14.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-15.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-16.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-17.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-02-18.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-01.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-02.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-03.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-04.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-05.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-06.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-07.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-08.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-09.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-10.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-11.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-12.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-13.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-14.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-15.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-16.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-17.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-18.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-19.aspx" />
+    <Content Include="EN\Developer\PL-SQL-Oracle-03-20.aspx" />
+    <Content Include="EN\Developer\SQL-01-01.aspx" />
+    <Content Include="EN\Developer\SQL-01-02.aspx" />
+    <Content Include="EN\Developer\SQL-01-03.aspx" />
+    <Content Include="EN\Developer\SQL-01-04.aspx" />
+    <Content Include="EN\Developer\SQL-01-05.aspx" />
+    <Content Include="EN\Developer\SQL-01-06.aspx" />
+    <Content Include="EN\Developer\SQL-01-07.aspx" />
+    <Content Include="EN\Developer\SQL-01-08.aspx" />
+    <Content Include="EN\Developer\SQL-01-09.aspx" />
+    <Content Include="EN\Developer\SQL-01-10.aspx" />
+    <Content Include="EN\Developer\SQL-01-11.aspx" />
+    <Content Include="EN\Developer\SQL-01-12.aspx" />
+    <Content Include="EN\Developer\SQL-01-13.aspx" />
     <Content Include="EN\GitHub\EN-01-01.aspx" />
     <Content Include="EN\GitHub\EN-01-02.aspx" />
     <Content Include="EN\GitHub\EN-01-03.aspx" />
@@ -1599,6 +1651,84 @@
     <Content Include="EN\JavaScript\JavaScript-01-01.aspx" />
     <Content Include="EN\JavaScript\00.aspx" />
     <Content Include="EN\JavaScript\Index.aspx" />
+    <Content Include="EN\Poetry\BR-01.aspx" />
+    <Content Include="EN\Poetry\BR-02.aspx" />
+    <Content Include="EN\Poetry\BR-03.aspx" />
+    <Content Include="EN\Poetry\BR-04.aspx" />
+    <Content Include="EN\Poetry\BR-05.aspx" />
+    <Content Include="EN\Poetry\BR-06.aspx" />
+    <Content Include="EN\Poetry\BR-07.aspx" />
+    <Content Include="EN\Poetry\BR-08.aspx" />
+    <Content Include="EN\Poetry\BR-09.aspx" />
+    <Content Include="EN\Poetry\BR-10.aspx" />
+    <Content Include="EN\Poetry\BR-11.aspx" />
+    <Content Include="EN\Poetry\BR-12.aspx" />
+    <Content Include="EN\Poetry\BR-13.aspx" />
+    <Content Include="EN\Poetry\BR-14.aspx" />
+    <Content Include="EN\Poetry\BR-15.aspx" />
+    <Content Include="EN\Poetry\BR-16.aspx" />
+    <Content Include="EN\Poetry\BR-17.aspx" />
+    <Content Include="EN\Poetry\BR-18.aspx" />
+    <Content Include="EN\Poetry\BR-19.aspx" />
+    <Content Include="EN\Poetry\BR-20.aspx" />
+    <Content Include="EN\Poetry\BR-21.aspx" />
+    <Content Include="EN\Poetry\BR-22.aspx" />
+    <Content Include="EN\Poetry\BR-23.aspx" />
+    <Content Include="EN\Poetry\BR-24.aspx" />
+    <Content Include="EN\Poetry\BR-25.aspx" />
+    <Content Include="EN\Poetry\BR-26.aspx" />
+    <Content Include="EN\Poetry\BR-27.aspx" />
+    <Content Include="EN\Poetry\BR-28.aspx" />
+    <Content Include="EN\Poetry\BR-29.aspx" />
+    <Content Include="EN\Poetry\BR-30.aspx" />
+    <Content Include="EN\Poetry\BR-31.aspx" />
+    <Content Include="EN\Poetry\BR-32.aspx" />
+    <Content Include="EN\Poetry\BR-33.aspx" />
+    <Content Include="EN\Poetry\EN-01.aspx" />
+    <Content Include="EN\Poetry\EN-02.aspx" />
+    <Content Include="EN\Poetry\EN-03.aspx" />
+    <Content Include="EN\Poetry\EN-04.aspx" />
+    <Content Include="EN\Poetry\EN-05.aspx" />
+    <Content Include="EN\Poetry\EN-06.aspx" />
+    <Content Include="EN\Poetry\EN-07.aspx" />
+    <Content Include="EN\Poetry\EN-BR-01.aspx" />
+    <Content Include="EN\Poetry\EN-BR-02.aspx" />
+    <Content Include="EN\Poetry\EN-BR-03.aspx" />
+    <Content Include="EN\Poetry\EN-BR-04.aspx" />
+    <Content Include="EN\Poetry\EN-BR-05.aspx" />
+    <Content Include="EN\Poetry\EN-BR-06.aspx" />
+    <Content Include="EN\Poetry\EN-BR-07.aspx" />
+    <Content Include="EN\Poetry\EN-BR-08.aspx" />
+    <Content Include="EN\Poetry\EN-BR-09.aspx" />
+    <Content Include="EN\Poetry\ES-01.aspx" />
+    <Content Include="EN\Poetry\ES-02.aspx" />
+    <Content Include="EN\Poetry\ES-03.aspx" />
+    <Content Include="EN\Poetry\ES-04.aspx" />
+    <Content Include="EN\Poetry\ES-05.aspx" />
+    <Content Include="EN\Poetry\FR-01.aspx" />
+    <Content Include="EN\Poetry\FR-02.aspx" />
+    <Content Include="EN\Poetry\FR-03.aspx" />
+    <Content Include="EN\Poetry\FR-04.aspx" />
+    <Content Include="EN\Poetry\FR-05.aspx" />
+    <Content Include="EN\Poetry\Index.aspx" />
+    <Content Include="EN\Poetry\PT-01.aspx" />
+    <Content Include="EN\Poetry\PT-02.aspx" />
+    <Content Include="EN\Poetry\PT-03.aspx" />
+    <Content Include="EN\Poetry\PT-04.aspx" />
+    <Content Include="EN\Poetry\PT-05.aspx" />
+    <Content Include="EN\Poetry\PT-06.aspx" />
+    <Content Include="EN\Poetry\PT-07.aspx" />
+    <Content Include="EN\Poetry\PT-08.aspx" />
+    <Content Include="EN\Poetry\PT-09.aspx" />
+    <Content Include="EN\Poetry\PT-10.aspx" />
+    <Content Include="EN\Poetry\PT-11.aspx" />
+    <Content Include="EN\Poetry\PT-12.aspx" />
+    <Content Include="EN\Poetry\PT-13.aspx" />
+    <Content Include="EN\Poetry\PT-14.aspx" />
+    <Content Include="EN\Poetry\PT-15.aspx" />
+    <Content Include="EN\Poetry\PT-16.aspx" />
+    <Content Include="EN\Poetry\PT-17.aspx" />
+    <Content Include="EN\Poetry\PT-18.aspx" />
     <Content Include="EN\SAP\EN-09-02.aspx" />
     <Content Include="EN\SAP\EN-09-03.aspx" />
     <Content Include="EN\SAP\EN-09-04.aspx" />
@@ -3761,90 +3891,88 @@
     <Content Include="PT\AudioLivro\EN-03-04.aspx" />
     <Content Include="PT\AudioLivro\EN-03-05.aspx" />
     <Content Include="PT\AudioLivro\Index.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-02.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-03.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-04.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-05.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-06.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-07.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-08.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-09.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-10.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-11.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-12.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-13.aspx" />
-    <Content Include="PT\Banco-de-Dados\SQL-01-01.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-02.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-03.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-04.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-05.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-06.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-07.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-08.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-09.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-10.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-11.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-12.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-13.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-14.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-15.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-16.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-17.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-18.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-19.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-20.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-03-01.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-07.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-08.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-09.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-10.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-11.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-12.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-13.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-14.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-15.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-16.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-17.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-18.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-06.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-05.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-04.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-03.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-02.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-02-01.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-01.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-02.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-03.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-04.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-05.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-06.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-07.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-08.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-09.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-10.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-11.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-12.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-13.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-14.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-15.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-16.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-17.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-18.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-19.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-20.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-21.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-22.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-23.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-24.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-25.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-26.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-27.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-28.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-29.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-30.aspx" />
-    <Content Include="PT\Banco-de-Dados\PL-SQL-Oracle-01-31.aspx" />
-    <Content Include="PT\Banco-de-Dados\00.aspx" />
-    <Content Include="PT\Banco-de-Dados\Index.aspx" />
+    <Content Include="PT\Developer\SQL-01-02.aspx" />
+    <Content Include="PT\Developer\SQL-01-03.aspx" />
+    <Content Include="PT\Developer\SQL-01-04.aspx" />
+    <Content Include="PT\Developer\SQL-01-05.aspx" />
+    <Content Include="PT\Developer\SQL-01-06.aspx" />
+    <Content Include="PT\Developer\SQL-01-07.aspx" />
+    <Content Include="PT\Developer\SQL-01-08.aspx" />
+    <Content Include="PT\Developer\SQL-01-09.aspx" />
+    <Content Include="PT\Developer\SQL-01-10.aspx" />
+    <Content Include="PT\Developer\SQL-01-11.aspx" />
+    <Content Include="PT\Developer\SQL-01-12.aspx" />
+    <Content Include="PT\Developer\SQL-01-13.aspx" />
+    <Content Include="PT\Developer\SQL-01-01.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-02.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-03.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-04.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-05.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-06.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-07.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-08.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-09.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-10.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-11.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-12.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-13.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-14.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-15.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-16.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-17.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-18.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-19.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-20.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-03-01.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-07.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-08.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-09.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-10.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-11.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-12.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-13.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-14.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-15.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-16.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-17.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-18.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-06.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-05.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-04.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-03.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-02.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-02-01.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-01.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-02.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-03.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-04.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-05.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-06.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-07.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-08.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-09.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-10.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-11.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-12.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-13.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-14.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-15.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-16.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-17.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-18.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-19.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-20.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-21.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-22.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-23.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-24.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-25.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-26.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-27.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-28.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-29.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-30.aspx" />
+    <Content Include="PT\Developer\PL-SQL-Oracle-01-31.aspx" />
     <Content Include="PT\Design-Grafico\Flash-01-01.aspx" />
     <Content Include="PT\Design-Grafico\Flash-01-02.aspx" />
     <Content Include="PT\Design-Grafico\Flash-01-03.aspx" />
@@ -4134,15 +4262,23 @@
     <Content Include="PT\Developer\MVC-01-24.aspx" />
     <Content Include="PT\Developer\MVC-01-25.aspx" />
     <Content Include="PT\Developer\MVC-01-26.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-16.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-17.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-18.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-14.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-15.aspx" />
+    <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-13.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-13.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-14.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-99.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-15.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-14.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-15.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-13.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-14.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-99.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-15.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-13.aspx" />
@@ -4333,6 +4469,529 @@
     <Content Include="PT\Idioma\ES-01-19.aspx" />
     <Content Include="PT\Idioma\ES-01-20.aspx" />
     <Content Include="PT\Idioma\Index.aspx" />
+    <Content Include="PT\Livro\Index.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-000.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-001.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-002.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-003.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-004.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-005.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-006.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-007.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-008.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-009.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-010.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-011.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-012.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-013.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-014.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-015.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-016.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-017.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-018.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-019.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-020.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-021.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-022.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-023.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-024.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-025.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-026.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-027.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-028.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-029.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-030.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-031.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-032.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-033.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-034.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-035.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-036.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-037.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-038.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-039.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-040.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-041.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-042.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-043.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-044.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-045.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-046.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-047.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-048.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-049.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-050.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-051.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-052.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-053.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-054.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-055.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-056.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-057.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-058.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-059.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-060.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-061.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-062.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-063.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-064.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-065.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-066.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-067.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-068.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-069.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-070.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-071.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-072.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-073.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-074.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-075.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-076.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-077.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-078.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-079.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-080.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-081.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-082.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-083.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-084.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-085.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-086.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-087.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-088.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-089.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-090.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-091.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-092.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-093.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-094.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-095.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-096.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-097.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-098.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-099.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-100.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-101.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-102.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-103.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-104.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-105.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-106.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-107.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-108.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-109.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-110.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-111.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-112.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-113.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-114.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-115.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-116.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-117.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-118.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-119.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-120.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-121.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-122.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-123.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-124.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-125.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-126.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-127.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-128.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-129.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-130.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-131.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-132.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-133.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-134.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-135.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-136.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-137.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-138.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-139.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-140.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-141.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-142.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-143.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-144.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-145.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-146.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-147.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-148.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-000.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-001.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-002.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-003.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-004.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-005.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-006.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-007.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-008.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-009.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-010.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-011.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-012.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-013.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-014.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-015.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-016.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-017.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-018.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-019.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-020.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-021.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-022.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-023.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-024.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-025.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-026.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-027.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-028.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-029.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-030.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-031.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-032.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-033.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-034.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-035.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-036.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-037.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-038.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-039.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-040.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-041.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-042.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-043.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-044.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-045.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-046.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-047.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-048.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-049.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-050.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-051.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-052.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-053.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-054.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-055.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-056.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-057.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-058.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-059.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-060.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-061.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-062.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-063.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-064.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-065.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-066.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-067.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-068.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-069.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-070.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-071.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-072.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-073.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-074.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-075.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-076.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-077.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-078.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-079.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-080.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-081.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-082.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-083.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-084.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-085.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-086.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-087.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-088.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-089.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-090.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-091.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-092.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-093.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-094.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-095.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-096.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-097.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-098.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-099.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-100.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-101.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-102.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-103.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-104.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-105.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-106.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-107.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-108.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-109.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-110.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-111.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-112.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-113.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-114.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-115.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-116.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-117.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-118.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-119.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-120.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-121.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-122.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-123.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-124.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-125.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-126.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-127.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-128.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-129.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-130.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-131.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-132.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-133.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-134.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-135.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-136.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-137.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-138.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-139.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-140.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-141.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-142.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-143.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-144.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-145.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-146.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-147.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-148.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-149.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-150.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-151.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-152.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-153.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-154.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-155.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-156.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-157.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-158.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-159.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Memorias-Postumas-de-Bras-Cubas-160.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-000.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-001.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-002.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-003.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-004.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-005.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-006.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-007.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-008.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-009.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-010.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-011.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-012.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-013.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-014.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-015.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-016.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-017.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-018.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-019.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-020.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-021.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-022.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-023.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-024.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-025.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-026.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-027.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-028.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-029.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-030.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-031.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-032.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-033.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-034.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-035.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-036.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-037.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-038.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-039.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-040.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-041.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-042.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-043.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-044.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-045.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-046.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-047.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-048.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-049.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-050.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-051.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-052.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-053.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-054.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-055.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-056.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-057.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-058.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-059.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-060.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-061.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-062.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-063.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-064.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-065.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-066.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-067.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-068.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-069.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-070.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-071.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-072.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-073.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-074.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-075.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-076.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-077.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-078.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-079.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-080.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-081.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-082.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-083.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-084.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-085.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-086.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-087.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-088.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-089.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-090.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-091.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-092.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-093.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-094.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-095.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-096.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-097.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-098.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-099.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-100.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-101.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-102.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-103.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-104.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-105.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-106.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-107.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-108.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-109.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-110.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-111.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-112.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-113.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-114.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-115.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-116.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-117.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-118.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-119.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-120.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-121.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-122.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-123.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-124.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-125.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-126.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-127.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-128.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-129.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-130.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-131.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-132.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-133.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-134.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-135.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-136.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-137.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-138.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-139.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-140.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-141.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-142.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-143.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-144.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-145.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-146.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-147.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-148.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-149.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-150.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-151.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-152.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-153.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-154.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-155.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-156.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-157.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-158.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-159.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-160.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-161.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-162.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-163.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-164.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-165.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-166.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-167.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-168.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-169.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-170.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-171.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-172.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-173.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-174.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-175.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-176.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-177.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-178.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-179.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-180.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-181.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-182.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-183.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-184.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-185.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-186.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-187.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-188.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-189.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-190.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-191.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-192.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-193.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-194.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-195.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-196.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-197.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-198.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-199.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-200.aspx" />
+    <Content Include="PT\Livro\Machado-de-Assis\Quincas-Borba-201.aspx" />
+    <Content Include="PT\Livro\Jose-de-Alencar\Cinco-Minutos-01.aspx" />
+    <Content Include="PT\Livro\Jose-de-Alencar\Cinco-Minutos-02.aspx" />
+    <Content Include="PT\Livro\Jose-de-Alencar\Cinco-Minutos-03.aspx" />
+    <Content Include="PT\Livro\Jose-de-Alencar\Cinco-Minutos-04.aspx" />
+    <Content Include="PT\Livro\Jose-de-Alencar\Cinco-Minutos-05.aspx" />
+    <Content Include="PT\Livro\Jose-de-Alencar\Cinco-Minutos-06.aspx" />
+    <Content Include="PT\Livro\Jose-de-Alencar\Cinco-Minutos-07.aspx" />
+    <Content Include="PT\Livro\Jose-de-Alencar\Cinco-Minutos-08.aspx" />
+    <Content Include="PT\Livro\Jose-de-Alencar\Cinco-Minutos-09.aspx" />
+    <Content Include="PT\Livro\Jose-de-Alencar\Cinco-Minutos-10.aspx" />
     <Content Include="PT\Machado-de-Assis\Tese-dissertacao-02.aspx" />
     <Content Include="PT\Machado-de-Assis\Tese-dissertacao-03.aspx" />
     <Content Include="PT\Machado-de-Assis\Tese-dissertacao-04.aspx" />
@@ -6132,6 +6791,8 @@
     <Content Include="EN\SiteENHtml.master" />
     <Content Include="EN\SiteENiOS.master" />
     <Content Include="EN\SitePTBook.master" />
+    <Content Include="EN\SitePTDev.master" />
+    <Content Include="EN\SitePTPoesia.master" />
     <None Include="Properties\PublishProfiles\01-Sanderlei.pubxml" />
     <None Include="Properties\PublishProfiles\02-AudioBook.pubxml" />
     <None Include="Properties\PublishProfiles\03-AudioLivro.pubxml" />
@@ -6154,10 +6815,10 @@
     <Content Include="PT\SitePTBrasil.master" />
     <Content Include="PT\SitePTMachado.master" />
     <Content Include="PT\SitePTDesign.master" />
-    <Content Include="PT\SitePTDataBase.master" />
     <Content Include="PT\SiteENSAP.master" />
     <Content Include="RU\SiteENSAP.master" />
     <Content Include="PT\SitePTDev.master" />
+    <Content Include="PT\SitePTBook.master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -6636,6 +7297,13 @@
     </Compile>
     <Compile Include="DE\SiteDEGeschichte.master.designer.cs">
       <DependentUpon>SiteDEGeschichte.master</DependentUpon>
+    </Compile>
+    <Compile Include="EN\Developer\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EN\Developer\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="EN\HTML5-CSS3\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
@@ -9087,188 +9755,6 @@
     <Compile Include="PT\AudioLivro\BR-04-15.aspx.designer.cs">
       <DependentUpon>BR-04-15.aspx</DependentUpon>
     </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-01.aspx.cs">
-      <DependentUpon>BR-07-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-01.aspx.designer.cs">
-      <DependentUpon>BR-07-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-02.aspx.cs">
-      <DependentUpon>BR-07-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-02.aspx.designer.cs">
-      <DependentUpon>BR-07-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-03.aspx.cs">
-      <DependentUpon>BR-07-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-03.aspx.designer.cs">
-      <DependentUpon>BR-07-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-04.aspx.cs">
-      <DependentUpon>BR-07-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-04.aspx.designer.cs">
-      <DependentUpon>BR-07-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-05.aspx.cs">
-      <DependentUpon>BR-07-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-05.aspx.designer.cs">
-      <DependentUpon>BR-07-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-06.aspx.cs">
-      <DependentUpon>BR-07-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-06.aspx.designer.cs">
-      <DependentUpon>BR-07-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-07.aspx.cs">
-      <DependentUpon>BR-07-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-07.aspx.designer.cs">
-      <DependentUpon>BR-07-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-08.aspx.cs">
-      <DependentUpon>BR-07-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-08.aspx.designer.cs">
-      <DependentUpon>BR-07-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-09.aspx.cs">
-      <DependentUpon>BR-07-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-09.aspx.designer.cs">
-      <DependentUpon>BR-07-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-10.aspx.cs">
-      <DependentUpon>BR-07-10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-10.aspx.designer.cs">
-      <DependentUpon>BR-07-10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-11.aspx.cs">
-      <DependentUpon>BR-07-11.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-11.aspx.designer.cs">
-      <DependentUpon>BR-07-11.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-12.aspx.cs">
-      <DependentUpon>BR-07-12.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-12.aspx.designer.cs">
-      <DependentUpon>BR-07-12.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-13.aspx.cs">
-      <DependentUpon>BR-07-13.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-13.aspx.designer.cs">
-      <DependentUpon>BR-07-13.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-14.aspx.cs">
-      <DependentUpon>BR-07-14.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-14.aspx.designer.cs">
-      <DependentUpon>BR-07-14.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-15.aspx.cs">
-      <DependentUpon>BR-07-15.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-15.aspx.designer.cs">
-      <DependentUpon>BR-07-15.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-16.aspx.cs">
-      <DependentUpon>BR-07-16.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-07-16.aspx.designer.cs">
-      <DependentUpon>BR-07-16.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-01.aspx.cs">
-      <DependentUpon>BR-08-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-01.aspx.designer.cs">
-      <DependentUpon>BR-08-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-02.aspx.cs">
-      <DependentUpon>BR-08-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-02.aspx.designer.cs">
-      <DependentUpon>BR-08-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-03.aspx.cs">
-      <DependentUpon>BR-08-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-03.aspx.designer.cs">
-      <DependentUpon>BR-08-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-04.aspx.cs">
-      <DependentUpon>BR-08-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-04.aspx.designer.cs">
-      <DependentUpon>BR-08-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-05.aspx.cs">
-      <DependentUpon>BR-08-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-05.aspx.designer.cs">
-      <DependentUpon>BR-08-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-06.aspx.cs">
-      <DependentUpon>BR-08-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-06.aspx.designer.cs">
-      <DependentUpon>BR-08-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-07.aspx.cs">
-      <DependentUpon>BR-08-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-07.aspx.designer.cs">
-      <DependentUpon>BR-08-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-08.aspx.cs">
-      <DependentUpon>BR-08-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-08.aspx.designer.cs">
-      <DependentUpon>BR-08-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-09.aspx.cs">
-      <DependentUpon>BR-08-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-09.aspx.designer.cs">
-      <DependentUpon>BR-08-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-10.aspx.cs">
-      <DependentUpon>BR-08-10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-08-10.aspx.designer.cs">
-      <DependentUpon>BR-08-10.aspx</DependentUpon>
-    </Compile>
     <Compile Include="PT\AudioLivro\BR-09-01.aspx.cs">
       <DependentUpon>BR-09-01.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -10431,551 +10917,12 @@
     <Compile Include="PT\Idioma\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
-    <Compile Include="PT\Poesia\BR-01.aspx.cs">
-      <DependentUpon>BR-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-01.aspx.designer.cs">
-      <DependentUpon>BR-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-02.aspx.cs">
-      <DependentUpon>BR-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-02.aspx.designer.cs">
-      <DependentUpon>BR-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-03.aspx.cs">
-      <DependentUpon>BR-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-03.aspx.designer.cs">
-      <DependentUpon>BR-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-04.aspx.cs">
-      <DependentUpon>BR-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-04.aspx.designer.cs">
-      <DependentUpon>BR-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-05.aspx.cs">
-      <DependentUpon>BR-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-05.aspx.designer.cs">
-      <DependentUpon>BR-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-06.aspx.cs">
-      <DependentUpon>BR-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-06.aspx.designer.cs">
-      <DependentUpon>BR-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-07.aspx.cs">
-      <DependentUpon>BR-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-07.aspx.designer.cs">
-      <DependentUpon>BR-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-08.aspx.cs">
-      <DependentUpon>BR-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-08.aspx.designer.cs">
-      <DependentUpon>BR-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-09.aspx.cs">
-      <DependentUpon>BR-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-09.aspx.designer.cs">
-      <DependentUpon>BR-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-10.aspx.cs">
-      <DependentUpon>BR-10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-10.aspx.designer.cs">
-      <DependentUpon>BR-10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-11.aspx.cs">
-      <DependentUpon>BR-11.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-11.aspx.designer.cs">
-      <DependentUpon>BR-11.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-12.aspx.cs">
-      <DependentUpon>BR-12.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-12.aspx.designer.cs">
-      <DependentUpon>BR-12.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-13.aspx.cs">
-      <DependentUpon>BR-13.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-13.aspx.designer.cs">
-      <DependentUpon>BR-13.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-14.aspx.cs">
-      <DependentUpon>BR-14.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-14.aspx.designer.cs">
-      <DependentUpon>BR-14.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-15.aspx.cs">
-      <DependentUpon>BR-15.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-15.aspx.designer.cs">
-      <DependentUpon>BR-15.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-16.aspx.cs">
-      <DependentUpon>BR-16.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-16.aspx.designer.cs">
-      <DependentUpon>BR-16.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-17.aspx.cs">
-      <DependentUpon>BR-17.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-17.aspx.designer.cs">
-      <DependentUpon>BR-17.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-18.aspx.cs">
-      <DependentUpon>BR-18.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-18.aspx.designer.cs">
-      <DependentUpon>BR-18.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-19.aspx.cs">
-      <DependentUpon>BR-19.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-19.aspx.designer.cs">
-      <DependentUpon>BR-19.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-20.aspx.cs">
-      <DependentUpon>BR-20.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-20.aspx.designer.cs">
-      <DependentUpon>BR-20.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-21.aspx.cs">
-      <DependentUpon>BR-21.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-21.aspx.designer.cs">
-      <DependentUpon>BR-21.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-22.aspx.cs">
-      <DependentUpon>BR-22.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-22.aspx.designer.cs">
-      <DependentUpon>BR-22.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-23.aspx.cs">
-      <DependentUpon>BR-23.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-23.aspx.designer.cs">
-      <DependentUpon>BR-23.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-24.aspx.cs">
-      <DependentUpon>BR-24.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-24.aspx.designer.cs">
-      <DependentUpon>BR-24.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-25.aspx.cs">
-      <DependentUpon>BR-25.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-25.aspx.designer.cs">
-      <DependentUpon>BR-25.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-26.aspx.cs">
-      <DependentUpon>BR-26.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-26.aspx.designer.cs">
-      <DependentUpon>BR-26.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-27.aspx.cs">
-      <DependentUpon>BR-27.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-27.aspx.designer.cs">
-      <DependentUpon>BR-27.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-28.aspx.cs">
-      <DependentUpon>BR-28.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-28.aspx.designer.cs">
-      <DependentUpon>BR-28.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-29.aspx.cs">
-      <DependentUpon>BR-29.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-29.aspx.designer.cs">
-      <DependentUpon>BR-29.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-30.aspx.cs">
-      <DependentUpon>BR-30.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-30.aspx.designer.cs">
-      <DependentUpon>BR-30.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-31.aspx.cs">
-      <DependentUpon>BR-31.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-31.aspx.designer.cs">
-      <DependentUpon>BR-31.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-32.aspx.cs">
-      <DependentUpon>BR-32.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-32.aspx.designer.cs">
-      <DependentUpon>BR-32.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-33.aspx.cs">
-      <DependentUpon>BR-33.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\BR-33.aspx.designer.cs">
-      <DependentUpon>BR-33.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-01.aspx.cs">
-      <DependentUpon>EN-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-01.aspx.designer.cs">
-      <DependentUpon>EN-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-02.aspx.cs">
-      <DependentUpon>EN-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-02.aspx.designer.cs">
-      <DependentUpon>EN-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-03.aspx.cs">
-      <DependentUpon>EN-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-03.aspx.designer.cs">
-      <DependentUpon>EN-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-04.aspx.cs">
-      <DependentUpon>EN-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-04.aspx.designer.cs">
-      <DependentUpon>EN-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-05.aspx.cs">
-      <DependentUpon>EN-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-05.aspx.designer.cs">
-      <DependentUpon>EN-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-06.aspx.cs">
-      <DependentUpon>EN-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-06.aspx.designer.cs">
-      <DependentUpon>EN-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-07.aspx.cs">
-      <DependentUpon>EN-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-07.aspx.designer.cs">
-      <DependentUpon>EN-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-01.aspx.cs">
-      <DependentUpon>EN-BR-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-01.aspx.designer.cs">
-      <DependentUpon>EN-BR-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-02.aspx.cs">
-      <DependentUpon>EN-BR-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-02.aspx.designer.cs">
-      <DependentUpon>EN-BR-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-03.aspx.cs">
-      <DependentUpon>EN-BR-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-03.aspx.designer.cs">
-      <DependentUpon>EN-BR-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-04.aspx.cs">
-      <DependentUpon>EN-BR-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-04.aspx.designer.cs">
-      <DependentUpon>EN-BR-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-05.aspx.cs">
-      <DependentUpon>EN-BR-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-05.aspx.designer.cs">
-      <DependentUpon>EN-BR-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-06.aspx.cs">
-      <DependentUpon>EN-BR-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-06.aspx.designer.cs">
-      <DependentUpon>EN-BR-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-07.aspx.cs">
-      <DependentUpon>EN-BR-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-07.aspx.designer.cs">
-      <DependentUpon>EN-BR-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-08.aspx.cs">
-      <DependentUpon>EN-BR-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-08.aspx.designer.cs">
-      <DependentUpon>EN-BR-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-09.aspx.cs">
-      <DependentUpon>EN-BR-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\EN-BR-09.aspx.designer.cs">
-      <DependentUpon>EN-BR-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\ES-01.aspx.cs">
-      <DependentUpon>ES-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\ES-01.aspx.designer.cs">
-      <DependentUpon>ES-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\ES-02.aspx.cs">
-      <DependentUpon>ES-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\ES-02.aspx.designer.cs">
-      <DependentUpon>ES-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\ES-03.aspx.cs">
-      <DependentUpon>ES-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\ES-03.aspx.designer.cs">
-      <DependentUpon>ES-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\ES-04.aspx.cs">
-      <DependentUpon>ES-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\ES-04.aspx.designer.cs">
-      <DependentUpon>ES-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\ES-05.aspx.cs">
-      <DependentUpon>ES-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\ES-05.aspx.designer.cs">
-      <DependentUpon>ES-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\FR-01.aspx.cs">
-      <DependentUpon>FR-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\FR-01.aspx.designer.cs">
-      <DependentUpon>FR-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\FR-02.aspx.cs">
-      <DependentUpon>FR-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\FR-02.aspx.designer.cs">
-      <DependentUpon>FR-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\FR-03.aspx.cs">
-      <DependentUpon>FR-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\FR-03.aspx.designer.cs">
-      <DependentUpon>FR-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\FR-04.aspx.cs">
-      <DependentUpon>FR-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\FR-04.aspx.designer.cs">
-      <DependentUpon>FR-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\FR-05.aspx.cs">
-      <DependentUpon>FR-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\FR-05.aspx.designer.cs">
-      <DependentUpon>FR-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\Index.aspx.cs">
+    <Compile Include="PT\Livro\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="PT\Poesia\Index.aspx.designer.cs">
+    <Compile Include="PT\Livro\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-01.aspx.cs">
-      <DependentUpon>PT-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-01.aspx.designer.cs">
-      <DependentUpon>PT-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-02.aspx.cs">
-      <DependentUpon>PT-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-02.aspx.designer.cs">
-      <DependentUpon>PT-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-03.aspx.cs">
-      <DependentUpon>PT-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-03.aspx.designer.cs">
-      <DependentUpon>PT-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-04.aspx.cs">
-      <DependentUpon>PT-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-04.aspx.designer.cs">
-      <DependentUpon>PT-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-05.aspx.cs">
-      <DependentUpon>PT-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-05.aspx.designer.cs">
-      <DependentUpon>PT-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-06.aspx.cs">
-      <DependentUpon>PT-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-06.aspx.designer.cs">
-      <DependentUpon>PT-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-07.aspx.cs">
-      <DependentUpon>PT-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-07.aspx.designer.cs">
-      <DependentUpon>PT-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-08.aspx.cs">
-      <DependentUpon>PT-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-08.aspx.designer.cs">
-      <DependentUpon>PT-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-09.aspx.cs">
-      <DependentUpon>PT-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-09.aspx.designer.cs">
-      <DependentUpon>PT-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-10.aspx.cs">
-      <DependentUpon>PT-10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-10.aspx.designer.cs">
-      <DependentUpon>PT-10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-11.aspx.cs">
-      <DependentUpon>PT-11.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-11.aspx.designer.cs">
-      <DependentUpon>PT-11.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-12.aspx.cs">
-      <DependentUpon>PT-12.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-12.aspx.designer.cs">
-      <DependentUpon>PT-12.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-13.aspx.cs">
-      <DependentUpon>PT-13.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-13.aspx.designer.cs">
-      <DependentUpon>PT-13.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-14.aspx.cs">
-      <DependentUpon>PT-14.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-14.aspx.designer.cs">
-      <DependentUpon>PT-14.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-15.aspx.cs">
-      <DependentUpon>PT-15.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-15.aspx.designer.cs">
-      <DependentUpon>PT-15.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-16.aspx.cs">
-      <DependentUpon>PT-16.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-16.aspx.designer.cs">
-      <DependentUpon>PT-16.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-17.aspx.cs">
-      <DependentUpon>PT-17.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-17.aspx.designer.cs">
-      <DependentUpon>PT-17.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-18.aspx.cs">
-      <DependentUpon>PT-18.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\Poesia\PT-18.aspx.designer.cs">
-      <DependentUpon>PT-18.aspx</DependentUpon>
     </Compile>
     <Compile Include="RU\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Robert Burns - A Red, Red Rose" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="EN-BR-02.aspx.cs" Inherits="Sanderlei.PT.Poesia.EN_BR_02" %>
+﻿<%@ Page Title="Robert Burns - A Red, Red Rose" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="O my Luve's like a red, red rose, That's newly sprung in June: O my Luve's like the melodie, That's sweetly play'd in tune. " /> 
 </asp:Content>

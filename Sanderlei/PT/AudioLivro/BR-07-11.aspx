@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 11 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-11.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_11" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 11 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Oh! o lindo, o lindo vaso que Celina possuía! e com que carinho, com que meiguice tratava ela as flores daquele vaso, o mais belo de toda a aldeia! " /> 
 </asp:Content>

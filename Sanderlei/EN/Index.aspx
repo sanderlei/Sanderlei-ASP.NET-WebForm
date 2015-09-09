@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/SiteEN.Master" AutoEventWireup="true"  %>
+﻿<%@ Page Title="Home Page - Sanderlei Silveira" Language="C#" MasterPageFile="~/SiteEN.Master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
       <meta name="description" content="Profile of Sanderlei Silveira. Literature, History, Information Technology and other ..." />
 </asp:Content>

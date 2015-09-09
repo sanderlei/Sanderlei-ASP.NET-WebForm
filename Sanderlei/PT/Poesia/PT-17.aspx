@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Luís Vaz de Camões  - Alma minha gentil que te partiste" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-17.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_17" %>
+﻿<%@ Page Title="Luís Vaz de Camões  - Alma minha gentil que te partiste" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Alma minha gentil, que te partiste. Tão cedo desta vida descontente, Repousa lá no Céu eternamente,  viva eu cá na terra sempre triste. " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Ângela do Amaral Rangel - Máximas cristãs, e políticas" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-29.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_29" %>
+﻿<%@ Page Title="Ângela do Amaral Rangel - Máximas cristãs, e políticas" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Ilustre General, vossa Excelência. Foi por tantas virtudes merecida, Que, sendo já de todos conhecida, Muito poucos lhe fazem competência:" /> 
 </asp:Content>

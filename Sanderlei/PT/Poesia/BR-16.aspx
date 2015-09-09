@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Augusto dos Anjos - Psicologia de um Vencido" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-16.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_16" %>
+﻿<%@ Page Title="Augusto dos Anjos - Psicologia de um Vencido" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Eu, filho do carbono e do amoníaco, Monstro de escuridão e rutilância, Sofro, desde a epigênese da infância, A influência má dos signos do zodíaco." /> 
 </asp:Content>

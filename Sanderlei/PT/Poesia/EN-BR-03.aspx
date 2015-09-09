@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Song of myself - Walt Whitman" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="EN-BR-03.aspx.cs" Inherits="Sanderlei.PT.Poesia.EN_BR_03" %>
+﻿<%@ Page Title="Song of myself - Walt Whitman" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" I celebrate myself, and sing myself, And what I assume you shall assume, For every atom belonging to me as good belongs to you. I loafe and invite my soul, I lean and loafe at my ease observing a spear of summer grass." /> 
 </asp:Content>

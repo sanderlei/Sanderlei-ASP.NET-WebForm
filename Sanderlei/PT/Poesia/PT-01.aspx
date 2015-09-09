@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Luís Vaz de Camões - Amor é fogo que arde sem se ver" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-01.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_01" %>
+﻿<%@ Page Title="Luís Vaz de Camões - Amor é fogo que arde sem se ver" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Amor é fogo que arde sem se ver, é ferida que dói, e não se sente; é um contentamento descontente, é dor que desatina sem doer. " /> 
 </asp:Content>

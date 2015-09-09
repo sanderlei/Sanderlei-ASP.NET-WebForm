@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Raimundo Correia - As Pombas" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-21.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_21" %>
+﻿<%@ Page Title="Raimundo Correia - As Pombas" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Vai-se a primeira pomba despertada...Vai-se outra mais... mais outra... enfim dezenas. De pombas vão-se dos pombais, apenas Raia sanguínea e fresca a madrugada... " /> 
 </asp:Content>

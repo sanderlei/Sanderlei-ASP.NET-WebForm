@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Paul Verlaine - Sagesse" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="FR-04.aspx.cs" Inherits="Sanderlei.PT.Poesia.FR_04" %>
+﻿<%@ Page Title="Paul Verlaine - Sagesse" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Le ciel est, par-dessus le toit, Si beau, si calme! Un arbre, par-dessus le toit, Berce sa palme." /> 
 </asp:Content>

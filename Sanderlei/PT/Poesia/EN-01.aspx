@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Robert Frost - The Road Not Taken" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="EN-01.aspx.cs" Inherits="Sanderlei.PT.Poesia.EN_01" %>
+﻿<%@ Page Title="Robert Frost - The Road Not Taken" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Two roads diverged in a yellow wood, And sorry I could not travel both	And be one traveler, long I stood And looked down one as far as I could	To where it bent in the undergrowth;	         " /> 
 </asp:Content>

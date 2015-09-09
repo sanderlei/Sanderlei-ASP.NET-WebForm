@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Emily Dickinson - This Is My Letter To The World" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="EN-BR-08.aspx.cs" Inherits="Sanderlei.PT.Poesia.EN_BR_08" %>
+﻿<%@ Page Title="Emily Dickinson - This Is My Letter To The World" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
  <meta name="description" content="This is my letter to the world, That never wrote to me,-- The simple news that Nature told, With tender majesty." /> 
 </asp:Content>

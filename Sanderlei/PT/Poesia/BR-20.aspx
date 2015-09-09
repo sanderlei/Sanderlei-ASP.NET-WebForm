@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Nísia Floresta - Aqui sob esta abóbada" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-20.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_20" %>
+﻿<%@ Page Title="Nísia Floresta - Aqui sob esta abóbada" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Aqui sob o zimbório, onde um santo viveu, Eu scismo sobre o nada… E a lama entristeceu… E vem-me ao coração, assim, desilludido, Santa recordação do meu filho querido… " /> 
 </asp:Content>

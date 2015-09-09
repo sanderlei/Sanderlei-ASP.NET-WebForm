@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Emile Verhaeren - A la Belgique" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="FR-02.aspx.cs" Inherits="Sanderlei.PT.Poesia.FR_02" %>
+﻿<%@ Page Title="Emile Verhaeren - A la Belgique" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Hélas, depuis les jours des suprêmes combats, Tes compagnes sont la frayeur et l’infortune ; Tu n’as plus pour pays que des lambeaux de dunes Et des plaines en feu sur l’horizon, là-bas. " /> 
 </asp:Content>

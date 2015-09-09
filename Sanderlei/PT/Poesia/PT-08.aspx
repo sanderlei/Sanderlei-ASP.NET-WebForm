@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Luís Vaz de Camões - Sobolos rios que vao" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-08.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_08" %>
+﻿<%@ Page Title="Luís Vaz de Camões - Sobolos rios que vao" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Sôbolos rios que vão Por Babilônia, me achei,  Onde sentado chorei  As lembranças de Sião  E quanto nela passei.  " /> 
 </asp:Content>

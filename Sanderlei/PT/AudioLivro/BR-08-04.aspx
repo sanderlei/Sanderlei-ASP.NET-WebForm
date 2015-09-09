@@ -1,4 +1,4 @@
-﻿<%@ Page Title="José de Alencar - Cinco Minutos - 04 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-08-04.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_08_04" %>
+﻿<%@ Page Title="José de Alencar - Cinco Minutos - 04 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Caminhávamos mais pelo tato do que pela vista, dificilmente distinguíamos os objetos a uma pequena distância; e muitas vezes, quando o meu guia se apressava, o seu vulto perdia-se nas trevas." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Gonçalves Dias - Marabá " Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-12.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_12" %>
+﻿<%@ Page Title="Gonçalves Dias - Marabá " Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Eu vivo sozinha; ninguém me procura! Acaso feitura. Não sou de Tupá? Se algum dentre os homens de mim não se esconde, — Tu és, me responde, — Tu és..." /> 
 </asp:Content>

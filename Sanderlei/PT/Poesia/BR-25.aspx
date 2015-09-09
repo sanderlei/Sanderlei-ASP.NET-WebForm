@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Francisca Julia - Musa impassível" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-25.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_25" %>
+﻿<%@ Page Title="Francisca Julia - Musa impassível" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Musa! um gesto sequer de dor ou de sincero. Luto jamais te afeie o cândido semblante! Diante de um Jó, conserva o mesmo orgulho; e diante De um morto, o mesmo olhar e sobrecenho austero. " /> 
 </asp:Content>

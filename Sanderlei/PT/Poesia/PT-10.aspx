@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Florbela Espanca - Ser Poeta" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-10.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_10" %>
+﻿<%@ Page Title="Florbela Espanca - Ser Poeta" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Ser poeta é ser mais alto, é ser maior. Do que os homens! Morder como quem beija! É ser mendigo e dar como quem seja Rei do Reino de Aquém e de Além Dor! " /> 
 </asp:Content>

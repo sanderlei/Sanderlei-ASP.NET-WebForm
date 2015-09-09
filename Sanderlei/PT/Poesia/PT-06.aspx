@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Soror Violante do Céu - A uma Ausência" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-06.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_06" %>
+﻿<%@ Page Title="Soror Violante do Céu - A uma Ausência" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Vida que não acaba de acabar-se, Chegando já de vós a despedir-se, Ou deixa, por sentida, de sentir-se, Ou pode de imortal acreditar-se. " /> 
 </asp:Content>

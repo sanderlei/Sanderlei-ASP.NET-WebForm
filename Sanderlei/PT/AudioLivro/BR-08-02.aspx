@@ -1,4 +1,4 @@
-﻿<%@ Page Title="José de Alencar - Cinco Minutos - 02 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-08-02.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_08_02" %>
+﻿<%@ Page Title="José de Alencar - Cinco Minutos - 02 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Quinze dias se passaram depois de minha aventura.  Durante este tempo é escusado dizer-lhe as extravagâncias que fiz.  " /> 
 </asp:Content>

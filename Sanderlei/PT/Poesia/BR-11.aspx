@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Pedro Kilkerry - Ad veneris lacrimas" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-11.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_11" %>
+﻿<%@ Page Title="Pedro Kilkerry - Ad veneris lacrimas" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Em meus nervos, a arder, a alma é volúpia... Sinto Que Amor embriaga a Íon e a pele de ouro. Estua... " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Angelina Macedo - Sonhei" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-30.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_30" %>
+﻿<%@ Page Title="Angelina Macedo - Sonhei" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Poesia - Angelina Macedo - Sonhei " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Auta de Souza - Súplica" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-33.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_33" %>
+﻿<%@ Page Title="Auta de Souza - Súplica" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Se tudo foge e tudo desaparece, Se tudo cai ao vento da Desgraça, Se a vida é o sopro que nos lábios passa Gelando o ardor da derradeira prece; " /> 
 </asp:Content>

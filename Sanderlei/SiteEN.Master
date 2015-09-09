@@ -56,15 +56,15 @@
     	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>
                     <li><a href='/EN/Index' >Home</a></li>
                     <li><a href='/EN/History/Index' >History</a></li>    
-                   <li><a href='/PT/Poesia/Index'>Poetry (PT)</a></li>                    
+                   <li><a href='/EN/Poetry/Index'>Poetry</a></li>                    
                    <li><a href='/EN/AudioBook/Index' > Audio Book </a></li>         
                    <li><a href='/EN/GitHub/Index' > GitHub </a></li>         
                    <li><a href='/EN/SAP/Index' > SAP </a></li>    
                    <li><a href='/EN/HTML5-CSS3/Index' > HTML </a></li>    
-                   <li><a href='/EN/iOS/Index' > iOS </a></li>
-                   <li><a href='/PT/Banco-de-Dados/Index' > DataBase </a></li>
+                   <li><a href='/EN/iOS/Index' > iOS </a></li>                   
                    <li><a href='/EN/JavaScript/Index' > JavaScript </a></li>    
                    <li><a href='/EN/Adobe/Index' > Adobe Academy </a></li>    
+                   <li><a href='/EN/Developer/Index' > Developer </a></li>
                </ul>                  
         	</div>           
         </div>           

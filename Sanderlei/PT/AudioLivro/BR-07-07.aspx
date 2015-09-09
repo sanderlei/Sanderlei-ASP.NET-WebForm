@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 07 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-07.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_07" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 07 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Rita Rosa, camponesa, Tendo no dedo um tumor, Foi consultar com tristeza Padre Jacinto Prior.  " /> 
 </asp:Content>

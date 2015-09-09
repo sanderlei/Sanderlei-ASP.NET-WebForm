@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Ana Lima Pimentel - Rimas Alegres" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-28.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_28" %>
+﻿<%@ Page Title="Ana Lima Pimentel - Rimas Alegres" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Dorme minha alma sorrindo. Da esperança no regaço, E sonha que estão fugindo Pelo doce azul do espaço. Suas crenças perfumosas, Como pétalas de rosas. " /> 
 </asp:Content>

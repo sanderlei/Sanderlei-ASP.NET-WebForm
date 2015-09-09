@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Gabriela de Andrada - Saudade" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-24.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_24" %>
+﻿<%@ Page Title="Gabriela de Andrada - Saudade" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Da vida na manhã tudo é bonança, Tudo é luz, tudo flor, tudo harmonia: São cantos de suavíssima poesia, Que nos embala em sonhos de esperança." /> 
 </asp:Content>

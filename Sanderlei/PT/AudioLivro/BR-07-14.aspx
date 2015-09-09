@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 14 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-14.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_14" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 14 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Tinham metido tantas caraminholas na cabeça da pobre Luizinha, que a coitada, quando, às dez horas, apagava a luz, metida na cama, vendo-se no escuro, tinha tanto medo, que começava a bater os dentes... Pobre Luizinha! que medo, que medo ela tinha do diabo! " /> 
 </asp:Content>

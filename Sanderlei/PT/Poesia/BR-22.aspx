@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Julia Lopes - Natal Brasileiro" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-22.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_22" %>
+﻿<%@ Page Title="Julia Lopes - Natal Brasileiro" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Neste esfacelar de usos e tradições, poucas pessoas encontram ainda encanto em seguir costumes de avós que se foram há muito tempo, e de quem as caveiras, lá no fundo..." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="José de Alencar - Cinco Minutos - 03 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-08-03.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_08_03" %>
+﻿<%@ Page Title="José de Alencar - Cinco Minutos - 03 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Recolhendo-me no dia seguinte, achei em casa uma carta. Antes de abri-la conheci que era dela, porque lhe tinha imprimido esse suave perfume que  " /> 
 </asp:Content>

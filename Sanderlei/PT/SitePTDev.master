@@ -349,9 +349,109 @@
 
 
 
+                                   
+               		<li><a href='PL-SQL-Oracle-01-01' data-target='#' data-toggle='dropdown'>Curso de PL/SQL Oracle (PT)<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='PL-SQL-Oracle-01-01'> Curso de PL/SQL Oracle - 01 - Introdução ao ambiente   </a></li>                            
+                           <li><a href='PL-SQL-Oracle-01-02'> Curso de PL/SQL Oracle - 02 - Instalação do Oracle 10g Express  </a></li>                            
+                           <li><a href='PL-SQL-Oracle-01-03'> Curso de PL/SQL Oracle - 03 - Trabalhando com o básico da instrução SELECT   </a></li>                            
+                           <li><a href='PL-SQL-Oracle-01-04'> Curso de PL/SQL Oracle - 04 - ORDER BY da instrução SELECT   </a></li>                            
+                           <li><a href='PL-SQL-Oracle-01-05'> Curso de PL/SQL Oracle - 05 - Principais Funções  </a></li>                            
+                           <li><a href='PL-SQL-Oracle-01-06'> Curso de PL/SQL Oracle - 06 - Dados de múltiplas tabelas   </a></li>                            
+                           <li><a href='PL-SQL-Oracle-01-07'> Curso de PL/SQL Oracle - 07 - Dados Agregados   </a></li>  
+                           <li><a href='PL-SQL-Oracle-01-08'> Curso de PL/SQL Oracle - 08 - Subconsultas  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-09'> Curso de PL/SQL Oracle - 09 - SQLPlus </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-10'> Curso de PL/SQL Oracle - 10 - Manipulação de dados - Parte 01  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-11'> Curso de PL/SQL Oracle - 11 - Manipulação de dados - Parte 02  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-12'> Curso de PL/SQL Oracle - 12 - Tabelas - Parte 01 </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-13'> Curso de PL/SQL Oracle - 13 - Tabelas - Parte 02  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-14'> Curso de PL/SQL Oracle - 14 - Constraints - Parte 01  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-15'> Curso de PL/SQL Oracle - 15 - Constraints - Parte 02  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-16'> Curso de PL/SQL Oracle - 16 - Sequences, Índices e Synonyms - Parte 01  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-17'> Curso de PL/SQL Oracle - 17 - Sequences, Índices e Synonyms - Parte 02  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-18'> Curso de PL/SQL Oracle - 18 - Variáveis  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-19'> Curso de PL/SQL Oracle - 19 - Instruções executáveis  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-20'> Curso de PL/SQL Oracle - 20 - Servidor Oracle  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-21'> Curso de PL/SQL Oracle - 21 - Estruturas de controle  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-22'> Curso de PL/SQL Oracle - 22 - Tipos de dados compostos  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-23'> Curso de PL/SQL Oracle - 23 - Cursores  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-24'> Curso de PL/SQL Oracle - 24 - Exceções  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-25'> Curso de PL/SQL Oracle - 25 - Procedures  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-26'> Curso de PL/SQL Oracle - 26 - Funções  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-27'> Curso de PL/SQL Oracle - 27 - Subprogramas  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-28'> Curso de PL/SQL Oracle - 28 - Pacotes - Parte 01  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-29'> Curso de PL/SQL Oracle - 29 - Pacotes - Parte 02  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-30'> Curso de PL/SQL Oracle - 30 - Triggers - Parte 01  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-01-31'> Curso de PL/SQL Oracle - 31 - Triggers - Parte 02  </a></li>                           
+                                                     
+                           
+                          
+                              </ul>	
+
+ <li><a href='PL-SQL-Oracle-02-01' data-target='#' data-toggle='dropdown'>Oracle PL/SQL Fundamentals - Part 1 (EN)<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='PL-SQL-Oracle-02-01'> Oracle PL/SQL Fundamentals - 01 - Course Introduction   </a></li>                            
+                           <li><a href='PL-SQL-Oracle-02-02'> Oracle PL/SQL Fundamentals - 02 - Anonymous Blocks </a></li>                            
+                           <li><a href='PL-SQL-Oracle-02-03'> Oracle PL/SQL Fundamentals - 03 - PL/SQL Commonly Used Datatypes - Part 01  </a></li>                            
+                           <li><a href='PL-SQL-Oracle-02-04'> Oracle PL/SQL Fundamentals - 04 - PL/SQL Commonly Used Datatypes - Part 02   </a></li>                            
+                           <li><a href='PL-SQL-Oracle-02-05'> Oracle PL/SQL Fundamentals - 05 - PL/SQL Commonly Used Datatypes - Part 03  </a></li>                            
+                           <li><a href='PL-SQL-Oracle-02-06'> Oracle PL/SQL Fundamentals - 06 - PL/SQL Commonly Used Datatypes - Part 04   </a></li>                            
+                           <li><a href='PL-SQL-Oracle-02-07'> Oracle PL/SQL Fundamentals - 07 - Loops - Part 01  </a></li>  
+                           <li><a href='PL-SQL-Oracle-02-08'> Oracle PL/SQL Fundamentals - 08 - Loops - Part 02  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-02-09'> Oracle PL/SQL Fundamentals - 09 - Conditional Execution - Part 01 </a></li>                           
+                           <li><a href='PL-SQL-Oracle-02-10'> Oracle PL/SQL Fundamentals - 10 - Conditional Execution - Part 02  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-02-11'> Oracle PL/SQL Fundamentals - 11 - Cursors - Part 01  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-02-12'> Oracle PL/SQL Fundamentals - 12 - Cursors - Part 02</a></li>                           
+                           <li><a href='PL-SQL-Oracle-02-13'> Oracle PL/SQL Fundamentals - 13 - Cursors - Part 03  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-02-14'> Oracle PL/SQL Fundamentals - 14 - Cursors - Part 04  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-02-15'> Oracle PL/SQL Fundamentals - 15 - Exceptions - Part 01  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-02-16'> Oracle PL/SQL Fundamentals - 16 - Exceptions - Part 02  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-02-17'> Oracle PL/SQL Fundamentals - 17 - Debugging - Part 01  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-02-18'> Oracle PL/SQL Fundamentals - 18 - Debugging - Part 02 </a></li>                                                      
+                          
+                              </ul>	
 
 
+                               
+                  <li><a href='PL-SQL-Oracle-03-01' data-target='#' data-toggle='dropdown'>Oracle PL/SQL Fundamentals - Part 2 (EN)<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='PL-SQL-Oracle-03-01'> Oracle PL/SQL Fundamentals - 01 - Overview   </a></li>                            
+                           <li><a href='PL-SQL-Oracle-03-02'> Oracle PL/SQL Fundamentals - 02 - Procedures - Part 01 </a></li>                            
+                           <li><a href='PL-SQL-Oracle-03-03'> Oracle PL/SQL Fundamentals - 03 - Procedures - Part 02 </a></li>                            
+                           <li><a href='PL-SQL-Oracle-03-04'> Oracle PL/SQL Fundamentals - 04 - Functions - Part 01 </a></li>                            
+                           <li><a href='PL-SQL-Oracle-03-05'> Oracle PL/SQL Fundamentals - 05 - Functions - Part 02 </a></li>                            
+                           <li><a href='PL-SQL-Oracle-03-06'> Oracle PL/SQL Fundamentals - 06 - Parameters in Procedures & Functions - Part 01   </a></li>                            
+                           <li><a href='PL-SQL-Oracle-03-07'> Oracle PL/SQL Fundamentals - 07 - Parameters in Procedures & Functions - Part 02  </a></li>  
+                           <li><a href='PL-SQL-Oracle-03-08'> Oracle PL/SQL Fundamentals - 08 - Parameters in Procedures & Functions - Part 03  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-03-09'> Oracle PL/SQL Fundamentals - 09 - Local Subprograms </a></li>                           
+                           <li><a href='PL-SQL-Oracle-03-10'> Oracle PL/SQL Fundamentals - 10 - Package Specification - Part 01  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-03-11'> Oracle PL/SQL Fundamentals - 11 - Package Specification - Part 02  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-03-12'> Oracle PL/SQL Fundamentals - 12 - Package Body - Part 01</a></li>                           
+                           <li><a href='PL-SQL-Oracle-03-13'> Oracle PL/SQL Fundamentals - 13 - Package Body - Part 02 </a></li>                           
+                           <li><a href='PL-SQL-Oracle-03-14'> Oracle PL/SQL Fundamentals - 14 - Package Body - Part 03  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-03-15'> Oracle PL/SQL Fundamentals - 15 - Calling Functions from SQL - Part 01  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-03-16'> Oracle PL/SQL Fundamentals - 16 - Calling Functions from SQL - Part 02 </a></li>                           
+                           <li><a href='PL-SQL-Oracle-03-17'> Oracle PL/SQL Fundamentals - 17 - Roles & Privileges With Subprograms - Part 01  </a></li>                           
+                           <li><a href='PL-SQL-Oracle-03-18'> Oracle PL/SQL Fundamentals - 18 - Roles & Privileges With Subprograms - Part 02 </a></li>                                                      
+                           <li><a href='PL-SQL-Oracle-03-19'> Oracle PL/SQL Fundamentals - 19 - Roles & Privileges With Subprograms - Part 03 </a></li>                                                      
+                           <li><a href='PL-SQL-Oracle-03-20'> Oracle PL/SQL Fundamentals - 20 - Roles & Privileges With Subprograms - Part 04 </a></li>                                                      
+                          
+                              </ul>	
 
+
+                       <li><a href='SQL-01-01' data-target='#' data-toggle='dropdown'>Introduction to SQL (EN)<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='SQL-01-01'> Introduction to SQL - 01 - SQL Basics - Part 01   </a></li>                            
+                           <li><a href='SQL-01-02'> Introduction to SQL - 02 - SQL Basics - Part 02 </a></li>                            
+                           <li><a href='SQL-01-03'> Introduction to SQL - 03 - SQL Basics - Part 03 </a></li>                            
+                           <li><a href='SQL-01-04'> Introduction to SQL - 04 - The SELECT Statement - Part 01 </a></li>                            
+                           <li><a href='SQL-01-05'> Introduction to SQL - 05 - The SELECT Statement - Part 02 </a></li>                            
+                           <li><a href='SQL-01-06'> Introduction to SQL - 06 - The SELECT Statement - Part 03   </a></li>                            
+                           <li><a href='SQL-01-07'> Introduction to SQL - 07 - JOINS - Part 01  </a></li>  
+                           <li><a href='SQL-01-08'> Introduction to SQL - 08 - JOINS - Part 02  </a></li>                           
+                           <li><a href='SQL-01-09'> Introduction to SQL - 09 - JOINS - Part 03 </a></li>                           
+                           <li><a href='SQL-01-10'> Introduction to SQL - 10 - Adding, Changing, and Removing Data - Part 01 </a></li>                           
+                           <li><a href='SQL-01-11'> Introduction to SQL - 11 - Adding, Changing, and Removing Data - Part 02  </a></li>                           
+                           <li><a href='SQL-01-12'> Introduction to SQL - 12 - Creating Tables - Part 01</a></li>                           
+                           <li><a href='SQL-01-13'> Introduction to SQL - 13 - Creating Tables - Part 02</a></li>                           
+                                                     
+                              </ul>	
      
                    
                    

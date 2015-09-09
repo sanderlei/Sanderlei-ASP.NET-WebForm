@@ -1,4 +1,4 @@
-﻿<%@ Page Title="José de Alencar - Cinco Minutos - 01 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-08-01.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_08_01" %>
+﻿<%@ Page Title="José de Alencar - Cinco Minutos - 01 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" É uma história curiosa a que lhe vou contar, minha prima. Mas é uma história, e não um romance. Há mais de dois anos, seriam seis horas da tarde, dirigi-me ao Rocio para tomar o ônibus de Andaraí." /> 
 </asp:Content>

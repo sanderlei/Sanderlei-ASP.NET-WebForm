@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 08 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-08.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_08" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 08 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Olavo Bilac - Contos para Velhos - 08 / 16 " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Francisca Julia - Desejo Inútil" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-27.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_27" %>
+﻿<%@ Page Title="Francisca Julia - Desejo Inútil" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Qualquer cousa afinal de belo escolher devo. Para em verso plasmar no esforço da obra prima: Flor que viceja á sombra, aza que paira em cima, Aroma de um pomar ou de um campo de trevo.  " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Guerra Junqueiro - A moleirinha" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-04.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_04" %>
+﻿<%@ Page Title="Guerra Junqueiro - A moleirinha" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Poesia em Português - (Portugual) - Guerra Junqueiro - A moleirinha - Abílio Manuel Guerra Junqueiro (1850-1923) foi um escritor e poeta português. " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 13 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-13.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_13" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 13 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Ele era branco, e ela branca, Ambos claros como a luz... Casaram. Baile de arranca, E pagodeira de truz... " /> 
 </asp:Content>

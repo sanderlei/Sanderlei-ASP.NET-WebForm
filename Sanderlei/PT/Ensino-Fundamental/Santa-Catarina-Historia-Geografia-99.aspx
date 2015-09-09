@@ -17,7 +17,7 @@
                 <br />
                 <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Santa-Catarina-Historia-Geografia--0.jpg"  alt="  "/>                 
                 <br />
-                <p class="text-center" ></p>
+                <p class="text-center" >   </p>
                 <br /><br />
 
                 <br />

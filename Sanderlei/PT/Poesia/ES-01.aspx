@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Ignacio Manuel Altamirano - Los Naranjos" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="ES-01.aspx.cs" Inherits="Sanderlei.PT.Poesia.ES_01" %>
+﻿<%@ Page Title="Ignacio Manuel Altamirano - Los Naranjos" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Perdiéronse las neblinas, En los picos de la sierra, Y el sol derrama en la tierra. Su torrente abrasador. " /> 
 </asp:Content>

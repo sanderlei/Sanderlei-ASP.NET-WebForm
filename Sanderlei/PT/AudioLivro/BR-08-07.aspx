@@ -1,4 +1,4 @@
-﻿<%@ Page Title="José de Alencar - Cinco Minutos - 07 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-08-07.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_08_07" %>
+﻿<%@ Page Title="José de Alencar - Cinco Minutos - 07 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Estava condenada a morrer; estava atacada dessa moléstia fatal e traiçoeira, cujo dedo descarnado nos toca no meio dos prazeres e dos risos, nos arrasta ao leito, e do leito  ao túmulo, depois de ter escarnecido da natureza, transfigurando as suas mais belas criações em múmias animadas. " /> 
 </asp:Content>

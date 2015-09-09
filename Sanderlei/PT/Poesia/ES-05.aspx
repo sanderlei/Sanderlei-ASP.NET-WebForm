@@ -1,4 +1,4 @@
-﻿<%@ Page Title="José Juan Tablada - Japón" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="ES-05.aspx.cs" Inherits="Sanderlei.PT.Poesia.ES_05" %>
+﻿<%@ Page Title="José Juan Tablada - Japón" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" ¡Áureo espejismo, sueño de opio, fuente de todos mis ideales! ¡Jardín que un raro kaleidoscopio borda en mi mente con sus cristales! Tus teogonías me han exaltado y amo ferviente tus glorias todas;" /> 
 </asp:Content>

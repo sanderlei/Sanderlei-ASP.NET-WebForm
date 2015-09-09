@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 12 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-12.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_12" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 12 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" O grave professor, aprumando sobre o nariz os óculos de ouro, começa a sua lição. Grave, grave, o professor Mac-Leley! calvo, vermelho, possuindo nas bochechas flácidas algumas falripas raras e grisalhas, o velho inglês é a circunspecção em pessoa. Sempre trajado severamente — calças negras, colete negro, rodaque de alpaca negra, gravata negra de três voltas... Grave, grave, o professor Mac-Leley!  " /> 
 </asp:Content>

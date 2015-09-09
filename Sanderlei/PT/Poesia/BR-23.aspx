@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Julia da Costa - Acordes Poéticos" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-23.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_23" %>
+﻿<%@ Page Title="Julia da Costa - Acordes Poéticos" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Não tenho segredos, é pura minh´alma, Qual cândida aurora rasgando o seu véu! Velando ou dormindo, chorando ou sorrindo, Só amo – meus campos – meu solo – meu céu!" /> 
 </asp:Content>

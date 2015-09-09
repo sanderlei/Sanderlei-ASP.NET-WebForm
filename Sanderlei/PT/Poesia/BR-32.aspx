@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Auta de Souza - Na Capelinha" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-32.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_32" %>
+﻿<%@ Page Title="Auta de Souza - Na Capelinha" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Entrou na Igreja sorrindo, Coberta com um fino véu. O seu rostinho era lindo Como o da virgem do Céu.  " /> 
 </asp:Content>

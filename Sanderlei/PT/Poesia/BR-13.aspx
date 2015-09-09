@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Sapateiro Silva - Glosa 4" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-13.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_13" %>
+﻿<%@ Page Title="Sapateiro Silva - Glosa 4" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Poesia -  Sapateiro Silva - Glosa 4 - Joaquim José da Silva (fim do século XVIII-meados do século XIX)" /> 
 </asp:Content>

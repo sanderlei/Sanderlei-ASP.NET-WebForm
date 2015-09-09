@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Percy Bysshe Shelley - Ozymandias" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="EN-BR-06.aspx.cs" Inherits="Sanderlei.PT.Poesia.EN_BR_06" %>
+﻿<%@ Page Title="Percy Bysshe Shelley - Ozymandias" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="I met a traveller from an antique land. Who said:—Two vast and trunkless legs of stone. Stand in the desert. Near them on the sand, Half sunk, a shatter'd visage lies, whose frown " /> 
 </asp:Content>

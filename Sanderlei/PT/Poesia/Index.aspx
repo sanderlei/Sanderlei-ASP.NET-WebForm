@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Poesia" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.PT.Poesia.Index" %>
+﻿<%@ Page Title="Poesia" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">    
     <meta name="description" content="Poesia em Português, espanhol, Inglês e Francês..." />
 </asp:Content>

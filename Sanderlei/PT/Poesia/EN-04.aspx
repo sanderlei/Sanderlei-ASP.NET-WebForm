@@ -1,4 +1,4 @@
-﻿<%@ Page Title="William Shakespeare - Sonnet 18" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="EN-04.aspx.cs" Inherits="Sanderlei.PT.Poesia.EN_04" %>
+﻿<%@ Page Title="William Shakespeare - Sonnet 18" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Shall I compare thee to a summer's day? Thou art more lovely and more temperate: Rough winds do shake the darling buds of May, And summer's lease hath all too short a date:  " /> 
 </asp:Content>

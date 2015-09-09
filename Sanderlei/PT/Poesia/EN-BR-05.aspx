@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Elizabeth Barrett Browning - Sonnet 43 - How Do I Love Thee?" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="EN-BR-05.aspx.cs" Inherits="Sanderlei.PT.Poesia.EN_BR_05" %>
+﻿<%@ Page Title="Elizabeth Barrett Browning - Sonnet 43 - How Do I Love Thee?" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="How do I love thee? Let me count the ways. I love thee to the depth and breadth and height. My soul can reach, when feeling out of sight. For the ends of being and ideal grace." /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 01 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-01.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_01" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 01 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" O velho e austero doutor Ximenes, um dos mais sábios professores da Faculdade, tem uma espinhosa missão a cumprir junto da pálida e formosa Clarice... Vai examiná-la: vai dizer qual a razão da sua fraqueza, qual a origem daquele depauperamento, daquela triste agonia de flor que murcha e se estiola." /> 
 </asp:Content>

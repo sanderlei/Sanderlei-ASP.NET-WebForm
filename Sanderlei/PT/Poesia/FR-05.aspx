@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Guillaume Apollinaire - Automne" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="FR-05.aspx.cs" Inherits="Sanderlei.PT.Poesia.FR_05" %>
+﻿<%@ Page Title="Guillaume Apollinaire - Automne" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Dans le brouillard s’en vont un paysan cagneux. Et son boeuf lentement dans le brouillard d’automne Qui cache les hameaux pauvres et vergogneux " /> 
 </asp:Content>

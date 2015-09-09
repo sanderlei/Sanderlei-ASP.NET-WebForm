@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Mário de Sá-Carneiro - Quase" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-14.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_14" %>
+﻿<%@ Page Title="Mário de Sá-Carneiro - Quase" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Um pouco mais de sol - eu era brasa, Um pouco mais de azul - eu era além. Para atingir, faltou-me um golpe de asa... Se ao menos eu permanecesse aquém..." /> 
 </asp:Content>

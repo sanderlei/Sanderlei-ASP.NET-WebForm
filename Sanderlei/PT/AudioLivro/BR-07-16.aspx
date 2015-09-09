@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 16 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-07-16.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_07_16" %>
+﻿<%@ Page Title="Olavo Bilac - Contos para Velhos - 16 / 16" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" A Anacleta ia caminho da igreja, muito atrapalhada, pensando no modo porque havia de dizer ao confessor os seus pecados... Teria a coragem de tudo? E a pobre Anacleta tremia só com a idéia de contar a menor daquelas cousas ao severo padre Roxo, um padre terrível, cujo olhar de coruja punha um frio na alma da gente. E a desventurada ia quase chorando de desespero, quando, já perto da igreja, encontrou a comadre Rita. " /> 
 </asp:Content>

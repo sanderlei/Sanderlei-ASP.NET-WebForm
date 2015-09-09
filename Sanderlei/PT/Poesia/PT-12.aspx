@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Bocage - Já Bocage não sou!... À cova escura" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="PT-12.aspx.cs" Inherits="Sanderlei.PT.Poesia.PT_12" %>
+﻿<%@ Page Title="Bocage - Já Bocage não sou!... À cova escura" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Já Bocage não sou!... À cova escura. Meu estro vai parar desfeito em vento... Eu aos céus ultrajei! O meu tormento Leve me torne sempre a terra dura. " /> 
 </asp:Content>

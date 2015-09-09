@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Gregorio de Matos - Ao braco do mesmo menino Jesus quando apareceu" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true" CodeBehind="BR-15.aspx.cs" Inherits="Sanderlei.PT.Poesia.BR_15" %>
+﻿<%@ Page Title="Gregorio de Matos - Ao braco do mesmo menino Jesus quando apareceu" Language="C#" MasterPageFile="~/PT/SitePTPoesia.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="O todo sem a parte não é todo, A parte sem o todo não é parte, Mas se a parte o faz todo, sendo parte, Não se diga, que é parte, sendo todo." /> 
 </asp:Content>
