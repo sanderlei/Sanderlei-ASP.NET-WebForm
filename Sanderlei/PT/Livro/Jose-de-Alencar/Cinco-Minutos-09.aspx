@@ -156,7 +156,7 @@
 
 		<br /> <br /> <br /> <br /> <br /> <br /> <br /> 
          </div>
-      </div>   
+      
     <br />    <p class='text-center'> * * * </p>  <br /> <hr />  <br />            
           <div class="bg-info container-fluid col-xs-12">    <h5 class='text-center'>  José de Alencar - Cinco Minutos - Links para os Capítulos    </h5>   </div> 
           <div class="text-center"><ul class="pagination pagination-lg">
@@ -172,5 +172,5 @@
             <li class="active"  ><a href="Cinco-Minutos-09">09</a></li>
             <li   ><a href="Cinco-Minutos-10">10</a></li>                                          
           </ul>
-        </div>  
+        </div>  </div>   
 </asp:Content>

@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="pt">
 <head runat="server">
-    <title><%: Page.Title %> - Sanderlei</title>          
+    <title><%: Page.Title %> - PT</title>          
 	<meta charset="utf-8" />
     <meta name="viewport" content="width=devide-width, initial-scale=1">
     <meta name="dailymotion-domain-verification" content="dmf2h85gdqzgdu3rs" />

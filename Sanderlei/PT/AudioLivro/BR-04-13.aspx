@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Lima Barreto - Triste Fim de Policarpo Quaresma - 13 / 15" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-04-13.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_04_13" %>
+﻿<%@ Page Title="Lima Barreto - Triste Fim de Policarpo Quaresma - 13 / 15" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Já. Tenho corrido médicos, espíritas, até feiticeiros, Quaresma! E os olhos do velho se orvalhavam por baixo do pince-nez. Os dous se haviam encontrado na pagadoria da Guerra e vinham pelo campo de Sant’Anna, a pé, andando a pequenos passos e conversando. O general era mais alto que Quaresma, e enquanto este tinha a cabeça sobre um pescoço alto, aquele a tinha metida entre os ombros proeminentes, como cotos de asas. Albernaz reatou:  " /> 
 </asp:Content>

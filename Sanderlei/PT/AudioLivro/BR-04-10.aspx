@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Lima Barreto - Triste Fim de Policarpo Quaresma - 10 / 15" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-04-10.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_04_10" %>
+﻿<%@ Page Title="Lima Barreto - Triste Fim de Policarpo Quaresma - 10 / 15" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Decerto, Albernaz, não é possível continuar assim... Então, mete-se um sujeito num navio, assesta os canhões pra terra e diz: sai daí " /> 
 </asp:Content>

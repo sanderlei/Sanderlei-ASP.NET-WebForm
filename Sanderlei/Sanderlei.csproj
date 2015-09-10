@@ -3891,6 +3891,86 @@
     <Content Include="PT\AudioLivro\EN-03-04.aspx" />
     <Content Include="PT\AudioLivro\EN-03-05.aspx" />
     <Content Include="PT\AudioLivro\Index.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-26.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-45.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-46.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-48.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-47.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-50.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-49.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-27.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-28.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-29.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-30.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-31.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-32.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-33.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-34.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-35.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-36.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-37.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-38.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-39.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-40.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-41.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-42.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-43.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-44.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-01.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-02.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-03.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-04.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-05.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-06.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-07.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-08.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-09.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-10.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-11.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-12.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-13.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-14.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-15.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-16.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-17.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-18.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-19.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-20.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-21.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-22.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-23.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-24.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-25.aspx" />
+    <Content Include="PT\Biblia-Online\Genesis-Capitulo-00.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-00.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-01.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-02.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-03.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-04.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-05.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-06.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-07.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-08.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-09.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-10.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-11.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-12.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-13.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-14.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-15.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-16.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-17.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-18.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-19.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-20.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-21.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-22.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-23.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-24.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-25.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-26.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-27.aspx" />
+    <Content Include="PT\Biblia-Online\Mateus-Capitulo-28.aspx" />
     <Content Include="PT\Developer\SQL-01-02.aspx" />
     <Content Include="PT\Developer\SQL-01-03.aspx" />
     <Content Include="PT\Developer\SQL-01-04.aspx" />
@@ -4268,17 +4348,21 @@
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-14.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-15.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-99.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-16.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-13.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-13.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-14.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-15.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-16.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-14.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-15.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-16.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-13.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-14.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-15.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-16.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-13.aspx" />
@@ -4470,6 +4554,21 @@
     <Content Include="PT\Idioma\ES-01-20.aspx" />
     <Content Include="PT\Idioma\Index.aspx" />
     <Content Include="PT\Livro\Index.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-01.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-02.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-03.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-04.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-05.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-06.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-07.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-08.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-09.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-10.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-11.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-12.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-13.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-14.aspx" />
+    <Content Include="PT\Livro\Lima-Barreto\O-Triste-Fim-de-Policarpo-Quaresma-15.aspx" />
     <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-000.aspx" />
     <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-001.aspx" />
     <Content Include="PT\Livro\Machado-de-Assis\Dom-Casmurro-002.aspx" />
@@ -9649,111 +9748,6 @@
     </Compile>
     <Compile Include="PT\AudioLivro\BR-03-09.aspx.designer.cs">
       <DependentUpon>BR-03-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-01.aspx.cs">
-      <DependentUpon>BR-04-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-01.aspx.designer.cs">
-      <DependentUpon>BR-04-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-02.aspx.cs">
-      <DependentUpon>BR-04-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-02.aspx.designer.cs">
-      <DependentUpon>BR-04-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-03.aspx.cs">
-      <DependentUpon>BR-04-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-03.aspx.designer.cs">
-      <DependentUpon>BR-04-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-04.aspx.cs">
-      <DependentUpon>BR-04-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-04.aspx.designer.cs">
-      <DependentUpon>BR-04-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-05.aspx.cs">
-      <DependentUpon>BR-04-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-05.aspx.designer.cs">
-      <DependentUpon>BR-04-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-06.aspx.cs">
-      <DependentUpon>BR-04-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-06.aspx.designer.cs">
-      <DependentUpon>BR-04-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-07.aspx.cs">
-      <DependentUpon>BR-04-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-07.aspx.designer.cs">
-      <DependentUpon>BR-04-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-08.aspx.cs">
-      <DependentUpon>BR-04-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-08.aspx.designer.cs">
-      <DependentUpon>BR-04-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-09.aspx.cs">
-      <DependentUpon>BR-04-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-09.aspx.designer.cs">
-      <DependentUpon>BR-04-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-10.aspx.cs">
-      <DependentUpon>BR-04-10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-10.aspx.designer.cs">
-      <DependentUpon>BR-04-10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-11.aspx.cs">
-      <DependentUpon>BR-04-11.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-11.aspx.designer.cs">
-      <DependentUpon>BR-04-11.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-12.aspx.cs">
-      <DependentUpon>BR-04-12.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-12.aspx.designer.cs">
-      <DependentUpon>BR-04-12.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-13.aspx.cs">
-      <DependentUpon>BR-04-13.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-13.aspx.designer.cs">
-      <DependentUpon>BR-04-13.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-14.aspx.cs">
-      <DependentUpon>BR-04-14.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-14.aspx.designer.cs">
-      <DependentUpon>BR-04-14.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-15.aspx.cs">
-      <DependentUpon>BR-04-15.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-04-15.aspx.designer.cs">
-      <DependentUpon>BR-04-15.aspx</DependentUpon>
     </Compile>
     <Compile Include="PT\AudioLivro\BR-09-01.aspx.cs">
       <DependentUpon>BR-09-01.aspx</DependentUpon>
