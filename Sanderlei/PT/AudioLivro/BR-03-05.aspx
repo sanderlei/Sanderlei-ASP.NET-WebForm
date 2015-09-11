@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - O Alienista - 05 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-03-05.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_03_05" %>
+﻿<%@ Page Title="Machado de Assis - O Alienista - 05 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Chegados os dragões em frente aos Canjicas houve um instante de estupefação: os Canjicas não queriam crer que a força pública fosse mandada contra eles; mas o barbeiro compreendeu tudo e esperou. Os dragões pararam, o capitão intimou à multidão que se dispersasse; mas, conquanto uma parte dela estivesse inclinada a isso, a outra parte apoiou fortemente o barbeiro, cuja resposta consistiu nestes termos alevantados:  " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 12 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-12.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_12" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 12 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" É natural que estas camadas profundas da nossa estratificação étnica se sublevassem numa anticlinal extraordinária — Antônio Conselheiro... " /> 
 </asp:Content>

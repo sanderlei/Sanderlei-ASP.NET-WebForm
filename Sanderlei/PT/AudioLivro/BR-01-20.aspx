@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Antero de Quental - Bom senso e bom gosto" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-20.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_20" %>
+﻿<%@ Page Title="Antero de Quental - Bom senso e bom gosto" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Antero de Quental - Bom senso e bom gosto " /> 
 </asp:Content>

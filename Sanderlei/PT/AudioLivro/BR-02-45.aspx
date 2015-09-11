@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 45 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-45.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_45" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 45 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Começara sob o esporear da irritação dos primeiros reveses, terminava friamente feito praxe costumeira, minúscula, equiparada às últimas exigências da guerra. Preso o jagunço válido e capaz de agüentar o peso da espingarda, não havia malbaratar-se um segundo em consulta inútil. Degolava-se; estripava-se. Um ou outro comandante se dava o trabalho de um gesto expressivo. Era uma redundância capaz de surpreender. " /> 
 </asp:Content>

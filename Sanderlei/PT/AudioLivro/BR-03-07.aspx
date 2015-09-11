@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - O Alienista - 07 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-03-07.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_03_07" %>
+﻿<%@ Page Title="Machado de Assis - O Alienista - 07 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" E agora prepare-se o leitor para o mesmo assombro em que ficou a vila, ao saber um dia que os loucos da Casa Verde iam todos ser postos na rua." /> 
 </asp:Content>

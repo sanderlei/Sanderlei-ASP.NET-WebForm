@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 47 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-47.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_47" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 47 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Durante o dia o povoado, silencioso, marasmava na estagnação do bloqueio. Nem um ataque, às vezes. A 28 de setembro não replicaram às duas salvas de 21 tiros, de bala, com que foi criminosamente saudada, pela manhã e à tarde, a data belíssima que resume um dos episódios mais viris da nossa história. Era o fim. " /> 
 </asp:Content>

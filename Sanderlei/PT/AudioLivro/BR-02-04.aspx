@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 04 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-04.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_04" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 04 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Dos breves apontamentos indicados, resulta que os caracteres geológicos e topográficos, a par dos demais agentes físicos, mutuam naqueles lugares as influências características de modo a não se poder afirmar qual o preponderante. " /> 
 </asp:Content>

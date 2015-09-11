@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 22 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-22.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_22" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 22 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="As massas do Cambaio amontoavam-se na frente, dispostas de modo caprichoso, fundamente recortadas de gargantas longas e circulantes como fossos, ou alteando-se em patamares sucessivos, lembrando desmedidas bermas de algum baluarte derruído, de titãs. " /> 
 </asp:Content>

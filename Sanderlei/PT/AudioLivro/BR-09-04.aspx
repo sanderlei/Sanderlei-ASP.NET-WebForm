@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Demóstenes - Oração da Coroa - Parte 4" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-09-04.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_09_04" %>
+﻿<%@ Page Title="Demóstenes - Oração da Coroa - Parte 4" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Demóstenes - Oração da Coroa - Parte 4 " /> 
 </asp:Content>

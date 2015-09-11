@@ -854,6 +854,7 @@
     <Content Include="CN\历史\EN-59.aspx" />
     <Content Include="CN\历史\EN-60.aspx" />
     <Content Include="CN\历史\Index.aspx" />
+    <Content Include="Default.htm" />
     <Content Include="DE\Geschichte\EN-01.aspx" />
     <Content Include="DE\Geschichte\EN-02.aspx" />
     <Content Include="DE\Geschichte\EN-03.aspx" />
@@ -3942,6 +3943,70 @@
     <Content Include="PT\Biblia-Online\Genesis-Capitulo-24.aspx" />
     <Content Include="PT\Biblia-Online\Genesis-Capitulo-25.aspx" />
     <Content Include="PT\Biblia-Online\Genesis-Capitulo-00.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-00.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-01.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-02.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-03.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-04.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-05.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-06.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-07.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-08.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-09.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-10.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-11.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-12.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-13.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-14.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-15.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-16.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-17.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-18.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-19.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-20.aspx" />
+    <Content Include="PT\Biblia-Online\Joao-Capitulo-21.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-00.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-01.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-02.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-03.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-04.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-05.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-06.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-07.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-08.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-09.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-10.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-11.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-12.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-13.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-14.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-15.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-16.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-17.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-18.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-19.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-20.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-21.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-22.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-23.aspx" />
+    <Content Include="PT\Biblia-Online\Lucas-Capitulo-24.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-00.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-01.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-02.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-03.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-04.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-05.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-06.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-07.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-08.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-09.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-10.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-11.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-12.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-13.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-14.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-15.aspx" />
+    <Content Include="PT\Biblia-Online\Marcos-Capitulo-16.aspx" />
     <Content Include="PT\Biblia-Online\Mateus-Capitulo-00.aspx" />
     <Content Include="PT\Biblia-Online\Mateus-Capitulo-01.aspx" />
     <Content Include="PT\Biblia-Online\Mateus-Capitulo-02.aspx" />
@@ -4349,20 +4414,28 @@
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-15.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-16.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-17.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-18.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-13.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-13.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-14.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-15.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-16.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-17.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-18.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-14.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-15.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-16.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-17.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-18.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-13.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-14.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-15.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-16.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-17.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-18.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-13.aspx" />
@@ -6927,7 +7000,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="Default.aspx" />
     <Content Include="Images\ar.png" />
     <Content Include="Images\br.png" />
     <Content Include="Images\cn.png" />
@@ -8303,13 +8375,6 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Default.aspx.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Default.aspx.designer.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
-    </Compile>
     <Compile Include="IT\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -9202,846 +9267,6 @@
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-01.aspx.cs">
-      <DependentUpon>BR-01-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-01.aspx.designer.cs">
-      <DependentUpon>BR-01-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-02.aspx.cs">
-      <DependentUpon>BR-01-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-02.aspx.designer.cs">
-      <DependentUpon>BR-01-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-03.aspx.cs">
-      <DependentUpon>BR-01-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-03.aspx.designer.cs">
-      <DependentUpon>BR-01-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-04.aspx.cs">
-      <DependentUpon>BR-01-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-04.aspx.designer.cs">
-      <DependentUpon>BR-01-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-05.aspx.cs">
-      <DependentUpon>BR-01-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-05.aspx.designer.cs">
-      <DependentUpon>BR-01-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-06.aspx.cs">
-      <DependentUpon>BR-01-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-06.aspx.designer.cs">
-      <DependentUpon>BR-01-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-07.aspx.cs">
-      <DependentUpon>BR-01-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-07.aspx.designer.cs">
-      <DependentUpon>BR-01-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-08.aspx.cs">
-      <DependentUpon>BR-01-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-08.aspx.designer.cs">
-      <DependentUpon>BR-01-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-09.aspx.cs">
-      <DependentUpon>BR-01-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-09.aspx.designer.cs">
-      <DependentUpon>BR-01-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-10.aspx.cs">
-      <DependentUpon>BR-01-10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-10.aspx.designer.cs">
-      <DependentUpon>BR-01-10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-11.aspx.cs">
-      <DependentUpon>BR-01-11.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-11.aspx.designer.cs">
-      <DependentUpon>BR-01-11.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-12.aspx.cs">
-      <DependentUpon>BR-01-12.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-12.aspx.designer.cs">
-      <DependentUpon>BR-01-12.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-13.aspx.cs">
-      <DependentUpon>BR-01-13.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-13.aspx.designer.cs">
-      <DependentUpon>BR-01-13.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-14.aspx.cs">
-      <DependentUpon>BR-01-14.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-14.aspx.designer.cs">
-      <DependentUpon>BR-01-14.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-15.aspx.cs">
-      <DependentUpon>BR-01-15.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-15.aspx.designer.cs">
-      <DependentUpon>BR-01-15.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-16.aspx.cs">
-      <DependentUpon>BR-01-16.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-16.aspx.designer.cs">
-      <DependentUpon>BR-01-16.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-17.aspx.cs">
-      <DependentUpon>BR-01-17.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-17.aspx.designer.cs">
-      <DependentUpon>BR-01-17.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-18.aspx.cs">
-      <DependentUpon>BR-01-18.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-18.aspx.designer.cs">
-      <DependentUpon>BR-01-18.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-19.aspx.cs">
-      <DependentUpon>BR-01-19.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-19.aspx.designer.cs">
-      <DependentUpon>BR-01-19.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-20.aspx.cs">
-      <DependentUpon>BR-01-20.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-01-20.aspx.designer.cs">
-      <DependentUpon>BR-01-20.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-01.aspx.cs">
-      <DependentUpon>BR-02-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-01.aspx.designer.cs">
-      <DependentUpon>BR-02-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-02.aspx.cs">
-      <DependentUpon>BR-02-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-02.aspx.designer.cs">
-      <DependentUpon>BR-02-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-03.aspx.cs">
-      <DependentUpon>BR-02-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-03.aspx.designer.cs">
-      <DependentUpon>BR-02-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-04.aspx.cs">
-      <DependentUpon>BR-02-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-04.aspx.designer.cs">
-      <DependentUpon>BR-02-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-05.aspx.cs">
-      <DependentUpon>BR-02-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-05.aspx.designer.cs">
-      <DependentUpon>BR-02-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-06.aspx.cs">
-      <DependentUpon>BR-02-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-06.aspx.designer.cs">
-      <DependentUpon>BR-02-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-07.aspx.cs">
-      <DependentUpon>BR-02-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-07.aspx.designer.cs">
-      <DependentUpon>BR-02-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-08.aspx.cs">
-      <DependentUpon>BR-02-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-08.aspx.designer.cs">
-      <DependentUpon>BR-02-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-09.aspx.cs">
-      <DependentUpon>BR-02-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-09.aspx.designer.cs">
-      <DependentUpon>BR-02-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-10.aspx.cs">
-      <DependentUpon>BR-02-10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-10.aspx.designer.cs">
-      <DependentUpon>BR-02-10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-11.aspx.cs">
-      <DependentUpon>BR-02-11.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-11.aspx.designer.cs">
-      <DependentUpon>BR-02-11.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-12.aspx.cs">
-      <DependentUpon>BR-02-12.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-12.aspx.designer.cs">
-      <DependentUpon>BR-02-12.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-13.aspx.cs">
-      <DependentUpon>BR-02-13.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-13.aspx.designer.cs">
-      <DependentUpon>BR-02-13.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-14.aspx.cs">
-      <DependentUpon>BR-02-14.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-14.aspx.designer.cs">
-      <DependentUpon>BR-02-14.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-15.aspx.cs">
-      <DependentUpon>BR-02-15.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-15.aspx.designer.cs">
-      <DependentUpon>BR-02-15.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-16.aspx.cs">
-      <DependentUpon>BR-02-16.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-16.aspx.designer.cs">
-      <DependentUpon>BR-02-16.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-17.aspx.cs">
-      <DependentUpon>BR-02-17.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-17.aspx.designer.cs">
-      <DependentUpon>BR-02-17.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-18.aspx.cs">
-      <DependentUpon>BR-02-18.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-18.aspx.designer.cs">
-      <DependentUpon>BR-02-18.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-19.aspx.cs">
-      <DependentUpon>BR-02-19.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-19.aspx.designer.cs">
-      <DependentUpon>BR-02-19.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-20.aspx.cs">
-      <DependentUpon>BR-02-20.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-20.aspx.designer.cs">
-      <DependentUpon>BR-02-20.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-21.aspx.cs">
-      <DependentUpon>BR-02-21.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-21.aspx.designer.cs">
-      <DependentUpon>BR-02-21.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-22.aspx.cs">
-      <DependentUpon>BR-02-22.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-22.aspx.designer.cs">
-      <DependentUpon>BR-02-22.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-23.aspx.cs">
-      <DependentUpon>BR-02-23.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-23.aspx.designer.cs">
-      <DependentUpon>BR-02-23.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-24.aspx.cs">
-      <DependentUpon>BR-02-24.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-24.aspx.designer.cs">
-      <DependentUpon>BR-02-24.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-25.aspx.cs">
-      <DependentUpon>BR-02-25.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-25.aspx.designer.cs">
-      <DependentUpon>BR-02-25.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-26.aspx.cs">
-      <DependentUpon>BR-02-26.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-26.aspx.designer.cs">
-      <DependentUpon>BR-02-26.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-27.aspx.cs">
-      <DependentUpon>BR-02-27.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-27.aspx.designer.cs">
-      <DependentUpon>BR-02-27.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-28.aspx.cs">
-      <DependentUpon>BR-02-28.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-28.aspx.designer.cs">
-      <DependentUpon>BR-02-28.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-29.aspx.cs">
-      <DependentUpon>BR-02-29.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-29.aspx.designer.cs">
-      <DependentUpon>BR-02-29.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-30.aspx.cs">
-      <DependentUpon>BR-02-30.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-30.aspx.designer.cs">
-      <DependentUpon>BR-02-30.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-31.aspx.cs">
-      <DependentUpon>BR-02-31.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-31.aspx.designer.cs">
-      <DependentUpon>BR-02-31.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-32.aspx.cs">
-      <DependentUpon>BR-02-32.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-32.aspx.designer.cs">
-      <DependentUpon>BR-02-32.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-33.aspx.cs">
-      <DependentUpon>BR-02-33.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-33.aspx.designer.cs">
-      <DependentUpon>BR-02-33.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-34.aspx.cs">
-      <DependentUpon>BR-02-34.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-34.aspx.designer.cs">
-      <DependentUpon>BR-02-34.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-35.aspx.cs">
-      <DependentUpon>BR-02-35.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-35.aspx.designer.cs">
-      <DependentUpon>BR-02-35.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-36.aspx.cs">
-      <DependentUpon>BR-02-36.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-36.aspx.designer.cs">
-      <DependentUpon>BR-02-36.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-37.aspx.cs">
-      <DependentUpon>BR-02-37.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-37.aspx.designer.cs">
-      <DependentUpon>BR-02-37.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-38.aspx.cs">
-      <DependentUpon>BR-02-38.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-38.aspx.designer.cs">
-      <DependentUpon>BR-02-38.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-39.aspx.cs">
-      <DependentUpon>BR-02-39.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-39.aspx.designer.cs">
-      <DependentUpon>BR-02-39.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-40.aspx.cs">
-      <DependentUpon>BR-02-40.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-40.aspx.designer.cs">
-      <DependentUpon>BR-02-40.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-41.aspx.cs">
-      <DependentUpon>BR-02-41.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-41.aspx.designer.cs">
-      <DependentUpon>BR-02-41.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-42.aspx.cs">
-      <DependentUpon>BR-02-42.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-42.aspx.designer.cs">
-      <DependentUpon>BR-02-42.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-43.aspx.cs">
-      <DependentUpon>BR-02-43.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-43.aspx.designer.cs">
-      <DependentUpon>BR-02-43.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-44.aspx.cs">
-      <DependentUpon>BR-02-44.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-44.aspx.designer.cs">
-      <DependentUpon>BR-02-44.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-45.aspx.cs">
-      <DependentUpon>BR-02-45.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-45.aspx.designer.cs">
-      <DependentUpon>BR-02-45.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-46.aspx.cs">
-      <DependentUpon>BR-02-46.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-46.aspx.designer.cs">
-      <DependentUpon>BR-02-46.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-47.aspx.cs">
-      <DependentUpon>BR-02-47.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-47.aspx.designer.cs">
-      <DependentUpon>BR-02-47.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-48.aspx.cs">
-      <DependentUpon>BR-02-48.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-48.aspx.designer.cs">
-      <DependentUpon>BR-02-48.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-49.aspx.cs">
-      <DependentUpon>BR-02-49.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-02-49.aspx.designer.cs">
-      <DependentUpon>BR-02-49.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-01.aspx.cs">
-      <DependentUpon>BR-03-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-01.aspx.designer.cs">
-      <DependentUpon>BR-03-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-02.aspx.cs">
-      <DependentUpon>BR-03-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-02.aspx.designer.cs">
-      <DependentUpon>BR-03-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-03.aspx.cs">
-      <DependentUpon>BR-03-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-03.aspx.designer.cs">
-      <DependentUpon>BR-03-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-04.aspx.cs">
-      <DependentUpon>BR-03-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-04.aspx.designer.cs">
-      <DependentUpon>BR-03-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-05.aspx.cs">
-      <DependentUpon>BR-03-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-05.aspx.designer.cs">
-      <DependentUpon>BR-03-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-06.aspx.cs">
-      <DependentUpon>BR-03-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-06.aspx.designer.cs">
-      <DependentUpon>BR-03-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-07.aspx.cs">
-      <DependentUpon>BR-03-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-07.aspx.designer.cs">
-      <DependentUpon>BR-03-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-08.aspx.cs">
-      <DependentUpon>BR-03-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-08.aspx.designer.cs">
-      <DependentUpon>BR-03-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-09.aspx.cs">
-      <DependentUpon>BR-03-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-03-09.aspx.designer.cs">
-      <DependentUpon>BR-03-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-01.aspx.cs">
-      <DependentUpon>BR-09-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-01.aspx.designer.cs">
-      <DependentUpon>BR-09-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-02.aspx.cs">
-      <DependentUpon>BR-09-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-02.aspx.designer.cs">
-      <DependentUpon>BR-09-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-03.aspx.cs">
-      <DependentUpon>BR-09-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-03.aspx.designer.cs">
-      <DependentUpon>BR-09-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-04.aspx.cs">
-      <DependentUpon>BR-09-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-04.aspx.designer.cs">
-      <DependentUpon>BR-09-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-05.aspx.cs">
-      <DependentUpon>BR-09-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-05.aspx.designer.cs">
-      <DependentUpon>BR-09-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-06.aspx.cs">
-      <DependentUpon>BR-09-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-06.aspx.designer.cs">
-      <DependentUpon>BR-09-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-07.aspx.cs">
-      <DependentUpon>BR-09-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-07.aspx.designer.cs">
-      <DependentUpon>BR-09-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-08.aspx.cs">
-      <DependentUpon>BR-09-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-08.aspx.designer.cs">
-      <DependentUpon>BR-09-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-09.aspx.cs">
-      <DependentUpon>BR-09-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-09.aspx.designer.cs">
-      <DependentUpon>BR-09-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-10.aspx.cs">
-      <DependentUpon>BR-09-10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-10.aspx.designer.cs">
-      <DependentUpon>BR-09-10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-11.aspx.cs">
-      <DependentUpon>BR-09-11.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-11.aspx.designer.cs">
-      <DependentUpon>BR-09-11.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-12.aspx.cs">
-      <DependentUpon>BR-09-12.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-09-12.aspx.designer.cs">
-      <DependentUpon>BR-09-12.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-01.aspx.cs">
-      <DependentUpon>BR-10-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-01.aspx.designer.cs">
-      <DependentUpon>BR-10-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-02.aspx.cs">
-      <DependentUpon>BR-10-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-02.aspx.designer.cs">
-      <DependentUpon>BR-10-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-03.aspx.cs">
-      <DependentUpon>BR-10-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-03.aspx.designer.cs">
-      <DependentUpon>BR-10-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-04.aspx.cs">
-      <DependentUpon>BR-10-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-04.aspx.designer.cs">
-      <DependentUpon>BR-10-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-05.aspx.cs">
-      <DependentUpon>BR-10-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-05.aspx.designer.cs">
-      <DependentUpon>BR-10-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-06.aspx.cs">
-      <DependentUpon>BR-10-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-06.aspx.designer.cs">
-      <DependentUpon>BR-10-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-07.aspx.cs">
-      <DependentUpon>BR-10-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-07.aspx.designer.cs">
-      <DependentUpon>BR-10-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-08.aspx.cs">
-      <DependentUpon>BR-10-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-08.aspx.designer.cs">
-      <DependentUpon>BR-10-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-09.aspx.cs">
-      <DependentUpon>BR-10-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-09.aspx.designer.cs">
-      <DependentUpon>BR-10-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-10.aspx.cs">
-      <DependentUpon>BR-10-10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-10.aspx.designer.cs">
-      <DependentUpon>BR-10-10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-11.aspx.cs">
-      <DependentUpon>BR-10-11.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-11.aspx.designer.cs">
-      <DependentUpon>BR-10-11.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-12.aspx.cs">
-      <DependentUpon>BR-10-12.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-12.aspx.designer.cs">
-      <DependentUpon>BR-10-12.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-13.aspx.cs">
-      <DependentUpon>BR-10-13.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-13.aspx.designer.cs">
-      <DependentUpon>BR-10-13.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-14.aspx.cs">
-      <DependentUpon>BR-10-14.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-14.aspx.designer.cs">
-      <DependentUpon>BR-10-14.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-15.aspx.cs">
-      <DependentUpon>BR-10-15.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-15.aspx.designer.cs">
-      <DependentUpon>BR-10-15.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-16.aspx.cs">
-      <DependentUpon>BR-10-16.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-16.aspx.designer.cs">
-      <DependentUpon>BR-10-16.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-17.aspx.cs">
-      <DependentUpon>BR-10-17.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-17.aspx.designer.cs">
-      <DependentUpon>BR-10-17.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-18.aspx.cs">
-      <DependentUpon>BR-10-18.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-18.aspx.designer.cs">
-      <DependentUpon>BR-10-18.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-19.aspx.cs">
-      <DependentUpon>BR-10-19.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-19.aspx.designer.cs">
-      <DependentUpon>BR-10-19.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-20.aspx.cs">
-      <DependentUpon>BR-10-20.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-10-20.aspx.designer.cs">
-      <DependentUpon>BR-10-20.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-01.aspx.cs">
-      <DependentUpon>BR-11-01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-01.aspx.designer.cs">
-      <DependentUpon>BR-11-01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-02.aspx.cs">
-      <DependentUpon>BR-11-02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-02.aspx.designer.cs">
-      <DependentUpon>BR-11-02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-03.aspx.cs">
-      <DependentUpon>BR-11-03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-03.aspx.designer.cs">
-      <DependentUpon>BR-11-03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-04.aspx.cs">
-      <DependentUpon>BR-11-04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-04.aspx.designer.cs">
-      <DependentUpon>BR-11-04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-05.aspx.cs">
-      <DependentUpon>BR-11-05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-05.aspx.designer.cs">
-      <DependentUpon>BR-11-05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-06.aspx.cs">
-      <DependentUpon>BR-11-06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-06.aspx.designer.cs">
-      <DependentUpon>BR-11-06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-07.aspx.cs">
-      <DependentUpon>BR-11-07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-07.aspx.designer.cs">
-      <DependentUpon>BR-11-07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-08.aspx.cs">
-      <DependentUpon>BR-11-08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-08.aspx.designer.cs">
-      <DependentUpon>BR-11-08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-09.aspx.cs">
-      <DependentUpon>BR-11-09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-09.aspx.designer.cs">
-      <DependentUpon>BR-11-09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-10.aspx.cs">
-      <DependentUpon>BR-11-10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="PT\AudioLivro\BR-11-10.aspx.designer.cs">
-      <DependentUpon>BR-11-10.aspx</DependentUpon>
     </Compile>
     <Compile Include="PT\Developer\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>

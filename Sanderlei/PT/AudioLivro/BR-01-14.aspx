@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - A segunda vida" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-14.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_14" %>
+﻿<%@ Page Title="Machado de Assis - A segunda vida" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Machado de Assis - A segunda vida " /> 
 </asp:Content>

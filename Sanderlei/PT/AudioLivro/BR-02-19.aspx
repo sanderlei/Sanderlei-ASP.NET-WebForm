@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 19 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-19.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_19" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 19 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Ia-o demonstrar a campanha emergente... cópia mais ampla de outras que em todo o Norte têm aparecido, permitindo aquilatar-se de antemão tais dificuldades. " /> 
 </asp:Content>

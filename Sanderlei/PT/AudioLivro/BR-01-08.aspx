@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Joao do Rio - Dentro da noite" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-08.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_08" %>
+﻿<%@ Page Title="Joao do Rio - Dentro da noite" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Joao do Rio - Dentro da noite " /> 
 </asp:Content>

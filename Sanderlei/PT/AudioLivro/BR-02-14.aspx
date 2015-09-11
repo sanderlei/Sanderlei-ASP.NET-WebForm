@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 14 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-14.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_14" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 14 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Já em 1876, segundo o testemunho de um sacerdote, que ali fora, como tantos outros, e nomeadamente o vigário de Cumbe, em visita espiritual às gentes de todo despeadas da terra, lá se aglomerava, agregada à fazenda então ainda florescente, população suspeita e ociosa, &quot;armada até aos dentes&quot; e &quot;cuja ocupação, quase exclusiva, consistia em beber aguardente e pitar uns esquisitos cachimbos de barro em canudos de metro de extensão&quot; , de tubos naturalmente fornecidos pelas solanáceas (canudos-de-pito), vicejantes em grande cópia à beira do rio. " /> 
 </asp:Content>

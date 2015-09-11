@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 08 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-08.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_08" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 08 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Considerando-a sob uma feição geral, fora da ação perturbadora dos pormenores inexpressivos, vemos, logo na fase colonial, esboçarem-se situações diversas. " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 46 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-46.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_46" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 46 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" O combate de 24 precipitara o desfecho. À compressão que se realizara ao norte, correspondeu, do mesmo modo vigoroso, outra, a 25, avançando do sul .O cerco constringia-se num apertão de tenaz. Entraram naquele dia em ação, descendo os pendores do Alto do Mário onde acampavam, num colo abrigado à retaguarda da Sete de Setembro, os dois batalhões do Pará e o 37.º de linha. E fizeram-no de moto próprio, alheios a qualquer ordem do comando geral. " /> 
 </asp:Content>

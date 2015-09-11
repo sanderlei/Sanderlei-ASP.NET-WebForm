@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 27 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-27.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_27" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 27 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="O pequeno ribeirão que ali corre, recortando fundamente o solo, ora ladeia, ora atravessa a estrada, interrompendo-a, serpeante. Por fim a deixa antes de chegar ao sítio a que dá o nome, arqueando-se em volta longa, um quase semicírculo de que o caminho é a corda. " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Artur Azevedo - A filha do patrão" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-04.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_04" %>
+﻿<%@ Page Title="Artur Azevedo - A filha do patrão" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Artur Azevedo - A filha do patrão " /> 
 </asp:Content>

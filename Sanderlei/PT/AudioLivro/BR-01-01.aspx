@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Leandro Gomes de Barros - Uma Viagem ao Céu" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-01.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_01" %>
+﻿<%@ Page Title="Leandro Gomes de Barros - Uma Viagem ao Céu" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Leandro Gomes de Barros - Uma Viagem ao Céu " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 49 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-49.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_49" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 49 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" A luta, que viera perdendo dia a dia o caráter militar, degenerou, ao cabo, inteiramente. Foram-se os últimos traços de um formalismo inútil: deliberações de comando, movimentos combinados, distribuições de forças, os mesmos toques de cornetas, e por fim a própria hierarquia, já materialmente extinta num exército sem distintivos e sem fardas.  " /> 
 </asp:Content>

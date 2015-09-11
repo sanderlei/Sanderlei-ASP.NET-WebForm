@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 24 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-24.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_24" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 24 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Extintas as esperanças de sucesso, resta aos exércitos infelizes o recurso desse oscilar entre a derrota e o triunfo, numa luta sem vitórias em que, entretanto, o vencido vence em cada passo que consegue dar para a frente, pisando, indomável, o território do inimigo — e conquistando a golpes de armas todas as voltas dos caminhos. " /> 
 </asp:Content>

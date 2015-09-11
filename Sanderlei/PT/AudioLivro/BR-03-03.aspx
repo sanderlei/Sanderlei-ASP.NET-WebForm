@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - O Alienista - 03 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-03-03.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_03_03" %>
+﻿<%@ Page Title="Machado de Assis - O Alienista - 03 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Quatro dias depois, a população de Itaguaí ouviu consternada a notícia de que um certo Costa fora recolhido à Casa Verde." /> 
 </asp:Content>

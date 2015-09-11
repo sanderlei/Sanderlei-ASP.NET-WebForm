@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 41 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-41.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_41" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 41 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" I. Queimadas. Uma ficção geográfica. Fora da pátria. Diante de uma criança. Na estrada de Monte Santo. Novas animadoras. Uma vaia entusiástica... Trincheira Sete de Setembro. Estrada de Calumbi.  " /> 
 </asp:Content>

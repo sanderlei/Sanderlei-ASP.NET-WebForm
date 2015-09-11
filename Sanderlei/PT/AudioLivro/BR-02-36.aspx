@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 36 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-36.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_36" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 36 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" O comboio chegou ao alto da Favela a 13 de julho; e no dia subseqüente, convocados os comandantes de brigadas, na tenda do general Savaget, enfermo do ferimento recebido em Cocorobó, concertaram sobre o assalto. O dia era propício: uma data de festa nacional. Logo pela manhã uma salva de 21 tiros de bala a comemorara. Os matutos broncos foram varridos cedo — surpreendidos, saltando estonteadamente das redes e dos catres miseráveis — porque havia pouco mais de cem anos um grupo de sonhadores falara nos direitos do homem e se debatera pela utopia maravilhosa da fraternidade humana... " /> 
 </asp:Content>

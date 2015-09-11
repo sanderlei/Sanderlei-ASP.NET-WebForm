@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 38 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-38.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_38" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 38 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Começou, então, a derivar lastimavelmente pelos caminhos o refluxo da campanha. Golfava-o o morro da Favela. Diariamente, em sucessivas levas, abalaram dali, em inúmeros bandos, todos os desfalecidos e todos os inúteis, em redes de caroá ou jiraus de paus roliços os enfermos mais graves, outros cavalgando penosamente cavalos imprestáveis e regues, ou apinhados em carroças ronceiras. A grande maioria, a pé.  " /> 
 </asp:Content>

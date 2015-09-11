@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 11 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-11.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_11" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 11 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Volvem os vaqueiros ao pouso e ali, nas redes bamboantes, relatando as peripécias da vaquejada ou famosas aventuras de feira, passam as horas matando, na significação completa do termo, o tempo, e desalterando-se com a umbuzada saborosíssima, ou merendando a iguaria incomparável de jerimum com leite. " /> 
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - O Alienista - 02 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-03-02.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_03_02" %>
+﻿<%@ Page Title="Machado de Assis - O Alienista - 02 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Ilustre dama, no fim de dois meses, achou-se a mais desgraçada das mulheres; caiu em profunda melancolia, ficou amarela, magra, comia pouco e suspirava a cada canto. Não ousava fazer-lhe nenhuma queixa ou reproche, porque respeitava nele o seu marido e senhor, mas padecia calada, e definhava a olhos vistos. Um dia, ao jantar, como lhe perguntasse o marido o que é que tinha, respondeu tristemente que nada; depois atreveu-se um pouco, e foi ao ponto de dizer que se considerava tão viúva como dantes. E acrescentou:  " /> 
 </asp:Content>

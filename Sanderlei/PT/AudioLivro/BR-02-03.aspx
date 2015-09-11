@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 03 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-03.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_03" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 03 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Golpe de vista do alto de Monte Santo. Do alto da serra de Monte Santo atentando-se para a região, estendida em torno num raio de quinze léguas, nota-se, como num mapa em relevo, a sua conformação " /> 
 </asp:Content>

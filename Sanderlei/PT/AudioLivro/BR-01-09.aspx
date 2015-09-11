@@ -1,4 +1,4 @@
-﻿<%@ Page Title="João do Rio - O homem de cabeça de Papelão" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-09.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_09" %>
+﻿<%@ Page Title="João do Rio - O homem de cabeça de Papelão" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - João do Rio - O homem de cabeça de Papelão " /> 
 </asp:Content>

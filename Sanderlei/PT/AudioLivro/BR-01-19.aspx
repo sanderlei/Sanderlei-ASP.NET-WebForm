@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Artur de Azevedo - Amor por Anexins" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-19.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_19" %>
+﻿<%@ Page Title="Artur de Azevedo - Amor por Anexins" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Artur de Azevedo - Amor por Anexins " /> 
 </asp:Content>

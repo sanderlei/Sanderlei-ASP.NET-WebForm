@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 32 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-32.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_32" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 32 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Descoloraram-se batalhões de todos os Estados: 12.°, 25.°, 30 .º, 31.°, 32.°, do Rio Grande do Sul; o 27.°, da Paraíba; o 34.°, do Rio Grande do Norte; o 33.° e o 35.°, do Piauí; o 5.°, do Maranhão; o 4.°, do Pará; o 26.º, de Sergipe; o 14.° e o 5.°, de Pernambuco; o 2.°, do Ceará; o 5.° e parte do 9.° de Cavalaria, Regimento da Artilharia da Capital Federal: o 7.°, o 9.° e o 16.º, da Bahia. " /> 
 </asp:Content>

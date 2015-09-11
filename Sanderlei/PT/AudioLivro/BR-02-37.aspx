@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 37 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-37.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_37" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 37 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="No meio desta confusão desastrosa, o comandante-em-chefe resolveu que se guardasse a posição conquistada. O alvitre impunha-se por si, inflexivelmente. Mais uma vez no fim de uma arremetida violenta a expedição se via adstrita a estacar, encravando-se em situação insolúvel. Eram por igual impossíveis — o avançamento e o recuo.  " /> 
 </asp:Content>

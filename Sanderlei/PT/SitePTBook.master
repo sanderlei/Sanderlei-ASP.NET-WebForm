@@ -39,9 +39,12 @@
                           
                               </ul>	 </li> 	
               <li><a href='/PT/Biblia-Online/Genesis-Capitulo-01' data-target='#' data-toggle='dropdown'> Bíblia Online <span class='caret'></span></a><ul class='dropdown-menu'>
-                           <li><a href='/PT/Biblia-Online/Genesis-Capitulo-01'> Bíblia Online - Gênesis </a></li>   
+                           <li><a href='/PT/Biblia-Online/Genesis-Capitulo-01'> Velho Testamento - 01. Gênesis </a></li>   
                            <li> <hr /> </li>                              
-                           <li><a href='/PT/Biblia-Online/Mateus-Capitulo-01'> Bíblia Online - Mateus </a></li>     
+                           <li><a href='/PT/Biblia-Online/Mateus-Capitulo-01'> Novo Testamento - 01. Mateus </a></li>     
+                            <li><a href='/PT/Biblia-Online/Marcos-Capitulo-01'>Novo Testamento - 02.  Marcos </a></li>     
+                            <li><a href='/PT/Biblia-Online/Lucas-Capitulo-01'> Novo Testamento - 03. Lucas </a></li>     
+                            <li><a href='/PT/Biblia-Online/Joao-Capitulo-01'> Novo Testamento - 04. João </a></li>     
                           
                            
                           

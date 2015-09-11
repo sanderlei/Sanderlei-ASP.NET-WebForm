@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 05 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-05.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_05" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 05 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="O sertão de Canudos é um índice sumariando a fisiografia dos sertões do Norte. Resume-os, enfeixa os seus aspectos predominantes numa escala reduzida. É-lhes de algum modo uma zona central comum. " /> 
 </asp:Content>

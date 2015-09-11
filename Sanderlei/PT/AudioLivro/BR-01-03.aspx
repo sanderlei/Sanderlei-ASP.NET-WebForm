@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Leandro Gomes de Barros - A História do Boi Misterioso II" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-03.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_03" %>
+﻿<%@ Page Title="Leandro Gomes de Barros - A História do Boi Misterioso II" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Leandro Gomes de Barros - A História do Boi Misterioso II " /> 
 </asp:Content>

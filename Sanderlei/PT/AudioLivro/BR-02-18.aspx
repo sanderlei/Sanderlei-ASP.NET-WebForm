@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 18 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-18.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_18" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 18 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Esta, porém, preparou-se sob extemporânea disparidade de vistas entre o chefe da força federal da Bahia e o governador do Estado. Ao otimismo deste, resumindo a agitação sertaneja a desordem vulgar acessível às diligencias policiais, contrapunha-se aquele, considerando-a mais séria, capaz de determinar verdadeiras operações de guerra.  " /> 
 </asp:Content>

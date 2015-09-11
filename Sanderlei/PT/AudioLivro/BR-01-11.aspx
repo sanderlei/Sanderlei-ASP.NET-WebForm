@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Lima Barreto - O feiticeiro e o deputado" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-11.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_11" %>
+﻿<%@ Page Title="Lima Barreto - O feiticeiro e o deputado" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Lima Barreto - O feiticeiro e o deputado " /> 
 </asp:Content>

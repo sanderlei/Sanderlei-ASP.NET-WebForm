@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 42 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-42.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_42" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 42 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Os novos expedicionários, abalando de Monte Santo pela estrada recém-aberta, levavam um temor singularmente original: o medo cruelmente ansioso de não depararem mais um só jagunço a combater. Certo iam encontrar tudo liquidado; e sentiam-se escandalosamente traídos pelos acontecimentos.  " /> 
 </asp:Content>

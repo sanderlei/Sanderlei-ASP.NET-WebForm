@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 07 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-07.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_07" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 07 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" I. Complexidade do problema etnológico no Brasil. Variabilidade do meio físico e sua reflexão na História. Ação do meio na fase inicial da formação das raças. A formação brasileira no Norte.  " /> 
 </asp:Content>

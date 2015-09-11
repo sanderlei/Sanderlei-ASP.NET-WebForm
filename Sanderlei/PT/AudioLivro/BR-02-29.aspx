@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 29 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-29.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_29" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 29 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Os soldados, transposto o rio, acumularam-se junto à artilharia. Eram uma multidão alvorotada sem coisa alguma recordando a força militar, que se decompusera, restando, como elementos irredutíveis, homens atônitos e inúteis, e tendo agora, como preocupação exclusiva, evitarem o adversário que tão ansiosamente haviam procurado.  " /> 
 </asp:Content>

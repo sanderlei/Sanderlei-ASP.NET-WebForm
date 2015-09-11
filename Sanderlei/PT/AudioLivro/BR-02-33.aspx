@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 33 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-33.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_33" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 33 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" O comandante-em-chefe enviou, ao general Savaget, um emissário reiterando o compromisso anterior de se encontrarem, a 27, nas cercanias de Canudos. " /> 
 </asp:Content>

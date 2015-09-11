@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 28 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-28.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_28" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 28 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="A força começou a descer, estirada pelas encostas e justapostas às vertentes. Deslumbrava num irradiar de centenares de baionetas. Considerando-a o chefe expedicionário disse ao comandante de uma das companhias do 7.°, junto ao qual se achava: " /> 
 </asp:Content>

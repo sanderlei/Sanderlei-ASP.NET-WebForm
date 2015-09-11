@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 30 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-30.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_30" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 30 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Oitocentos homens desapareciam em fuga, abandonando as espingardas; arriando as padiolas, em que se estorciam feridos: jogando fora as peças de equipamento; desarmando-se; desapertando os cinturões, para a carreira desafogada; e correndo, correndo ao acaso, correndo em grupos, em bandos erradios, correndo pelas estradas e pelas trilhas que as recortam, correndo para o recesso das caatingas, tontos, apavorados, sem chefes . . ." /> 
 </asp:Content>

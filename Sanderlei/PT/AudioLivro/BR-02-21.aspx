@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 21 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-21.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_21" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 21 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Sob a sugestão de um aparato bélico, de parada, os habitantes preestabeleceram o triunfo; invadida pelo contagio desta crença espontânea, a tropa, por sue vez, compartiu-lhes as esperanças.  " /> 
 </asp:Content>

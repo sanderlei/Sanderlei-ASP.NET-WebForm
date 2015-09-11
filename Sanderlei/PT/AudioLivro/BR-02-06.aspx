@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 06 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-06.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_06" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 06 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Hegel delineou três categorias geográficas como elementos fundamentais colaborando com outros no reagi: sobre o homem, criando diferenciações étnicas:" /> 
 </asp:Content>

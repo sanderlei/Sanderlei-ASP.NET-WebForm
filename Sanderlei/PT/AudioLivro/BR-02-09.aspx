@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 09 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-09.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_09" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 09 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" A demonstração é positiva. Há um notável traço de originalidade na gênese da população sertaneja, não diremos do Norte, mas do Brasil subtropical. " /> 
 </asp:Content>

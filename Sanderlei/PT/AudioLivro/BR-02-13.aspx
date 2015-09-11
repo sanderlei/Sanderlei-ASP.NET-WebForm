@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 13 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-13.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_13" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 13 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Ali chegou, como em toda a parte, desconhecido e suspeito, impressionando pelos trajes esquisitos — camisolão azul, sem cintura; chapéu de abas largas derrubadas, e sandálias. Às costas um surrão de couro em que trazia papel, pena e tinta, a Missão Abreviada e as Horas Marianas. " /> 
 </asp:Content>

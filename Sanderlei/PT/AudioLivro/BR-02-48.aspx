@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 48 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-48.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_48" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 48 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Foi o que fez o comando-em-chefe contravindo ao propósito de aguardar a rendição sem dispêndio inútil de vidas, pelo enfraquecimento contínuo dos rebeldes.  " /> 
 </asp:Content>

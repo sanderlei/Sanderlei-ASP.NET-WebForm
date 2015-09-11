@@ -84,14 +84,19 @@
       </div>
    <br />
  <!--  anuncio patrocinado  -->
-      <div class='container'> 
+    <div class='container'> 
         <a style="color:white" href='http://sanderlei.com/'>Sanderlei Silveira (S-01)|</a>        
         <a style="color:white" href='http://sanderlei.com.br/'>Sanderlei Silveira (S-02)|</a>        
         <a style="color:white" href='http://historia1minuto.com.br/'>História em 1 Minuto (S-03)|</a>
         <a style="color:white" href='http://ssconsult.com.br/'>SS Consul (S-04)|</a>
         <a style="color:white" href='http://ss-solucoes.com/'>SS Solucoes (S-05)|</a>
-        <a style="color:white" href='http://sz-solution.com/'>SZ Soluções - SZ Solucoes (S-06)|</a>        
-        <a style="color:white" href='http://casadosorvetejoinville.com.br/'>Casa do Sorvete - Joinville (S-07)|</a>        
+        <a style="color:white" href='http://casadosorvetejoinville.com.br/'>Casa do Sorvete - Joinville (S-07)|</a>                
+        <a style="color:white" href='http://biblia.sanderlei.com.br/'>Bíblia Online - Biblia Online (S-11)|</a>
+        <a style="color:white" href='http://bibliaonline.sanderlei.com.br/'>Bíblia Online - Biblia Online (S-12)|</a>
+        <a style="color:white" href='http://biblia-online-genesis.sanderlei.com.br/'>Bíblia Online - Biblia Online (S-13)|</a>          
+        <a style="color:white" href='http://biblia-online.sanderlei.com.br/'>Bíblia Online - Biblia Online (S-14)|</a>          
+        <a style="color:white" href='http://sz-solution.com/'>SZ Soluções - SZ Solucoes (S-06)|</a>     
+        <a style="color:white" href='http://bibliaonline.azurewebsites.net/'> Bíblia Online - Biblia Online (A-00)|</a>           
         <a style="color:white" href='http://sanderlei.azurewebsites.net/'>Sanderlei Silveira (A-01)|</a>
         <a style="color:white" href='http://historia.azurewebsites.net/'>História em 1 Minuto (A-02)|</a>                
         <a style="color:white" href='http://sz-solucoes.azurewebsites.net/'>SZ Soluções - SZ Solucoes (A-03)|</a>          

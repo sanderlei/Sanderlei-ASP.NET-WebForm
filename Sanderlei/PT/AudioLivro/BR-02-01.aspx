@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 01 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-01.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_01" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 01 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" >Escrito nos raros intervalos de folga de uma carreira fatigante, este livro, que a princípio se resumia à história da Campanha de Canudos, perdeu toda..." /> 
 </asp:Content>

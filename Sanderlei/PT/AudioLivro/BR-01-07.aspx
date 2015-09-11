@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Humberto de Campos - O Monstro" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-07.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_07" %>
+﻿<%@ Page Title="Humberto de Campos - O Monstro" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Humberto de Campos - O Monstro " /> 
 </asp:Content>

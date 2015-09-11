@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Lima Barreto - Contos - 07 / 20" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-10-07.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_10_07" %>
+﻿<%@ Page Title="Lima Barreto - Contos - 07 / 20" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Lima Barreto - Contos - 07 / 20 " /> 
 </asp:Content>

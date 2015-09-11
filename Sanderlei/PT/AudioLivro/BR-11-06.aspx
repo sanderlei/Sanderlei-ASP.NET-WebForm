@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Bíblia - Gênesis - 06 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-11-06.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_11_06" %>
+﻿<%@ Page Title="Bíblia - Gênesis - 06 / 10" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Bíblia - Gênesis - 06 / 10 " /> 
 </asp:Content>

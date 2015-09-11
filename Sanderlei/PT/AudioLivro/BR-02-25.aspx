@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 25 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-25.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_25" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 25 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" O coronel Antônio Moreira César e o meio que o celebrizou. Primeira expedição regular. Como a aguardam os jagunços.  O novo insucesso das armas legais, imprevisto para toda a gente, coincidia com uma fase crítica da nossa história.  " /> 
 </asp:Content>

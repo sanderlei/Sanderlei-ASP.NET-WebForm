@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 17 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-17.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_17" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 17 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="Antônio Conselheiro adquirira em Juazeiro certa quantidade de madeiras, que não podiam fornecer-lhe as caatingas paupérrimas de Canudos. Contratara o negócio com um dos representantes da autoridade daquela cidade. Mas ao terminar o prazo ajustado para o recebimento do material, que se aplicaria no remate da igreja nova, não lho entregaram. Tudo denuncia que o distrato foi adrede feito, visando o rompimento anelado. " /> 
 </asp:Content>

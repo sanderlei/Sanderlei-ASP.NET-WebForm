@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - O Alienista - 06 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-03-06.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_03_06" %>
+﻿<%@ Page Title="Machado de Assis - O Alienista - 06 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Não se demorou o alienista em receber o barbeiro; declarou-lhe que não tinha meios de resistir, e portanto estava prestes a obedecer. Só uma coisa pedia, é que o não constrangesse a assistir pessoalmente à destruição da Casa Verde. " /> 
 </asp:Content>

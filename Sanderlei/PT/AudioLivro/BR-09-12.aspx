@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Padre Antônio Vieira - Sermão pelo Bom Sucesso das Armas de Portugal - Parte 02" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-09-12.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_09_12" %>
+﻿<%@ Page Title="Padre Antônio Vieira - Sermão pelo Bom Sucesso das Armas de Portugal - Parte 02" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Padre Antônio Vieira - Sermão pelo Bom Sucesso das Armas de Portugal - Parte 02 " /> 
 </asp:Content>

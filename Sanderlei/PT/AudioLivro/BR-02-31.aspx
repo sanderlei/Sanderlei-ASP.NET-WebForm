@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 31 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-31.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_31" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 31 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" I. Desastres. Canudos — uma diátese. A rua do Ouvidor e as caatingas. Versões disparatadas. Mentiras heróicas. O cabo Roque. Levantamento em massa. Planos. Um tropear de bárbaros. " /> 
 </asp:Content>

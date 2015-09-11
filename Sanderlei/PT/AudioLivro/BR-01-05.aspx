@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Artur Azevedo - História de um Soneto" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-05.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_05" %>
+﻿<%@ Page Title="Artur Azevedo - História de um Soneto" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Artur Azevedo - História de um Soneto " /> 
 </asp:Content>

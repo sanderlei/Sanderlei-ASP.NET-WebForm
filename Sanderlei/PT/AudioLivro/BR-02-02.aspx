@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 02 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-02.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_02" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 02 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="O Planalto Central do Brasil desce, nos litorais do Sul, em escarpas inteiriças, altas e abruptas. Assoberba os mares; e desata-se em chapadões nivelados pelos visos das cordilheiras marítimas, distendidas do Rio Grande a Minas. Mas ao derivar para as terras setentrionais diminui gradualmente de altitude, ao mesmo tempo que descamba para a costa oriental em andares, ou repetidos socalcos, que o despem da primitiva grandeza afastando-o consideravelmente para o interior. " /> 
 </asp:Content>

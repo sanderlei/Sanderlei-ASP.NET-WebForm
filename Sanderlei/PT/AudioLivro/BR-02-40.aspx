@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 40 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-40.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_40" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 40 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Este ataque chegou à Bahia com as proporções de batalha perdida, pondo mais um solavanco no desequilíbrio geral, mais uma dúzia de boatos no turbilhonar das conjeturas; e o governo começou a agir com a presteza requerida pela situação. Reconhecida a ineficácia dos reforços recém-enviados, cuidou de formar uma nova divisão, arrebanhando os últimos batalhões dispersos pelos Estados, capazes de mobilização rápida. E, para pulsear de perto a crise, resolveu enviar para a base de operações um de seus membros, o Secretário de Estado dos Negócios da Guerra, marechal Carlos Machado de Bittencourt." /> 
 </asp:Content>

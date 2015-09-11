@@ -1,0 +1,41 @@
+﻿<%@ Page Title=" Bíblia Online - João - Capítulo 21   " Language="C#" MasterPageFile="~/PT/SitePTBook.master" AutoEventWireup="true"  %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
+    <meta name="description" content=" Depois disso Jesus apareceu novamente aos seus discípulos, à margem do mar de Tiberíades. Foi assim: Estavam juntos Simão Pedro; Tomé, chamado Dídimo; Natanael, de Caná da Galiléia; os filhos de Zebedeu; e dois outros discípulos. Vou pescar, disse-lhes Simão Pedro. E eles disseram: Nós vamos com você. Eles foram e entraram no barco, mas naquela noite não pegaram nada. " /> 
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
+    <!-- Conteudo  --> 
+      <div class='container panel-body'>                  
+        <div class='col-xs-12 col-md-12 text-center'>            
+            <h1> João - Capítulo 21 	</h1>        <br />    </div>
+          <div class='col-xs-12 col-md-12 text-justify' style='line-height:1.7'>
+         
+            <div class="bible verses"><p data-v="nvi:43:21:1" class=""><sup>1</sup> <span class="text">Depois disso Jesus apareceu novamente aos seus discípulos, à margem do mar de Tiberíades. Foi assim:</span></p><p data-v="nvi:43:21:2" class=""><sup>2</sup> <span class="text">Estavam juntos Simão Pedro; Tomé, chamado Dídimo; Natanael, de Caná da Galiléia; os filhos de Zebedeu; e dois outros discípulos.</span></p><p data-v="nvi:43:21:3" class=""><sup>3</sup> <span class="text">&quot;Vou pescar&quot;, disse-lhes Simão Pedro. E eles disseram: &quot;Nós vamos com você&quot;. Eles foram e entraram no barco, mas naquela noite não pegaram nada.</span></p><p data-v="nvi:43:21:4" class=""><sup>4</sup> <span class="text">Ao amanhecer, Jesus estava na praia, mas os discípulos não o reconheceram.</span></p><p data-v="nvi:43:21:5" class=""><sup>5</sup> <span class="text">Ele lhes perguntou: &quot;Filhos, vocês têm algo para comer? &quot; &quot;Não&quot;, responderam eles.</span></p><p data-v="nvi:43:21:6" class=""><sup>6</sup> <span class="text">Ele disse: &quot;Lancem a rede do lado direito do barco e vocês encontrarão&quot;. Eles a lançaram, e não conseguiam recolher a rede, tal era a quantidade de peixes.</span></p><p data-v="nvi:43:21:7" class=""><sup>7</sup> <span class="text">O discípulo a quem Jesus amava disse a Pedro: &quot;É o Senhor! &quot; Simão Pedro, ouvindo-o dizer isso, vestiu a capa, pois a havia tirado, e lançou-se ao mar.</span></p><p data-v="nvi:43:21:8" class=""><sup>8</sup> <span class="text">Os outros discípulos vieram no barco, arrastando a rede cheia de peixes, pois estavam apenas a cerca de noventa metros da praia.</span></p><p data-v="nvi:43:21:9" class=""><sup>9</sup> <span class="text">Quando desembarcaram, viram ali uma fogueira, peixe sobre brasas, e um pouco de pão.</span></p><p data-v="nvi:43:21:10" class=""><sup>10</sup> <span class="text">Disse-lhes Jesus: &quot;Tragam alguns dos peixes que acabaram de pescar&quot;.</span></p><p data-v="nvi:43:21:11" class=""><sup>11</sup> <span class="text">Simão Pedro entrou no barco e arrastou a rede para a praia. Ela estava cheia: tinha cento e cinqüenta e três grandes peixes. Embora houvesse tantos peixes, a rede não se rompeu.</span></p><p data-v="nvi:43:21:12" class=""><sup>12</sup> <span class="text">Jesus lhes disse: &quot;Venham comer&quot;. Nenhum dos discípulos tinha coragem de lhe perguntar: &quot;Quem és tu? &quot; Sabiam que era o Senhor.</span></p><p data-v="nvi:43:21:13" class=""><sup>13</sup> <span class="text">Jesus aproximou-se, tomou o pão e o deu a eles, fazendo o mesmo com o peixe.</span></p><p data-v="nvi:43:21:14" class=""><sup>14</sup> <span class="text">Esta foi a terceira vez que Jesus apareceu aos seus discípulos, depois que ressuscitou dos mortos.</span></p><p data-v="nvi:43:21:15" class=""><sup>15</sup> <span class="text">Depois de comerem, Jesus perguntou a Simão Pedro: &quot;Simão, filho de João, você me ama realmente mais do que estes? &quot; Disse ele: &quot;Sim, Senhor, tu sabes que te amo&quot;. Disse Jesus: &quot;Cuide dos meus cordeiros&quot;.</span></p><p data-v="nvi:43:21:16" class=""><sup>16</sup> <span class="text">Novamente Jesus disse: &quot;Simão, filho de João, você realmente me ama? &quot; Ele respondeu: &quot;Sim, Senhor tu sabes que te amo&quot;. Disse Jesus: &quot;Pastoreie as minhas ovelhas&quot;.</span></p><p data-v="nvi:43:21:17" class=""><sup>17</sup> <span class="text">Pela terceira vez, ele lhe disse: &quot;Simão, filho de João, você me ama? &quot; Pedro ficou magoado por Jesus lhe ter perguntado pela terceira vez &quot;Você me ama? &quot; e lhe disse: &quot;Senhor, tu sabes todas as coisas e sabes que te amo&quot;. Disse-lhe Jesus: &quot;Cuide das minhas ovelhas.</span></p><p data-v="nvi:43:21:18" class=""><sup>18</sup> <span class="text">Digo-lhe a verdade: Quando você era mais jovem, vestia-se e ia para onde queria; mas quando for velho, estenderá as mãos e outra pessoa o vestirá e o levará para onde você não deseja ir&quot;.</span></p><p data-v="nvi:43:21:19" class=""><sup>19</sup> <span class="text">Jesus disse isso para indicar o tipo de morte com a qual Pedro iria glorificar a Deus. E então lhe disse: &quot;Siga-me! &quot;</span></p><p data-v="nvi:43:21:20" class=""><sup>20</sup> <span class="text">Pedro voltou-se e viu que o discípulo a quem Jesus amava os seguia. ( Este era o que se inclinara para Jesus durante a ceia e perguntara: &quot;Senhor, quem te irá trair? &quot; )</span></p><p data-v="nvi:43:21:21" class=""><sup>21</sup> <span class="text">Quando Pedro o viu, perguntou: &quot;Senhor, e quanto a ele? &quot;</span></p><p data-v="nvi:43:21:22" class=""><sup>22</sup> <span class="text">Respondeu Jesus: &quot;Se eu quiser que ele permaneça vivo até que eu volte, o que lhe importa? Siga-me você&quot;.</span></p><p data-v="nvi:43:21:23" class=""><sup>23</sup> <span class="text">Foi por isso que se espalhou entre os irmãos o rumor de que aquele discípulo não iria morrer. Mas Jesus não disse que ele não iria morrer; apenas disse: &quot;Se eu quiser que ele permaneça vivo até que eu volte, o que lhe importa? &quot;</span></p><p data-v="nvi:43:21:24" class=""><sup>24</sup> <span class="text">Este é o discípulo que dá testemunho dessas coisas e que as registrou. Sabemos que o seu testemunho é verdadeiro.</span></p><p data-v="nvi:43:21:25" class=""><sup>25</sup> <span class="text">Jesus fez também muitas outras coisas. Se cada uma delas fosse escrita, penso que nem mesmo no mundo inteiro haveria espaço suficiente para os livros que seriam escritos.</span></p></div>  		
+         </div>        
+          <div class="bg-info container-fluid col-xs-12">    <h5 class='text-center'>  Bíblia Online - João - Links para os Capítulos    </h5>   </div> 
+          <div class="text-center"><ul class="pagination pagination-lg">
+          <!--  class="active"  -->            
+              <li   ><a href="Joao-Capitulo-01">01</a></li>
+              <li   ><a href="Joao-Capitulo-02">02</a></li>
+              <li   ><a href="Joao-Capitulo-03">03</a></li>
+              <li   ><a href="Joao-Capitulo-04">04</a></li>
+              <li   ><a href="Joao-Capitulo-05">05</a></li>
+              <li   ><a href="Joao-Capitulo-06">06</a></li>
+              <li   ><a href="Joao-Capitulo-07">07</a></li>
+              <li   ><a href="Joao-Capitulo-08">08</a></li>
+              <li   ><a href="Joao-Capitulo-09">09</a></li>
+              <li   ><a href="Joao-Capitulo-10">10</a></li>
+              <li   ><a href="Joao-Capitulo-11">11</a></li>
+              <li   ><a href="Joao-Capitulo-12">12</a></li>
+              <li   ><a href="Joao-Capitulo-13">13</a></li>
+              <li   ><a href="Joao-Capitulo-14">14</a></li>
+              <li   ><a href="Joao-Capitulo-15">15</a></li>
+              <li   ><a href="Joao-Capitulo-16">16</a></li>
+              <li   ><a href="Joao-Capitulo-17">17</a></li>
+              <li   ><a href="Joao-Capitulo-18">18</a></li>
+              <li   ><a href="Joao-Capitulo-19">19</a></li>
+              <li   ><a href="Joao-Capitulo-20">20</a></li>
+              <li class="active"  ><a href="Joao-Capitulo-21">21</a></li>                            
+          </ul>
+        </div>
+ </div>          
+</asp:Content>

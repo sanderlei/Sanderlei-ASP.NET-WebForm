@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 16 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-16.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_16" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 16 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Quando se tornou urgente pacificar o sertão de Canudos, o governo da Bahia estava a braços com outras insurreições. A cidade de Lençóis fora investida por atrevida malta de facínoras, e as suas incursões alastravam-se pelas Lavras Diamantinas; o povoado de Brito Mendes caíra às mãos de outros turbulentos; e em Jequié se cometiam toda a sorte de atentados.  " /> 
 </asp:Content>

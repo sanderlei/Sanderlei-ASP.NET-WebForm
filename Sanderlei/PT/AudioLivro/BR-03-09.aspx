@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - O Alienista - 09 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-03-09.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_03_09" %>
+﻿<%@ Page Title="Machado de Assis - O Alienista - 09 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Era a vez da terapêutica. Simão Bacamarte, ativo e sagaz em descobrir enfermos, excedeu-se ainda na diligência e penetração com que principiou a tratá-los. Neste ponto todos os cronistas estão de pleno acordo: o ilustre alienista faz curas pasmosas, que excitaram a mais viva admiração em Itaguaí. " /> 
 </asp:Content>

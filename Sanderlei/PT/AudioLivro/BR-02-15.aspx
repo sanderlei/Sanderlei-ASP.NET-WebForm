@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 15 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-15.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_15" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 15 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="A antiga capela não bastava. Era frágil e pequena. Mal sobranceava os colmos achatados. Retratava por demais, no aspecto modestíssimo, a pureza principal da religião antiga. " /> 
 </asp:Content>

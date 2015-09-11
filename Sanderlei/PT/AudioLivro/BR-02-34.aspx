@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 34 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-34.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_34" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 34 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" A tropa do general Cláudio do Amaral Savaget partira de Aracaju. Fizera alto nas cercanias de Canudos, depois de uma marcha de setenta léguas. Viera pelo interior de Sergipe em brigadas isoladas até Jeremoabo, onde se organizara em 8 de junho, prosseguindo a 16, unida para o objetivo das operações.  " /> 
 </asp:Content>

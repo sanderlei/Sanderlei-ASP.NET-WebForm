@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Eça de Queirós - A Aia" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-17.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_17" %>
+﻿<%@ Page Title="Eça de Queirós - A Aia" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Eça de Queirós - A Aia " /> 
 </asp:Content>

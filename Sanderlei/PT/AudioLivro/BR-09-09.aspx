@@ -1,4 +1,4 @@
-﻿<%@ Page Title="José de Anchieta - Sermão da Conversão de São Paulo - Parte 01" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-09-09.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_09_09" %>
+﻿<%@ Page Title="José de Anchieta - Sermão da Conversão de São Paulo - Parte 01" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - José de Anchieta - Sermão da Conversão de São Paulo - Parte 01 " /> 
 </asp:Content>

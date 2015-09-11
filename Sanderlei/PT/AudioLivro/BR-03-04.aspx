@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - O Alienista - 04 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-03-04.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_03_04" %>
+﻿<%@ Page Title="Machado de Assis - O Alienista - 04 / 09" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="A Câmara recusou aceitá-la, declarando que a Casa Verde era uma instituição pública, e que a ciência não podia ser emendada por votação administrativa, menos ainda por movimentos de rua." /> 
 </asp:Content>

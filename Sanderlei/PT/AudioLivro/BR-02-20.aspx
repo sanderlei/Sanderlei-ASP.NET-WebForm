@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 20 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-20.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_20" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 20 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" O povoado de frei Apolônio de Todi ia, a partir daquela data, celebrizar-se como base das operações de todas as arremetidas contra Canudos. Era o que mais se avantajava por aqueles sertões em fora na direção do objetivo da campanha, permitindo, além disto, mais rápidas comunicações com o litoral, por intermédio da estação de Queimadas.  " /> 
 </asp:Content>

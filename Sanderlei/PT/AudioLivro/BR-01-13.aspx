@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Machado de Assis - Casada e Viúva" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-01-13.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_01_13" %>
+﻿<%@ Page Title="Machado de Assis - Casada e Viúva" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Machado de Assis - Casada e Viúva " /> 
 </asp:Content>

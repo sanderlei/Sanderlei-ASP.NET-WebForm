@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Marco Túlio Cícero - Segunda Catilinária" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-09-08.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_09_08" %>
+﻿<%@ Page Title="Marco Túlio Cícero - Segunda Catilinária" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Audio Livro (AudioBook) - Marco Túlio Cícero - Segunda Catilinária " /> 
 </asp:Content>

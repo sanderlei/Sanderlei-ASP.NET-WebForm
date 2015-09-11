@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 26 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" CodeBehind="BR-02-26.aspx.cs" Inherits="Sanderlei.PT.AudioLivro.BR_02_26" %>
+﻿<%@ Page Title="Euclides da Cunha - Os Sertões - 26 / 49" Language="C#" MasterPageFile="~/PT/SitePTLivro.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content=" Iam partir as tropas a 22 de fevereiro. E consoante a praxe, na véspera, à tarde, formaram numa revista em ordem de marcha para que se lhes avaliassem o equipamento e as armas. " /> 
 </asp:Content>
