@@ -1,0 +1,35 @@
+﻿<%@ Page Title=" Bíblia Online - Romanos - Capítulo 05   " Language="C#" MasterPageFile="~/PT/SitePTBook.master" AutoEventWireup="true"  %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
+    <meta name="description" content=" Tendo sido, pois, justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo, por meio de quem obtivemos acesso pela fé a esta graça na qual agora estamos firmes; e nos gloriamos na esperança da glória de Deus. Não só isso, mas também nos gloriamos nas tribulações, porque sabemos que a tribulação produz perseverança; " /> 
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
+    <!-- Conteudo  --> 
+      <div class='container panel-body'>                  
+        <div class='col-xs-12 col-md-12 text-center'>            
+            <h1> Romanos - Capítulo 05 	</h1>      <br />          </div>
+          <div class='col-xs-12 col-md-12 text-justify' style='line-height:1.7'>
+         
+            <div class="bible verses"><p data-v="nvi:45:5:1" class=""><sup>1</sup> <span class="text">Tendo sido, pois, justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo,</span></p><p data-v="nvi:45:5:2" class=""><sup>2</sup> <span class="text">por meio de quem obtivemos acesso pela fé a esta graça na qual agora estamos firmes; e nos gloriamos na esperança da glória de Deus.</span></p><p data-v="nvi:45:5:3" class=""><sup>3</sup> <span class="text">Não só isso, mas também nos gloriamos nas tribulações, porque sabemos que a tribulação produz perseverança;</span></p><p data-v="nvi:45:5:4" class=""><sup>4</sup> <span class="text">a perseverança, um caráter aprovado; e o caráter aprovado, esperança.</span></p><p data-v="nvi:45:5:5" class=""><sup>5</sup> <span class="text">E a esperança não nos decepciona, porque Deus derramou seu amor em nossos corações, por meio do Espírito Santo que ele nos concedeu.</span></p><p data-v="nvi:45:5:6" class=""><sup>6</sup> <span class="text">De fato, no devido tempo, quando ainda éramos fracos, Cristo morreu pelos ímpios.</span></p><p data-v="nvi:45:5:7" class=""><sup>7</sup> <span class="text">Dificilmente haverá alguém que morra por um justo; pelo homem bom talvez alguém tenha coragem de morrer.</span></p><p data-v="nvi:45:5:8" class=""><sup>8</sup> <span class="text">Mas Deus demonstra seu amor por nós: Cristo morreu em nosso favor quando ainda éramos pecadores.</span></p><p data-v="nvi:45:5:9" class=""><sup>9</sup> <span class="text">Como agora fomos justificados por seu sangue, muito mais ainda seremos salvos da ira de Deus por meio dele!</span></p><p data-v="nvi:45:5:10" class=""><sup>10</sup> <span class="text">Se quando éramos inimigos de Deus fomos reconciliados com ele mediante a morte de seu Filho, quanto mais agora, tendo sido reconciliados, seremos salvos por sua vida!</span></p><p data-v="nvi:45:5:11" class=""><sup>11</sup> <span class="text">Não apenas isso, mas também nos gloriamos em Deus, por meio de nosso Senhor Jesus Cristo, mediante quem recebemos agora a reconciliação.</span></p><p data-v="nvi:45:5:12" class=""><sup>12</sup> <span class="text">Portanto, da mesma forma como o pecado entrou no mundo por um homem, e pelo pecado a morte, assim também a morte veio a todos os homens, porque todos pecaram;</span></p><p data-v="nvi:45:5:13" class=""><sup>13</sup> <span class="text">pois antes de ser dada a lei, o pecado já estava no mundo. Mas o pecado não é levado em conta quando não existe lei.</span></p><p data-v="nvi:45:5:14" class=""><sup>14</sup> <span class="text">Todavia, a morte reinou desde o tempo de Adão até o de Moisés, mesmo sobre aqueles que não cometeram pecado semelhante à transgressão de Adão, o qual era um tipo daquele que haveria de vir.</span></p><p data-v="nvi:45:5:15" class=""><sup>15</sup> <span class="text">Entretanto, não há comparação entre a dádiva e a transgressão. Pois se muitos morreram por causa da transgressão de um só, muito mais a graça de Deus, isto é, a dádiva pela graça de um só homem, Jesus Cristo, transbordou para muitos!</span></p><p data-v="nvi:45:5:16" class=""><sup>16</sup> <span class="text">Não se pode comparar a dádiva de Deus com a conseqüência do pecado de um só homem: por um pecado veio o julgamento que trouxe condenação, mas a dádiva decorreu de muitas transgressões e trouxe justificação.</span></p><p data-v="nvi:45:5:17" class=""><sup>17</sup> <span class="text">Se pela transgressão de um só a morte reinou por meio dele, muito mais aqueles que recebem de Deus a imensa provisão da graça e a dádiva da justiça reinarão em vida por meio de um único homem, Jesus Cristo.</span></p><p data-v="nvi:45:5:18" class=""><sup>18</sup> <span class="text">Conseqüentemente, assim como uma só transgressão resultou na condenação de todos os homens, assim também um só ato de justiça resultou na justificação que traz vida a todos os homens.</span></p><p data-v="nvi:45:5:19" class=""><sup>19</sup> <span class="text">Logo, assim como por meio da desobediência de um só homem muitos foram feitos pecadores, assim também, por meio da obediência de um único homem muitos serão feitos justos.</span></p><p data-v="nvi:45:5:20" class=""><sup>20</sup> <span class="text">A lei foi introduzida para que a transgressão fosse ressaltada. Mas onde aumentou o pecado, transbordou a graça,</span></p><p data-v="nvi:45:5:21" class=""><sup>21</sup> <span class="text">a fim de que, assim como o pecado reinou na morte, também a graça reine pela justiça para conceder vida eterna, mediante Jesus Cristo, nosso Senhor.</span></p></div>  		
+         </div>        
+          <div class="bg-info container-fluid col-xs-12">    <h5 class='text-center'>  Bíblia Online - Romanos - Links para os Capítulos    </h5>   </div> 
+          <div class="text-center"><ul class="pagination pagination-lg">    <!--  class="active"  -->            
+              <li   ><a href="Romanos-Capitulo-01">01</a></li>
+              <li   ><a href="Romanos-Capitulo-02">02</a></li>
+              <li   ><a href="Romanos-Capitulo-03">03</a></li>
+              <li   ><a href="Romanos-Capitulo-04">04</a></li>
+              <li  class="active"   ><a href="Romanos-Capitulo-05">05</a></li>
+              <li   ><a href="Romanos-Capitulo-06">06</a></li>
+              <li   ><a href="Romanos-Capitulo-07">07</a></li>
+              <li   ><a href="Romanos-Capitulo-08">08</a></li>
+              <li   ><a href="Romanos-Capitulo-09">09</a></li>
+              <li   ><a href="Romanos-Capitulo-10">10</a></li>
+              <li   ><a href="Romanos-Capitulo-11">11</a></li>
+              <li   ><a href="Romanos-Capitulo-12">12</a></li>
+              <li   ><a href="Romanos-Capitulo-13">13</a></li>
+              <li   ><a href="Romanos-Capitulo-14">14</a></li>
+              <li   ><a href="Romanos-Capitulo-15">15</a></li>
+              <li   ><a href="Romanos-Capitulo-16">16</a></li>         
+          </ul>
+        </div>
+ </div>          
+</asp:Content>
