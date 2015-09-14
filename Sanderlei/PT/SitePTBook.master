@@ -38,9 +38,9 @@
                            
                           
                               </ul>	 </li> 	
-              <li><a href='/PT/Biblia-Online/Genesis-Capitulo-01' data-target='#' data-toggle='dropdown'> Bíblia Online <span class='caret'></span></a><ul class='dropdown-menu'>
-                           <li><a href='/PT/Biblia-Online/Genesis-Capitulo-01'> Velho Testamento - 01. Gênesis </a></li>   
-                           <li> <hr /> </li>                              
+              <li><a href='/PT/Biblia-Online/Genesis-Capitulo-01' data-target='#' data-toggle='dropdown'> Bíblia Online - Novo Testamento <span class='caret'></span></a><ul class='dropdown-menu'>
+                          
+                                             
                            <li><a href='/PT/Biblia-Online/Mateus-Capitulo-01'> Novo Testamento - 01. Mateus </a></li>     
                            <li><a href='/PT/Biblia-Online/Marcos-Capitulo-01'>Novo Testamento - 02.  Marcos </a></li>     
                            <li><a href='/PT/Biblia-Online/Lucas-Capitulo-01'> Novo Testamento - 03. Lucas </a></li>     
@@ -62,11 +62,19 @@
 
                   <li><a href='/PT/Biblia-Online/Hebreus-Capitulo-01'> Novo Testamento - 19. Hebreus </a></li>  
                   <li><a href='/PT/Biblia-Online/Tiago-Capitulo-01'> Novo Testamento - 20. Tiago </a></li>  
-
-
+                  <li><a href='/PT/Biblia-Online/Pedro-01-Capitulo-01'>Novo Testamento - 21. 1º Pedro </a></li>  
+                  <li><a href='/PT/Biblia-Online/Pedro-02-Capitulo-01'> Novo Testamento - 22. 2º Pedro </a></li>  
+                  <li><a href='/PT/Biblia-Online/Joao-01-Capitulo-01'> Novo Testamento - 23. 1º João </a></li>  
+                  <li><a href='/PT/Biblia-Online/Joao-02-Capitulo-01'> Novo Testamento - 24. 2º João </a></li>  
+                  <li><a href='/PT/Biblia-Online/Joao-03-Capitulo-01'> Novo Testamento - 25. 3º João </a></li>  
+                  <li><a href='/PT/Biblia-Online/Judas-Capitulo-01'>Novo Testamento - 26. Judas </a></li>  
+                  <li><a href='/PT/Biblia-Online/Apocalipse-Capitulo-01'> Novo Testamento - 27. Apocalipse </a></li>  
 
                           
                               </ul>	 </li> 
+                   <li><a href='/PT/Biblia-Online/Genesis-Capitulo-01' data-target='#' data-toggle='dropdown'> Bíblia Online - Velho Testamento <span class='caret'></span></a><ul class='dropdown-menu'>
+                       <li><a href='/PT/Biblia-Online/Genesis-Capitulo-01'> Velho Testamento - 01. Gênesis </a></li>   
+                       </ul>	 </li> 
                       	         	                           
               </ul>                  
         	</div>

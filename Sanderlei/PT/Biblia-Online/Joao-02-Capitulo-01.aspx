@@ -1,0 +1,20 @@
+﻿<%@ Page Title=" Bíblia Online - 2º João - Capítulo 01   " Language="C#" MasterPageFile="~/PT/SitePTBook.master" AutoEventWireup="true"  %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
+    <meta name="description" content=" O presbítero à senhora eleita e aos seus filhos, a quem amo na verdade, — e não apenas eu os amo, mas também todos os que conhecem a verdade — por causa da verdade que permanece em nós e estará conosco para sempre. A graça, a misericórdia e a paz da parte de Deus Pai e de Jesus Cristo, seu Filho, estarão conosco em verdade e em amor. " /> 
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
+    <!-- Conteudo  --> 
+      <div class='container panel-body'>                  
+        <div class='col-xs-12 col-md-12 text-center'>            
+            <h1> 2º João - Capítulo 01 	</h1>      <br />          </div>
+          <div class='col-xs-12 col-md-12 text-justify' style='line-height:1.7'>
+         <div class="bible verses"><p data-v="nvi:63:1:1" class=""><sup>1</sup> <span class="text">O presbítero à senhora eleita e aos seus filhos, a quem amo na verdade, — e não apenas eu os amo, mas também todos os que conhecem a verdade —</span></p><p data-v="nvi:63:1:2" class=""><sup>2</sup> <span class="text">por causa da verdade que permanece em nós e estará conosco para sempre.</span></p><p data-v="nvi:63:1:3" class=""><sup>3</sup> <span class="text">A graça, a misericórdia e a paz da parte de Deus Pai e de Jesus Cristo, seu Filho, estarão conosco em verdade e em amor.</span></p><p data-v="nvi:63:1:4" class=""><sup>4</sup> <span class="text">Ao encontrar alguns dos seus filhos, muito me alegrei, pois eles estão andando na verdade, conforme o mandamento que recebemos do Pai.</span></p><p data-v="nvi:63:1:5" class=""><sup>5</sup> <span class="text">E agora eu lhe peço, senhora — não como se estivesse escrevendo um mandamento novo, o que já tínhamos desde o princípio — que nos amemos uns aos outros.</span></p><p data-v="nvi:63:1:6" class=""><sup>6</sup> <span class="text">E este é o amor: que andemos em obediência aos seus mandamentos. Como vocês já têm ouvido desde o princípio, o mandamento é este: que vocês andem em amor.</span></p><p data-v="nvi:63:1:7" class=""><sup>7</sup> <span class="text">De fato, muitos enganadores têm saído pelo mundo, os quais não confessam que Jesus Cristo veio em corpo. Tal é o enganador e o anticristo.</span></p><p data-v="nvi:63:1:8" class=""><sup>8</sup> <span class="text">Tenham cuidado, para que vocês não destruam o fruto do nosso trabalho, antes sejam recompensados plenamente.</span></p><p data-v="nvi:63:1:9" class=""><sup>9</sup> <span class="text">Todo aquele que não permanece no ensino de Cristo, mas vai além dele, não tem Deus; quem permanece no ensino tem o Pai e também o Filho.</span></p><p data-v="nvi:63:1:10" class=""><sup>10</sup> <span class="text">Se alguém chega a vocês e não trouxer esse ensino, não o recebam em casa nem o saúdem.</span></p><p data-v="nvi:63:1:11" class=""><sup>11</sup> <span class="text">Pois quem o saúda torna-se participante das suas obras malignas.</span></p><p data-v="nvi:63:1:12" class=""><sup>12</sup> <span class="text">Tenho muito que lhes escrever, mas não é meu propósito fazê-lo com papel e tinta. Em vez disso, espero visitá-los e falar com vocês face a face, para que a nossa alegria seja completa.</span></p><p data-v="nvi:63:1:13" class=""><sup>13</sup> <span class="text">Os filhos da sua irmã eleita lhe enviam saudações.</span></p></div>
+              		
+         </div>        
+          <div class="bg-info container-fluid col-xs-12">    <h5 class='text-center'>  Bíblia Online - 2º João - Links para os Capítulos    </h5>   </div> 
+          <div class="text-center"><ul class="pagination pagination-lg">    <!--  class="active"  -->            
+              <li   class="active" ><a href="Joao-02-Capitulo-01">01</a></li>              
+          </ul>
+        </div>
+ </div>          
+</asp:Content>
