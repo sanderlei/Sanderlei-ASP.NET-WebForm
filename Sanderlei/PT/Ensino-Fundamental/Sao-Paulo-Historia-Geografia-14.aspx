@@ -24,7 +24,31 @@
                 <br />
                 <p class="text-center" >  Araçatuba (Mesorregião)  </p>
                 <br /><br />
-
+                                  <hr /><br />                
+                <br />
+                  <h2 class="text-center"> Araçatuba (Mesorregião) </h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> Andradina </strong> </td><td> Andradina, Castilho, Guaraçaí, Ilha Solteira, Itapura, Mirandópolis, Murutinga do Sul, Nova Independência, Pereira Barreto, Sud Mennucci, Suzanápolis. </td></tr>            
+                    <tr> <td> <strong> Araçatuba </strong> </td><td> Araçatuba, Bento de Abreu, Guararapes, Lavínia, Rubiácea, Santo Antônio do Aracanguá, Valparaíso. </td></tr>            
+                    <tr> <td> <strong> Birigui </strong> </td><td> Alto Alegre, Avanhandava, Barbosa, Bilac, Birigui, Braúna, Brejo Alegre, Buritama, Clementina, Coroados, Gabriel Monteiro, Glicério, Lourdes, Luiziânia, Penápolis, Piacatu, Santópolis do Aguapeí, Turiúba. </td></tr>            
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
+                <hr />
                 <br />
                 <h4 class="text-center" > Hidrovia Tietê-Paraná. Birigui (SP)	</h4>               
                 <br />

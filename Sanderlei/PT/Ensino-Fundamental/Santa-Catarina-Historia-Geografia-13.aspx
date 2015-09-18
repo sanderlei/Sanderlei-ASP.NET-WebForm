@@ -105,7 +105,29 @@
                 <br /><br />
 
                 
-                
+                <hr />
+                <br />
+
+                <h2 class="text-center" > Ponte Hercílio Luz no passado e no presente</h2>
+                <br />
+
+<p>            A Ponte Hercílio Luz, em Florianópolis, é uma das maiores pontes pênseis do mundo. Sua construção foi iniciada em 14 de novembro de 1922, sendo inaugurada em 13 de maio de 1926.</p>    
+<p> A ponte foi projetada e construída durante o governo de Hercílio Luz, trazendo muitos benefícios para os 40 mil habitantes de Florianópolis, que dependiam de balsas para atravessar da ilha ao continente e vice-versa.</p>    
+<p> Após anos de intenso tráfego, em 1982, a ponte foi fechada por medida de segurança, tornando-se apenas ponto de referência e obra de embelezamento da cidade. A ameaça de desabamento da ponte foi afastada em 1997, quando foi tombada como patrimônio histórico e artístico. Ali estão situados o Museu da Ponte (atualmente desativado) e o Parque da Luz.</p>    
+
+                <br />
+                <h4 class="text-center" >  Ponte Hercílio Luz no passado	</h4>               
+                <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Santa-Catarina-Historia-Geografia-13-11.jpg"  alt="  Ponte Hercílio Luz no passado "/>                 
+                <br />
+                <p class="text-center" > Ponte Hercílio Luz no passado </p>
+                <br /><br />
+
+                <br />
+                <h4 class="text-center" >  Ponte Hercílio Luz no presente	</h4>               
+                <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Santa-Catarina-Historia-Geografia-13-12.jpg"  alt="  Ponte Hercílio Luz no presente "/>                 
+                <br />
+                <p class="text-center" > Ponte Hercílio Luz no presente </p>
+                <br /><br />
 
                 <br />
                 <hr />

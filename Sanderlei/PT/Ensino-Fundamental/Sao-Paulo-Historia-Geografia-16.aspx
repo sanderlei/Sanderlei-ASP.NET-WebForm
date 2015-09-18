@@ -24,6 +24,30 @@
                 <br />
                 <p class="text-center" >  Araraquara (Mesorregião) </p>
                 <br /><br />
+                                 <hr /><br />                
+                <br />
+                  <h2 class="text-center">  Araraquara (Mesorregião)</h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> Araraquara </strong> </td><td> Américo Brasiliense, Araraquara, Boa Esperança do Sul, Borborema, Dobrada, Gavião Peixoto, Ibitinga, Itápolis, Matão, Motuca, Nova Europa, Rincão, Santa Lúcia, Tabatinga, Trabiju. </td></tr>            
+                    <tr> <td> <strong> São Carlos </strong> </td><td> Analândia, Descalvado, Dourado, Ibaté, Ribeirão Bonito, São Carlos. </td></tr>            
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
                 <hr />
 
                  <br />

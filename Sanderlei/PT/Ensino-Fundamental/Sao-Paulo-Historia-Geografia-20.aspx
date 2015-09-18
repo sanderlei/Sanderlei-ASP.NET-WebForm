@@ -26,6 +26,31 @@
                 <p class="text-center" >  Marília (Mesorregião)  </p>
                 <br /><br />
 
+                                 <hr /><br />                
+                <br />
+                  <h2 class="text-center"> Marília (Mesorregião) </h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> Marília </strong> </td><td> Álvaro de Carvalho, Alvinlândia, Echaporã, Fernão, Gália, Garça, Lupércio, Marília, Ocauçu, Oriente, Oscar Bressane, Pompéia, Vera Cruz. </td></tr>            
+                    <tr> <td> <strong> Tupã </strong> </td><td> Arco-Íris, Bastos, Herculândia, Iacri, Queiroz, Quintana, Tupã. </td></tr>            
+                    
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
                 <hr />
                 <br />
                 <h4 class="text-center" > Município de Marília	</h4>               

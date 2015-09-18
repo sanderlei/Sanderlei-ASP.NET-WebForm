@@ -23,6 +23,40 @@
                 <p class="text-center" > Mesorregião de São José do Rio Preto</p>
                 <br />
 
+                                  <hr /><br />                
+                <br />
+                  <h2 class="text-center"> Mesorregião de São José do Rio Preto</h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> AURIFLAMA </strong> </td><td> Auriflama, Floreal, Gastão Vidigal, General Salgado, Guzolândia, Magda, Nova Castilho, Nova Luzitânia, São João de Iracema. </td></tr>            
+                    <tr> <td> <strong> CATANDUVA </strong> </td><td> Ariranha, Cajobi, Catanduva, Catiguá, Elisiário, Embaúba, Novais, Palmares Paulista, Paraíso, Pindorama, Santa Adélia, Severínia, Tabapuã. </td></tr>            
+                    <tr> <td> <strong> FERNANDÓPOLIS </strong> </td><td> Estrela d’Oeste, Fernandópolis, Guarani d’Oeste, Indiaporã, Macedônia, Meridiano, Mira Estrela, Ouroeste, Pedranópolis, São João das Duas Pontes, Turmalina. </td></tr>            
+                    <tr> <td> <strong> JALES </strong> </td><td> Aparecida d’Oeste, Aspásia, Dirce Reis, Dolcinópolis, Jales, Marinópolis, Mesópolis, Nova Canaã Paulista, Palmeira d’Oeste, Paranapuã, Pontalinda, Populina, Rubinéia; Santa Albertina, Santa Clara d’Oeste, Santa Fé do Sul, Santa Rita d’Oeste, Santa Salete, Santana da Ponte Pensa, São Francisco, Três Fronteiras, Urânia, Vitória Brasil. </td></tr>            
+                    <tr> <td> <strong> NHANDEARA </strong> </td><td> Macaubal, Monções, Monte Aprazível, Neves Paulista, Nhandeara, Nipoã, Poloni, Sebastianópolis do Sul, União Paulista. </td></tr>            
+                    <tr> <td> <strong> NOVO HORIZONTE </strong> </td><td> Irapuã, Itajobi, Marapoama, Novo Horizonte, Sales, Urupês. </td></tr>            
+                    <tr> <td> <strong> SÃO JOSÉ DO RIO PRETO </strong> </td><td> Adolfo, Altair, Bady Bassitt, Bálsamo, Cedral, Guapiaçu, Guaraci, Ibirá, Icem, Ipiguá, Jaci, José Bonifácio, Mendonça, Mirassol, Mirassolândia, Nova Aliança, Nova Granada, Olímpia, Onda Verde, Orindiúva, Palestina, Paulo de Faria, Planalto, Potirendaba, São José do Rio Preto, Tanabi, Ubarana, Uchoa, Zacarias. </td></tr>            
+                    <tr> <td> <strong> VOTUPORANGA </strong> </td><td> Álvares Florence, Américo de Campos, Cardoso, Cosmorama, Parisi, Pontes Gestal, Riolândia, Valentim Gentil, Votuporanga. </td></tr>            
+                    
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
+                <hr />
+                <br /><br />
+
                <p>    O sistema multimodal, que permite a circulação da produção dessa mesorregião, é constituído pela Ferrovia Norte-Sul, um poliduto até Paulínia e Santos e o sistema rodoviário tendo a SP-310 – Rodovia Washington Luiz, como sua principal via de acesso com a capital. </p>
                   <br /><br /><br />
                 <h4 class="text-center" > Em Jales destaca-se a produção de uvas.	</h4>               

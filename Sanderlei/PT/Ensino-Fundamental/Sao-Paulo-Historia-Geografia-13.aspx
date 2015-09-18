@@ -25,6 +25,35 @@
                 <br />
                 <p class="text-center" >Mesorregião de Ribeirão Preto</p>
                 <br /><br />
+                                  <hr /><br />                
+                <br />
+                  <h2 class="text-center"> Mesorregião de Ribeirão Preto </h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> BARRETOS </strong> </td><td> Barretos, Colina, Colômbia. </td></tr>            
+                    <tr> <td> <strong> BATATAIS </strong> </td><td> Altinópolis, Batatais, Cajuru, Cássia dos Coqueiros, Santa Cruz da Esperança, Santo Antônio da Alegria. </td></tr>            
+                    <tr> <td> <strong> FRANCA </strong> </td><td> Cristais Paulista, Franca, Itirapuã, Jeriquara, Patrocínio Paulista, Pedregulho, Restinga, Ribeirão Corrente, Rifaina, São José da Bela Vista. </td></tr>            
+                    <tr> <td> <strong> ITUVERAVA </strong> </td><td> Aramina, Buritizal, Guará, Igarapava, Ituverava. </td></tr>            
+                    <tr> <td> <strong> JABOTICABAL </strong> </td><td> Bebedouro, Cândido Rodrigues, Fernando Prestes, Guariba, Jaboticabal, Monte Alto, Monte Azul Paulista, Pirangi, Pitangueiras, Santa Ernestina, Taiaçu, Taiúva, Taquaral, Taquaritinga, Terra Roxa, Viradouro, Vista Alegre do Alto. </td></tr>            
+                    <tr> <td> <strong> RIBEIRÃO PRETO </strong> </td><td> Barrinha, Brodowski, Cravinhos, Dumont, Guatapará, Jardinópolis, Luís Antônio, Pontal, Pradópolis, Ribeirão Preto, Santa Rita do Passa Quatro, Santa Rosa de Viterbo, São Simão, Serra Azul, Serrana, Sertãozinho. </td></tr>            
+                    <tr> <td> <strong> São Joaquim da Barra </strong> </td><td> Guaíra, Ipuã, Jaborandi, Miguelópolis, Morro Agudo, Nuporanga, Orlândia, Sales Oliveira, São Joaquim da Barra. </td></tr>            
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
+                <hr />
 
                 <br />
                 <h4 class="text-center" > Lavoura de café no estado de São Paulo	</h4>               

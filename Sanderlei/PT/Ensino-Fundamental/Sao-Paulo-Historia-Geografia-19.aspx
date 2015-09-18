@@ -24,6 +24,34 @@
                 <p class="text-center" >  Presidente Prudente (Mesorregião)  </p>
                 <br /><br />
 
+                                  <hr /><br />                
+                <br />
+                  <h2 class="text-center"> Presidente Prudente (Mesorregião)</h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> Adamantina </strong> </td><td> Adamantina, Flora Rica, Flórida Paulista, Inúbia Paulista, Irapuru, Lucélia, Mariápolis, Osvaldo Cruz, Pacaembu, Parapuã, Pracinha, Rinópolis, Sagres, Salmourão. </td></tr>            
+                    <tr> <td> <strong> Dracena </strong> </td><td> Dracena, Junqueirópolis, Monte Castelo, Nova Guataporanga, Ouro Verde, Panorama, Paulicéia, Santa Mercedes, São João do Pau d’Alho, Tupi Paulista. </td></tr>            
+                    <tr> <td> <strong> Presidente Prudente </strong> </td><td> Alfredo Marconde, Álvares Machado, Anhumas, Caiabu, Caiuá, Emilianópolis, Estrela do Norte, Euclides da Cunha Paulista, Indiana, João Ramalho, Marabá Paulista, Martinópolis, Mirante do Paranapanema, Narandiba, Piquerobi, Pirapozinho, Presidente Bernardes, Presidente Epitácio, Presidente Prudente, Presidente Venceslau, Rancharia, Regente Feijó, Ribeirão dos Índios, Rosana, Sandovalina, Santo Anastácio, Santo Expedito, Taciba, Tarabai, Teodoro Sampaio. </td></tr>            
+                    
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
+                <hr />
+
                 <br />
                 <h4 class="text-center" > A cultura do café e a ferrovia Cia Paulista trouxeram progresso e desenvolvimento para o município de Adamantina.	</h4>               
                 <br />

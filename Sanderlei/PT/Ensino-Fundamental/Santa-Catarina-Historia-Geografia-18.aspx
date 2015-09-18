@@ -83,6 +83,30 @@
                 <br />
                 <p class="text-center" >  Morro dos Três Picos - Rio do Sul (SC) </p>
                 <br /><br />
+                <hr />
+                <br />
+                  <h2 class="text-center" >Porto de Itajaí (SC)	</h2> 
+                <br />
+
+             <p>   Itajaí, nos primeiros anos do século XIX, não passava de uma grande aldeia de pescadores, onde já se observava, porém, o vulto do comércio de madeira que, no futuro, iria impulsioná-la para o progresso e para a riqueza, transformando-a no maior porto madeireiro do Brasil.</p>
+             <p>   A navegação a vapor era escassa, mas avultado era o número de grandes veleiros que transportavam o produto da terra, especialmente taboados e peixe seco, para as praças de Santos e Rio de Janeiro.</p>
+<p>               Em 2015 o Porto de Itajaí está em pleno crescimento, e é O segundo maior do país em movimentação de containeres </p>
+                 <br /> <br />
+
+                <h4 class="text-center" > Porto de Itajaí (SC), nos primeiros anos do século XIX		</h4>               
+                <br />
+                <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Santa-Catarina-Historia-Geografia-18-06.jpg"  alt=" Porto de Itajaí (SC), nos primeiros anos do século XIX"/>                 
+                <br />
+                <p class="text-center" > Porto de Itajaí (SC), nos primeiros anos do século XIX</p>
+                <br /><br />
+
+                 <h4 class="text-center" > Porto de Itajaí (SC), em 2015		</h4>               
+                <br />
+                <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Santa-Catarina-Historia-Geografia-18-07.jpg"  alt=" Porto de Itajaí (SC), em 2015"/>                 
+                <br />
+                <p class="text-center" > Porto de Itajaí (SC), em 2015</p>
+                <br /><br />
+
 
                 <br />
                 <hr />

@@ -24,7 +24,34 @@
                 <br />
                 <p class="text-center" >   Litoral Sul Paulista (Mesorregião)  </p>
                 <br /><br />
+                                  <hr /><br />                
+                <br />
+                  <h2 class="text-center">  Litoral Sul Paulista (Mesorregião)  </h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> Itanhaém </strong> </td><td> Itanhaém, Itariri, Mongaguá, Pedro de Toledo, Peruíbe. </td></tr>            
+                    <tr> <td> <strong> Registro </strong> </td><td> Barra do Turvo Cajati, Cananéia, Eldorado, Iguape, Ilha Comprida, Jacupiranga, Juquiá, Miracatu, Pariquera-Açu, Registro, Sete Barras. </td></tr>            
+                    
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
                 <hr />
+
+
 
                   <br /><br />
                 <h4 class="text-center" > A cidade de Registro fica às margens do rio Ribeira de Iguape.	</h4>               

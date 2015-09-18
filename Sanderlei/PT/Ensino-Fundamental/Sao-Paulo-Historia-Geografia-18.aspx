@@ -26,7 +26,35 @@
                 <br />
                 <p class="text-center" > Campinas (Mesorregião)  </p>
                 <br /><br />
-
+                                  <hr /><br />                
+                <br />
+                  <h2 class="text-center"> Campinas (Mesorregião)  </h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> Amparo </strong> </td><td> Águas de Lindóia, Amparo, Lindóia, Monte Alegre do Sul, Pedra Bela, Pinhalzinho, Serra Negra, Socorro. </td></tr>            
+                    <tr> <td> <strong> Campinas </strong> </td><td> Americana, Campinas, Cosmópolis, Elias Fausto, Holambra, Hortolândia, Indaiatuba, Jaguariúna, Monte Mor, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d’Oeste, Sumaré, Valinhos, Vinhedo. </td></tr>            
+                    <tr> <td> <strong> Mogi Mirim </strong> </td><td> Artur Nogueira, Engenheiro Coelho, Estiva Gerbi, Itapira, Mogi Guaçu, Mogi Mirim, Santo Antônio de Posse. </td></tr>            
+                    <tr> <td> <strong> Pirassununga </strong> </td><td> Aguaí, Pirassununga, Porto Ferreira, Santa Cruz das Palmeiras. </td></tr>            
+                    <tr> <td> <strong> São João da Boa Vista </strong> </td><td> Águas da Prata, Caconde, Casa Branca, Divinolândia, Espírito Santo do Pinhal, Itobi, Mococa, Santo Antônio do Jardim, São João da Boa Vista, São Sebastião do Rio Pardo, São Sebastião da Grama, Tambaú, Tairatiba, Vargem Grande do Sul. </td></tr>            
+                    
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
+                <hr />
                 <br />
                 <h4 class="text-center" > No município de Paulínia está instalada a Replan, maior refinaria de petróleo da Petrobras.	</h4>               
                 <br />

@@ -24,6 +24,35 @@
                 <p class="text-center" >   Vale Paraíba Paulista (Mesorregião) </p>
                 <br /><br />
 
+                                  <hr /><br />                
+                <br />
+                  <h2 class="text-center"> Vale Paraíba Paulista (Mesorregião)</h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> Paraibuna </strong> </td><td> Cunha, Jambeiro, Lagoinha, Natividade da Serra, Paraibuna, Redenção da Serra, São Luiz do Paraitinga. </td></tr>            
+                    <tr> <td> <strong> São José dos Campos </strong> </td><td> Caçapava, Igaratá, Jacareí, Pindamonhangaba, Santa Branca, São José dos Campos, Taubaté, Tremembé. </td></tr>            
+                    <tr> <td> <strong> Bananal </strong> </td><td> Arapeí, Areias, Bananal, São José do Barreiro, Silveiras. </td></tr>            
+                    <tr> <td> <strong> Campos do Jordão </strong> </td><td> Campos do Jordão, Monteiro Lobato, Santo Antônio do Pinhal, São Bento do Sapucaí. </td></tr>            
+                    <tr> <td> <strong> Caraguatatuba </strong> </td><td> Caraguatatuba, Ilhabela, São Sebastião, Ubatuba. </td></tr>            
+                    <tr> <td> <strong> Guaratinguetá </strong> </td><td> Aparecida, Cachoeira Paulista, Canas, Cruzeiro, Guaratinguetá, Lavrinhas, Lorena, Piquete, Potim, Queluz, Roseira. </td></tr>            
+                    
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
                 <hr />
                 <br />
                 <h4 class="text-center" > 	Campos do Jordão destaca-se nas atividades turísticas e de prestação de serviços.</h4>               

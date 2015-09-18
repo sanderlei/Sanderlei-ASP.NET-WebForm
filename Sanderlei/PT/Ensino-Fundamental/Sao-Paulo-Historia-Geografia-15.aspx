@@ -23,6 +23,37 @@
                 <p class="text-center" >  Bauru (Mesorregião)  </p>
                 <br /><br />
 
+                                  <hr /><br />                
+                <br />
+                  <h2 class="text-center"> Bauru (Mesorregião) </h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> AVARÉ </strong> </td><td> Águas de Santa Bárbara, Arandu, Avaré, Cerqueira César, Iaras, Itaí, Itatinga, Paranapanema. </td></tr>            
+                    <tr> <td> <strong> BAURU </strong> </td><td> Agudos, Arealva, Areiópolis, Avaí, Balbinos, Bauru, Borebi, Cabrália Paulista, Duartina, Guarantã, Iacanga, Lençóis Paulista, Lucianópolis, Paulistânia, Pirajuí, Piratininga, Pongaí, Presidente Alves, Reginópolis, Ubirajara, Uru. </td></tr>            
+                    <tr> <td> <strong> BOTUCATU </strong> </td><td> Anhembi, Bofete, Botucatu, Conchas, Pardinho, Pratânia, São Manuel. </td></tr>            
+                    <tr> <td> <strong> JAÚ </strong> </td><td> Bariri, Barra Bonita, Bocaina, Boracéia, Dois Córregos, Igaraçu do Tietê, Itaju, Itapuí, Jaú, Macatuba, Mineiros do Tietê, Pederneiras. </td></tr>            
+                    <tr> <td> <strong> LINS </strong> </td><td> Cafelândia, Getulina, Guaiçara, Guaimbê, Júlio Mesquita, Lins, Promissão, Sabino. </td></tr>            
+                    
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
+                <hr />
+                 <br /><br />
+
 
             <p>     Os eixos de comunicação desta mesorregião são realizados por meio do entroncamento de ótimas rodovias como: Marechal Rondon (SP-300), Castelo Branco (SP-280) e suas ramificações. É servido também por três ferrovias, pelo Porto Intermodal do município de Pederneiras e pela hidrovia Tietê-Paraná, que recebe  as cargas vindas por vias fluviais, ferroviárias e rodoviárias, por onde escoa a produção industrial e agrícola da região.</p>
 

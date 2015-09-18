@@ -27,7 +27,34 @@
                 <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Sao-Paulo-Historia-Geografia-21-01.jpg"  alt=" Mesorregião de Assis "/>                 
                 <br />
                 <p class="text-center" >  Mesorregião de Assis </p>
-                <br /><br />                
+                <br /><br />        
+                                  <hr /><br />                
+                <br />
+                  <h2 class="text-center"> Mesorregião de Assis  </h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> Assis </strong> </td><td> Assis, Bernardino de Campos, Borá, Campos Novos Paulista, Cândido Mota, Canitar, Chavantes, Cruzália, Espírito Santo do Turvo, Fartura, Florínea, Ibirarema, Iepê, Ipaussu, Lutécia, Manduri, Maracaí, Nantes. </td></tr>            
+                    <tr> <td> <strong> Ourinhos </strong> </td><td> Óleo, Ourinhos, Palmital, Paraguaçu Paulista, Pedrinhas Paulista, Piraju, Platina, Quatá, Ribeirão do Sul, Salto Grande, Santa Cruz do Rio Pardo, São Pedro do Turvo, Sarutaiá, Taguaí, Tarumã, Tejupá, Timburi. </td></tr>            
+                    
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
+                <hr />
+ <br /><br />                        
                 <h4 class="text-center" > 	Município de Chavantes.</h4>               
                 <br />
                 <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Sao-Paulo-Historia-Geografia-21-02.jpg"  alt=" Município de Chavantes. "/>                 
@@ -54,6 +81,33 @@
                 <br /><br />
 
 
+                                 <hr /><br />                
+                <br />
+                  <h2 class="text-center"> Mesorregião de Itapetininga </h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> Capão Bonito </strong> </td><td> Apiaí, Barra do Chapéu, Capão Bonito, Guapiara, Iporanga, Itaóca, Itapirapuã Paulista, Ribeira, Ribeirão Branco, Ribeirão Grande. </td></tr>            
+                    <tr> <td> <strong> Itapetininga </strong> </td><td> Alambari, Angatuba, Campina do Monte Alegre, Guareí, Itapetininga. </td></tr>            
+                    <tr> <td> <strong> Itapeva </strong> </td><td> Barão de Antonina, Bom Sucesso de Itararé, Buri, Coronel Macedo, Itaberá, Itapeva, Itaporanga, Itararé, Nova Campina, Riversul, Taquarituba, Taquarivaí. </td></tr>            
+                    <tr> <td> <strong> Tatuí </strong> </td><td> Boituva, Cerquilho, Cesário Lange, Laranjal Paulista, Pereiras, Porangaba, Quadra, Tatuí, Torre de Pedra. </td></tr>            
+                    
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
                 <hr />
                 <Br />  <br />
                 <h2 class="text-center" > Mesorregião Macrometropolitana Paulista	</h2>
@@ -73,7 +127,34 @@
                 <p class="text-center" > Mesorregião Macrometropolitana Paulista  </p>
                 <br /><br />
 
-
+                                  <hr /><br />                
+                <br />
+                  <h2 class="text-center">  Mesorregião Macrometropolitana Paulista</h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> Bragança Paulista </strong> </td><td> Atibaia, Bom Jesus dos Perdões, Bragança Paulista, Itatiba, Jarinu, Joanópolis, Morungaba, Nazaré Paulista, Piracaia, Tuiuti, Vargem. </td></tr>            
+                    <tr> <td> <strong> Jundiaí </strong> </td><td> Campo Limpo Paulista, Itupeva, Jundiaí, Louveira, Várzea Paulista. </td></tr>            
+                    <tr> <td> <strong> Piedade </strong> </td><td> Ibiúna, Piedade, Pilar do Sul, São Miguel Arcanjo, Tapiraí. </td></tr>            
+                    <tr> <td> <strong> Sorocaba </strong> </td><td> Alumínio, Araçariguama, Araçoiaba da Serra, Cabreúva, Capela do Alto, Iperó, Itu, Mairinque, Porto Feliz, Salto, Salto de Pirapora, São Roque, Sarapuí, Sorocaba, Votorantim. </td></tr>            
+                    
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
+                <hr />
 
 
 

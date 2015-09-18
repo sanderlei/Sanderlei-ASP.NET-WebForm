@@ -24,7 +24,33 @@
                 <p class="text-center" >  Piracicaba (Mesorregião)  </p>
                 <br /><br />
 
-
+                                  <hr /><br />                
+                <br />
+                  <h2 class="text-center">  Piracicaba (Mesorregião)</h2>
+                <br />                
+                <br />
+                <div class="table-responsive">          
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td> <h4> Microrregiões</h4> </td>
+                            <td> <h4>Municípios </h4></td>
+                        </tr>
+                    </thead>
+                <tbody>                    
+                    <tr> <td> <strong> Limeira </strong> </td><td> Araras, Conchal, Cordeirópolis, Iracemápolis, Leme, Limeira, Santa Cruz da Conceição, Santa Gertrudes. </td></tr>            
+                    <tr> <td> <strong> Piracicaba </strong> </td><td> Águas de São Pedro, Capivari, Charqueada, Jumirim, Mombuca, Piracicaba, Rafard, Rio das Pedras, Saltinho, Santa Maria da Serra, São Pedro, Tietê. </td></tr>            
+                    <tr> <td> <strong> Rio Claro </strong> </td><td> Brotas, Corumbataí, Ipeúna, Itirapina, Rio Claro, Torrinha. </td></tr>            
+                    
+                    
+                                       
+                 
+                    
+                </tbody>
+                </table>
+                </div>
+                 <br /><br />
+                <hr />
 
                 <br />
                 <h4 class="text-center" > Piracicaba	</h4>               
