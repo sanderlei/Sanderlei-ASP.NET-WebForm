@@ -104,20 +104,7 @@
                            <li><a href='Santa-Catarina-Historia-Geografia-45'>45 - Setor terciário da economia de Santa Catarina  </a></li>  
                            <li><a href='Santa-Catarina-Historia-Geografia-46'>46 - Turismo em Santa Catarina  </a></li>  
                            <li><a href='Santa-Catarina-Historia-Geografia-47'>47 - As festas populares em Santa Catarina  </a></li>  
-                           
-
-                           
-                           
-
-                           
-
-
-                           
-                           
-
-                           
-
-
+                                                      
                               </ul>	</li>       	         	                           
              
                 <li><a href='Sao-Paulo-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>São Paulo<span class='caret'></span></a><ul class='dropdown-menu'>
@@ -144,11 +131,14 @@
                         <li><a href='Sao-Paulo-Historia-Geografia-21'> 21 - Mesorregiões de Assis, Itapetininga e Macrometropolitana Paulista </a></li>  
                         <li><a href='Sao-Paulo-Historia-Geografia-22'> 22 - Vale Paraíba Paulista (Mesorregião) </a></li>  
                         <li><a href='Sao-Paulo-Historia-Geografia-23'> 23 - Litoral Sul Paulista (Mesorregião) </a></li>  
-                        <li><a href='Sao-Paulo-Historia-Geografia-24'> 24 - Mesorregião Metropolitana de São Paulo </a></li>  
+                        <li><a href='Sao-Paulo-Historia-Geografia-24'> 24 - Mesorregião Metropolitana de São Paulo </a></li>
+                        <li><a href='Sao-Paulo-Historia-Geografia-25'> 25 - Região metropolitana de São Paulo</a></li>  
                     
 
                      
                     
+
+
 
                       
                                                                                                                                 </ul>	</li>   
@@ -177,9 +167,22 @@
                         <li><a href='Parana-Historia-Geografia-22'> 22 - Região Metropolitana de Curitiba </a></li>
                         <li><a href='Parana-Historia-Geografia-23'> 23 - Regiões metropolitanas do Paraná </a></li>
                         <li><a href='Parana-Historia-Geografia-24'> 24 - A história dos povos indígenas (PR) </a></li>
+                        <li><a href='Parana-Historia-Geografia-25'> 25 - A população indígena na região do estado do Paraná </a></li>
+                        
+                        <li><a href='Parana-Historia-Geografia-26'> 26 - Os índios Guarani do estado do Paraná </a></li>
+                        <li><a href='Parana-Historia-Geografia-27'> 27 - Os índios Xetá do estado do Paraná </a></li>
+                        <li><a href='Parana-Historia-Geografia-28'> 28 - Os índios Xoklengue do estado do Paraná </a></li>
+                        <li><a href='Parana-Historia-Geografia-29'> 29 - Os índios Caingangue do estado do Paraná </a></li>
+                        <li><a href='Parana-Historia-Geografia-30'> 30 - A população africana e a escravidão no Paraná </a></li>
+                        <li><a href='Parana-Historia-Geografia-31'> 31 - As comunidades quilombolas no estado do Paraná </a></li>
+                        <li><a href='Parana-Historia-Geografia-32'> 32 - A imigração europeia no estado do Paraná </a></li>
+                        <li><a href='Parana-Historia-Geografia-33'> 33 - O tropeirismo no estado do Paraná </a></li>
 
                             
                            
+                           
+                          
+
 
                        
                                                                                                                                 </ul> 	</li>   
@@ -208,20 +211,34 @@
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-21'> 21 - A pecuária na colonização do Mato Grosso do Sul  </a></li>     
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-22'> 22 - Panorama do crescimento do estado de Mato Grosso do Sul </a></li>     
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-23'> 23 - A população atual do estado de Mato Grosso do Sul </a></li>     
-                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-24'> 24 - O crescimento populacional no estado de Mato Grosso do Sul </a></li>     
-                 
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-24'> 24 - O crescimento populacional no estado de Mato Grosso do Sul </a></li>                   
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-25'> 25 - Natureza e condições ambientais do Mato Grosso do Sul  </a></li>     
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-26'> 26 - Biomas brasileiros </a></li>     
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-27'> 27 - Clima do estado do Mato Grosso do Sul </a></li>     
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-28'> 28 - Relevo do estado do Mato Grosso do Sul </a></li>     
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-29'> 29 - A vegetação nativa do estado do Mato Grosso do Sul </a></li>     
                  <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-30'> 30 - Os biomas do estado do Mato Grosso do Sul </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-31'> 31 - Áreas de preservação do estado do Mato Grosso do Sul </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-32'> 32 - Pantanal – Patrimônio Natural da Humanidade </a></li>                   
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-33'> 33 - As águas do Mato Grosso do Sul </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-34'> 34 - Bacias hidrográficas do Mato Grosso do Sul </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-35'> 35 - Recursos hídricos - Aquífero Guarani  </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-36'> 36 - História - Porto do rio Paraguai, Corumbá (MS) </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-37'> 37 - Preservação histórica e cultural</a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-38'> 38 - A preservação histórica e cultural do Mato Grosso do Sul  </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-39'> 39 - A formação da cultura do Mato Grosso do Sul  </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-40'> 40 - As atividades econômicas do Mato Grosso do Sul  </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-41'> 41 - Setor primário da economia do Mato Grosso do Sul  </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-42'> 42 - Atividades extrativistas do Mato Grosso do Sul  </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-43'> 43 - Setor secundário da economia do Mato Grosso do Sul  </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-44'> 44 - Setor terciário da economia do Mato Grosso do Sul  </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-45'> 45 - Turismo em Mato Grosso do Sul  </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-46'> 46 - As festas populares do Mato Grosso do Sul  </a></li>     
+                 <li><a href='Mato-Grosso-do-Sul-Historia-Geografia-47'> 47 - Os ciclos da economia do Mato Grosso do Sul  </a></li>     
                   
-
-
-
-
-                
+                   
+                 
+                                 
 
                  
                                                                                                                                </ul>  	</li>        	      	                           
