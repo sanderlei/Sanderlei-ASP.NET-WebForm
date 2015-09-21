@@ -1,4 +1,4 @@
-﻿<%@ Page Title="在1分钟历史" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.CN.历史.Index" %>
+﻿<%@ Page Title="在1分钟历史" Language="C#" MasterPageFile="~/CN/SiteCN开始.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="在人类历史上的60件大事告诉记者，在一个简单的方法供您阅读的任何地方。..." />
 </asp:Content>
