@@ -4596,6 +4596,7 @@
     <Content Include="PT\Developer\MVC-01-24.aspx" />
     <Content Include="PT\Developer\MVC-01-25.aspx" />
     <Content Include="PT\Developer\MVC-01-26.aspx" />
+    <Content Include="PT\Ensino-Fundamental\001.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-16.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-17.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-18.aspx" />
@@ -4632,6 +4633,7 @@
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-32.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-33.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-34.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-49.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-46.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-36.aspx" />
     <Content Include="PT\Ensino-Fundamental\Mato-Grosso-do-Sul-Historia-Geografia-38.aspx" />
@@ -4678,6 +4680,11 @@
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-45.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-47.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-48.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-50.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-51.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-52.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-53.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-54.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-14.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-15.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-16.aspx" />
@@ -4734,6 +4741,7 @@
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-25.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-26.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-27.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-28.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-13.aspx" />
