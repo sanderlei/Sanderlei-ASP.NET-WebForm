@@ -4596,7 +4596,6 @@
     <Content Include="PT\Developer\MVC-01-24.aspx" />
     <Content Include="PT\Developer\MVC-01-25.aspx" />
     <Content Include="PT\Developer\MVC-01-26.aspx" />
-    <Content Include="PT\Ensino-Fundamental\001.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-16.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-17.aspx" />
     <Content Include="PT\Ensino-Fundamental\lingua-portuguesa-01-18.aspx" />
@@ -4685,6 +4684,11 @@
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-52.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-53.aspx" />
     <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-54.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-55.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-56.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-57.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-58.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Parana-Historia-Geografia-59.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-14.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-15.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-16.aspx" />
@@ -4742,6 +4746,13 @@
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-26.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-27.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-28.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-29.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-30.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-31.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-32.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-33.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-34.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-35.aspx" />
     <Content Include="PT\Ensino-Fundamental\Sao-Paulo-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-99.aspx" />
     <Content Include="PT\Ensino-Fundamental\Santa-Catarina-Historia-Geografia-13.aspx" />
