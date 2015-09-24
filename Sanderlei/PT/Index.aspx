@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="Página Pessoal - Sanderlei Silveira" Language="C#" MasterPageFile="~/SitePT.Master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">      
-    <meta name="description" content="Página pessoal de Sanderlei Silveira. Literatura, História, Informática e outros..." />
+    <meta name="description" content="Página pessoal de Sanderlei Silveira. Literatura, História, Educação Ensino médio, Educação Infantil, Poesia, Informática, SAP e outros..." />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class='container panel-body'>
