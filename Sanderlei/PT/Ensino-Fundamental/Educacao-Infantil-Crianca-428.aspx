@@ -1,14 +1,14 @@
-﻿<%@ Page Title=" Educação Infantil - Diamante  " Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
+﻿<%@ Page Title=" Educação Infantil - Lhama  " Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
-    <meta name="description" content=" Educação Infantil - Diamante - Nível 4 - Educação Infantil, recomentado para crianças entre 7 a 9 anos." /> 
+    <meta name="description" content=" Educação Infantil - Lhama - Nível 4 - Educação Infantil, recomentado para crianças entre 7 a 9 anos." /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 
       <div class='container panel-body'>                  
         <div class='col-xs-12 col-md-12 text-center'>            
-            <h1> Educação Infantil - Diamante	</h1>           <br /> <br /><br />                        
+            <h1> Educação Infantil - Lhama	</h1>           <br /> <br /><br />                        
                 <div class="embed-responsive embed-responsive-16by9">
-               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JKrbOLC_PGU" frameborder="0" allowfullscreen></iframe>
+               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fNBaZvsm1dg" frameborder="0" allowfullscreen></iframe>
               </div>
           <br />
           </div>
@@ -31,12 +31,13 @@
               <li   ><a href="Educacao-Infantil-Crianca-412">12</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-413">13</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-414">14</a></li>
-              <li  class="active" ><a href="Educacao-Infantil-Crianca-415">15</a></li>
+              <li   ><a href="Educacao-Infantil-Crianca-415">15</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-416">16</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-417">17</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-418">18</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-419">19</a></li>
-              <li   ><a href="Educacao-Infantil-Crianca-420">20</a></li>     
+              <li   ><a href="Educacao-Infantil-Crianca-420">20</a></li>          
+
               <li   ><a href="Educacao-Infantil-Crianca-421">21</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-422">22</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-423">23</a></li>
@@ -44,9 +45,9 @@
               <li   ><a href="Educacao-Infantil-Crianca-425">25</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-426">26</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-427">27</a></li>
-              <li   ><a href="Educacao-Infantil-Crianca-428">28</a></li>
+              <li class="active"  ><a href="Educacao-Infantil-Crianca-428">28</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-429">29</a></li>
-              <li   ><a href="Educacao-Infantil-Crianca-430">30</a></li>       
+              <li   ><a href="Educacao-Infantil-Crianca-430">30</a></li>          
               
 
           </ul>
