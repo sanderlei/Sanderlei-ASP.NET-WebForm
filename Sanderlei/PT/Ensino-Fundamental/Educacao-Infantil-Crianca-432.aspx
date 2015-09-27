@@ -1,14 +1,14 @@
-﻿<%@ Page Title=" Educação Infantil - 409 - Chá  " Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
+﻿<%@ Page Title=" Educação Infantil - Ópera de Sidney  " Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
-    <meta name="description" content=" Educação Infantil - 009 - Chá	 - Nível 4 - Educação Infantil, recomentado para crianças entre 7 a 9 anos." /> 
+    <meta name="description" content=" Educação Infantil - Ópera de Sidney - Nível 4 - Educação Infantil, recomentado para crianças entre 7 a 9 anos." /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 
       <div class='container panel-body'>                  
         <div class='col-xs-12 col-md-12 text-center'>            
-            <h1> Educação Infantil - Chá	</h1>           <br /> <br /><br />                        
+            <h1> Educação Infantil - Ópera de Sidney	</h1>           <br /> <br /><br />                        
                 <div class="embed-responsive embed-responsive-16by9">
-               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jmVKyv7zK78" frameborder="0" allowfullscreen></iframe>
+               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cVrGFfqyqS8" frameborder="0" allowfullscreen></iframe>
               </div>
           <br />
           </div>
@@ -24,8 +24,9 @@
               <li   ><a href="Educacao-Infantil-Crianca-406">06</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-407">07</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-408">08</a></li>
-              <li  class="active"  ><a href="Educacao-Infantil-Crianca-409">09</a></li>
-              <li   ><a href="Educacao-Infantil-Crianca-410">10</a></li>       
+              <li   ><a href="Educacao-Infantil-Crianca-409">09</a></li>
+              <li   ><a href="Educacao-Infantil-Crianca-410">10</a></li>          
+
               <li   ><a href="Educacao-Infantil-Crianca-411">11</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-412">12</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-413">13</a></li>
@@ -35,7 +36,8 @@
               <li   ><a href="Educacao-Infantil-Crianca-417">17</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-418">18</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-419">19</a></li>
-              <li   ><a href="Educacao-Infantil-Crianca-420">20</a></li>     
+              <li   ><a href="Educacao-Infantil-Crianca-420">20</a></li>          
+
               <li   ><a href="Educacao-Infantil-Crianca-421">21</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-422">22</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-423">23</a></li>
@@ -45,9 +47,9 @@
               <li   ><a href="Educacao-Infantil-Crianca-427">27</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-428">28</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-429">29</a></li>
-              <li   ><a href="Educacao-Infantil-Crianca-430">30</a></li> 
+              <li   ><a href="Educacao-Infantil-Crianca-430">30</a></li>       
               <li   ><a href="Educacao-Infantil-Crianca-431">31</a></li>
-              <li   ><a href="Educacao-Infantil-Crianca-432">32</a></li>
+              <li  class="active"   ><a href="Educacao-Infantil-Crianca-432">32</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-433">33</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-434">34</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-435">35</a></li>
@@ -55,7 +57,9 @@
               <li   ><a href="Educacao-Infantil-Crianca-437">37</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-438">38</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-439">39</a></li>
-              <li   ><a href="Educacao-Infantil-Crianca-440">40</a></li>          
+              <li   ><a href="Educacao-Infantil-Crianca-440">40</a></li>   
+              
+
           </ul>
         </div>
  </div>          

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
+﻿<%@ Page Title="   " Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" 111111111111 ... " /> 
 </asp:Content>
@@ -15,7 +15,7 @@
                 <br />
                 <h4 class="text-center" > 	</h4>               
                 <br />
-                <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/"  alt="  "/>                 
+                <img class="img-responsive" style="margin:0 auto;" src="http://www.sanderlei.com.br/img/Ensino-fundamental/Arte-0-0.jpg"  alt="  "/>                 
                 <br />
                 <p class="text-center" >   </p>
                 <br /> <br />
