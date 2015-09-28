@@ -1,6 +1,6 @@
 ﻿<%@ Page Title=" Educação Infantil - Flauta  " Language="C#" MasterPageFile="~/PT/SitePTBrasil.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
-    <meta name="description" content=" Educação Infantil - Flauta - Nível 4 - Educação Infantil, recomentado para crianças entre 7 a 9 anos." /> 
+    <meta name="description" content=" Educação Infantil - Flauta - Nível 4 - Educação Infantil, recomendado para crianças entre 7 a 9 anos." /> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder12" runat="server">
     <!-- Conteudo  --> 
@@ -12,7 +12,7 @@
               </div>
           <br />
           </div>
-          <p class="text-center" > Educação Infantil - Nível 4 - Educação Infantil, recomentado para crianças entre 7 a 9 anos.       </p>       <br />                          
+          <p class="text-center" > Educação Infantil - Nível 4 - Educação Infantil, recomendado para crianças entre 7 a 9 anos.       </p>       <br />                          
           <div class='col-xs-12 col-md-12 text-justify' style='line-height:1.7'>        </div>        
           <div class="bg-info container-fluid col-xs-12">    <h5 class='text-center'>  Educação Infantil - Nível 4 - Links para os Vídeos    </h5>   </div> 
           <div class="text-center"><ul class="pagination pagination-lg">        <!--  class="active"  -->            
@@ -57,6 +57,16 @@
               <li   ><a href="Educacao-Infantil-Crianca-438">38</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-439">39</a></li>
               <li   ><a href="Educacao-Infantil-Crianca-440">40</a></li>  
+              <li   ><a href="Educacao-Infantil-Crianca-441">41</a></li>
+              <li   ><a href="Educacao-Infantil-Crianca-442">42</a></li>
+              <li   ><a href="Educacao-Infantil-Crianca-443">43</a></li>
+              <li   ><a href="Educacao-Infantil-Crianca-444">44</a></li>
+              <li   ><a href="Educacao-Infantil-Crianca-445">45</a></li>
+              <li   ><a href="Educacao-Infantil-Crianca-446">46</a></li>
+              <li   ><a href="Educacao-Infantil-Crianca-447">47</a></li>
+              <li   ><a href="Educacao-Infantil-Crianca-448">48</a></li>
+              <li   ><a href="Educacao-Infantil-Crianca-449">49</a></li>
+              <li   ><a href="Educacao-Infantil-Crianca-450">50</a></li> 
               
 
           </ul>
