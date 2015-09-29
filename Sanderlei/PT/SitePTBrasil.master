@@ -319,7 +319,10 @@
                    
             <li><a href='Educacao-Infantil-Crianca-401' data-target='#' data-toggle='dropdown'>Educação Infantil<span class='caret'></span></a><ul class='dropdown-menu'>
                     <li><a href='Educacao-Infantil-Crianca-101'> Educação Infantil - Nível 1 - Crianças entre 4 a 6 anos   </a></li>
+                    <li><a href='Educacao-Infantil-Crianca-201'> Educação Infantil - Nível 2 - Crianças entre 5 a 7 anos   </a></li>
+                    <li><a href='Educacao-Infantil-Crianca-301'> Educação Infantil - Nível 3 - Crianças entre 6 a 8 anos   </a></li>
                     <li><a href='Educacao-Infantil-Crianca-401'> Educação Infantil - Nível 4 - Crianças entre 7 a 9 anos   </a></li>
+                    <li><a href='Educacao-Infantil-Crianca-501'> Educação Infantil - Nível 5 - Crianças entre 8 a 10 anos   </a></li>
                     <li><a href='Educacao-Infantil-Crianca-601'> Educação Infantil - Nível 6 - Crianças entre 9 a 11 anos   </a></li>
                                  
                  
@@ -331,13 +334,15 @@
 
           <li><a href='Arte-01' data-target='#' data-toggle='dropdown'> Arte <span class='caret'></span></a><ul class='dropdown-menu'>
                     <li><a href='Arte-01'> Organização do espaço urbano - necessidade ou arte?  </a></li>
-                    <li><a href='Arte-02'> Da pedra ao mármore  </a></li>
-                    
+                    <li><a href='Arte-02'> Da pedra ao mármore  </a></li>                    
                     <li><a href='Arte-03'> As fortalezas medievais  </a></li>
                     <li><a href='Arte-04'> Diferentes culturas, diferentes estéticas  </a></li>
-                    <li><a href='Arte-05'> Arquitetura e estética no Brasil  </a></li>
+                    <li><a href='Arte-05'> Arquitetura e estética no Brasil  </a></li>              
+                    <li><a href='Arte-06'> Pincel e tinta também imortalizam o espaço urbano </a></li>
+                    <li><a href='Arte-07'> Espaço interno e design  </a></li>
                                  
                  
+
 
                                  
 
