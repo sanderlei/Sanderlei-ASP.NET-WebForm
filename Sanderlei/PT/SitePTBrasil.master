@@ -333,13 +333,16 @@
 
 
           <li><a href='Arte-01' data-target='#' data-toggle='dropdown'> Arte <span class='caret'></span></a><ul class='dropdown-menu'>
-                    <li><a href='Arte-01'> Organização do espaço urbano - necessidade ou arte?  </a></li>
-                    <li><a href='Arte-02'> Da pedra ao mármore  </a></li>                    
-                    <li><a href='Arte-03'> As fortalezas medievais  </a></li>
-                    <li><a href='Arte-04'> Diferentes culturas, diferentes estéticas  </a></li>
-                    <li><a href='Arte-05'> Arquitetura e estética no Brasil  </a></li>              
-                    <li><a href='Arte-06'> Pincel e tinta também imortalizam o espaço urbano </a></li>
-                    <li><a href='Arte-07'> Espaço interno e design  </a></li>
+                    <li><a href='Arte-01'> 01. Organização do espaço urbano - necessidade ou arte?  </a></li>
+                    <li><a href='Arte-02'> 02. Da pedra ao mármore  </a></li>                    
+                    <li><a href='Arte-03'> 03. As fortalezas medievais  </a></li>
+                    <li><a href='Arte-04'> 04. Diferentes culturas, diferentes estéticas  </a></li>
+                    <li><a href='Arte-05'> 05. Arquitetura e estética no Brasil  </a></li>              
+                    <li><a href='Arte-06'> 06. Pincel e tinta também imortalizam o espaço urbano </a></li>
+                    <li><a href='Arte-07'> 07. Espaço interno e design  </a></li>              
+                    <li><a href='Arte-08'> 08. A arte como registro histórico  </a></li>
+                    <li><a href='Arte-09'> 09. A arte na Mídia  </a></li>
+                    <li><a href='Arte-10'> 10. Rompendo com os padrões preestabelecidos </a></li>
                                  
                  
 
