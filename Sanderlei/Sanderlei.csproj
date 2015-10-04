@@ -4271,6 +4271,16 @@
     <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-118.aspx" />
     <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-119.aspx" />
     <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-120.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-222.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-223.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-224.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-225.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-226.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-227.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-228.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-229.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-230.aspx" />
+    <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-221.aspx" />
     <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-211.aspx" />
     <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-212.aspx" />
     <Content Include="PT\Ensino-Fundamental\Educacao-Infantil-Crianca-214.aspx" />
@@ -7532,20 +7542,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="CN\Index.aspx.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="CN\Index.aspx.designer.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="CN\SiteCN开始.master.cs">
-      <DependentUpon>SiteCN开始.master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="CN\SiteCN开始.master.designer.cs">
-      <DependentUpon>SiteCN开始.master</DependentUpon>
-    </Compile>
     <Compile Include="DE\Geschichte\EN-01.aspx.cs">
       <DependentUpon>EN-01.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

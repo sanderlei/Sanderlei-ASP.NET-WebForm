@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" MasterPageFile="~/SiteCN.Master" AutoEventWireup="true" CodeBehind="SiteCN开始.master.cs" Inherits="Sanderlei.CN.SiteCN开始" %>
+﻿<%@ Master Language="C#" MasterPageFile="~/SiteCN.Master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <asp:ContentPlaceHolder ID="ContentPlaceHolder11" runat="server"></asp:ContentPlaceHolder>
 </asp:Content>

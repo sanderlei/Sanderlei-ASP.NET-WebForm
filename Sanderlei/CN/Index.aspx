@@ -1,4 +1,4 @@
-﻿<%@ Page Title="首页" Language="C#" MasterPageFile="~/SiteCN.Master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sanderlei.CN.Index" %>
+﻿<%@ Page Title="首页" Language="C#" MasterPageFile="~/SiteCN.Master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
       <meta name="description" content="Sanderlei 西尔韦拉的个人资料。文学，历史，信息技术等..." />
 </asp:Content>
