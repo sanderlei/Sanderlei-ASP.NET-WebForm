@@ -34,7 +34,7 @@
                                <li><a href='HTML-01-18'> Front-end Foundations - 18 - CSS3 STYLES    </a></li> 
                                <li><a href='HTML-01-19'> Front-end Foundations - 19 - FONTS & INTERACTIONS    </a></li> 
                           
-                              </ul>	    	  
+                              </ul>	    </li>   	  
                            
                             <li><a href='HTML-02-01' data-target='#' data-toggle='dropdown'> HTML5 + CCS3 - CSS and Mobile <span class='caret'></span></a><ul class='dropdown-menu'>
                                 <li><a href='HTML-02-01'>  CSS and Mobile - 01 - Frost-Proof Fundamentals  </a></li>                 
@@ -52,7 +52,7 @@
                                 <li><a href='HTML-02-13'>  CSS and Mobile - 13 - Responsive Media  </a></li>                 
        
                                   
-               	    	  </ul>
+               	    	  </ul> </li>  
 
                       <li><a href='HTML-03-01' data-target='#' data-toggle='dropdown'> HTML5 + CCS3 - HTML Emails <span class='caret'></span></a><ul class='dropdown-menu'>
                           <li><a href='HTML-03-01'>  HTML Emails - 01 - Clients and Markup  </a></li>                 
@@ -65,7 +65,7 @@
                           <li><a href='HTML-03-08'>  HTML Emails - 08 - Small Screen First  </a></li>                 
                           <li><a href='HTML-03-09'>  HTML Emails - 09 - Small Screen First  </a></li>                 
 
-                          </ul> 
+                          </ul>  </li>  
                           
                  <li><a href='HTML-04-01' data-target='#' data-toggle='dropdown'> HTML5 + CCS3 - Bootstrap <span class='caret'></span></a><ul class='dropdown-menu'>
                      <li><a href='HTML-04-01'> Bootstrap - 01 - Foundation  </a></li>               
@@ -76,7 +76,7 @@
                      <li><a href='HTML-04-06'> Bootstrap - 06 - Navigating Navigation	  </a></li>               
                      <li><a href='HTML-04-07'> Bootstrap - 07 - JavaScript Components </a></li>               
                      <li><a href='HTML-04-08'> Bootstrap - 08 - Dropping Down from Orbit  </a></li>               
-              </ul> 
+              </ul>  </li>  
 
                                
                  <li><a href='HTML-05-01' data-target='#' data-toggle='dropdown'> HTML5 + CCS3 - Assembling Sass <span class='caret'></span></a><ul class='dropdown-menu'>
@@ -92,7 +92,7 @@
                      <li><a href='HTML-05-10'> Assembling Sass - 10 - Utility  </a></li>  
                      <li><a href='HTML-05-11'> Assembling Sass - 11 - Rhythm  </a></li>  
                      <li><a href='HTML-05-12'> Assembling Sass - 12 - Sprite  </a></li>  
-                </ul>
+                </ul> </li>  
 
 
                 <li><a href='HTML-06-01' data-target='#' data-toggle='dropdown'> HTML5 + CCS3 - Fundamentals of Design <span class='caret'></span></a><ul class='dropdown-menu'>
@@ -107,7 +107,7 @@
                     <li><a href='HTML-06-09'> Fundamentals of Design - 09 - Whitespace, Balance  </a></li>  
 
 
-                      </ul>
+                      </ul> </li>  
 
 
   <li><a href='iOS-01-01' data-target='#' data-toggle='dropdown'>  Getting Started with iOS <span class='caret'></span></a><ul class='dropdown-menu'>
@@ -146,7 +146,7 @@
                            <li><a href='iOS-01-33'>  iOS - 33 - A View To Build </a></li>                                     
                            <li><a href='iOS-01-34'>  iOS - 34 - A View To Build </a></li>                                     
                                                    
-                              </ul>	
+                              </ul>	 </li>  
                            
                            
                    <li><a href='iOS-02-01' data-target='#' data-toggle='dropdown'> iOS - Core iOS 7 <span class='caret'></span></a><ul class='dropdown-menu'>
@@ -175,7 +175,7 @@
                        <li><a href='iOS-02-23'> Core iOS 7 - 23 - Networking and Multitasking  </a></li>           
                        <li><a href='iOS-02-24'> Core iOS 7 - 24 - Networking and Multitasking  </a></li>         
                                                      
-                              </ul>	  
+                              </ul>	   </li>  
 
              <li><a href='iOS-03-01' data-target='#' data-toggle='dropdown'> iOS - Mapping Frameworks <span class='caret'></span></a><ul class='dropdown-menu'>
                  <li><a href='iOS-03-01'> iOS Mapping Frameworks - 01 - UIFall  </a></li>                  
@@ -195,7 +195,7 @@
 
                                 
                                 
-                             </ul>	         
+                             </ul>	    </li>        
 
 
                  <li><a href='EN-01-01' data-target='#' data-toggle='dropdown'>GitHub - Beginner<span class='caret'></span></a><ul class='dropdown-menu'>
@@ -206,7 +206,7 @@
                            <li><a href='EN-01-05'>GitHub - Beginner - 05 - Branching</a></li>
                            <li><a href='EN-01-06'>GitHub - Beginner - 06 - Rebase belong to us</a></li>
                            <li><a href='EN-01-07'>GitHub - Beginner - 07 - History and Configuration</a></li>
-                              </ul>	       	         	                           
+                              </ul>	        </li>  	         	                           
                  
                     
                     <li><a href='EN-02-01' data-target='#' data-toggle='dropdown'>GitHub - Intermediate<span class='caret'></span></a><ul class='dropdown-menu'>
@@ -218,7 +218,7 @@
                          <li><a href='EN-02-06'> GitHub - Intermediate  - 06 - Reflog  </a></li>
                          
                         
-                                                                                                                                </ul>	        	         	                           
+                                                                                                                                </ul>	 </li>          	         	                           
                  <li><a href='EN-03-01' data-target='#' data-toggle='dropdown'>GitHub - Advanced <span class='caret'></span></a><ul class='dropdown-menu'>                    
                      <li><a href='EN-03-01'> GitHub - Advanced - 01 - Fork Based Workflows  </a></li>
                      <li><a href='EN-03-02'> GitHub - Advanced - 02 - Fork Based Workflows  </a></li>
@@ -240,7 +240,7 @@
                      <li><a href='EN-03-18'> GitHub - Advanced - 18 - Command Line GitHub  </a></li>
                     
                         
-                                                                                                                                </ul>
+                                                                                                                                </ul> </li>  
 
 
                                  
@@ -274,7 +274,7 @@
                                                      
                            
                           
-                              </ul>	
+                              </ul>	 </li>  
 
 
 	                <li><a href='BR-01-01' data-target='#' data-toggle='dropdown'>Datasul - TOTVS - DDK-GUI - Smart Objects<span class='caret'></span></a><ul class='dropdown-menu'>
@@ -292,7 +292,7 @@
                            <li><a href='BR-01-12'> Datasul - 0412 - DDK-GUI - PaixFilho e Chave Extrangeira   </a></li>                                                     
                            
                           
-                              </ul>	      	         	                           
+                              </ul>	    </li>     	         	                           
                  
                         	         	                           
                     <li><a href='BR-02-01' data-target='#' data-toggle='dropdown'>Datasul - TOTVS - DDK-2000 - DBO e Thin Template<span class='caret'></span></a><ul class='dropdown-menu'>
@@ -305,7 +305,7 @@
                         
                         
 
-                                                                                                                         </ul>	 
+                                                                                                                         </ul>	  </li>  
 
 
 <li><a href='JavaScript-01-01' data-target='#' data-toggle='dropdown'>JavaScript - Course 01<span class='caret'></span></a><ul class='dropdown-menu'>
@@ -330,7 +330,7 @@
                  
 
                           
-                              </ul>	     	  
+                              </ul>	    </li>    	  
                            
                            
                            
@@ -344,7 +344,7 @@
                                         
 
                           
-                              </ul>	            	   
+                              </ul>	   </li>            	   
 
 
 
@@ -385,7 +385,7 @@
                                                      
                            
                           
-                              </ul>	
+                              </ul>	 </li>  
 
  <li><a href='PL-SQL-Oracle-02-01' data-target='#' data-toggle='dropdown'>Oracle PL/SQL Fundamentals - Part 1 (EN)<span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='PL-SQL-Oracle-02-01'> Oracle PL/SQL Fundamentals - 01 - Course Introduction   </a></li>                            
@@ -407,7 +407,7 @@
                            <li><a href='PL-SQL-Oracle-02-17'> Oracle PL/SQL Fundamentals - 17 - Debugging - Part 01  </a></li>                           
                            <li><a href='PL-SQL-Oracle-02-18'> Oracle PL/SQL Fundamentals - 18 - Debugging - Part 02 </a></li>                                                      
                           
-                              </ul>	
+                              </ul>	 </li>  
 
 
                                
@@ -433,7 +433,7 @@
                            <li><a href='PL-SQL-Oracle-03-19'> Oracle PL/SQL Fundamentals - 19 - Roles & Privileges With Subprograms - Part 03 </a></li>                                                      
                            <li><a href='PL-SQL-Oracle-03-20'> Oracle PL/SQL Fundamentals - 20 - Roles & Privileges With Subprograms - Part 04 </a></li>                                                      
                           
-                              </ul>	
+                              </ul>	 </li>  
 
 
                        <li><a href='SQL-01-01' data-target='#' data-toggle='dropdown'>Introduction to SQL (EN)<span class='caret'></span></a><ul class='dropdown-menu'>
@@ -451,13 +451,91 @@
                            <li><a href='SQL-01-12'> Introduction to SQL - 12 - Creating Tables - Part 01</a></li>                           
                            <li><a href='SQL-01-13'> Introduction to SQL - 13 - Creating Tables - Part 02</a></li>                           
                                                      
-                              </ul>	
+                              </ul>	 </li>  
      
                    
                    
-                   
+                   <li><a href='Design-Grafico-01-00' data-target='#' data-toggle='dropdown'>Comunicação Visual e Design Gráfico<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='Design-Grafico-01-00'> Design Gráfico - 00 - Apresentação   </a></li>                            
+                           <li><a href='Design-Grafico-01-01'> Design Gráfico - 01 - Tipografia  </a></li>                            
+                           <li><a href='Design-Grafico-01-02'> Design Gráfico - 02 - Cor  </a></li>                            
+                           <li><a href='Design-Grafico-01-03'> Design Gráfico - 03 - Princípio do Contraste  </a></li>                            
+                           <li><a href='Design-Grafico-01-04'> Design Gráfico - 04 - Princípio da Repetição   </a></li>                            
+                           <li><a href='Design-Grafico-01-05'> Design Gráfico - 05 - Princípio do Alinhamento   </a></li>                            
+                           <li><a href='Design-Grafico-01-06'> Design Gráfico - 06 - Princípio da Proximidade   </a></li>                            
+                           <li><a href='Design-Grafico-01-07'> Design Gráfico - 07 - Photoshop - Introdução   </a></li>                            
+                           <li><a href='Design-Grafico-01-08'> Design Gráfico - 08 - Photoshop - Ferramentas vectoriais   </a></li>                            
+                           <li><a href='Design-Grafico-01-09'> Design Gráfico - 09 - Photoshop - Ferramentas de edição   </a></li>                            
+                           <li><a href='Design-Grafico-01-10'> Design Gráfico - 10 - Photoshop - Ferramentas de Selecção   </a></li>                            
+                           <li><a href='Design-Grafico-01-11'> Design Gráfico - 11 - Photoshop - Layers  </a></li>                            
+                     
+                                                     
+                           
+                          
+                              </ul>	  </li>  
+                           
+                           
+                           <li><a href='Sistemas-Multimedia-01-01' data-target='#' data-toggle='dropdown'>Sistemas Multimédia<span class='caret'></span></a><ul class='dropdown-menu'>
+                               <li><a href='Sistemas-Multimedia-01-01'>  Sistemas Multimédia - 01 - Fotografia  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-02'>  Sistemas Multimédia - 02 - Imagem - Cor  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-03'>  Sistemas Multimédia - 03 - Imagem - Formatos   </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-04'>  Sistemas Multimédia - 04 - HDR  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-05'>  Sistemas Multimédia - 05 - Introdução ao Som   </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-06'>  Sistemas Multimédia - 06 - Áudio Digital  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-07'>  Sistemas Multimédia - 07 - Sistemas Electroacústicos   </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-08'>  Sistemas Multimédia - 08 - Surround  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-09'>  Sistemas Multimédia - 09 - Compressão áudio  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-10'>  Sistemas Multimédia - 10 - Video   </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-11'>  Sistemas Multimédia - 11 - Compressão e Gravação Vídeo  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-12'>  Sistemas Multimédia - 12 - Computação Gráfica  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-13'>  Sistemas Multimédia - 13 - Visualização 3D  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-14'>  Sistemas Multimédia - 14 - Iluminação  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-15'>  Sistemas Multimédia - 15 - Processo de criação de conteúdos  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-16'>  Sistemas Multimédia - 16 - Animação  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-17'>  Sistemas Multimédia - 17 - Visão stereo (3-D)  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-18'>  Sistemas Multimédia - 18 - Efeitos Visuais  </a></li>                            
+                               <li><a href='Sistemas-Multimedia-01-19'>  Sistemas Multimédia - 19 - Direitos de Autor  </a></li>                            
+                                              
+                     
+                                                     
+                           
+                          
+                              </ul>	    </li>  	           	         	                           
+
+
+                               <li><a href='Flash-01-01' data-target='#' data-toggle='dropdown'>Flash - Your First Day in Flash<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='Flash-01-01'> Flash - 01 - Introduction and course overview	</a></li>                            
+                           <li><a href='Flash-01-02'> Flash - 02 - Setting up your workspace	</a></li>                            
+                           <li><a href='Flash-01-03'> Flash - 03 - The Selection and Transform tools	</a></li>                            
+                           <li><a href='Flash-01-04'> Flash - 04 - Getting familiar with shape tools	</a></li>                            
+                           <li><a href='Flash-01-05'> Flash - 05 - Using the painting and drawing tools </a></li>                            
+                           <li><a href='Flash-01-06'> Flash - 06 - Getting to know the Paint Bucket, Ink Bottle and the Color panels	</a></li>                            
+                           <li><a href='Flash-01-07'> Flash - 07 - Learning the difference between groups, symbols and drawing objects	</a></li>  
+                           <li><a href='Flash-01-08'> Flash - 08 - Importing artwork into Flash	</a></li>  
+                           <li><a href='Flash-01-09'> Flash - 09 - Working with Illustrator files	</a></li>  
+                           <li><a href='Flash-01-10'> Flash - 10 - Getting familiar with the timeline	</a></li>  
+                                          
+
+                          
+                              </ul>	   </li>     	         	                           
+
+
+                  <li><a href='InDesign-01-01' data-target='#' data-toggle='dropdown'>InDesign - Your First Day with InDesign CC<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='InDesign-01-01'> InDesign - 01 - Introduction and project overview </a></li>                            
+                           <li><a href='InDesign-01-02'> InDesign - 02 - Creating, opening and saving files	</a></li>                            
+                           <li><a href='InDesign-01-03'> InDesign - 03 - Interface and UI overview	</a></li>                            
+                           <li><a href='InDesign-01-04'> InDesign - 04 - Zooming, panning and document navigation</a></li>                                                   
+                                          
+
+                          
+                              </ul>	   </li>     
+                                                   
+               
+                 <li><a href='Premiere-Pro-01-01' data-target='#' data-toggle='dropdown'>Premiere Pro<span class='caret'></span></a><ul class='dropdown-menu'>
+                           <li><a href='Premiere-Pro-01-01'> 01 - Getting Started in Premiere Pro	</a></li>                            
+                           <li><a href='Premiere-Pro-02-01'> 02 - Advanced Editing Theories and Techniques in Premiere Pro	</a></li>      
                          	         	                           
-                         	         	                           
+                         	         	           </ul></li>                
               </ul>                  
         	</div>
         </div>

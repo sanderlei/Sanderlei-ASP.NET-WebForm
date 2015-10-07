@@ -21,7 +21,6 @@
   <url><loc>http://sanderlei.com.br/PT/Machado-de-Assis/Index </loc><lastmod>2015-08-29</lastmod><changefreq>daily</changefreq><priority>1.00</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Developer/Index' </loc><lastmod>2015-08-29</lastmod><changefreq>daily</changefreq><priority>0.90</priority></url>
   <url><loc>http://sanderlei.com.br/PT/SAP/Index </loc><lastmod>2015-08-29</lastmod><changefreq>daily</changefreq><priority>1.00</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Index </loc><lastmod>2015-08-29</lastmod><changefreq>daily</changefreq><priority>0.90</priority></url>
   <url><loc>http://sanderlei.com.br/PT/Livro/Index </loc><lastmod>2015-08-29</lastmod><changefreq>daily</changefreq><priority>1.00</priority></url>
 
   <url><loc>http://sanderlei.com.br/EN/Index </loc><lastmod>2015-08-29</lastmod><changefreq>daily</changefreq><priority>0.90</priority></url>
@@ -3755,57 +3754,57 @@
   <url><loc>http://sanderlei.com.br/PT/Developer/SQL-01-13 </loc><priority>0.70</priority></url>
 
 
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-00 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-01 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-02 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-03 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-04 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-05 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-06 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-07 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-08 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-09 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-10 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Design-Grafico-01-11 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-00 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-10 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Design-Grafico-01-11 </loc><priority>0.70</priority></url>
 
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-01 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-02 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-03 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-04 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-05 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-06 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-07 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-08 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-09 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-10 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-11 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-12 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-13 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-14 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-15 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-16 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-17 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-18 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Sistemas-Multimedia-01-19 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-10 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-11 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-12 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-13 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-14 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-15 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-16 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-17 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-18 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Sistemas-Multimedia-01-19 </loc><priority>0.70</priority></url>
 
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Flash-01-01 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Flash-01-02 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Flash-01-03 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Flash-01-04 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Flash-01-05 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Flash-01-06 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Flash-01-07 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Flash-01-08 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Flash-01-09 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Flash-01-10 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Flash-01-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Flash-01-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Flash-01-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Flash-01-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Flash-01-05 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Flash-01-06 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Flash-01-07 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Flash-01-08 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Flash-01-09 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Flash-01-10 </loc><priority>0.70</priority></url>
 
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/InDesign-01-01 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/InDesign-01-02 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/InDesign-01-03 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/InDesign-01-04 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/InDesign-01-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/InDesign-01-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/InDesign-01-03 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/InDesign-01-04 </loc><priority>0.70</priority></url>
 
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Premiere-Pro-01-01 </loc><priority>0.70</priority></url>
-  <url><loc>http://sanderlei.com.br/PT/Design-Grafico/Premiere-Pro-01-02 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Premiere-Pro-01-01 </loc><priority>0.70</priority></url>
+  <url><loc>http://sanderlei.com.br/PT/Developer/Premiere-Pro-01-02 </loc><priority>0.70</priority></url>
 
 
 

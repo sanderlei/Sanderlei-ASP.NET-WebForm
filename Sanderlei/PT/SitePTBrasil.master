@@ -17,44 +17,7 @@
     	       <ul class='nav navbar-nav navbar-left collapse navbar-collapse'>     
                    
                    
-                    <li><a href='lingua-portuguesa-01-01' data-target='#' data-toggle='dropdown'>Língua Portuguesa<span class='caret'></span></a><ul class='dropdown-menu'>
-                        <li><a href='lingua-portuguesa-01-01'> 01 - A genialidade de Drummond  </a></li>
-                        <li><a href='lingua-portuguesa-01-02'> 02 - Tesouro líquido - GOTA-D’ÁGUA  </a></li>
-                        <li><a href='lingua-portuguesa-01-03'> 03 - Em busca da água que sustenta a vida  </a></li>
-                        <li><a href='lingua-portuguesa-01-04'> 04 - Com licença, por favor, obrigado(a)! </a></li>
-                        <li><a href='lingua-portuguesa-01-05'> 05 - Fotografia - Um documento histórico </a></li>
-                        <li><a href='lingua-portuguesa-01-06'> 06 - O Memorial de Iwo Jima </a></li>
-                        <li><a href='lingua-portuguesa-01-07'> 07 - Não se renega o berço </a></li>
-                        <li><a href='lingua-portuguesa-01-08'> 08 - Serra Pelada </a></li>
-                        <li><a href='lingua-portuguesa-01-09'> 09 - Cortadores de cana </a></li>
-                        <li><a href='lingua-portuguesa-01-10'> 10 - Uma morada para cada tempo e lugar </a></li>
-                        <li><a href='lingua-portuguesa-01-11'> 11 - A cidade vertical </a></li>
-                        <li><a href='lingua-portuguesa-01-12'> 12 - Os prédios mais altos do mundo </a></li>
-                        <li><a href='lingua-portuguesa-01-13'> 13 - É de isopor </a></li>
-                        <li><a href='lingua-portuguesa-01-14'> 14 - Urbanização no Brasil - A modernização excludente </a></li>
-                        <li><a href='lingua-portuguesa-01-15'> 15 - Saudosa maloca</a></li>
-                        <li><a href='lingua-portuguesa-01-16'> 16 - O mapa da violência no Brasil</a></li>
-                        <li><a href='lingua-portuguesa-01-17'> 17 - Assalto - Carlos Drummond de Andrade</a></li>
-                        <li><a href='lingua-portuguesa-01-18'> 18 - As fronteiras do Universo </a></li>
-                        <li><a href='lingua-portuguesa-01-19'> 19 - Estação espacial internacional</a></li>
-                        <li><a href='lingua-portuguesa-01-20'> 20 - Obesidade infantojuvenil </a></li>
-                        <li><a href='lingua-portuguesa-01-21'> 21 - Quem te viu, quem TV... </a></li>
-                        <li><a href='lingua-portuguesa-01-22'> 22 - Lemos a TV e ela nos escreve </a></li>
-                        <li><a href='lingua-portuguesa-01-23'> 23 - A escolha profissional (Pensando no futuro) </a></li>
-                        <li><a href='lingua-portuguesa-01-24'> 24 - Orientações para a elaboração de um bom currículo  </a></li>
-                        <li><a href='lingua-portuguesa-01-25'> 25 - Sem relógio de ponto  </a></li>
-                        <li><a href='lingua-portuguesa-01-26'> 26 - Poesia: recriando palavras e realidade  </a></li>
-                        <li><a href='lingua-portuguesa-01-27'> 27 - Poesia: Continuando...  </a></li>
-                        <li><a href='lingua-portuguesa-01-28'> 28 - ... e mais Poesia!  </a></li>
-                        <li><a href='lingua-portuguesa-01-29'> 29 - Seu Lunga em Mossoró </a></li>
-                        <li><a href='lingua-portuguesa-01-30'> 30 - A poesia em progresso </a></li>
-                        
-                        
-                        
-                        
-                        
-                      
-                                                                                                                                </ul>	</li>   
+                  
                                  
                		<li><a href='Santa-Catarina-Historia-Geografia-01' data-target='#' data-toggle='dropdown'>Santa Catarina<span class='caret'></span></a><ul class='dropdown-menu'>
                            <li><a href='Santa-Catarina-Historia-Geografia-01'>01 - O espaço geográfico e sua organização</a></li>                            
@@ -332,7 +295,62 @@
                                                                                                                                </ul>  	</li>       	      	                           
 
 
-          <li><a href='Arte-01' data-target='#' data-toggle='dropdown'> Arte <span class='caret'></span></a><ul class='dropdown-menu'>
+         <li><a href='Educacao-Infantil-Crianca-101' data-target='#' data-toggle='dropdown'>Jogos para Crianças<span class='caret'></span></a><ul class='dropdown-menu'>
+                    <li><a href='Educacao-Infantil-Jogo-Crianca-101'> Jogos para Crianças - Nível 1 - Crianças entre 4 a 6 anos   </a></li>       
+                                 
+                 
+                                 
+
+                 
+                                                                                                                               </ul>  	</li>       	
+
+
+     
+                     <li><a href='lingua-portuguesa-01-01' data-target='#' data-toggle='dropdown'>Língua Portuguesa<span class='caret'></span></a><ul class='dropdown-menu'>
+                        <li><a href='lingua-portuguesa-01-01'> 01 - A genialidade de Drummond  </a></li>
+                        <li><a href='lingua-portuguesa-01-02'> 02 - Tesouro líquido - GOTA-D’ÁGUA  </a></li>
+                        <li><a href='lingua-portuguesa-01-03'> 03 - Em busca da água que sustenta a vida  </a></li>
+                        <li><a href='lingua-portuguesa-01-04'> 04 - Com licença, por favor, obrigado(a)! </a></li>
+                        <li><a href='lingua-portuguesa-01-05'> 05 - Fotografia - Um documento histórico </a></li>
+                        <li><a href='lingua-portuguesa-01-06'> 06 - O Memorial de Iwo Jima </a></li>
+                        <li><a href='lingua-portuguesa-01-07'> 07 - Não se renega o berço </a></li>
+                        <li><a href='lingua-portuguesa-01-08'> 08 - Serra Pelada </a></li>
+                        <li><a href='lingua-portuguesa-01-09'> 09 - Cortadores de cana </a></li>
+                        <li><a href='lingua-portuguesa-01-10'> 10 - Uma morada para cada tempo e lugar </a></li>
+                        <li><a href='lingua-portuguesa-01-11'> 11 - A cidade vertical </a></li>
+                        <li><a href='lingua-portuguesa-01-12'> 12 - Os prédios mais altos do mundo </a></li>
+                        <li><a href='lingua-portuguesa-01-13'> 13 - É de isopor </a></li>
+                        <li><a href='lingua-portuguesa-01-14'> 14 - Urbanização no Brasil - A modernização excludente </a></li>
+                        <li><a href='lingua-portuguesa-01-15'> 15 - Saudosa maloca</a></li>
+                        <li><a href='lingua-portuguesa-01-16'> 16 - O mapa da violência no Brasil</a></li>
+                        <li><a href='lingua-portuguesa-01-17'> 17 - Assalto - Carlos Drummond de Andrade</a></li>
+                        <li><a href='lingua-portuguesa-01-18'> 18 - As fronteiras do Universo </a></li>
+                        <li><a href='lingua-portuguesa-01-19'> 19 - Estação espacial internacional</a></li>
+                        <li><a href='lingua-portuguesa-01-20'> 20 - Obesidade infantojuvenil </a></li>
+                        <li><a href='lingua-portuguesa-01-21'> 21 - Quem te viu, quem TV... </a></li>
+                        <li><a href='lingua-portuguesa-01-22'> 22 - Lemos a TV e ela nos escreve </a></li>
+                        <li><a href='lingua-portuguesa-01-23'> 23 - A escolha profissional (Pensando no futuro) </a></li>
+                        <li><a href='lingua-portuguesa-01-24'> 24 - Orientações para a elaboração de um bom currículo  </a></li>
+                        <li><a href='lingua-portuguesa-01-25'> 25 - Sem relógio de ponto  </a></li>
+                        <li><a href='lingua-portuguesa-01-26'> 26 - Poesia: recriando palavras e realidade  </a></li>
+                        <li><a href='lingua-portuguesa-01-27'> 27 - Poesia: Continuando...  </a></li>
+                        <li><a href='lingua-portuguesa-01-28'> 28 - ... e mais Poesia!  </a></li>
+                        <li><a href='lingua-portuguesa-01-29'> 29 - Seu Lunga em Mossoró </a></li>
+                        <li><a href='lingua-portuguesa-01-30'> 30 - A poesia em progresso </a></li>
+                        
+                        
+                        
+                        
+                        
+                      
+                                                                                                                                </ul>	</li>   
+
+
+
+
+                   
+                   
+         <li><a href='Arte-01' data-target='#' data-toggle='dropdown'> Arte <span class='caret'></span></a><ul class='dropdown-menu'>
                     <li><a href='Arte-01'> 01. Organização do espaço urbano - necessidade ou arte?  </a></li>
                     <li><a href='Arte-02'> 02. Da pedra ao mármore  </a></li>                    
                     <li><a href='Arte-03'> 03. As fortalezas medievais  </a></li>
