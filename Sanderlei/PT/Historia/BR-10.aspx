@@ -1,4 +1,4 @@
-﻿<%@ Page Title="10. Mitologia Grega" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-10.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_10" %>
+﻿<%@ Page Title="10. Mitologia Grega" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Mitologia grega é o estudo relacionado aos mitos da Grécia Antiga..." />
 </asp:Content>

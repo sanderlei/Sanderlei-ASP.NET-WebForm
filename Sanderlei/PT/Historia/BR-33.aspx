@@ -1,4 +1,4 @@
-﻿<%@ Page Title="33. Reino Luso-Brasileiro" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-33.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_33" %>
+﻿<%@ Page Title="33. Reino Luso-Brasileiro" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Em novembro de 1807, as tropas de Napoleão Bonaparte obrigaram a coroa..." />
 </asp:Content>

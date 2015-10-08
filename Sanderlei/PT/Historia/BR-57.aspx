@@ -1,4 +1,4 @@
-﻿<%@ Page Title="57. Guerra ao Terrorismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-57.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_57" %>
+﻿<%@ Page Title="57. Guerra ao Terrorismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" A Guerra ao Terrorismo é uma iniciativa militar desencadeada..." /> 
 </asp:Content>

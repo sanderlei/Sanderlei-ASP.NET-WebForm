@@ -1,4 +1,4 @@
-﻿<%@ Page Title="29. Revolução Francesa" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-29.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_29" %>
+﻿<%@ Page Title="29. Revolução Francesa" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="A Revolução Francesa ocorreu entre os anos de 1789..." />
 </asp:Content>

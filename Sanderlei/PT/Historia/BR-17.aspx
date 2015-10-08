@@ -1,4 +1,4 @@
-﻿<%@ Page Title="17. Feudalismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-17.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_17" %>
+﻿<%@ Page Title="17. Feudalismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="O feudalismo foi um modo de organização social e político..." />
 </asp:Content>

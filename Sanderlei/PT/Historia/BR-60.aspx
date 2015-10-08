@@ -1,4 +1,4 @@
-﻿<%@ Page Title="60. Primavera Árabe" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-60.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_60" %>
+﻿<%@ Page Title="60. Primavera Árabe" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="A Primavera Árabe como é conhecida internacionalmente é uma onda..." /> 
 </asp:Content>

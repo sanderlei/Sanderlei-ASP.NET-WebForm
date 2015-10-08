@@ -1,4 +1,4 @@
-﻿<%@ Page Title="52. Brasil - República Nova (1945-1964)" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-52.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_52" %>
+﻿<%@ Page Title="52. Brasil - República Nova (1945-1964)" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="O período conhecido como República Nova inicia..." /> 
 </asp:Content>

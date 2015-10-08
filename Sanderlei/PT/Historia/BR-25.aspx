@@ -1,4 +1,4 @@
-﻿<%@ Page Title="25. Reforma e Contra Reforma" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-25.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_25" %>
+﻿<%@ Page Title="25. Reforma e Contra Reforma" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="A Reforma foi um movimento que surgiu dentro da Igreja Católica..." />
 </asp:Content>

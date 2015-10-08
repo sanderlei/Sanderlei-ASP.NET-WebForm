@@ -1,4 +1,4 @@
-﻿<%@ Page Title="48. Segunda Guerra Mundial" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-48.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_48" %>
+﻿<%@ Page Title="48. Segunda Guerra Mundial" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Segunda Guerra Mundial foi um conflito militar global que durou..." /> 
 </asp:Content>

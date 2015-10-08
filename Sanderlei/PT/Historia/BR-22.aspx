@@ -1,4 +1,4 @@
-﻿<%@ Page Title="22. Grandes Navegações" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-22.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_22" %>
+﻿<%@ Page Title="22. Grandes Navegações" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" A era dos descobrimentos marcou a passagem do feudalismo..." />
 </asp:Content>

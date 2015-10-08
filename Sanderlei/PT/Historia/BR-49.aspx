@@ -1,4 +1,4 @@
-﻿<%@ Page Title="49. Brasil - Era Vargas" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-49.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_49" %>
+﻿<%@ Page Title="49. Brasil - Era Vargas" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="O período que vai de 1930 a 1945, a partir da derrubada..." /> 
 </asp:Content>

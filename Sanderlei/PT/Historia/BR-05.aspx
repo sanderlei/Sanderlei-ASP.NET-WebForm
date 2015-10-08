@@ -1,4 +1,4 @@
-﻿<%@ Page Title="05. Religião – Idade Antiga" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-05.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_05" %>
+﻿<%@ Page Title="05. Religião – Idade Antiga" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="As principais religiões da atualidade tiveram início..." />
 </asp:Content>

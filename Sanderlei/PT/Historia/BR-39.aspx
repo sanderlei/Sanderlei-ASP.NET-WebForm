@@ -1,4 +1,4 @@
-﻿<%@ Page Title="39. Revolução Chinesa" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-39.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_39" %>
+﻿<%@ Page Title="39. Revolução Chinesa" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Primeira Revolução Chinesa ou Revolução Xinhai ocorreu..." /> 
 </asp:Content>

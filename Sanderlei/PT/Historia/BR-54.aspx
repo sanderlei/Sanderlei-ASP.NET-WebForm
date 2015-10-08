@@ -1,4 +1,4 @@
-﻿<%@ Page Title="54. Brasil - Regime Militar (1964-1985)" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-54.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_54" %>
+﻿<%@ Page Title="54. Brasil - Regime Militar (1964-1985)" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Em 31 de março de 1964 as Forças Armadas realizam um Golpe Militar..." /> 
 </asp:Content>

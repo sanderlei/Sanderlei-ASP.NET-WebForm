@@ -1,4 +1,4 @@
-﻿<%@ Page Title="06. Mesopotâmia" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-06.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_06" %>
+﻿<%@ Page Title="06. Mesopotâmia" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Considerado o berço da civilização, a Mesopotâmia..." />
 </asp:Content>

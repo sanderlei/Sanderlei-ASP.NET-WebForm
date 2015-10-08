@@ -1,4 +1,4 @@
-﻿<%@ Page Title="26. Absolutismo Europeu" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-26.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_26" %>
+﻿<%@ Page Title="26. Absolutismo Europeu" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Foi na parte política que houve as maiores transformações..." />
 </asp:Content>

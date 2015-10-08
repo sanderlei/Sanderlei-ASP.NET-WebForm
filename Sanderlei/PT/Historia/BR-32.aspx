@@ -1,4 +1,4 @@
-﻿<%@ Page Title="32. Guerras Napoleônicas" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-32.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_32" %>
+﻿<%@ Page Title="32. Guerras Napoleônicas" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Napoleão chegou ao poder como 1° Cônsul em 1799 vindo a ser coroado imperador..." />
 </asp:Content>

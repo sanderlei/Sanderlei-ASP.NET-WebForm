@@ -1,4 +1,4 @@
-﻿<%@ Page Title="18. Formação dos Estados Europeus" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-18.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_18" %>
+﻿<%@ Page Title="18. Formação dos Estados Europeus" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Após a queda do império Romano do Ocidente vários..." />
 </asp:Content>

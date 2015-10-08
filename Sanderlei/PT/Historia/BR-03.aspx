@@ -1,4 +1,4 @@
-﻿<%@ Page Title="03. Pré-História" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-03.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_03" %>
+﻿<%@ Page Title="03. Pré-História" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="A Pré-história é o período entre 2,5 milhões de anos atrás com o surgimentos dos primeiros indivíduos..." />
 </asp:Content>

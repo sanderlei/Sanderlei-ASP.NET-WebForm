@@ -1,4 +1,4 @@
-﻿<%@ Page Title="53. Corrida Espacial" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-53.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_53" %>
+﻿<%@ Page Title="53. Corrida Espacial" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Historicamente, a exploração espacial começou com o lançamento do satélite..." /> 
 </asp:Content>

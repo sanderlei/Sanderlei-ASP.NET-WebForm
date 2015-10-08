@@ -1,4 +1,4 @@
-﻿<%@ Page Title="55. Brasil - Nova República" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-55.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_55" %>
+﻿<%@ Page Title="55. Brasil - Nova República" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Nova República é o período da História do Brasil que se seguiu ao fim..." /> 
 </asp:Content>

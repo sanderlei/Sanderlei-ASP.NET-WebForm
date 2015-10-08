@@ -1,4 +1,4 @@
-﻿<%@ Page Title="46. Fascismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-46.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_46" %>
+﻿<%@ Page Title="46. Fascismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Fascismo é uma forma de radicalismo político..." /> 
 </asp:Content>

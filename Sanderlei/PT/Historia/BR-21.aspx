@@ -1,4 +1,4 @@
-﻿<%@ Page Title="21. Filosofia Medieval" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-21.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_21" %>
+﻿<%@ Page Title="21. Filosofia Medieval" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Em geral, considera-se que o período medieval da filosofia..." />
 </asp:Content>

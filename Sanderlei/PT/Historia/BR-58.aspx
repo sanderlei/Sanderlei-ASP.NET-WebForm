@@ -1,4 +1,4 @@
-﻿<%@ Page Title="58. Revolução Digital" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-58.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_58" %>
+﻿<%@ Page Title="58. Revolução Digital" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="No final da década de 1960, surgiu a Internet com o intuito..." /> 
 </asp:Content>

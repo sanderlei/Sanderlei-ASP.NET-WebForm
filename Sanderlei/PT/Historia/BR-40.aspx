@@ -1,4 +1,4 @@
-﻿<%@ Page Title="40. Republica Brasileira" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-40.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_40" %>
+﻿<%@ Page Title="40. Republica Brasileira" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Em 15 de novembro de 1889, o Marechal Deodoro da Fonseca decretou..." /> 
 </asp:Content>

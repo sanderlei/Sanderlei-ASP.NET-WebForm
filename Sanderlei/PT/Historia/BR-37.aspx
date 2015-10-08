@@ -1,4 +1,4 @@
-﻿<%@ Page Title="37. Unificação da Alemanha" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-37.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_37" %>
+﻿<%@ Page Title="37. Unificação da Alemanha" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="A unificação da Alemanha, política e administrativamente," />
 </asp:Content>

@@ -76,11 +76,9 @@
         
           <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
 
-    <div class='container panel-footer text-center'>
-      <br>
-      <br>
-      <p>By Sanderlei silveira</p>
-      
+   <div class='container panel-footer text-center'>
+      <br> <br>   <p>By Sanderlei silveira</p>
+       <p> © 2015 - Sanderlei. All rights. | <a href='http://sanderlei.com.br/EN/policy'> Privacy policy </a> </p><br /><br />
       </div>
    <br />
  <!--  anuncio patrocinado  -->
@@ -178,6 +176,38 @@
         <a style="color:white" href='http://sanderlei.com.br/PT/Ensino-Fundamental/Educacao-Infantil-Crianca-401'>Educação Infantil - Nível 4 (Crianças entre 7 a 9 anos) (E-04) |</a>
         <a style="color:white" href='http://sanderlei.com.br/PT/Ensino-Fundamental/Educacao-Infantil-Crianca-501'>Educação Infantil - Nível 5 (Crianças entre 8 a 10 anos) (E-05) |</a>
         <a style="color:white" href='http://sanderlei.com.br/PT/Ensino-Fundamental/Educacao-Infantil-Crianca-601'>Educação Infantil - Nível 6 (Crianças entre 9 a 11 anos) (E-06) |</a>
+
+        <a style="color:white" href='http://jogos.sanderlei.com.br'> jogos  (SD-01) |</a>
+        <a style="color:white" href='http://jogos-infantil-online-gratis.sanderlei.com.br'>  jogos infantil online gratis (SD-02) |</a>
+        <a style="color:white" href='http://jogos-infantil-online-educativo.sanderlei.com.br'>  jogos infantil online educativo (SD-03) |</a>
+        <a style="color:white" href='http://jogos-infantil-online-gratis-em-portugues.sanderlei.com.br'>  jogos infantil online gratis em portugues (SD-04) |</a>
+        <a style="color:white" href='http://jogos-online-infantil-4-anos.sanderlei.com.br'> jogos online infantil 4 anos (SD-05) |</a>
+        <a style="color:white" href='http://jogos-online-infantil-5-anos.sanderlei.com.br'>  jogos online infantil 5 anos  (SD-06) |</a>
+        <a style="color:white" href='http://jogos-online-infantil-6-anos.sanderlei.com.br'>  jogos online infantil 6 anos (SD-07) |</a>
+        <a style="color:white" href='http://jogos-online-infantil-7-anos.sanderlei.com.br'>  jogos online infantil 7 anos  (SD-08) |</a>
+        <a style="color:white" href='http://jogos-online-infantil-8-anos.sanderlei.com.br'>  jogos online infantil 8 anos (SD-09) |</a>
+        <a style="color:white" href='http://jogos-online-infantil-9-anos.sanderlei.com.br'>  jogos online infantil 9 anos (SD-10) |</a>
+        <a style="color:white" href='http://jogos-online-infantil-10-anos.sanderlei.com.br'> jogos online infantil 10 anos (SD-11) |</a>
+        <a style="color:white" href='http://jogos-online-infantil-11-anos.sanderlei.com.br'> jogos online infantil 11 anos  (SD-12) |</a>
+        <a style="color:white" href='http://educacao-infantil.sanderlei.com.br'> educacao infantil   (SD-13) |</a>
+        <a style="color:white" href='http://santa-catarina.sanderlei.com.br'> santa catarina  (SD-14) |</a>
+        <a style="color:white" href='http://sao-paulo.sanderlei.com.br'> sao paulo  (SD-15) |</a>
+        <a style="color:white" href='http://mato-grosso-do-sul.sanderlei.com.br'> mato grosso do sul  (SD-16) |</a>
+        <a style="color:white" href='http://lingua-portuguesa.sanderlei.com.br'> lingua portuguesa (SD-17) |</a>
+        <a style="color:white" href='http://arte.sanderlei.com.br'> arte (SD-18) |</a>
+        <a style="color:white" href='http://ensino-fundamental.sanderlei.com.br'> ensino fundamental (SD-19) |</a>
+        <a style="color:white" href='http://curso-de-ingles-online-gratis.sanderlei.com.br'> curso de ingles online gratis  (SD-20) |</a>
+        <a style="color:white" href='http://curso-de-ingles.sanderlei.com.br'> curso de ingles  (SD-21) |</a>
+        <a style="color:white" href='http://curso-de-espanhol-online-gratis.sanderlei.com.br'>  curso de espanhol online gratis (SD-22) |</a>
+        <a style="color:white" href='http://curso-de-espanhol.sanderlei.com.br'> curso de espanhol  (SD-23) |</a>
+        <a style="color:white" href='http://audio-book.sanderlei.com.br'>  audio book (SD-24) |</a>
+        <a style="color:white" href='http://audio-livro.sanderlei.com.br'> audio livro (SD-25) |</a>
+        <a style="color:white" href='http://poesia.sanderlei.com.br'> poesia  (SD-26) |</a>
+        <a style="color:white" href='http://machado-de-assis.sanderlei.com.br'> machado de assis  (SD-27) |</a>
+        <a style="color:white" href='http://dom-casmurro.sanderlei.com.br'> dom casmurro  (SD-28) |</a>
+        <a style="color:white" href='http://memorias-postumas-de-bras-cubas.sanderlei.com.br'> memorias postumas de bras cubas  (SD-29) |</a>
+        <a style="color:white" href='http://quincas-borba.sanderlei.com.br'>  quincas borba (SD-30) |</a>
+        <a style="color:white" href='http://sap.sanderlei.com.br'> sap (SD-31) |</a>
 
   </div>
     

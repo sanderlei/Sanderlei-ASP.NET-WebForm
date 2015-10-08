@@ -1,4 +1,4 @@
-﻿<%@ Page Title="09. Grécia Antiga" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-09.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_09" %>
+﻿<%@ Page Title="09. Grécia Antiga" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
    <meta name="description" content="O período histórico denominado “Grécia Antiga” corresponde..." />
 </asp:Content>

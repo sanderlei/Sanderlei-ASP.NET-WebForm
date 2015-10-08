@@ -1,4 +1,4 @@
-﻿<%@ Page Title="42. Revolução Russa" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-42.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_42" %>
+﻿<%@ Page Title="42. Revolução Russa" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Até 1917 o Império Russo foi uma monarquia absolutista." /> 
 </asp:Content>

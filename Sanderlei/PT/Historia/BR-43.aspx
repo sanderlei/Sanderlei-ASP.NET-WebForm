@@ -1,4 +1,4 @@
-﻿<%@ Page Title="43. Grande Depressão de 1929" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-43.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_43" %>
+﻿<%@ Page Title="43. Grande Depressão de 1929" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Com o fim da Primeira Guerra Mundial, os países..." /> 
 </asp:Content>

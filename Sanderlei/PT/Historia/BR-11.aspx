@@ -1,4 +1,4 @@
-﻿<%@ Page Title="11. Filosofia Grega" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-11.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_11" %>
+﻿<%@ Page Title="11. Filosofia Grega" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="A filosofia ocidental surgiu na Grécia antiga no século VI a.C. e..." />
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="47. Nazismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-47.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_47" %>
+﻿<%@ Page Title="47. Nazismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Nazismo é a ideologia praticada pelo Partido..." /> 
 </asp:Content>

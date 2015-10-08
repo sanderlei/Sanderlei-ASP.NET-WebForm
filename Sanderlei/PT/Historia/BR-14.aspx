@@ -1,4 +1,4 @@
-﻿<%@ Page Title="14. Império Bizantino" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-14.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_14" %>
+﻿<%@ Page Title="14. Império Bizantino" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" O Império Bizantino é o primeiro grande Império durante..." />
 </asp:Content>

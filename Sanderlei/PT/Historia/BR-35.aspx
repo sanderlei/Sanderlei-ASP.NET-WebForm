@@ -1,4 +1,4 @@
-﻿<%@ Page Title="35. Guerra Civil Americana" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-35.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_35" %>
+﻿<%@ Page Title="35. Guerra Civil Americana" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="  A guerra civil Americana acorreu entre os anos..." />
 </asp:Content>

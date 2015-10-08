@@ -1,4 +1,4 @@
-﻿<%@ Page Title="23. Idade Moderna" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-23.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_23" %>
+﻿<%@ Page Title="23. Idade Moderna" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="No fim do século XV e no começo do século XVI, ..." />
 </asp:Content>

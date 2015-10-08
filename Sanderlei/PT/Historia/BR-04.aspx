@@ -1,4 +1,4 @@
-﻿<%@ Page Title="04. Idade Antiga" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-04.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_04" %>
+﻿<%@ Page Title="04. Idade Antiga" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="A idade Antiga ou mais conhecida como Antiguidade..." />
 </asp:Content>

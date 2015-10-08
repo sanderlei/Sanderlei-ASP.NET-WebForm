@@ -1,4 +1,4 @@
-﻿<%@ Page Title="16. Reino dos Francos" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-16.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_16" %>
+﻿<%@ Page Title="16. Reino dos Francos" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" A maioria dos reinos bárbaros formados a partir da destruição..." />
 </asp:Content>

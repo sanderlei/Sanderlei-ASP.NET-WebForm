@@ -1,4 +1,4 @@
-﻿<%@ Page Title="51. Guerra Fria" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-51.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_51" %>
+﻿<%@ Page Title="51. Guerra Fria" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="A Guerra Fria é a designação atribuída ao período histórico..." /> 
 </asp:Content>

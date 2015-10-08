@@ -1,4 +1,4 @@
-﻿<%@ Page Title="45. Socialismo x Capitalismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-45.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_45" %>
+﻿<%@ Page Title="45. Socialismo x Capitalismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="O socialismo moderno se originou no século..." /> 
 </asp:Content>

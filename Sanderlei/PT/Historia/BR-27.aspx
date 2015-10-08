@@ -1,4 +1,4 @@
-﻿<%@ Page Title="27. Colonização do Brasil" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-27.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_27" %>
+﻿<%@ Page Title="27. Colonização do Brasil" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="O descobrimento do Brasil em 1500 não despertou muito interesse a coroa..." />
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="12. Civilização Romana (Império Romano)" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-12.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_12" %>
+﻿<%@ Page Title="12. Civilização Romana (Império Romano)" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="A civilização Romana surgiu de uma pequena comunidade..." />
 </asp:Content>

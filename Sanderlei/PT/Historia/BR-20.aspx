@@ -1,4 +1,4 @@
-﻿<%@ Page Title="20. Peste Negra" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-20.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_20" %>
+﻿<%@ Page Title="20. Peste Negra" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="Peste Negra foi uma epidemia que matou um terço da população..." />
 </asp:Content>

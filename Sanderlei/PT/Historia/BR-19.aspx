@@ -1,4 +1,4 @@
-﻿<%@ Page Title="19. As Cruzadas" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-19.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_19" %>
+﻿<%@ Page Title="19. As Cruzadas" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" Chama-se cruzada a qualquer um dos movimentos militares de inspiração..." />
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="31. Revolução Industrial" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-31.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_31" %>
+﻿<%@ Page Title="31. Revolução Industrial" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="A Revolução Industrial junto com a Independência dos..." />
 </asp:Content>

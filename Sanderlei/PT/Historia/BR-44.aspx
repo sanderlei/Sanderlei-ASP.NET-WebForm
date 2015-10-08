@@ -1,4 +1,4 @@
-﻿<%@ Page Title="44. Modernismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-44.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_44" %>
+﻿<%@ Page Title="44. Modernismo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" O Modernismo é um conjunto de movimentos culturais, escolas e estilos..." /> 
 </asp:Content>

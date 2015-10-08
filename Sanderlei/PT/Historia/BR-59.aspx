@@ -1,4 +1,4 @@
-﻿<%@ Page Title="59. Grande Recessão" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-59.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_59" %>
+﻿<%@ Page Title="59. Grande Recessão" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="  A Grande Recessão é uma crise económica global que..." /> 
 </asp:Content>

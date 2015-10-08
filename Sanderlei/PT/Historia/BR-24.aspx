@@ -1,4 +1,4 @@
-﻿<%@ Page Title="24. Renascimento" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-24.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_24" %>
+﻿<%@ Page Title="24. Renascimento" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content="O período conhecido como Renascimento seguiu-se..." />
 </asp:Content>

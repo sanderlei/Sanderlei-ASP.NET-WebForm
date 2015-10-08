@@ -1,4 +1,4 @@
-﻿<%@ Page Title="34. Independência da América Espanhola" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-34.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_34" %>
+﻿<%@ Page Title="34. Independência da América Espanhola" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content=" As guerras de independência na América espanhola inicia..." />
 </asp:Content>

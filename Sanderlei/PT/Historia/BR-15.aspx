@@ -1,4 +1,4 @@
-﻿<%@ Page Title="15. Civilização Islâmica" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-15.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_15" %>
+﻿<%@ Page Title="15. Civilização Islâmica" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
     <meta name="description" content=" A civilização Islâmica surgiu na Arábia tendo como..." />
 </asp:Content>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="01. Cronologia do Universo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-01.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_01" %>
+﻿<%@ Page Title="01. Cronologia do Universo" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">   
     <meta name="description" content="O universo surgiu ao redor de 13 bilhões de anos atrás, ..." /> 
 </asp:Content>

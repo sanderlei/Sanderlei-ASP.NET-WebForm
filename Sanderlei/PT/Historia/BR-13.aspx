@@ -1,4 +1,4 @@
-﻿<%@ Page Title="13. Idade Média" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true" CodeBehind="BR-13.aspx.cs" Inherits="Sanderlei.PT.Historia.BR_13" %>
+﻿<%@ Page Title="13. Idade Média" Language="C#" MasterPageFile="~/PT/SitePTHistoria.master" AutoEventWireup="true"  %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder11" runat="server">
      <meta name="description" content="A idade Média, também conhecida como Era Medieval..." />
 </asp:Content>
